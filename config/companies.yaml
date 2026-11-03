@@ -1,0 +1,609 @@
+# Company registry.
+# bigtech: scanned every 3 hours. other + aggregators: scanned once daily.
+#
+# fetcher types: greenhouse | lever | ashby | workday | eightfold |
+#                smartrecruiters | oraclecloud | phenom | avature | amazon |
+#                microsoft | google | apple | tesla | uber | walmart |
+#                simplify | jobspy
+#
+# NOTE: ATS tokens/tenants are best-effort and may need verification.
+# To find a token: open the company's careers page, check the URL or the
+# network tab for boards.greenhouse.io/<token>, jobs.lever.co/<token>,
+# jobs.ashbyhq.com/<token>, or <tenant>.wdX.myworkdayjobs.com/<site>.
+# Oracle Recruiting Cloud puts both of its keys in the posting URL:
+# https://<host>/hcmUI/CandidateExperience/en/sites/<site>/job/<id>.
+#
+# Quicker than reading a careers page: most of these were recovered from the
+# posting URLs the trackers already held, because a company reached only
+# through LinkedIn or Simplify still arrives carrying a link to its own board.
+
+bigtech:
+  - name: Amazon
+    fetcher: amazon
+  # Microsoft's careers moved to Eightfold PCS at apply.careers.microsoft.com,
+  # whose search answers without a token (the old gcsservices host fails TLS).
+  # Ten postings a page, newest first; 15 pages reach back about a week.
+  - name: Microsoft
+    fetcher: microsoft
+    pages: 15
+  - name: Google
+    fetcher: google
+  - name: Apple
+    fetcher: apple
+    max_pages: 8            # 20 roles a page; their US board runs to ~4,100
+    searches:
+      - software engineer
+      - machine learning engineer
+      - data engineer
+      - security engineer
+      - site reliability engineer
+      - new grad engineer
+      - software engineering intern
+  - name: Netflix
+    fetcher: eightfold
+    host: explore.jobs.netflix.net
+    domain: netflix.com
+  - name: Nvidia
+    fetcher: workday
+    host: nvidia.wd5.myworkdayjobs.com
+    tenant: nvidia
+    site: NVIDIAExternalCareerSite
+    # Nvidia lists ~270 Israel roles (Mellanox) that Workday reports as
+    # "N Locations", so they read as location-unknown and slipped into the
+    # US-only feed. Restrict the query itself to the US facet; this also
+    # stops non-US postings from eating the max_results budget.
+    # Facet ids are per-tenant: read them from the `facets` array in the
+    # /wday/cxs/<tenant>/<site>/jobs response before copying this elsewhere.
+    facets:
+      locationHierarchy1:
+        - 2fcb99c455831013ea52fb338f2932d8   # United States
+  # Tesla and Uber both block this kind of client at the edge rather than at
+  # the API: tesla.com answers 403 "Access Denied" to the careers page itself,
+  # and uber.com answers 406, with every loadSearchJobsResults-style RPC now
+  # reporting "Missing RPC handler" (checked 2026-10-09, browser headers and a
+  # referer, from two different IPs). Both reach the trackers through LinkedIn
+  # and Simplify instead.
+  - name: Tesla
+    fetcher: tesla
+  - name: Uber
+    fetcher: uber
+  - name: Stripe
+    fetcher: greenhouse
+    token: stripe
+  - name: Airbnb
+    fetcher: greenhouse
+    token: airbnb
+  - name: OpenAI
+    fetcher: ashby
+    token: openai
+  - name: Anthropic
+    fetcher: greenhouse
+    token: anthropic
+  # Meta and LinkedIn have no stable public API. They were assumed to be
+  # covered by the Simplify aggregator, but it currently carries 0 postings
+  # for either, so neither company is actually being monitored.
+  #
+  # Tesla and Uber are configured above but return nothing:
+  #   Tesla     - Akamai "Access Denied" to non-browser clients
+  #   Uber      - the loadSearchJobsResults RPC handler was removed, and the
+  #               careers page no longer server-renders
+  # They are left in place so the source-health alert keeps reporting them
+  # rather than silently dropping the coverage.
+
+other:
+  # --- big tech adjacent ---
+  - name: Adobe
+    fetcher: workday
+    host: adobe.wd5.myworkdayjobs.com
+    tenant: adobe
+    site: external_experienced
+  - name: Salesforce
+    fetcher: workday
+    host: salesforce.wd12.myworkdayjobs.com
+    tenant: salesforce
+    site: External_Career_Site
+  # --- finance & fintech ---
+  - name: Capital One
+    fetcher: workday
+    host: capitalone.wd12.myworkdayjobs.com
+    tenant: capitalone
+    site: Capital_One
+  # Visa left SmartRecruiters (its board there now lists nothing) for Workday.
+  - name: Visa
+    fetcher: workday
+    host: visa.wd5.myworkdayjobs.com
+    tenant: visa
+    site: Visa
+  - name: Coinbase
+    fetcher: greenhouse
+    token: coinbase
+  - name: Robinhood
+    fetcher: greenhouse
+    token: robinhood
+  # Citadel's Greenhouse board is gone (404) and citadel.com/careers sits
+  # behind a Cloudflare challenge; kept so source health keeps reporting it.
+  - name: Citadel
+    fetcher: greenhouse
+    token: citadelcampus
+  # Two Sigma left Greenhouse for an Avature portal.
+  - name: Two Sigma
+    fetcher: avature
+    host: careers.twosigma.com
+  - name: Affirm
+    fetcher: greenhouse
+    token: affirm
+  - name: Plaid
+    fetcher: ashby          # verified: moved off Lever, Lever board is empty
+    token: plaid
+  - name: Ramp
+    fetcher: ashby
+    token: ramp
+  - name: Chime
+    fetcher: greenhouse
+    token: chime
+  # --- Fortune 500 across sectors ---
+  - name: Boeing
+    fetcher: workday
+    host: boeing.wd1.myworkdayjobs.com
+    tenant: boeing
+    site: EXTERNAL_CAREERS
+  - name: Verizon
+    fetcher: workday        # mycareer.verizon.com is not a Workday CXS host
+    host: verizon.wd12.myworkdayjobs.com
+    tenant: verizon
+    site: verizon-careers
+  - name: Walmart Global Tech
+    fetcher: walmart        # their Workday CXS endpoint now answers 422
+    max_results: 200
+  - name: Target
+    fetcher: workday
+    host: target.wd5.myworkdayjobs.com
+    tenant: target
+    site: targetcareers
+  - name: CVS Health
+    fetcher: workday
+    host: cvshealth.wd1.myworkdayjobs.com
+    tenant: cvshealth
+    site: CVS_Health_Careers
+  # Ford uses Oracle Cloud HCM (no fetcher yet) - covered via aggregator.
+  # To add: build an oraclecloud fetcher or check if they expose eightfold.
+  # --- high-growth startups & unicorns ---
+  - name: Databricks
+    fetcher: greenhouse
+    token: databricks
+  - name: Figma
+    fetcher: greenhouse
+    token: figma
+  - name: Scale AI
+    fetcher: greenhouse
+    token: scaleai
+  - name: Notion
+    fetcher: ashby          # verified: no Greenhouse board exists
+    token: notion
+  - name: Discord
+    fetcher: greenhouse
+    token: discord
+  - name: Snowflake
+    fetcher: ashby          # verified: the Eightfold board returns nothing
+    token: snowflake
+  - name: Palantir
+    fetcher: lever
+    token: palantir
+  - name: Anduril
+    fetcher: greenhouse
+    token: andurilindustries
+  - name: SpaceX
+    fetcher: greenhouse
+    token: spacex
+  - name: Pinterest
+    fetcher: greenhouse
+    token: pinterest
+  - name: Reddit
+    fetcher: greenhouse
+    token: reddit
+  - name: DoorDash
+    fetcher: greenhouse
+    token: doordashusa
+  - name: Instacart
+    fetcher: greenhouse
+    token: instacart
+  - name: Roblox
+    fetcher: greenhouse
+    token: roblox
+
+  # --- added after verifying each board returns postings live ---
+  - name: Datadog
+    fetcher: greenhouse
+    token: datadog
+  - name: MongoDB
+    fetcher: greenhouse
+    token: mongodb
+  - name: Waymo
+    fetcher: greenhouse
+    token: waymo
+  - name: Okta
+    fetcher: greenhouse
+    token: okta
+  - name: Cloudflare
+    fetcher: greenhouse
+    token: cloudflare
+  - name: Brex
+    fetcher: greenhouse
+    token: brex
+  - name: Verkada
+    fetcher: greenhouse
+    token: verkada
+  - name: Samsara
+    fetcher: greenhouse
+    token: samsara
+  - name: Elastic
+    fetcher: greenhouse
+    token: elastic
+  - name: GitLab
+    fetcher: greenhouse
+    token: gitlab
+  - name: Block
+    fetcher: greenhouse
+    token: block
+  - name: Flexport
+    fetcher: greenhouse
+    token: flexport
+  - name: Lyft
+    fetcher: greenhouse
+    token: lyft
+  - name: Twilio
+    fetcher: greenhouse
+    token: twilio
+  - name: Asana
+    fetcher: greenhouse
+    token: asana
+  - name: Nuro
+    fetcher: greenhouse
+    token: nuro
+  - name: Upstart
+    fetcher: greenhouse
+    token: upstart
+  - name: Gusto
+    fetcher: greenhouse
+    token: gusto
+  - name: Duolingo
+    fetcher: greenhouse
+    token: duolingo
+  - name: Faire
+    fetcher: greenhouse
+    token: faire
+  - name: SoFi
+    fetcher: greenhouse
+    token: sofi
+  - name: Carta
+    fetcher: greenhouse
+    token: carta
+  - name: Mercury
+    fetcher: greenhouse
+    token: mercury
+  - name: Peloton
+    fetcher: greenhouse
+    token: peloton
+  - name: Checkr
+    fetcher: greenhouse
+    token: checkr
+  - name: Dropbox
+    fetcher: greenhouse
+    token: dropbox
+  - name: Attentive
+    fetcher: greenhouse
+    token: attentive
+  - name: Komodo Health
+    fetcher: greenhouse
+    token: komodohealth
+  - name: Betterment
+    fetcher: greenhouse
+    token: betterment
+  - name: PagerDuty
+    fetcher: greenhouse
+    token: pagerduty
+  - name: Webflow
+    fetcher: greenhouse
+    token: webflow
+  - name: Airtable
+    fetcher: greenhouse
+    token: airtable
+  - name: Marqeta
+    fetcher: greenhouse
+    token: marqeta
+  - name: Spotify
+    fetcher: lever
+    token: spotify
+  - name: Match Group
+    fetcher: lever
+    token: matchgroup
+  - name: Harvey
+    fetcher: ashby
+    token: harvey
+  - name: ElevenLabs
+    fetcher: ashby
+    token: elevenlabs
+  - name: Decagon
+    fetcher: ashby
+    token: decagon
+  - name: Vanta
+    fetcher: ashby
+    token: vanta
+  - name: Perplexity
+    fetcher: ashby
+    token: perplexity
+  - name: Cognition
+    fetcher: ashby
+    token: cognition
+  - name: Replit
+    fetcher: ashby
+    token: replit
+  - name: Suno
+    fetcher: ashby
+    token: suno
+  - name: Abridge
+    fetcher: ashby
+    token: abridge
+  - name: Linear
+    fetcher: ashby
+    token: linear
+  - name: OpenEvidence
+    fetcher: ashby
+    token: openevidence
+
+  # --- employers the trackers were only sampling through LinkedIn ---
+  # Each of these was already supplying postings via the aggregators, which
+  # means their board was never read directly and we only ever saw whatever
+  # LinkedIn's relevance ranking surfaced. The Workday coordinates were
+  # recovered from the posting URLs already stored, then each board was run
+  # through the fetcher before being added (2026-10-09); the in-scope counts
+  # from that run are noted so a future zero is obviously a regression.
+  - name: Intel
+    fetcher: workday
+    host: intel.wd1.myworkdayjobs.com
+    tenant: intel
+    site: external          # verified: 158 raw -> 27 in scope
+  - name: Cisco
+    fetcher: workday
+    host: cisco.wd5.myworkdayjobs.com
+    tenant: cisco
+    site: cisco_careers     # verified: 139 raw -> 16 in scope
+  - name: General Motors
+    fetcher: workday
+    host: generalmotors.wd5.myworkdayjobs.com
+    tenant: generalmotors
+    site: Careers_GM        # verified: 197 raw -> 17 in scope
+  - name: Mastercard
+    fetcher: workday
+    host: mastercard.wd1.myworkdayjobs.com
+    tenant: mastercard
+    # their Campus board is narrower (80 raw -> 2) than the main one
+    site: CorporateCareers  # verified: 172 raw -> 3 in scope
+  - name: AMD
+    fetcher: phenom         # the same board the supply-chain tracker reads
+    host: careers.amd.com
+    max_pages: 4            # verified: 200 raw -> 20 in scope
+
+  # --- Oracle Recruiting Cloud ---
+  # The fetcher this needs did not exist until now; config/companies.yaml
+  # carried a note asking for it ("Ford uses Oracle Cloud HCM (no fetcher
+  # yet)"). host and site both come straight out of a posting URL:
+  # https://<host>/hcmUI/CandidateExperience/en/sites/<site>/job/<id>.
+  # Each board was run before being added (2026-10-09) and the counts below
+  # re-measured a week later, after one page per board turned out to be far
+  # too little: these are whole corporations on a single requisition list, so
+  # the newest 100 are whichever functions posted this week. Amex read 32
+  # software roles the day it was added and 2 a week later off the same
+  # unchanged board. The fetcher now reads out to 500, which reaches the end
+  # of most of these lists; see its docstring.
+  - name: American Express
+    fetcher: oraclecloud
+    host: egug.fa.us2.oraclecloud.com
+    site: CX_1              # verified: 455 raw -> 44 in scope
+  - name: JP Morgan Chase
+    fetcher: oraclecloud
+    host: jpmc.fa.oraclecloud.com
+    site: CX_1001
+    # The one board here holding more than 500 open requisitions, so reading
+    # newest-first never reaches the rest of it. Read by keyword instead:
+    # 56 in scope against 33 for the newest 500.
+    searches:
+      - software
+      - engineer
+      - data
+      - developer
+    max_results: 200        # verified: 421 raw -> 56 in scope
+  - name: GM Financial
+    fetcher: oraclecloud
+    host: fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com
+    site: CX_1              # verified: 131 raw -> 25 in scope
+  - name: DTCC
+    fetcher: oraclecloud
+    host: ebxr.fa.us2.oraclecloud.com
+    site: CX_1              # verified: 435 raw -> 32 in scope
+  - name: Dell Technologies
+    fetcher: oraclecloud
+    host: iawmqy.fa.ocs.oraclecloud.com
+    site: careers           # verified: 436 raw -> 12 in scope
+  - name: NOV
+    fetcher: oraclecloud
+    host: egay.fa.us6.oraclecloud.com
+    site: CX_4001           # verified: 500 raw -> 4 in scope
+  - name: Oracle
+    fetcher: oraclecloud
+    host: eeho.fa.us2.oraclecloud.com
+    site: CX_45001          # verified: 500 raw -> 9 in scope
+  - name: Nokia
+    fetcher: oraclecloud
+    host: fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com
+    site: CX_1              # verified: 500 raw -> 13 in scope
+  - name: Berkshire Hathaway Energy
+    fetcher: oraclecloud
+    host: fa-essf-saasfaprod1.fa.ocs.oraclecloud.com
+    site: CX_1              # verified: 113 raw -> 8 in scope
+  - name: Emerson Electric
+    fetcher: oraclecloud
+    host: hdjq.fa.us2.oraclecloud.com
+    site: CX_1              # verified: 500 raw -> 9 in scope
+  - name: Navy Federal
+    fetcher: oraclecloud
+    host: fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com
+    site: nfcu              # verified: 171 raw -> 15 in scope
+  - name: Honeywell
+    fetcher: oraclecloud
+    host: ibqbjb.fa.ocs.oraclecloud.com
+    site: Honeywell         # verified: 500 raw -> 9 in scope
+  - name: Lazard
+    fetcher: oraclecloud
+    host: icbpjb.fa.ocs.oraclecloud.com
+    site: LazardProfessionalCareers   # verified: 125 raw -> 3 in scope
+
+  # --- commercial employers the trackers were only sampling ---
+  # Found by recovering ATS coordinates from posting URLs already stored, then
+  # running each board through its fetcher (2026-10-09); the in-scope count
+  # from that run is recorded so a later zero reads as a regression.
+  # Defence, intelligence and ITAR-gated space boards turned up in the same
+  # sweep and are deliberately left out: their roles need clearances or US
+  # citizenship, and those employers barely file H-1B.
+  - name: Applied Intuition
+    fetcher: ashby
+    token: applied
+    # verified: 92 in scope, H-1B 343
+  - name: xAI
+    fetcher: greenhouse
+    token: xai
+    # verified: 56 in scope, H-1B 1
+  - name: Hewlett Packard Enterprise
+    fetcher: workday
+    host: hpe.wd5.myworkdayjobs.com
+    tenant: hpe
+    site: jobsathpe
+    # verified: 35 in scope, H-1B 3,713
+  - name: Cerebras
+    fetcher: ashby
+    token: cerebras
+    # verified: 32 in scope
+  - name: Sierra
+    fetcher: ashby
+    token: Sierra
+    # verified: 32 in scope
+  - name: Anysphere
+    fetcher: ashby
+    token: cursor
+    # verified: 30 in scope, H-1B 51
+  - name: Applied Materials
+    fetcher: workday
+    host: amat.wd1.myworkdayjobs.com
+    tenant: amat
+    site: External
+    # verified: 24 in scope, H-1B 3,057
+  - name: Glean
+    fetcher: greenhouse
+    token: gleanwork
+    # verified: 22 in scope
+  - name: Expedia Group
+    fetcher: workday
+    host: expedia.wd108.myworkdayjobs.com
+    tenant: expedia
+    site: search
+    # verified: 20 in scope, H-1B 3,205
+  - name: Whoop
+    fetcher: ashby
+    token: whoop
+    # verified: 20 in scope, H-1B 126
+  - name: McKesson
+    fetcher: workday
+    host: mckesson.wd3.myworkdayjobs.com
+    tenant: mckesson
+    site: External_Careers
+    # verified: 19 in scope, H-1B 895
+  - name: RELX
+    fetcher: workday
+    host: relx.wd3.myworkdayjobs.com
+    tenant: relx
+    site: relx
+    # verified: 19 in scope, H-1B 1,155
+  - name: The Walt Disney Company
+    fetcher: workday
+    host: disney.wd5.myworkdayjobs.com
+    tenant: disney
+    site: disneycareerdc
+    # verified: 19 in scope
+  - name: The Toro Company
+    fetcher: workday
+    host: ttc.wd1.myworkdayjobs.com
+    tenant: ttc
+    site: Toro_External_Careers
+    # verified: 18 in scope, H-1B 38
+  - name: IMC Trading
+    fetcher: greenhouse
+    token: imc
+    # verified: 17 in scope
+  - name: Trimble
+    fetcher: workday
+    host: trimble.wd1.myworkdayjobs.com
+    tenant: trimble
+    site: TrimbleCareers
+    # verified: 17 in scope, H-1B 362
+  - name: Auto-Owners Insurance
+    fetcher: workday
+    host: aoins.wd5.myworkdayjobs.com
+    tenant: aoins
+    site: AutoOwners
+    # verified: 16 in scope
+  - name: Fidelity National Information Services
+    fetcher: workday
+    host: fis.wd5.myworkdayjobs.com
+    tenant: fis
+    site: searchjobs
+    # verified: 16 in scope
+
+aggregators:
+  # Catches Meta, LinkedIn, Goldman/JPMorgan campus roles, and hundreds of
+  # other companies. Only rows added in the last N days are considered.
+  - name: Simplify Aggregator
+    fetcher: simplify
+    # 30d roughly triples company coverage (90 -> ~293) and lets the
+    # scanner catch up after an outage instead of ageing rows out
+    max_age_days: 30
+
+  # LinkedIn, via JobSpy. LinkedIn has no public API and no queryable ATS, so
+  # this is the only way it is reachable - and it reaches the employers no
+  # company registry covers, because a search hits every employer at once.
+  #
+  # A search is a relevance-ranked sample, not a listing, so one term per job
+  # family is what widens it. Postings here also arrive from the employers'
+  # own boards; the fetcher marks its rows so the two copies are merged rather
+  # than tracked twice (monitor/state.py, soft_key).
+  #
+  # If LinkedIn starts returning nothing, it is rate limiting the runner's IP,
+  # not breaking: set the JOBSPY_PROXIES secret (comma-separated proxy URLs)
+  # and the fetcher picks it up. The source-health alert reports the outage.
+  - name: LinkedIn (JobSpy)
+    fetcher: jobspy
+    sites: [linkedin]
+    location: United States
+    results_wanted: 100      # per term; LinkedIn rate limits around page 10
+    hours_old: 72            # the sweep runs 12x/day - 3 days is ample overlap
+    fetch_description: false # true costs +1 request per job (see the module)
+    proxies_env: JOBSPY_PROXIES
+    # LinkedIn 429s a runner a page or two into each search. A throttled
+    # search is resumed after backoff_seconds (then 2x, 3x), at most
+    # resume_after_429 times, with backoff_budget_seconds of waiting per run.
+    delay_seconds: 10          # pause between terms
+    backoff_seconds: 20
+    resume_after_429: 3
+    backoff_budget_seconds: 300
+    searches:
+      - software engineer intern
+      - new grad software engineer
+      - entry level software engineer
+      - junior software engineer
+      - machine learning engineer
+      - data engineer
+      - data scientist entry level
+      - devops engineer
+      - site reliability engineer
+      - security engineer
+      - frontend engineer
+      - backend engineer

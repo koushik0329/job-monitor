@@ -1,0 +1,477 @@
+"""Generic ATS fetchers: Greenhouse, Lever, Ashby, Workday, Eightfold,
+SmartRecruiters, Oracle Recruiting Cloud.
+
+Every fetcher takes (company: dict from companies.yaml) and returns a list of
+raw job dicts: {company, title, location, url, external_id, source, country?}
+plus best-effort enrichment: {posted_at, comp, employment_type, workplace,
+department, snippet}. Any enrichment field the ATS does not expose is "".
+Filtering happens later in filters.py.
+"""
+import re
+
+from .. import filters
+from .http import session, get_json, get_text, post_json, iso_date, rel_date, clean_text
+
+# Ashby/SmartRecruiters use their own vocabulary; normalize to one set.
+EMPLOYMENT = {
+    "fulltime": "Full-time", "full-time": "Full-time", "permanent": "Full-time",
+    "intern": "Intern", "internship": "Intern",
+    "contract": "Contract", "temporary": "Contract", "parttime": "Part-time",
+}
+WORKPLACE = {"onsite": "On-site", "on-site": "On-site", "remote": "Remote",
+             "hybrid": "Hybrid"}
+
+
+def _norm(table, value):
+    return table.get(str(value or "").strip().lower(), str(value or "").strip())
+
+
+def greenhouse(c):
+    """c: {name, token, with_content?}  ->  boards-api.greenhouse.io
+
+    with_content=true also pulls departments + a description snippet, at the
+    cost of a much larger response; leave it off for high-volume boards.
+    """
+    s = session()
+    url = f"https://boards-api.greenhouse.io/v1/boards/{c['token']}/jobs"
+    if c.get("with_content"):
+        url += "?content=true"
+    data = get_json(s, url)
+    out = []
+    for j in data.get("jobs", []):
+        depts = [d.get("name", "") for d in (j.get("departments") or [])]
+        out.append({
+            "company": c["name"],
+            "title": j.get("title", ""),
+            "location": (j.get("location") or {}).get("name", ""),
+            "url": j.get("absolute_url", ""),
+            "external_id": str(j.get("id", "")),
+            "source": "greenhouse",
+            "posted_at": iso_date(j.get("first_published") or j.get("updated_at")),
+            "department": depts[0] if depts else "",
+            "snippet": clean_text(j.get("content", "")),
+            # almost never populated (0.2% of boards) but free to carry
+            "deadline": iso_date(j.get("application_deadline")),
+            # only present when the board is configured with_content
+            "yoe": filters.parse_yoe(clean_text(j.get("content", ""), 6000),
+                                     j.get("title", "")),
+        })
+    return out
+
+
+def lever(c):
+    """c: {name, token}  ->  api.lever.co"""
+    s = session()
+    data = get_json(s, f"https://api.lever.co/v0/postings/{c['token']}?mode=json")
+    out = []
+    for j in data:
+        cats = j.get("categories") or {}
+        sal = j.get("salaryRange") or {}
+        comp = ""
+        if sal.get("min") and sal.get("max"):
+            cur = sal.get("currency", "USD")
+            comp = f"{cur} {int(sal['min']):,} - {int(sal['max']):,}"
+        out.append({
+            "company": c["name"],
+            "title": j.get("text", ""),
+            "location": cats.get("location", "") or str(j.get("workplaceType", "")),
+            "country": j.get("country", ""),
+            "url": j.get("hostedUrl", ""),
+            "external_id": j.get("id", ""),
+            "source": "lever",
+            "posted_at": iso_date(j.get("createdAt")),
+            "comp": comp,
+            "employment_type": _norm(EMPLOYMENT, cats.get("commitment", "")),
+            "workplace": _norm(WORKPLACE, j.get("workplaceType", "")),
+            "department": cats.get("team", "") or cats.get("department", ""),
+            "snippet": clean_text(j.get("descriptionPlain", "")),
+            "yoe": filters.parse_yoe(j.get("descriptionPlain", ""), j.get("text", "")),
+        })
+    return out
+
+
+US_COUNTRY = {"us", "usa", "united states", "united states of america"}
+
+
+def _ashby_country(postal, location, secondary):
+    """'United States' when Ashby can place the posting in the US, else ''.
+
+    The `location` label is free text the employer types, and plenty of US
+    postings say nothing filters.is_us can read - Vanta's "Remote U.S.",
+    Linear's "North America", Abridge's "CHI Office". The structured address
+    beside it does say "USA". A posting whose primary site is abroad but
+    lists a US office among its secondaryLocations (ElevenLabs "London" +
+    "New York") is open in the US too. Only a US answer is returned: a
+    foreign addressCountry is left to the location heuristics, which already
+    keep a posting that names a US site anywhere in its label.
+    """
+    if str(postal.get("addressCountry") or "").strip().lower() in US_COUNTRY:
+        return "United States"
+    for extra in secondary or []:
+        site = extra.get("location", "")
+        sub = ((extra.get("address") or {}).get("postalAddress") or {})
+        if str(sub.get("addressCountry") or "").strip().lower() in US_COUNTRY:
+            return "United States"
+        # a bare "Remote" secondary says nothing about which country
+        if site and not filters.AMBIGUOUS_LOC.match(site) and filters.is_us(site):
+            return "United States"
+    return ""
+
+
+def ashby(c):
+    """c: {name, token}  ->  Ashby posting API (GET; POST returns 401)"""
+    s = session()
+    data = get_json(
+        s, "https://api.ashbyhq.com/posting-api/job-board/" + c["token"]
+           + "?includeCompensation=true")
+    out = []
+    for j in data.get("jobs", []):
+        if j.get("isListed") is False:
+            continue
+        comp = j.get("compensation") or {}
+        workplace = j.get("workplaceType", "")
+        if not workplace and j.get("isRemote"):
+            workplace = "Remote"
+        postal = (j.get("address") or {}).get("postalAddress") or {}
+        location = j.get("location", "") or postal.get("addressLocality", "")
+        out.append({
+            "company": c["name"],
+            "title": j.get("title", ""),
+            "location": location,
+            "country": _ashby_country(postal, location, j.get("secondaryLocations")),
+            "url": j.get("jobUrl", "") or j.get("applyUrl", ""),
+            "external_id": j.get("id", ""),
+            "source": "ashby",
+            "posted_at": iso_date(j.get("publishedAt")),
+            "comp": (comp.get("compensationTierSummary")
+                     or comp.get("scrapeableCompensationSalarySummary") or ""),
+            "employment_type": _norm(EMPLOYMENT, j.get("employmentType", "")),
+            "workplace": _norm(WORKPLACE, workplace),
+            "department": j.get("department", "") or j.get("team", ""),
+            "snippet": clean_text(j.get("descriptionPlain", "")),
+            "yoe": filters.parse_yoe(j.get("descriptionPlain", ""), j.get("title", "")),
+        })
+    return out
+
+
+# Workday's `locationsText` collapses to "N Locations" whenever a posting is
+# attached to more than one office, which hides the country from filters.py -
+# that is how Israel-based Nvidia roles reached the US-only feed. The country
+# is still recoverable from `externalPath`, which is slugged from the *primary*
+# location. Tenants spell that slug three different ways:
+#   country name   /job/Israel-Tel-Aviv/, /job/Germany---Munich/
+#   ISO-3166 alpha-3   /job/GBR---Fleet-UK/, /job/POL---Gdansk-Poland/
+#   bare city, no country at all   /job/Noida/, /job/BangaloreIndia/
+# Only slugs we actually recognize set a country; anything else leaves it empty
+# so the existing location heuristics stay in charge.
+WD_US_PREFIX = re.compile(r"^(US|USA|United-States(-of-America)?)(-|$)", re.I)
+
+# Not every tenant leads with a country - Capital One emits "/job/McLean-VA/" -
+# so a US town named after a country or a foreign city (Panama City FL, Mexico
+# MO, Peru IN, Paris TX, Berlin NH) can look foreign. A US state code standing
+# as its own segment settles it, and is checked first for that reason. No US
+# code collides with a Canadian or Mexican state abbreviation.
+WD_US_STATE = re.compile(rf"(^|-)({filters.US_STATES})(-|$)")
+
+# Non-US countries as Workday slugs them. Longest match wins, so multi-word
+# names are listed ahead of the single word they start with.
+WD_COUNTRIES = (
+    "United-Arab-Emirates", "United-Kingdom", "Costa-Rica", "Czech-Republic",
+    "Dominican-Republic", "Hong-Kong", "New-Zealand", "Puerto-Rico",
+    "Saudi-Arabia", "South-Africa", "South-Korea", "Sri-Lanka",
+    "Argentina", "Australia", "Austria", "Bahrain", "Bangladesh", "Belgium",
+    "Brazil", "Bulgaria", "Cambodia", "Canada", "Chile", "China", "Colombia",
+    "Croatia", "Czechia", "Denmark", "Ecuador", "Egypt", "Estonia", "Finland",
+    "France", "Germany", "Greece", "Guatemala", "Hungary", "Iceland", "India",
+    "Indonesia", "Ireland", "Israel", "Italy", "Japan", "Jordan", "Kenya",
+    "Korea", "Kuwait", "Latvia", "Lithuania", "Luxembourg", "Malaysia",
+    "Malta", "Mexico", "Morocco", "Netherlands", "Nigeria", "Norway", "Oman",
+    "Pakistan", "Palestine", "Panama", "Paraguay", "Peru", "Philippines",
+    "Poland", "Portugal", "Qatar", "Romania", "Russia", "Serbia", "Singapore",
+    "Slovakia", "Slovenia", "Spain", "Sweden", "Switzerland", "Taiwan",
+    "Thailand", "Tunisia", "Turkey", "Ukraine", "Uruguay", "Vietnam",
+)
+WD_COUNTRY = re.compile(
+    r"^(" + "|".join(sorted(WD_COUNTRIES, key=len, reverse=True)) + r")(-|$)", re.I)
+
+# Alpha-3 codes (Boeing, Target) and the one alpha-2 that is unambiguous here.
+WD_CODES = {
+    "ARE": "United Arab Emirates", "ARG": "Argentina", "AUS": "Australia",
+    "AUT": "Austria", "BEL": "Belgium", "BRA": "Brazil", "CAN": "Canada",
+    "CHE": "Switzerland", "CHL": "Chile", "CHN": "China", "COL": "Colombia",
+    "CZE": "Czechia", "DEU": "Germany", "DNK": "Denmark", "EGY": "Egypt",
+    "ESP": "Spain", "FIN": "Finland", "FRA": "France", "GBR": "United Kingdom",
+    "GRC": "Greece", "HKG": "Hong Kong", "HUN": "Hungary", "IDN": "Indonesia",
+    "IND": "India", "IRL": "Ireland", "ISR": "Israel", "ITA": "Italy",
+    "JPN": "Japan", "KEN": "Kenya", "KOR": "Korea", "MEX": "Mexico",
+    "MYS": "Malaysia", "NGA": "Nigeria", "NLD": "Netherlands", "NOR": "Norway",
+    "NZL": "New Zealand", "PER": "Peru", "PHL": "Philippines", "POL": "Poland",
+    "PRT": "Portugal", "QAT": "Qatar", "ROU": "Romania", "SAU": "Saudi Arabia",
+    "SGP": "Singapore", "SWE": "Sweden", "THA": "Thailand", "TUR": "Turkey",
+    "TWN": "Taiwan", "UKR": "Ukraine", "VNM": "Vietnam", "ZAF": "South Africa",
+    "UK": "United Kingdom",
+}
+WD_CODE = re.compile(r"^(" + "|".join(WD_CODES) + r")(-|$)")
+
+# Tenants that slug the city alone ("/job/Noida/", "/job/BangaloreIndia/").
+# Only non-US engineering hubs, and only reached after the US state check
+# above, so US namesakes (Paris TX, Berlin NH, Toronto OH) never land here.
+WD_CITIES = {
+    "Bangalore": "India", "Bengaluru": "India", "Chennai": "India",
+    "Gurgaon": "India", "Gurugram": "India", "Hyderabad": "India",
+    "Mumbai": "India", "Noida": "India", "Pune": "India",
+    "Amsterdam": "Netherlands", "Barcelona": "Spain", "Basel": "Switzerland",
+    "Beijing": "China", "Berlin": "Germany", "Bucharest": "Romania",
+    "Budapest": "Hungary", "Copenhagen": "Denmark", "Dublin": "Ireland",
+    "Edinburgh": "United Kingdom", "Hamburg": "Germany", "Helsinki": "Finland",
+    "Krakow": "Poland", "Lisbon": "Portugal", "London": "United Kingdom",
+    "Madrid": "Spain", "Manchester": "United Kingdom", "Milan": "Italy",
+    "Montreal": "Canada", "Munich": "Germany", "Oslo": "Norway",
+    "Paris": "France", "Prague": "Czechia", "Seoul": "Korea",
+    "Shanghai": "China", "Shenzhen": "China", "Singapore": "Singapore",
+    "Stockholm": "Sweden", "Sydney": "Australia", "Taipei": "Taiwan",
+    "Tel-Aviv": "Israel", "Tokyo": "Japan", "Toronto": "Canada",
+    "Vancouver": "Canada", "Warsaw": "Poland", "Zurich": "Switzerland",
+}
+# No trailing boundary: the city may be glued to its country ("BangaloreIndia").
+WD_CITY = re.compile(
+    r"^(" + "|".join(sorted(WD_CITIES, key=len, reverse=True)) + r")", re.I)
+
+
+def workday_country(external_path: str) -> str:
+    """Country of a Workday posting, read off its URL slug. '' if unrecognized."""
+    m = re.search(r"/job/([^/]+)/", external_path or "")
+    if not m:
+        return ""
+    slug = m.group(1)
+    if WD_US_PREFIX.match(slug) or WD_US_STATE.search(slug):
+        return "US"
+    for pattern, resolve in (
+        (WD_COUNTRY, lambda t: t.replace("-", " ")),
+        (WD_CODE, lambda t: WD_CODES[t.upper()]),
+        (WD_CITY, lambda t: WD_CITIES[t.title()]),
+    ):
+        hit = pattern.match(slug)
+        if hit:
+            return resolve(hit.group(1))
+    return ""
+
+
+def _workday_pass(s, url, c, search):
+    """One paged sweep of a Workday board for a given search term."""
+    out, offset, limit = [], 0, 20
+    while offset < int(c.get("max_results", 100)):
+        body = {"appliedFacets": c.get("facets", {}), "limit": limit,
+                "offset": offset, "searchText": search}
+        data = post_json(s, url, json=body,
+                         headers={"Content-Type": "application/json"})
+        posts = data.get("jobPostings", [])
+        if not posts:
+            break
+        for j in posts:
+            path = j.get("externalPath", "")
+            # Most tenants serve postings from their own host, where the public
+            # URL is <host>/en-US/<site><path>. Tenants on the shared
+            # myworkdaysite.com host (Mondelez) put the tenant in the path
+            # instead, and the derived URL 500s - so those set url_prefix
+            # explicitly. The CXS endpoint itself is unaffected either way.
+            prefix = c.get("url_prefix") or f"https://{c['host']}/en-US/{c['site']}"
+            out.append({
+                "company": c["name"],
+                "title": j.get("title", ""),
+                "location": j.get("locationsText", ""),
+                "country": workday_country(path),
+                "url": f"{prefix}{path}" if path else "",
+                "external_id": j.get("bulletFields", [""])[0] if j.get("bulletFields") else path,
+                "source": "workday",
+                "posted_at": rel_date(j.get("postedOn", "")),
+            })
+        offset += limit
+    return out
+
+
+def workday(c):
+    """c: {name, host, tenant, site, search?}  e.g. host=nvidia.wd5.myworkdayjobs.com
+
+    Two sweeps, because Workday orders results one way or the other but never
+    both. With a searchText it ranks by relevance, so on a 990-posting board
+    the 100 we read are the best matches and a role posted today can sit at
+    rank 400 forever - invisible to a monitor. With an empty searchText it
+    orders newest-first, which catches those, but the first 100 are then mostly
+    roles we do not want (Target and CVS yield nothing that way). Running both
+    and merging gets the relevant and the recent; ids overlap heavily, so the
+    union costs far less than twice the postings.
+    """
+    s = session()
+    url = f"https://{c['host']}/wday/cxs/{c['tenant']}/{c['site']}/jobs"
+    out, seen = [], set()
+    # skip_recent is set by main.run_fetcher on every pass after the first of
+    # a multi-term `searches:` list, where the newest-first sweep would just
+    # repeat itself.
+    passes = [c.get("search", "software engineer")]
+    if not c.get("skip_recent"):
+        passes.append("")
+    for search in passes:
+        for job in _workday_pass(s, url, c, search):
+            key = job["external_id"] or job["url"]
+            if key in seen:
+                continue
+            seen.add(key)
+            out.append(job)
+    return out
+
+
+def eightfold(c):
+    """c: {name, host, domain, search?}  e.g. Netflix: explore.jobs.netflix.net"""
+    s = session()
+    q = c.get("search", "software engineer").replace(" ", "%20")
+    url = (f"https://{c['host']}/api/apply/v2/jobs?domain={c['domain']}"
+           f"&num=100&query={q}&location=United%20States&sort_by=timestamp")
+    data = get_json(s, url)
+    out = []
+    for j in data.get("positions", []):
+        out.append({
+            "company": c["name"],
+            "title": j.get("name", ""),
+            "location": j.get("location", "") or "; ".join(j.get("locations", []) or []),
+            "url": j.get("canonicalPositionUrl", "")
+                   or f"https://{c['host']}/careers/job/{j.get('id','')}",
+            "external_id": str(j.get("id", "")),
+            "source": "eightfold",
+            "posted_at": iso_date(j.get("t_create") or j.get("t_update")),
+            "department": j.get("department", "") or j.get("business_unit", ""),
+            "workplace": _norm(WORKPLACE, j.get("work_location_option", "")),
+            "snippet": clean_text(j.get("job_description", "")),
+        })
+    return out
+
+
+# Oracle Recruiting Cloud returns its workplace vocabulary as ORA_ codes.
+ORACLE_WORKPLACE = {"ORA_REMOTE": "Remote", "ORA_ONSITE": "On-site",
+                    "ORA_HYBRID": "Hybrid"}
+
+
+def oraclecloud(c):
+    """c: {name, host, site, search?, max_results?}  ->  Oracle Recruiting Cloud
+
+    host and site are both in any posting URL the board hands out:
+    https://<host>/hcmUI/CandidateExperience/en/sites/<site>/job/<id>
+    The tenant host is usually opaque ("egug.fa.us2.oraclecloud.com"), which
+    is why it is configured rather than derived from the company name.
+
+    The API is one REST resource with everything packed into a `finder`
+    string. `facetsList` is required even though nothing here reads the
+    facets: without it the endpoint answers with the requisition list omitted.
+
+    max_results defaults high because the page size is 100 and these tenants
+    are whole corporations on one requisition list - American Express carries
+    tellers and risk analysts beside engineers. Reading newest-first, the
+    first page is whichever functions posted that week, which made the
+    in-scope count swing from 32 to 2 on an unchanged board. 500 reaches the
+    end of most of these lists; a board with more open requisitions than that
+    wants a `searches:` list instead, so the keyword does the narrowing
+    server-side rather than the page limit cutting it off by date.
+    """
+    s = session()
+    url = f"https://{c['host']}/hcmRestApi/resources/latest/recruitingCEJobRequisitions"
+    want, out, offset = int(c.get("max_results", 500)), [], 0
+    while len(out) < want:
+        finder = (f"findReqs;siteNumber={c['site']},facetsList=LOCATIONS;CATEGORIES,"
+                  f"limit={min(100, want - len(out))},offset={offset},"
+                  "sortBy=POSTING_DATES_DESC")
+        if c.get("search"):
+            finder += f",keyword={c['search']}"
+        data = get_json(s, url, params={
+            "onlyData": "true",
+            "expand": "requisitionList.secondaryLocations",
+            "finder": finder,
+        })
+        items = (data.get("items") or [{}])[0]
+        rows = items.get("requisitionList") or []
+        for j in rows:
+            extra = [l.get("Name", "") for l in (j.get("secondaryLocations") or [])]
+            body = j.get("ShortDescriptionStr", "") or ""
+            out.append({
+                "company": c["name"],
+                "title": j.get("Title", ""),
+                "location": "; ".join(filter(None, [j.get("PrimaryLocation", "")] + extra[:2])),
+                "country": j.get("PrimaryLocationCountry", ""),
+                "url": (f"https://{c['host']}/hcmUI/CandidateExperience/en/sites/"
+                        f"{c['site']}/job/{j.get('Id','')}"),
+                "external_id": str(j.get("Id", "")),
+                "source": "oraclecloud",
+                "posted_at": iso_date(j.get("PostedDate")),
+                "deadline": iso_date(j.get("PostingEndDate")),
+                "employment_type": _norm(EMPLOYMENT, j.get("WorkerType", "")),
+                "workplace": ORACLE_WORKPLACE.get(j.get("WorkplaceTypeCode", ""), ""),
+                "department": j.get("JobFamily", "") or j.get("JobFunction", ""),
+                "snippet": clean_text(body),
+                "yoe": filters.parse_yoe(clean_text(body, 6000), j.get("Title", "")),
+            })
+        if len(rows) < 100:
+            break
+        offset += len(rows)
+    return out
+
+
+def smartrecruiters(c):
+    """c: {name, token, search?}  ->  public postings API (e.g. Visa)"""
+    s = session()
+    params = {"limit": 100}
+    if c.get("search"):
+        params["q"] = c["search"]
+    data = get_json(
+        s, f"https://api.smartrecruiters.com/v1/companies/{c['token']}/postings", params=params)
+    out = []
+    for j in data.get("content", []):
+        loc = j.get("location") or {}
+        out.append({
+            "company": c["name"],
+            "title": j.get("name", ""),
+            "location": ", ".join(filter(None, [loc.get("city", ""), loc.get("region", "")])),
+            "country": loc.get("country", ""),
+            "url": f"https://jobs.smartrecruiters.com/{c['token']}/{j.get('id','')}",
+            "external_id": str(j.get("id", "")),
+            "source": "smartrecruiters",
+            "posted_at": iso_date(j.get("releasedDate")),
+            "employment_type": _norm(
+                EMPLOYMENT, (j.get("typeOfEmployment") or {}).get("label", "")),
+            "workplace": "Remote" if (loc.get("remote")) else "",
+            "department": (j.get("department") or {}).get("label", ""),
+        })
+    return out
+
+
+# Avature portals have no public JSON. The listing page is server-rendered, ten
+# postings a page stepped by `jobOffset`, and each card is an <article> holding
+# the JobDetail link (posting id last in the path), the title as its text, and
+# the location as the first inner span. The RSS feed beside it is capped at
+# twenty postings, oldest first, so it misses everything new.
+AVATURE_CARD = re.compile(
+    r'<article class="article article--result".*?'
+    r'<a class="link" href="([^"]*/JobDetail/[^"]*?/(\d+))"\s*>(.*?)</a>'
+    r'(?:.*?<span class="paragraph_inner-span">(.*?)</span>)?', re.S)
+
+
+def avature(c):
+    """c: {name, host, path?, pages?}  e.g. Two Sigma: careers.twosigma.com"""
+    s = session()
+    base = f"https://{c['host']}/careers/{c.get('path', 'OpenRoles')}"
+    out, seen = [], set()
+    for page in range(int(c.get("pages", 30))):
+        markup = get_text(s, base, params={"jobOffset": page * 10})
+        cards = AVATURE_CARD.findall(markup)
+        fresh = [card for card in cards if card[1] not in seen]
+        if not fresh:
+            break
+        for url, jid, title, location in fresh:
+            seen.add(jid)
+            out.append({
+                "company": c["name"],
+                "title": clean_text(title, 200),
+                "location": clean_text(location or "", 200),
+                "url": url,
+                "external_id": jid,
+                "source": "avature",
+            })
+    return out
