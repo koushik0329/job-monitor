@@ -133392,6 +133392,17 @@
    "title": "Software Engineer III",
    "url": "https://www.google.com/about/careers/applications/jobs/results/132402885865415366-software-engineer-iii"
   },
+  "google:3a2805663f58": {
+   "company": "Google",
+   "first_seen": "2026-11-04",
+   "location": "Mountain View, CA, USA; Cambridge, MA, USA; +3 more; +2 more",
+   "role": "security",
+   "source": "google careers",
+   "status": "new",
+   "tier": "experienced",
+   "title": "Software Engineer III, Search Security Engineering",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/140469229315859142-software-engineer-iii-search-security-engineering"
+  },
   "google:3aece869c193": {
    "company": "Google",
    "first_seen": "2026-09-11",
@@ -135073,6 +135084,17 @@
    "tier": "experienced",
    "title": "Software Engineer III, Infrastructure, Google Cloud Compute",
    "url": "https://www.google.com/about/careers/applications/jobs/results/78514089042551494-software-engineer-iii-infrastructure-google-cloud-compute"
+  },
+  "google:7dbff93fcefd": {
+   "company": "Google",
+   "first_seen": "2026-11-04",
+   "location": "Raleigh, NC, USA; Durham, NC, USA",
+   "role": "devops-sre",
+   "source": "google careers",
+   "status": "new",
+   "tier": "experienced",
+   "title": "Software Engineer III, Site Reliability Engineering",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/88030169712730822-software-engineer-iii-site-reliability-engineering"
   },
   "google:7dfe631192e3": {
    "company": "Google",
@@ -138139,6 +138161,17 @@
    "tier": "experienced",
    "title": "Software Engineer III, AI/ML, Google Cloud Platforms",
    "url": "https://www.google.com/about/careers/applications/jobs/results/127233685492507334-software-engineer-iii-aiml-google-cloud-platforms"
+  },
+  "google:fca9cec9e822": {
+   "company": "Google",
+   "first_seen": "2026-11-04",
+   "location": "Austin, TX, USA",
+   "role": "devops-sre",
+   "source": "google careers",
+   "status": "new",
+   "tier": "experienced",
+   "title": "Design Verification Infrastructure Engineer",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/105390410343293638-design-verification-infrastructure-engineer"
   },
   "google:fd7fe5c33cb7": {
    "company": "Google",
@@ -293006,7 +293039,7 @@
   },
   "Google": {
    "best": 100,
-   "last": 99,
+   "last": 100,
    "last_ok": "2026-11-04"
   },
   "Gusto": {
@@ -293151,7 +293184,7 @@
   },
   "OpenAI": {
    "best": 842,
-   "last": 813,
+   "last": 812,
    "last_ok": "2026-11-04"
   },
   "OpenEvidence": {
@@ -293372,6 +293405,6 @@
    "last_ok": "2026-11-04"
   }
  },
- "updated": "2026-11-04T10:50:38Z",
+ "updated": "2026-11-04T11:25:42Z",
  "version": 1
 }
