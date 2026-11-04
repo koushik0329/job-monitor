@@ -1,5 +1,6 @@
 """Discord webhook notifications. Set DISCORD_WEBHOOK_URL (GitHub secret)."""
 import os
+import re
 import time
 
 import requests
@@ -14,9 +15,9 @@ DEFAULT_WEBHOOK_ENV = "DISCORD_WEBHOOK_URL"
 # Discord is intentionally narrower than the dashboard: only clearly mobile
 # roles are sent. Match titles rather than descriptions so a backend role that
 # merely mentions Swift/Kotlin does not trigger an alert.
-MOBILE_ROLE = __import__("re").compile(
+MOBILE_ROLE = re.compile(
     r"\\b(mobile|ios|android|flutter|react[ -]?native|cross.?platform|swiftui|uikit)\\b",
-    __import__("re").I,
+    re.I,
 )
 
 
