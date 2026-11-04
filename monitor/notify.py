@@ -16,7 +16,7 @@ DEFAULT_WEBHOOK_ENV = "DISCORD_WEBHOOK_URL"
 # roles are sent. Match titles rather than descriptions so a backend role that
 # merely mentions Swift/Kotlin does not trigger an alert.
 MOBILE_ROLE = re.compile(
-    r"\\b(mobile|ios|android|flutter|react[ -]?native|cross.?platform|swiftui|uikit)\\b",
+    r"\b(mobile|ios|android|flutter|react[ -]?native|cross.?platform|swiftui|uikit)\b",
     re.I,
 )
 
