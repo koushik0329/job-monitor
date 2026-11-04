@@ -10,6 +10,20 @@ TIER_LABEL = {"intern": "🎓 Intern", "newgrad": "🌱 New Grad", "experienced"
 TIER_COLOR = {"intern": 0x3498DB, "newgrad": 0x2ECC71, "experienced": 0xE67E22}
 
 DEFAULT_WEBHOOK_ENV = "DISCORD_WEBHOOK_URL"
+
+# Discord is intentionally narrower than the dashboard: only clearly mobile
+# roles are sent. Match titles rather than descriptions so a backend role that
+# merely mentions Swift/Kotlin does not trigger an alert.
+MOBILE_ROLE = __import__("re").compile(
+    r"\\b(mobile|ios|android|flutter|react[ -]?native|cross.?platform|swiftui|uikit)\\b",
+    __import__("re").I,
+)
+
+
+def is_mobile_role(job: dict) -> bool:
+    return bool(MOBILE_ROLE.search(job.get("title", "")))
+
+
 WORKPLACE_ICON = {"Remote": "🏠", "Hybrid": "🔀", "On-site": "🏢"}
 
 
@@ -77,6 +91,12 @@ def send_alert(broken: list, webhook_env: str = DEFAULT_WEBHOOK_ENV) -> None:
 
 def send(new_jobs: list, run_label: str = "", webhook_env: str = DEFAULT_WEBHOOK_ENV,
          tier_labels: dict | None = None, tier_colors: dict | None = None) -> None:
+    # Keep the dashboard/state complete; apply this preference only at the
+    # Discord delivery boundary.
+    new_jobs = [j for j in new_jobs if is_mobile_role(j)]
+    if not new_jobs:
+        print("No new mobile postings to notify.")
+        return
     labels = tier_labels or TIER_LABEL
     colors = tier_colors or TIER_COLOR
     url = os.environ.get(webhook_env, "").strip()
