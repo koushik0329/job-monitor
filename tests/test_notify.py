@@ -86,3 +86,32 @@ def test_source_alert_still_never_raises(monkeypatch, capsys):
     setup_webhook(monkeypatch, [500])
     notify.send_alert([{"name": "Citadel", "was": 0, "since": None, "never": True}])
     assert "could not send source alert" in capsys.readouterr().out
+
+
+
+def test_mobile_role_matching_is_title_based():
+    assert notify.is_mobile_role({"title": "Senior iOS Engineer"})
+    assert notify.is_mobile_role({"title": "Android Developer"})
+    assert notify.is_mobile_role({"title": "Flutter Mobile Engineer"})
+    assert notify.is_mobile_role({"title": "React Native Developer"})
+    assert notify.is_mobile_role({"title": "SwiftUI Engineer"})
+    assert not notify.is_mobile_role({"title": "Backend Engineer using Swift"})
+    assert not notify.is_mobile_role({"title": "React Frontend Engineer"})
+
+
+def test_send_filters_non_mobile_jobs(monkeypatch):
+    calls = setup_webhook(monkeypatch, [204])
+    mixed = jobs(2)
+    mixed[0]["title"] = "iOS Developer"
+    mixed[1]["title"] = "Backend Engineer"
+    notify.send(mixed)
+    assert len(calls) == 1
+    assert calls[0]["content"].startswith("**1 new posting(s)**")
+    assert len(calls[0]["embeds"]) == 1
+    assert "iOS Developer" in calls[0]["embeds"][0]["title"]
+
+
+def test_send_skips_when_no_mobile_jobs(monkeypatch, capsys):
+    setup_webhook(monkeypatch, [204])
+    notify.send([{"company": "Example", "title": "Backend Engineer"}])
+    assert "No new mobile postings" in capsys.readouterr().out
