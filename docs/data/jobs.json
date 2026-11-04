@@ -40111,6 +40111,19 @@
    "title": "Machine Learning Engineer, Evaluation, Agentic Search Capabilities",
    "url": "https://jobs.apple.com/en-us/details/200670397/machine-learning-engineer-evaluation-agentic-search-capabilities"
   },
+  "apple:35264537981a": {
+   "company": "Apple",
+   "department": "Hardware",
+   "first_seen": "2026-11-04",
+   "location": "Cupertino",
+   "posted_at": "2026-11-04",
+   "role": "software",
+   "source": "jobs.apple.com",
+   "status": "new",
+   "tier": "experienced",
+   "title": "Software Engineering Systems",
+   "url": "https://jobs.apple.com/en-us/details/200693309/software-engineering-systems"
+  },
   "apple:360fb30f9569": {
    "company": "Apple",
    "department": "Software and Services",
@@ -40227,6 +40240,19 @@
    "tier": "experienced",
    "title": "Software Engineer, Apple Streaming Platform and Solutions",
    "url": "https://jobs.apple.com/en-us/details/200688626/software-engineer-apple-streaming-platform-and-solutions"
+  },
+  "apple:3d995e55f909": {
+   "company": "Apple",
+   "department": "Hardware",
+   "first_seen": "2026-11-04",
+   "location": "San Diego",
+   "posted_at": "2026-11-04",
+   "role": "ml-ai",
+   "source": "jobs.apple.com",
+   "status": "new",
+   "tier": "experienced",
+   "title": "ML Data Operations Engineer, AI-Assisted Annotation",
+   "url": "https://jobs.apple.com/en-us/details/200693198/ml-data-operations-engineer-ai-assisted-annotation"
   },
   "apple:3f49c435d6e2": {
    "company": "Apple",
@@ -41256,6 +41282,19 @@
    "title": "Wireless PHY Systems Engineer — Pre-Silicon Emulation",
    "url": "https://jobs.apple.com/en-us/details/200689125/wireless-phy-systems-engineer-pre-silicon-emulation"
   },
+  "apple:8a0dee59d6ed": {
+   "company": "Apple",
+   "department": "Machine Learning and AI",
+   "first_seen": "2026-11-04",
+   "location": "Sunnyvale",
+   "posted_at": "2026-11-04",
+   "role": "ml-ai",
+   "source": "jobs.apple.com",
+   "status": "new",
+   "tier": "experienced",
+   "title": "CV/ML Generalist Engineer",
+   "url": "https://jobs.apple.com/en-us/details/200693066/cv-ml-generalist-engineer"
+  },
   "apple:8a1027ce74e4": {
    "company": "Apple",
    "department": "Software and Services",
@@ -41554,6 +41593,19 @@
    "tier": "experienced",
    "title": "Battery Algorithm ML Engineer",
    "url": "https://jobs.apple.com/en-us/details/200691000/battery-algorithm-ml-engineer"
+  },
+  "apple:974136d591e2": {
+   "company": "Apple",
+   "department": "Software and Services",
+   "first_seen": "2026-11-04",
+   "location": "San Diego",
+   "posted_at": "2026-11-04",
+   "role": "software",
+   "source": "jobs.apple.com",
+   "status": "new",
+   "tier": "experienced",
+   "title": "Bluetooth Software Engineer, Wireless Technologies & Ecosystems",
+   "url": "https://jobs.apple.com/en-us/details/200680546/bluetooth-software-engineer-wireless-technologies-ecosystems"
   },
   "apple:980938bc23c3": {
    "company": "Apple",
@@ -291971,7 +292023,7 @@
   },
   "Anthropic": {
    "best": 684,
-   "last": 681,
+   "last": 682,
    "last_ok": "2026-11-04"
   },
   "Anysphere": {
@@ -291981,7 +292033,7 @@
   },
   "Apple": {
    "best": 164,
-   "last": 150,
+   "last": 151,
    "last_ok": "2026-11-04"
   },
   "Applied Intuition": {
@@ -292563,6 +292615,6 @@
    "last_ok": "2026-11-04"
   }
  },
- "updated": "2026-11-04T00:55:02Z",
+ "updated": "2026-11-04T01:35:35Z",
  "version": 1
 }
