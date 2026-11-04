@@ -61930,6 +61930,19 @@
    "title": "Data Scientist, Junior",
    "url": "https://www.linkedin.com/jobs/view/4476363805"
   },
+  "booz-allen-hamilton:393095b41716": {
+   "company": "Booz Allen Hamilton",
+   "first_seen": "2026-11-04",
+   "location": "Fort Belvoir, VA, USA",
+   "posted_at": "2026-11-01",
+   "role": "devops-sre",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "experienced",
+   "title": "DevOps Engineer",
+   "url": "https://www.linkedin.com/jobs/view/4432101418"
+  },
   "booz-allen-hamilton:39961263868b": {
    "company": "Booz Allen Hamilton",
    "employer_checked": "2026-10-30",
@@ -63732,6 +63745,19 @@
    "tier": "experienced",
    "title": "DevOps Engineer",
    "url": "https://www.linkedin.com/jobs/view/4453357952"
+  },
+  "booz-allen-hamilton:d9c30d2fc8c3": {
+   "company": "Booz Allen Hamilton",
+   "first_seen": "2026-11-04",
+   "location": "Fort Meade, MD, USA",
+   "posted_at": "2026-11-04",
+   "role": "security",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "experienced",
+   "title": "Boundary Security Engineer",
+   "url": "https://www.linkedin.com/jobs/view/4461280548"
   },
   "booz-allen-hamilton:dab76fa164a0": {
    "company": "Booz Allen Hamilton",
@@ -91388,6 +91414,19 @@
    "title": "Software Engineer Intern",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8199958"
   },
+  "clover:2b99c7c1b366": {
+   "company": "Clover",
+   "first_seen": "2026-11-04",
+   "location": "Sunnyvale, CA, USA",
+   "posted_at": "2026-11-04",
+   "role": "mobile",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "experienced",
+   "title": "Android Application Framework Developer - Device Engineering",
+   "url": "https://www.linkedin.com/jobs/view/4478194784"
+  },
   "clutch:42a1a9bbb25d": {
    "company": "Clutch",
    "first_seen": "2026-10-12",
@@ -101677,6 +101716,20 @@
    "title": "Consultant, Data Engineering",
    "url": "https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/300056"
   },
+  "dell-technologies:6d16afce02ef": {
+   "company": "Dell Technologies",
+   "employer_url": "https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/298217",
+   "first_seen": "2026-11-04",
+   "location": "Austin, TX, USA",
+   "posted_at": "2026-11-04",
+   "role": "software",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "intern",
+   "title": "CSG Software Engineering Undergraduate Intern",
+   "url": "https://www.linkedin.com/jobs/view/4486344975"
+  },
   "dell-technologies:72161e2870e3": {
    "company": "Dell Technologies",
    "first_seen": "2026-10-22",
@@ -105709,6 +105762,19 @@
    "tier": "intern",
    "title": "Technology Intern - Data Engineering",
    "url": "https://wd5.myworkdaysite.com/en-US/recruiting/devonenergy/Careers/job/Oklahoma-City-OK/Technology-Summer-Intern-2027_R26264-1"
+  },
+  "devvision:d28fc33d860a": {
+   "company": "DEVVISION",
+   "first_seen": "2026-11-04",
+   "location": "USA",
+   "posted_at": "2026-11-04",
+   "role": "frontend",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "experienced",
+   "title": "Frontend Developer",
+   "url": "https://www.linkedin.com/jobs/view/4485076147"
   },
   "dewberry:e1844a2ea724": {
    "company": "Dewberry",
@@ -132722,6 +132788,17 @@
    "title": "Forward Deployed Engineer, Core, DevAI",
    "url": "https://www.google.com/about/careers/applications/jobs/results/110538186614022854-forward-deployed-engineer-core-devai"
   },
+  "google:247d42f286a3": {
+   "company": "Google",
+   "first_seen": "2026-11-04",
+   "location": "Cambridge, MA, USA",
+   "role": "ml-ai",
+   "source": "google careers",
+   "status": "new",
+   "tier": "experienced",
+   "title": "Software Engineer III, Search, AI/ML",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/143629723950293702-software-engineer-iii-search-aiml"
+  },
   "google:24f6ffbc385c": {
    "company": "Google",
    "first_seen": "2026-09-09",
@@ -136920,6 +136997,17 @@
    "title": "Network Engineer",
    "url": "https://www.google.com/about/careers/applications/jobs/results/141163750492119750-network-engineer"
   },
+  "google:ce1f93847ddb": {
+   "company": "Google",
+   "first_seen": "2026-11-04",
+   "location": "New York, NY, USA",
+   "role": "devops-sre",
+   "source": "google careers",
+   "status": "new",
+   "tier": "experienced",
+   "title": "Software Engineer III, Site Reliability Engineering",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/136432595712778950-software-engineer-iii-site-reliability-engineering"
+  },
   "google:ce740cfbe994": {
    "company": "Google",
    "first_seen": "2026-09-25",
@@ -137167,6 +137255,17 @@
    "tier": "experienced",
    "title": "Cloud Engineer, AI/ML, Global Services Delivery, Google Cloud",
    "url": "https://www.google.com/about/careers/applications/jobs/results/102426923979678406-cloud-engineer-aiml-global-services-delivery-google-cloud"
+  },
+  "google:d9f9ce629071": {
+   "company": "Google",
+   "first_seen": "2026-11-04",
+   "location": "Pittsburgh, PA, USA",
+   "role": "devops-sre",
+   "source": "google careers",
+   "status": "new",
+   "tier": "experienced",
+   "title": "Software Engineer III, Site Reliability Engineering",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/138758887439246022-software-engineer-iii-site-reliability-engineering"
   },
   "google:da7126a630c2": {
    "company": "Google",
@@ -144677,6 +144776,19 @@
    "tier": "experienced",
    "title": "Machine Learning Engineer",
    "url": "https://www.linkedin.com/jobs/view/4465083731"
+  },
+  "hira:9e65cb1da5ed": {
+   "company": "Hira",
+   "first_seen": "2026-11-04",
+   "location": "San Francisco Bay Area",
+   "posted_at": "2026-11-04",
+   "role": "software",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "intern",
+   "title": "Software Engineer Intern",
+   "url": "https://www.linkedin.com/jobs/view/4486352622"
   },
   "hirealice:906be34b0369": {
    "company": "HireAlice",
@@ -155970,6 +156082,19 @@
    "tier": "experienced",
    "title": "Data Engineer",
    "url": "https://www.linkedin.com/jobs/view/4481898708"
+  },
+  "jobot:2e2b373e4f89": {
+   "company": "Jobot",
+   "first_seen": "2026-11-04",
+   "location": "Seal Beach, CA, USA",
+   "posted_at": "2026-11-04",
+   "role": "devops-sre",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "experienced",
+   "title": "DevOps Engineer",
+   "url": "https://www.linkedin.com/jobs/view/4485075126"
   },
   "jobot:3c02c00a9ca0": {
    "company": "Jobot",
@@ -190327,6 +190452,18 @@
    "tier": "intern",
    "title": "Test Engineer Intern",
    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Vandenberg-AFB/XMLNAME-2027-Test-Engineering-Intern---VSFB-CA_R10253497"
+  },
+  "northrop-grumman:6b01270464a7": {
+   "company": "Northrop Grumman",
+   "first_seen": "2026-11-04",
+   "location": "Sykesville, MD",
+   "posted_at": "2026-11-04",
+   "role": "embedded",
+   "source": "simplify-github",
+   "status": "new",
+   "tier": "intern",
+   "title": "Software Embedded Engineering Intern",
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Sykesville/XMLNAME-2027-S-W-Embedded-Engineering-Intern---Sykesville-MD_R10258553"
   },
   "northrop-grumman:6b396f9935fe": {
    "company": "Northrop Grumman",
@@ -225327,6 +225464,18 @@
    "title": "Software Development Intern - Summer 2027",
    "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Development-Intern--Summer-2027-_01865635"
   },
+  "rtx:03c354fe22b7": {
+   "company": "RTX",
+   "first_seen": "2026-11-04",
+   "location": "Jupiter, FL",
+   "posted_at": "2026-11-04",
+   "role": "software",
+   "source": "simplify-github",
+   "status": "new",
+   "tier": "intern",
+   "title": "Control/Diagnostic Software Intern",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-JUPITER-ADR--17900-Beeline-Hwy--ADR-BLDG/Intern--Summer-2027---Control-Diagnostic-Software--Onsite-_01883840"
+  },
   "rtx:03c35a2cc2d8": {
    "company": "RTX",
    "first_seen": "2026-10-09",
@@ -235469,6 +235618,18 @@
    "tier": "experienced",
    "title": "DevOps Engineer (5431)",
    "url": "https://www.linkedin.com/jobs/view/4444937975"
+  },
+  "shield-ai:ab9d3893041f": {
+   "company": "Shield AI",
+   "first_seen": "2026-11-04",
+   "location": "Washington, DC",
+   "posted_at": "2026-10-12",
+   "role": "software",
+   "source": "simplify-github",
+   "status": "new",
+   "tier": "newgrad",
+   "title": "Software Engineer 1 New Grad - Software - Factory Team",
+   "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/6b5da15b-b34e-4771-bc6c-a05892ae87e9/application?embed=true"
   },
   "shield-ai:bbe7d21b682d": {
    "company": "Shield AI",
@@ -292521,12 +292682,12 @@
   },
   "Adobe": {
    "best": 190,
-   "last": 155,
+   "last": 153,
    "last_ok": "2026-11-04"
   },
   "Affirm": {
    "best": 246,
-   "last": 238,
+   "last": 237,
    "last_ok": "2026-11-04"
   },
   "Airbnb": {
@@ -292546,12 +292707,12 @@
   },
   "American Express": {
    "best": 500,
-   "last": 343,
+   "last": 346,
    "last_ok": "2026-11-04"
   },
   "Anduril": {
    "best": 2568,
-   "last": 2566,
+   "last": 2568,
    "last_ok": "2026-11-04"
   },
   "Anthropic": {
@@ -292561,12 +292722,12 @@
   },
   "Anysphere": {
    "best": 137,
-   "last": 118,
+   "last": 117,
    "last_ok": "2026-11-04"
   },
   "Apple": {
    "best": 164,
-   "last": 149,
+   "last": 148,
    "last_ok": "2026-11-04"
   },
   "Applied Intuition": {
@@ -292626,7 +292787,7 @@
   },
   "Capital One": {
    "best": 171,
-   "last": 144,
+   "last": 146,
    "last_ok": "2026-11-04"
   },
   "Carta": {
@@ -292677,12 +292838,12 @@
   },
   "DTCC": {
    "best": 459,
-   "last": 418,
+   "last": 417,
    "last_ok": "2026-11-04"
   },
   "Databricks": {
-   "best": 917,
-   "last": 917,
+   "best": 918,
+   "last": 918,
    "last_ok": "2026-11-04"
   },
   "Datadog": {
@@ -292697,7 +292858,7 @@
   },
   "Dell Technologies": {
    "best": 500,
-   "last": 483,
+   "last": 488,
    "last_ok": "2026-11-04"
   },
   "Discord": {
@@ -292707,7 +292868,7 @@
   },
   "DoorDash": {
    "best": 475,
-   "last": 435,
+   "last": 436,
    "last_ok": "2026-11-04"
   },
   "Dropbox": {
@@ -292722,7 +292883,7 @@
   },
   "Elastic": {
    "best": 423,
-   "last": 413,
+   "last": 421,
    "last_ok": "2026-11-04"
   },
   "ElevenLabs": {
@@ -292737,7 +292898,7 @@
   },
   "Expedia Group": {
    "best": 134,
-   "last": 114,
+   "last": 113,
    "last_ok": "2026-11-04"
   },
   "Faire": {
@@ -292747,7 +292908,7 @@
   },
   "Fidelity National Information Services": {
    "best": 183,
-   "last": 171,
+   "last": 175,
    "last_ok": "2026-11-04"
   },
   "Figma": {
@@ -292757,7 +292918,7 @@
   },
   "Flexport": {
    "best": 212,
-   "last": 189,
+   "last": 188,
    "last_ok": "2026-11-04"
   },
   "GM Financial": {
@@ -292772,17 +292933,17 @@
   },
   "GitLab": {
    "best": 239,
-   "last": 238,
+   "last": 239,
    "last_ok": "2026-11-04"
   },
   "Glean": {
    "best": 137,
-   "last": 127,
+   "last": 128,
    "last_ok": "2026-11-04"
   },
   "Google": {
    "best": 100,
-   "last": 100,
+   "last": 99,
    "last_ok": "2026-11-04"
   },
   "Gusto": {
@@ -292807,7 +292968,7 @@
   },
   "IMC Trading": {
    "best": 176,
-   "last": 158,
+   "last": 157,
    "last_ok": "2026-11-04"
   },
   "Instacart": {
@@ -292822,7 +292983,7 @@
   },
   "JP Morgan Chase": {
    "best": 460,
-   "last": 384,
+   "last": 375,
    "last_ok": "2026-11-04"
   },
   "Komodo Health": {
@@ -292842,7 +293003,7 @@
   },
   "LinkedIn (JobSpy)": {
    "best": 1281,
-   "last": 1012,
+   "last": 1013,
    "last_ok": "2026-11-04"
   },
   "Lyft": {
@@ -292857,7 +293018,7 @@
   },
   "Mastercard": {
    "best": 185,
-   "last": 174,
+   "last": 176,
    "last_ok": "2026-11-04"
   },
   "Match Group": {
@@ -292877,12 +293038,12 @@
   },
   "Microsoft": {
    "best": 150,
-   "last": 148,
+   "last": 150,
    "last_ok": "2026-11-04"
   },
   "MongoDB": {
    "best": 415,
-   "last": 360,
+   "last": 361,
    "last_ok": "2026-11-04"
   },
   "NOV": {
@@ -292922,7 +293083,7 @@
   },
   "Okta": {
    "best": 400,
-   "last": 390,
+   "last": 389,
    "last_ok": "2026-11-04"
   },
   "OpenAI": {
@@ -292962,7 +293123,7 @@
   },
   "Pinterest": {
    "best": 225,
-   "last": 168,
+   "last": 167,
    "last_ok": "2026-11-04"
   },
   "Plaid": {
@@ -292972,7 +293133,7 @@
   },
   "RELX": {
    "best": 196,
-   "last": 184,
+   "last": 185,
    "last_ok": "2026-11-04"
   },
   "Ramp": {
@@ -293002,12 +293163,12 @@
   },
   "Salesforce": {
    "best": 178,
-   "last": 167,
+   "last": 165,
    "last_ok": "2026-11-04"
   },
   "Samsara": {
    "best": 340,
-   "last": 327,
+   "last": 325,
    "last_ok": "2026-11-04"
   },
   "Scale AI": {
@@ -293017,12 +293178,12 @@
   },
   "Sierra": {
    "best": 220,
-   "last": 217,
+   "last": 216,
    "last_ok": "2026-11-04"
   },
   "Simplify Aggregator": {
    "best": 2489,
-   "last": 1968,
+   "last": 1969,
    "last_ok": "2026-11-04"
   },
   "Snowflake": {
@@ -293042,12 +293203,12 @@
   },
   "Spotify": {
    "best": 95,
-   "last": 86,
+   "last": 85,
    "last_ok": "2026-11-04"
   },
   "Stripe": {
-   "best": 748,
-   "last": 745,
+   "best": 754,
+   "last": 754,
    "last_ok": "2026-11-04"
   },
   "Suno": {
@@ -293057,7 +293218,7 @@
   },
   "Target": {
    "best": 200,
-   "last": 194,
+   "last": 192,
    "last_ok": "2026-11-04"
   },
   "Tesla": {
@@ -293078,7 +293239,7 @@
   },
   "Trimble": {
    "best": 158,
-   "last": 122,
+   "last": 123,
    "last_ok": "2026-11-04"
   },
   "Twilio": {
@@ -293124,7 +293285,7 @@
   },
   "Walmart Global Tech": {
    "best": 200,
-   "last": 74,
+   "last": 61,
    "last_ok": "2026-11-04"
   },
   "Waymo": {
@@ -293148,6 +293309,6 @@
    "last_ok": "2026-11-04"
   }
  },
- "updated": "2026-11-04T07:06:47Z",
+ "updated": "2026-11-04T09:45:24Z",
  "version": 1
 }
