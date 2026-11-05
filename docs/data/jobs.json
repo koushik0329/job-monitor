@@ -15959,6 +15959,21 @@
    "title": "Data Engineer , PXT EXR-Ops Tech",
    "url": "https://www.linkedin.com/jobs/view/4482461851"
   },
+  "amazon:5c595ebfaa56": {
+   "company": "Amazon",
+   "department": "Software Development",
+   "employment_type": "Full-time",
+   "first_seen": "2026-11-05",
+   "location": "Seattle, Washington, USA",
+   "posted_at": "2026-11-04",
+   "role": "software",
+   "source": "amazon.jobs",
+   "status": "new",
+   "tier": "experienced",
+   "title": "Software Development Engineer, Network Monitoring and Remediation (NMR) ",
+   "url": "https://www.amazon.jobs/en/jobs/10597260/software-development-engineer-network-monitoring-and-remediation-nmr",
+   "yoe": 1
+  },
   "amazon:5c65d96ebac9": {
    "company": "Amazon",
    "department": "Software Development",
@@ -41473,6 +41488,19 @@
    "title": "Software Engineer, Information Systems & Technology",
    "url": "https://jobs.apple.com/en-us/details/200685186/software-engineer-information-systems-technology"
   },
+  "apple:7aff1bc7f5e5": {
+   "company": "Apple",
+   "department": "Hardware",
+   "first_seen": "2026-11-05",
+   "location": "Sunnyvale",
+   "posted_at": "2026-11-05",
+   "role": "embedded",
+   "source": "jobs.apple.com",
+   "status": "new",
+   "tier": "experienced",
+   "title": "Embedded 5G/4G Cellular Physical Layer Data Path Signal Processing Firmware Engineer",
+   "url": "https://jobs.apple.com/en-us/details/200667495/embedded-5g-4g-cellular-physical-layer-data-path-signal-processing-firmware-engineer"
+  },
   "apple:7b58dd34a68c": {
    "company": "Apple",
    "department": "Software and Services",
@@ -43501,6 +43529,19 @@
    "tier": "experienced",
    "title": "Multimodal LLMs Research Engineer",
    "url": "https://jobs.apple.com/en-us/details/200691136/multimodal-llms-research-engineer"
+  },
+  "apple:f7faca10ee9e": {
+   "company": "Apple",
+   "department": "Software and Services",
+   "first_seen": "2026-11-05",
+   "location": "Cupertino",
+   "posted_at": "2026-11-04",
+   "role": "devops-sre",
+   "source": "jobs.apple.com",
+   "status": "new",
+   "tier": "experienced",
+   "title": "Traffic and Secure Services Network SRE Engineer",
+   "url": "https://jobs.apple.com/en-us/details/200693333/traffic-and-secure-services-network-sre-engineer"
   },
   "apple:f8c5a8dcf91a": {
    "company": "Apple",
@@ -295196,7 +295237,7 @@
   },
   "Airbnb": {
    "best": 213,
-   "last": 207,
+   "last": 208,
    "last_ok": "2026-11-05"
   },
   "Airtable": {
@@ -295231,7 +295272,7 @@
   },
   "Apple": {
    "best": 164,
-   "last": 157,
+   "last": 147,
    "last_ok": "2026-11-05"
   },
   "Applied Intuition": {
@@ -295813,6 +295854,6 @@
    "last_ok": "2026-11-05"
   }
  },
- "updated": "2026-11-05T00:01:40Z",
+ "updated": "2026-11-05T00:29:54Z",
  "version": 1
 }
