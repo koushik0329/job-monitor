@@ -138258,6 +138258,17 @@
    "title": "Network Engineer",
    "url": "https://www.google.com/about/careers/applications/jobs/results/127058887839752902-network-engineer"
   },
+  "google:c48e5f6b4c6b": {
+   "company": "Google",
+   "first_seen": "2026-11-05",
+   "location": "Sunnyvale, CA, USA",
+   "role": "embedded",
+   "source": "google careers",
+   "status": "new",
+   "tier": "experienced",
+   "title": "Hardware/Software Co-Design Engineer, Inference",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/75303820837429958-hardwaresoftware-codesign-engineer-inference"
+  },
   "google:c521af54a569": {
    "company": "Google",
    "first_seen": "2026-09-10",
@@ -296098,7 +296109,7 @@
   },
   "Airbnb": {
    "best": 213,
-   "last": 208,
+   "last": 207,
    "last_ok": "2026-11-05"
   },
   "Airtable": {
@@ -296494,7 +296505,7 @@
   },
   "OpenAI": {
    "best": 842,
-   "last": 813,
+   "last": 812,
    "last_ok": "2026-11-05"
   },
   "OpenEvidence": {
@@ -296715,6 +296726,6 @@
    "last_ok": "2026-11-05"
   }
  },
- "updated": "2026-11-05T07:17:36Z",
+ "updated": "2026-11-05T08:19:26Z",
  "version": 1
 }
