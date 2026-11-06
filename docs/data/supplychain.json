@@ -12881,6 +12881,19 @@
    "title": "Procurement Analyst",
    "url": "https://www.linkedin.com/jobs/view/4450848965"
   },
+  "aptonet:317c268a3ee2": {
+   "company": "Aptonet",
+   "first_seen": "2026-11-06",
+   "location": "Sterling, VA, USA",
+   "posted_at": "2026-11-06",
+   "role": "supply-planning",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "mid",
+   "title": "Production Materials Planner",
+   "url": "https://www.linkedin.com/jobs/view/4486979854"
+  },
   "aptonet:738bb6f9a5e3": {
    "checked_at": "2026-10-02",
    "company": "Aptonet",
@@ -13040,6 +13053,32 @@
    "tier": "mid",
    "title": "Senior Materials Planner",
    "url": "https://www.linkedin.com/jobs/view/4463563881"
+  },
+  "archer:3288e5c76364": {
+   "company": "Archer",
+   "first_seen": "2026-11-06",
+   "location": "Nashville, TN, USA",
+   "posted_at": "2026-11-06",
+   "role": "demand-planning",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "mid",
+   "title": "Supply/Demand Planner – Commodity & Memory",
+   "url": "https://www.linkedin.com/jobs/view/4486951905"
+  },
+  "archer:7ba935ae7db1": {
+   "company": "Archer",
+   "first_seen": "2026-11-06",
+   "location": "Boise, ID, USA",
+   "posted_at": "2026-11-06",
+   "role": "procurement",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "intern",
+   "title": "Intern – Procurement Cost Analyst",
+   "url": "https://www.linkedin.com/jobs/view/4486972095"
   },
   "archer:8c0f703abaf5": {
    "company": "Archer",
@@ -13806,6 +13845,19 @@
    "tier": "intern",
    "title": "Supply Chain Integration Intern",
    "url": "https://www.linkedin.com/jobs/view/4477957139"
+  },
+  "ascension:2aebb9358d6f": {
+   "company": "Ascension",
+   "first_seen": "2026-11-06",
+   "location": "St Louis, MO, USA",
+   "posted_at": "2026-11-04",
+   "role": "supply-chain",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "intern",
+   "title": "Supply Chain Integration Intern",
+   "url": "https://www.linkedin.com/jobs/view/4478179971"
   },
   "ascension:460f1f940b8b": {
    "company": "Ascension",
@@ -34165,6 +34217,19 @@
    "title": "Demand Planner",
    "url": "https://www.linkedin.com/jobs/view/4479547171"
   },
+  "current-lighting:14d0a467699e": {
+   "company": "Current Lighting",
+   "first_seen": "2026-11-06",
+   "location": "Cleveland, OH, USA",
+   "posted_at": "2026-11-06",
+   "role": "demand-planning",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "mid",
+   "title": "Senior Demand Planner",
+   "url": "https://www.linkedin.com/jobs/view/4488141050"
+  },
   "curtiss-wright-corporation:0c6b0186cde3": {
    "company": "Curtiss-Wright Corporation",
    "first_seen": "2026-09-29",
@@ -42792,6 +42857,19 @@
    "tier": "entry",
    "title": "Assistant Merchandise Planner",
    "url": "https://www.linkedin.com/jobs/view/4429484098"
+  },
+  "fath-inc:9910d84fbbdc": {
+   "company": "Fath Inc.",
+   "first_seen": "2026-11-06",
+   "location": "Orlando, FL, USA",
+   "posted_at": "2026-11-06",
+   "role": "supply-chain",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "manager",
+   "title": "Material Management Specialist",
+   "url": "https://www.linkedin.com/jobs/view/4488183041"
   },
   "fathom-digital-manufacturing:b1a9f8008c69": {
    "company": "Fathom Digital Manufacturing",
@@ -101156,6 +101234,19 @@
    "title": "Logistics Analyst",
    "url": "https://www.linkedin.com/jobs/view/4471865752"
   },
+  "smartmove-solutions:11d62632aa44": {
+   "company": "SmartMove Solutions",
+   "first_seen": "2026-11-06",
+   "location": "Dallas, TX, USA",
+   "posted_at": "2026-11-06",
+   "role": "program-mgmt",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "intern",
+   "title": "Supply Chain Transformation Internship",
+   "url": "https://www.linkedin.com/jobs/view/4486238754"
+  },
   "smartmove-solutions:2b40926fd1fa": {
    "company": "SmartMove Solutions",
    "first_seen": "2026-10-18",
@@ -105350,6 +105441,19 @@
    "tier": "intern",
    "title": "Supply Chain Intern",
    "url": "https://www.linkedin.com/jobs/view/4474856245"
+  },
+  "spyglass-talent-solutions:418b14f2ba2d": {
+   "company": "Spyglass Talent Solutions",
+   "first_seen": "2026-11-06",
+   "location": "Raleigh, NC, USA",
+   "posted_at": "2026-11-06",
+   "role": "demand-planning",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "mid",
+   "title": "Senior Demand Planner",
+   "url": "https://www.linkedin.com/jobs/view/4488173371"
   },
   "src-holdings-corporation:be7f6b29ffb0": {
    "company": "SRC Holdings Corporation",
@@ -128640,12 +128744,12 @@
   },
   "Abbott": {
    "best": 535,
-   "last": 520,
+   "last": 521,
    "last_ok": "2026-11-06"
   },
   "Airbnb": {
    "best": 213,
-   "last": 199,
+   "last": 203,
    "last_ok": "2026-11-06"
   },
   "Amazon": {
@@ -128655,12 +128759,12 @@
   },
   "Anduril": {
    "best": 2593,
-   "last": 2593,
+   "last": 2585,
    "last_ok": "2026-11-06"
   },
   "Applied Materials": {
    "best": 470,
-   "last": 459,
+   "last": 462,
    "last_ok": "2026-11-06"
   },
   "Astranis": {
@@ -128670,42 +128774,42 @@
   },
   "Becton Dickinson": {
    "best": 341,
-   "last": 295,
+   "last": 293,
    "last_ok": "2026-11-06"
   },
   "Boeing": {
    "best": 319,
-   "last": 290,
+   "last": 292,
    "last_ok": "2026-11-06"
   },
   "CVS Health": {
    "best": 351,
-   "last": 336,
+   "last": 346,
    "last_ok": "2026-11-06"
   },
   "Carvana": {
    "best": 1843,
-   "last": 1703,
+   "last": 1702,
    "last_ok": "2026-11-06"
   },
   "Coinbase": {
    "best": 279,
-   "last": 279,
+   "last": 278,
    "last_ok": "2026-11-06"
   },
   "Databricks": {
    "best": 927,
-   "last": 921,
+   "last": 925,
    "last_ok": "2026-11-06"
   },
   "DoorDash": {
    "best": 468,
-   "last": 438,
+   "last": 436,
    "last_ok": "2026-11-06"
   },
   "Duolingo": {
    "best": 89,
-   "last": 57,
+   "last": 58,
    "last_ok": "2026-11-06"
   },
   "Faire": {
@@ -128715,7 +128819,7 @@
   },
   "Flexport": {
    "best": 211,
-   "last": 191,
+   "last": 192,
    "last_ok": "2026-11-06"
   },
   "Formlabs": {
@@ -128725,7 +128829,7 @@
   },
   "General Mills": {
    "best": 251,
-   "last": 244,
+   "last": 245,
    "last_ok": "2026-11-06"
   },
   "Glossier": {
@@ -128760,7 +128864,7 @@
   },
   "LinkedIn (JobSpy)": {
    "best": 738,
-   "last": 631,
+   "last": 547,
    "last_ok": "2026-11-06"
   },
   "Liquid Death": {
@@ -128780,7 +128884,7 @@
   },
   "Medtronic": {
    "best": 451,
-   "last": 396,
+   "last": 398,
    "last_ok": "2026-11-06"
   },
   "Micron": {
@@ -128790,17 +128894,17 @@
   },
   "Misfits Market": {
    "best": 96,
-   "last": 66,
+   "last": 65,
    "last_ok": "2026-11-06"
   },
   "Mondelez": {
    "best": 460,
-   "last": 456,
+   "last": 458,
    "last_ok": "2026-11-06"
   },
   "Nike": {
    "best": 182,
-   "last": 159,
+   "last": 160,
    "last_ok": "2026-11-06"
   },
   "Nuro": {
@@ -128810,7 +128914,7 @@
   },
   "Nvidia": {
    "best": 307,
-   "last": 303,
+   "last": 304,
    "last_ok": "2026-11-06"
   },
   "Olipop": {
@@ -128820,7 +128924,7 @@
   },
   "OpenAI": {
    "best": 840,
-   "last": 822,
+   "last": 823,
    "last_ok": "2026-11-06"
   },
   "Oura": {
@@ -128835,7 +128939,7 @@
   },
   "PepsiCo": {
    "best": 319,
-   "last": 211,
+   "last": 210,
    "last_ok": "2026-11-06"
   },
   "Pinterest": {
@@ -128845,7 +128949,7 @@
   },
   "Samsara": {
    "best": 340,
-   "last": 305,
+   "last": 304,
    "last_ok": "2026-11-06"
   },
   "Saronic": {
@@ -128855,22 +128959,22 @@
   },
   "SpaceX": {
    "best": 2896,
-   "last": 2894,
+   "last": 2896,
    "last_ok": "2026-11-06"
   },
   "Stripe": {
    "best": 768,
-   "last": 768,
+   "last": 764,
    "last_ok": "2026-11-06"
   },
   "Stryker": {
    "best": 416,
-   "last": 413,
+   "last": 415,
    "last_ok": "2026-11-06"
   },
   "Target": {
    "best": 445,
-   "last": 343,
+   "last": 355,
    "last_ok": "2026-11-06"
   },
   "Thrive Market": {
@@ -128885,17 +128989,17 @@
   },
   "Unilever": {
    "best": 204,
-   "last": 183,
+   "last": 197,
    "last_ok": "2026-11-06"
   },
   "Verkada": {
    "best": 345,
-   "last": 345,
+   "last": 344,
    "last_ok": "2026-11-06"
   },
   "Walmart Global Tech": {
    "best": 268,
-   "last": 213,
+   "last": 199,
    "last_ok": "2026-11-06"
   },
   "Waymo": {
@@ -128905,10 +129009,10 @@
   },
   "Zebra Technologies": {
    "best": 125,
-   "last": 121,
+   "last": 123,
    "last_ok": "2026-11-06"
   }
  },
- "updated": "2026-11-06T10:44:24Z",
+ "updated": "2026-11-06T16:01:28Z",
  "version": 1
 }
