@@ -42583,6 +42583,19 @@
    "title": "Machine Learning Engineer – LLMs, Agent Systems, and Simulation Tooling, Siri Core Modeling",
    "url": "https://jobs.apple.com/en-us/details/200687821/machine-learning-engineer-llms-agent-systems-and-simulation-tooling-siri-core-modeling"
   },
+  "apple:583c1295b132": {
+   "company": "Apple",
+   "department": "Software and Services",
+   "first_seen": "2026-11-06",
+   "location": "Cupertino",
+   "posted_at": "2026-11-06",
+   "role": "ml-ai",
+   "source": "jobs.apple.com",
+   "status": "new",
+   "tier": "experienced",
+   "title": "AI Operations, Applied AI Research and Design Developer",
+   "url": "https://jobs.apple.com/en-us/details/200693283/ai-operations-applied-ai-research-and-design-developer"
+  },
   "apple:587fedaccdbc": {
    "company": "Apple",
    "department": "Software and Services",
@@ -301763,7 +301776,7 @@
   },
   "Airbnb": {
    "best": 213,
-   "last": 204,
+   "last": 206,
    "last_ok": "2026-11-06"
   },
   "Airtable": {
@@ -301788,7 +301801,7 @@
   },
   "Anthropic": {
    "best": 684,
-   "last": 672,
+   "last": 673,
    "last_ok": "2026-11-06"
   },
   "Anysphere": {
@@ -302279,7 +302292,7 @@
   },
   "Stripe": {
    "best": 768,
-   "last": 767,
+   "last": 766,
    "last_ok": "2026-11-06"
   },
   "Suno": {
@@ -302380,6 +302393,6 @@
    "last_ok": "2026-11-06"
   }
  },
- "updated": "2026-11-06T21:52:30Z",
+ "updated": "2026-11-06T22:16:00Z",
  "version": 1
 }
