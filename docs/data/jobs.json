@@ -19244,6 +19244,21 @@
    "title": "Site Reliability Engineer, Amazon Ads PubTech",
    "url": "https://www.linkedin.com/jobs/view/4475053582"
   },
+  "amazon:90d9a20cf0bb": {
+   "company": "Amazon",
+   "department": "Software Development",
+   "employment_type": "Full-time",
+   "first_seen": "2026-11-06",
+   "location": "Santa Clara, California, USA",
+   "posted_at": "2026-11-06",
+   "role": "software",
+   "source": "amazon.jobs",
+   "status": "new",
+   "tier": "experienced",
+   "title": "Software Development Engineer - III, AWS OpenSearch, New Initiative",
+   "url": "https://www.amazon.jobs/en/jobs/10598382/software-development-engineer-iii-aws-opensearch-new-initiative",
+   "yoe": 5
+  },
   "amazon:9145dd679377": {
    "company": "Amazon",
    "department": "Software Development",
@@ -43853,6 +43868,19 @@
    "tier": "experienced",
    "title": "Cellular Performance Engineer",
    "url": "https://jobs.apple.com/en-us/details/200690759/cellular-performance-engineer"
+  },
+  "apple:d849416089db": {
+   "company": "Apple",
+   "department": "Software and Services",
+   "first_seen": "2026-11-06",
+   "location": "San Diego",
+   "posted_at": "2026-11-06",
+   "role": "ml-ai",
+   "source": "jobs.apple.com",
+   "status": "new",
+   "tier": "experienced",
+   "title": "Aesthetics Science ML Research Engineer",
+   "url": "https://jobs.apple.com/en-us/details/200686682/aesthetics-science-ml-research-engineer"
   },
   "apple:d9d1f826e22d": {
    "company": "Apple",
@@ -204789,6 +204817,23 @@
    "url": "https://jobs.ashbyhq.com/openai/2d1785b0-8bfa-485e-97d2-a19ff3e15570",
    "workplace": "Hybrid"
   },
+  "openai:964fc92e8a03": {
+   "comp": "$185K – $300K • Offers Equity",
+   "company": "OpenAI",
+   "department": "Forward Deployed Engineering",
+   "employment_type": "Full-time",
+   "first_seen": "2026-11-06",
+   "location": "New York City",
+   "posted_at": "2026-11-05",
+   "role": "solutions",
+   "source": "ashby",
+   "status": "new",
+   "tier": "experienced",
+   "title": "Forward Deployed Engineer (FDE), Cyber - NYC",
+   "url": "https://jobs.ashbyhq.com/openai/9c1aa1f3-b4d0-48fa-814b-37d36ad0ad2e",
+   "workplace": "Hybrid",
+   "yoe": 5
+  },
   "openai:970421500462": {
    "comp": "$293K – $385K • Offers Equity",
    "company": "OpenAI",
@@ -206672,6 +206717,22 @@
    "title": "Machine Learning Engineer, API Multicloud",
    "url": "https://jobs.ashbyhq.com/openai/5acf4854-1d42-40ca-bff8-4f6f04cdce68",
    "yoe": 3
+  },
+  "openai:efadbe585f4f": {
+   "comp": "$185K – $300K • Offers Equity",
+   "company": "OpenAI",
+   "department": "Forward Deployed Engineering",
+   "employment_type": "Full-time",
+   "first_seen": "2026-11-06",
+   "location": "San Francisco",
+   "posted_at": "2026-11-05",
+   "role": "solutions",
+   "source": "ashby",
+   "status": "new",
+   "tier": "experienced",
+   "title": "Forward Deployed Engineer (FDE), Cyber - SF",
+   "url": "https://jobs.ashbyhq.com/openai/a84e6109-142f-45ae-80e1-05811732cca1",
+   "yoe": 5
   },
   "openai:f03eb8638722": {
    "comp": "$266K – $445K • Offers Equity",
@@ -298828,7 +298889,7 @@
   "Airbnb": {
    "best": 213,
    "last": 201,
-   "last_ok": "2026-11-05"
+   "last_ok": "2026-11-06"
   },
   "Airtable": {
    "best": 16,
@@ -298838,7 +298899,7 @@
   "Amazon": {
    "best": 100,
    "last": 100,
-   "last_ok": "2026-11-05"
+   "last_ok": "2026-11-06"
   },
   "American Express": {
    "best": 500,
@@ -298852,8 +298913,8 @@
   },
   "Anthropic": {
    "best": 684,
-   "last": 676,
-   "last_ok": "2026-11-05"
+   "last": 677,
+   "last_ok": "2026-11-06"
   },
   "Anysphere": {
    "best": 137,
@@ -298863,7 +298924,7 @@
   "Apple": {
    "best": 164,
    "last": 151,
-   "last_ok": "2026-11-05"
+   "last_ok": "2026-11-06"
   },
   "Applied Intuition": {
    "best": 330,
@@ -299079,7 +299140,7 @@
   "Google": {
    "best": 100,
    "last": 100,
-   "last_ok": "2026-11-05"
+   "last_ok": "2026-11-06"
   },
   "Gusto": {
    "best": 104,
@@ -299174,7 +299235,7 @@
   "Microsoft": {
    "best": 150,
    "last": 149,
-   "last_ok": "2026-11-05"
+   "last_ok": "2026-11-06"
   },
   "MongoDB": {
    "best": 415,
@@ -299194,7 +299255,7 @@
   "Netflix": {
    "best": 10,
    "last": 10,
-   "last_ok": "2026-11-05"
+   "last_ok": "2026-11-06"
   },
   "Nokia": {
    "best": 500,
@@ -299213,8 +299274,8 @@
   },
   "Nvidia": {
    "best": 197,
-   "last": 190,
-   "last_ok": "2026-11-05"
+   "last": 191,
+   "last_ok": "2026-11-06"
   },
   "Okta": {
    "best": 400,
@@ -299223,8 +299284,8 @@
   },
   "OpenAI": {
    "best": 842,
-   "last": 819,
-   "last_ok": "2026-11-05"
+   "last": 821,
+   "last_ok": "2026-11-06"
   },
   "OpenEvidence": {
    "best": 11,
@@ -299342,9 +299403,9 @@
    "last_ok": "2026-11-05"
   },
   "Stripe": {
-   "best": 766,
-   "last": 766,
-   "last_ok": "2026-11-05"
+   "best": 767,
+   "last": 767,
+   "last_ok": "2026-11-06"
   },
   "Suno": {
    "best": 73,
@@ -299444,6 +299505,6 @@
    "last_ok": "2026-11-05"
   }
  },
- "updated": "2026-11-05T23:57:24Z",
+ "updated": "2026-11-06T00:30:18Z",
  "version": 1
 }
