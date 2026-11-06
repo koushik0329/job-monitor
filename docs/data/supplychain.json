@@ -5192,7 +5192,7 @@
   },
   "amazon:91c4a5d5dafe": {
    "company": "Amazon",
-   "employer_checked": "2026-10-30",
+   "employer_checked": "2026-11-06",
    "first_seen": "2026-10-30",
    "location": "Nashville, TN, USA",
    "posted_at": "2026-10-29",
@@ -5383,6 +5383,8 @@
   },
   "amazon:bd537a6e7451": {
    "company": "Amazon",
+   "employer_checked": "2026-11-06",
+   "employer_url": "https://www.amazon.jobs/en/jobs/10597381/supply-chain-analyst-gpcs-amer",
    "first_seen": "2026-11-05",
    "location": "Tempe, AZ, USA",
    "posted_at": "2026-11-05",
@@ -21841,7 +21843,7 @@
   },
   "boeing:a2d549428fef": {
    "company": "Boeing",
-   "employer_checked": "2026-10-30",
+   "employer_checked": "2026-11-06",
    "first_seen": "2026-10-30",
    "location": "Dallas, TX, USA",
    "posted_at": "2026-10-29",
@@ -37284,7 +37286,7 @@
   },
   "dick-s-sporting-goods:2df6b4439c1b": {
    "company": "DICK'S Sporting Goods",
-   "employer_checked": "2026-10-30",
+   "employer_checked": "2026-11-06",
    "first_seen": "2026-10-30",
    "location": "Coraopolis, PA, USA",
    "posted_at": "2026-10-29",
@@ -46734,7 +46736,7 @@
   },
   "ge-vernova:b1168bccaa19": {
    "company": "GE Vernova",
-   "employer_checked": "2026-10-30",
+   "employer_checked": "2026-11-06",
    "first_seen": "2026-10-29",
    "location": "Findlay, PA, USA",
    "posted_at": "2026-10-29",
@@ -47199,6 +47201,7 @@
   },
   "general-dynamics-information-technology:a3ee2d20c385": {
    "company": "General Dynamics Information Technology",
+   "employer_checked": "2026-11-06",
    "first_seen": "2026-11-05",
    "location": "Sterling, VA, USA",
    "posted_at": "2026-11-05",
@@ -54787,7 +54790,7 @@
   },
   "honeywell-aerospace:06ccdae293a5": {
    "company": "Honeywell Aerospace",
-   "employer_checked": "2026-10-30",
+   "employer_checked": "2026-11-06",
    "first_seen": "2026-10-30",
    "location": "Phoenix, AZ, USA",
    "posted_at": "2026-10-30",
@@ -54815,6 +54818,7 @@
   },
   "honeywell-aerospace:19f301281fff": {
    "company": "Honeywell Aerospace",
+   "employer_checked": "2026-11-06",
    "first_seen": "2026-11-05",
    "location": "Torrance, CA, USA",
    "posted_at": "2026-11-05",
@@ -55153,7 +55157,7 @@
   },
   "honeywell-technologies:bc7636181ef3": {
    "company": "Honeywell Technologies",
-   "employer_checked": "2026-10-30",
+   "employer_checked": "2026-11-06",
    "first_seen": "2026-10-29",
    "location": "Rosemont, IL, USA",
    "posted_at": "2026-10-29",
@@ -77268,7 +77272,7 @@
   },
   "moog-inc:bbbfbe9bfc33": {
    "company": "Moog Inc.",
-   "employer_checked": "2026-10-30",
+   "employer_checked": "2026-11-06",
    "first_seen": "2026-10-29",
    "location": "Phoenix, AZ, USA",
    "posted_at": "2026-10-29",
@@ -80954,6 +80958,7 @@
   },
   "northrop-grumman:3b2031541262": {
    "company": "Northrop Grumman",
+   "employer_checked": "2026-11-06",
    "first_seen": "2026-11-06",
    "location": "Los Angeles, CA, USA",
    "posted_at": "2026-11-06",
@@ -81040,6 +81045,8 @@
   },
   "northrop-grumman:686445f0794d": {
    "company": "Northrop Grumman",
+   "employer_checked": "2026-11-06",
+   "employer_url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Magna/Supply-Chain-Planning-Specialist---Level-3_R10259243",
    "first_seen": "2026-11-06",
    "location": "Magna, UT, USA",
    "posted_at": "2026-11-06",
@@ -81251,7 +81258,7 @@
   },
   "northrop-grumman:be8b7a507aac": {
    "company": "Northrop Grumman",
-   "employer_checked": "2026-10-30",
+   "employer_checked": "2026-11-06",
    "first_seen": "2026-10-29",
    "location": "USA",
    "posted_at": "2026-10-29",
@@ -81377,6 +81384,8 @@
   },
   "northrop-grumman:e3199eabf53f": {
    "company": "Northrop Grumman",
+   "employer_checked": "2026-11-06",
+   "employer_url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Arizona-Mesa/Associate-Production-Planner---Scheduler_R10259357",
    "first_seen": "2026-11-06",
    "location": "Mesa, AZ, USA",
    "posted_at": "2026-11-06",
@@ -100433,7 +100442,7 @@
   },
   "signet-jewelers:79a67b83943d": {
    "company": "Signet Jewelers",
-   "employer_checked": "2026-10-30",
+   "employer_checked": "2026-11-06",
    "first_seen": "2026-10-30",
    "location": "Greater Cleveland",
    "posted_at": "2026-10-30",
@@ -128900,6 +128909,6 @@
    "last_ok": "2026-11-06"
   }
  },
- "updated": "2026-11-06T06:23:25Z",
+ "updated": "2026-11-06T10:44:24Z",
  "version": 1
 }
