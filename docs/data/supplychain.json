@@ -105457,6 +105457,18 @@
    "title": "Global Supply Manager, Logistics",
    "url": "https://boards.greenhouse.io/spacex/jobs/8919850002?gh_jid=8919850002"
   },
+  "spacex:e781b955009f": {
+   "company": "SpaceX",
+   "first_seen": "2026-11-07",
+   "location": "Vandenberg, CA",
+   "posted_at": "2026-11-07",
+   "role": "inventory",
+   "source": "greenhouse",
+   "status": "new",
+   "tier": "mid",
+   "title": "Inventory Specialist ",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8893331002?gh_jid=8893331002"
+  },
   "spacex:e97d8ec51b89": {
    "company": "SpaceX",
    "first_seen": "2026-09-08",
@@ -129863,7 +129875,7 @@
   },
   "Abbott": {
    "best": 535,
-   "last": 520,
+   "last": 521,
    "last_ok": "2026-11-07"
   },
   "Airbnb": {
@@ -129918,7 +129930,7 @@
   },
   "Databricks": {
    "best": 927,
-   "last": 924,
+   "last": 922,
    "last_ok": "2026-11-07"
   },
   "DoorDash": {
@@ -129983,7 +129995,7 @@
   },
   "LinkedIn (JobSpy)": {
    "best": 738,
-   "last": 226,
+   "last": 56,
    "last_ok": "2026-11-07"
   },
   "Liquid Death": {
@@ -130003,12 +130015,12 @@
   },
   "Medtronic": {
    "best": 451,
-   "last": 390,
+   "last": 389,
    "last_ok": "2026-11-07"
   },
   "Micron": {
    "best": 322,
-   "last": 318,
+   "last": 319,
    "last_ok": "2026-11-07"
   },
   "Misfits Market": {
@@ -130068,7 +130080,7 @@
   },
   "Samsara": {
    "best": 340,
-   "last": 315,
+   "last": 316,
    "last_ok": "2026-11-07"
   },
   "Saronic": {
@@ -130078,12 +130090,12 @@
   },
   "SpaceX": {
    "best": 2899,
-   "last": 2898,
+   "last": 2899,
    "last_ok": "2026-11-07"
   },
   "Stripe": {
    "best": 768,
-   "last": 765,
+   "last": 766,
    "last_ok": "2026-11-07"
   },
   "Stryker": {
@@ -130108,7 +130120,7 @@
   },
   "Unilever": {
    "best": 204,
-   "last": 194,
+   "last": 197,
    "last_ok": "2026-11-07"
   },
   "Verkada": {
@@ -130118,7 +130130,7 @@
   },
   "Walmart Global Tech": {
    "best": 268,
-   "last": 219,
+   "last": 218,
    "last_ok": "2026-11-07"
   },
   "Waymo": {
@@ -130128,10 +130140,10 @@
   },
   "Zebra Technologies": {
    "best": 125,
-   "last": 121,
+   "last": 119,
    "last_ok": "2026-11-07"
   }
  },
- "updated": "2026-11-07T16:20:53Z",
+ "updated": "2026-11-07T21:45:24Z",
  "version": 1
 }
