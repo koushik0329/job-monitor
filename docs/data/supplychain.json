@@ -66915,6 +66915,8 @@
   },
   "leidos:1a3d4715e5fe": {
    "company": "Leidos",
+   "employer_checked": "2026-11-07",
+   "employer_url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Huntsville-AL/Production-Controrl-Planner-Scheduler_R-00185480",
    "first_seen": "2026-11-06",
    "location": "Huntsville, AL, USA",
    "posted_at": "2026-11-06",
@@ -66984,6 +66986,7 @@
   },
   "leidos:b241bf05682f": {
    "company": "Leidos",
+   "employer_checked": "2026-11-07",
    "first_seen": "2026-11-07",
    "location": "USA",
    "posted_at": "2026-11-06",
@@ -84535,6 +84538,8 @@
   },
   "onsemi:1582b987b49a": {
    "company": "onsemi",
+   "employer_checked": "2026-11-07",
+   "employer_url": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2507163",
    "first_seen": "2026-11-07",
    "location": "Hopewell Junction, NY, USA",
    "posted_at": "2026-11-07",
@@ -90579,7 +90584,7 @@
   },
   "pratt-whitney:2728b5d08e4a": {
    "company": "Pratt & Whitney",
-   "employer_checked": "2026-10-31",
+   "employer_checked": "2026-11-07",
    "first_seen": "2026-10-30",
    "location": "Columbus, GA, USA",
    "posted_at": "2026-10-30",
@@ -96054,7 +96059,7 @@
   },
   "rocket-lab:ceeed3d5a1b8": {
    "company": "Rocket Lab",
-   "employer_checked": "2026-10-31",
+   "employer_checked": "2026-11-07",
    "first_seen": "2026-10-30",
    "location": "Long Beach, CA, USA",
    "posted_at": "2026-10-30",
@@ -125812,6 +125817,8 @@
   },
   "walmart:4ca9d576b4ec": {
    "company": "Walmart",
+   "employer_checked": "2026-11-07",
+   "employer_url": "https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/Bentonville-AR/Summer-2027-Global-Supply-Chain-Internship_R-2702474",
    "first_seen": "2026-11-07",
    "location": "Bentonville, AR, USA",
    "posted_at": "2026-11-07",
@@ -130095,6 +130102,6 @@
    "last_ok": "2026-11-07"
   }
  },
- "updated": "2026-11-07T08:50:05Z",
+ "updated": "2026-11-07T09:57:02Z",
  "version": 1
 }
