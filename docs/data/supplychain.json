@@ -122624,6 +122624,21 @@
    "url": "https://careers.walmart.com/us/en/job/R-2599649",
    "yoe": 2
   },
+  "walmart-global-tech:06dc14724079": {
+   "comp": "$84,000 - $126,000 Annual",
+   "company": "Walmart Global Tech",
+   "department": "Supply Chain and Transportation",
+   "employment_type": "Full time",
+   "first_seen": "2026-11-07",
+   "location": "Lancaster, TX",
+   "posted_at": "2026-11-06",
+   "role": "procurement",
+   "source": "walmart careers",
+   "status": "new",
+   "tier": "manager",
+   "title": "USA) Operations Manager, Procurement",
+   "url": "https://careers.walmart.com/us/en/job/R-2701984"
+  },
   "walmart-global-tech:06ee4ae94fd9": {
    "comp": "$80,000 - $120,000 Annual",
    "company": "Walmart Global Tech",
@@ -123877,6 +123892,21 @@
    "title": "Manager, Workforce Planning",
    "url": "https://careers.walmart.com/us/en/job/R-2598356",
    "yoe": 3
+  },
+  "walmart-global-tech:5e3f95de223c": {
+   "comp": "$16 - $28 Hourly",
+   "company": "Walmart Global Tech",
+   "department": "Students",
+   "employment_type": "Intern",
+   "first_seen": "2026-11-07",
+   "location": "Bentonville, AR",
+   "posted_at": "2026-11-06",
+   "role": "supply-chain",
+   "source": "walmart careers",
+   "status": "new",
+   "tier": "intern",
+   "title": "Summer 2027 Global Supply Chain Internship",
+   "url": "https://careers.walmart.com/us/en/job/R-2702474"
   },
   "walmart-global-tech:5e9da7b51aed": {
    "comp": "$90,000 - $180,000 Annual",
@@ -129833,7 +129863,7 @@
   },
   "Abbott": {
    "best": 535,
-   "last": 517,
+   "last": 520,
    "last_ok": "2026-11-07"
   },
   "Airbnb": {
@@ -129848,12 +129878,12 @@
   },
   "Anduril": {
    "best": 2605,
-   "last": 2603,
+   "last": 2600,
    "last_ok": "2026-11-07"
   },
   "Applied Materials": {
    "best": 470,
-   "last": 0,
+   "last": 462,
    "last_ok": "2026-11-07"
   },
   "Astranis": {
@@ -129863,17 +129893,17 @@
   },
   "Becton Dickinson": {
    "best": 341,
-   "last": 0,
+   "last": 289,
    "last_ok": "2026-11-07"
   },
   "Boeing": {
    "best": 319,
-   "last": 0,
+   "last": 300,
    "last_ok": "2026-11-07"
   },
   "CVS Health": {
-   "best": 351,
-   "last": 0,
+   "best": 356,
+   "last": 356,
    "last_ok": "2026-11-07"
   },
   "Carvana": {
@@ -129918,7 +129948,7 @@
   },
   "General Mills": {
    "best": 251,
-   "last": 0,
+   "last": 244,
    "last_ok": "2026-11-07"
   },
   "Glossier": {
@@ -129938,7 +129968,7 @@
   },
   "Illumina": {
    "best": 127,
-   "last": 0,
+   "last": 120,
    "last_ok": "2026-11-07"
   },
   "Instacart": {
@@ -129948,12 +129978,12 @@
   },
   "Land O'Lakes": {
    "best": 138,
-   "last": 0,
+   "last": 124,
    "last_ok": "2026-11-07"
   },
   "LinkedIn (JobSpy)": {
    "best": 738,
-   "last": 633,
+   "last": 226,
    "last_ok": "2026-11-07"
   },
   "Liquid Death": {
@@ -129973,12 +130003,12 @@
   },
   "Medtronic": {
    "best": 451,
-   "last": 0,
+   "last": 390,
    "last_ok": "2026-11-07"
   },
   "Micron": {
    "best": 322,
-   "last": 0,
+   "last": 318,
    "last_ok": "2026-11-07"
   },
   "Misfits Market": {
@@ -129988,12 +130018,12 @@
   },
   "Mondelez": {
    "best": 463,
-   "last": 462,
+   "last": 463,
    "last_ok": "2026-11-07"
   },
   "Nike": {
    "best": 182,
-   "last": 0,
+   "last": 163,
    "last_ok": "2026-11-07"
   },
   "Nuro": {
@@ -130003,7 +130033,7 @@
   },
   "Nvidia": {
    "best": 308,
-   "last": 307,
+   "last": 305,
    "last_ok": "2026-11-07"
   },
   "Olipop": {
@@ -130013,7 +130043,7 @@
   },
   "OpenAI": {
    "best": 840,
-   "last": 820,
+   "last": 819,
    "last_ok": "2026-11-07"
   },
   "Oura": {
@@ -130057,13 +130087,13 @@
    "last_ok": "2026-11-07"
   },
   "Stryker": {
-   "best": 416,
-   "last": 0,
+   "best": 417,
+   "last": 417,
    "last_ok": "2026-11-07"
   },
   "Target": {
    "best": 445,
-   "last": 0,
+   "last": 343,
    "last_ok": "2026-11-07"
   },
   "Thrive Market": {
@@ -130073,7 +130103,7 @@
   },
   "Tyson Foods": {
    "best": 137,
-   "last": 37,
+   "last": 135,
    "last_ok": "2026-11-07"
   },
   "Unilever": {
@@ -130088,7 +130118,7 @@
   },
   "Walmart Global Tech": {
    "best": 268,
-   "last": 192,
+   "last": 219,
    "last_ok": "2026-11-07"
   },
   "Waymo": {
@@ -130102,6 +130132,6 @@
    "last_ok": "2026-11-07"
   }
  },
- "updated": "2026-11-07T09:57:02Z",
+ "updated": "2026-11-07T16:20:53Z",
  "version": 1
 }
