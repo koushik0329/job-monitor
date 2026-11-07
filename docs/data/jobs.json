@@ -38692,6 +38692,19 @@
    "title": "Software Development Engineer I – AI/ML Network Infrastructure, Annapurna Labs",
    "url": "https://www.linkedin.com/jobs/view/4482110083"
   },
+  "annapurna-labs:adf0f790807b": {
+   "company": "Annapurna Labs",
+   "first_seen": "2026-11-07",
+   "location": "Cupertino, CA, USA",
+   "posted_at": "2026-11-07",
+   "role": "software",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "newgrad",
+   "title": "Software Development Engineer I, Annapurna Labs, Early Career - 2027",
+   "url": "https://www.linkedin.com/jobs/view/4471646117"
+  },
   "annapurna-labs:c0279ba11873": {
    "company": "Annapurna Labs",
    "first_seen": "2026-11-01",
@@ -38704,6 +38717,19 @@
    "tier": "intern",
    "title": "Software Development Engineer Intern, Annapurna Labs - 2027",
    "url": "https://www.linkedin.com/jobs/view/4460341352"
+  },
+  "annapurna-labs:cb3e2a326165": {
+   "company": "Annapurna Labs",
+   "first_seen": "2026-11-07",
+   "location": "Austin, TX, USA",
+   "posted_at": "2026-11-07",
+   "role": "software",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "newgrad",
+   "title": "Software Development Engineer I, Annapurna Labs, Early Career - 2027",
+   "url": "https://www.linkedin.com/jobs/view/4471638429"
   },
   "antares-nuclear:285d41071ac8": {
    "company": "Antares Nuclear",
@@ -53340,6 +53366,19 @@
    "tier": "experienced",
    "title": "Mid-Level UI/UX Developer with Security Clearance",
    "url": "https://www.linkedin.com/jobs/view/4473255350"
+  },
+  "b-core:f0c825bd4c3d": {
+   "company": "B/CORE",
+   "first_seen": "2026-11-07",
+   "location": "Dunn Loring, VA, USA",
+   "posted_at": "2026-11-06",
+   "role": "security",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "experienced",
+   "title": "Junior Software Developer with Security Clearance",
+   "url": "https://www.linkedin.com/jobs/view/4488720605"
   },
   "b-core:fbe8d6c84e5d": {
    "company": "B/CORE",
@@ -72888,6 +72927,19 @@
    "tier": "experienced",
    "title": "Cyber Security Engineer",
    "url": "https://www.linkedin.com/jobs/view/4476685366"
+  },
+  "caci-international-inc:ee2da9902d42": {
+   "company": "CACI International Inc",
+   "first_seen": "2026-11-07",
+   "location": "Virginia Beach, VA, USA",
+   "posted_at": "2026-11-07",
+   "role": "software",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "experienced",
+   "title": "Junior C# Software Engineer",
+   "url": "https://www.linkedin.com/jobs/view/4486649129"
   },
   "caci-international-inc:ef2c6794b347": {
    "company": "CACI International Inc",
@@ -105774,6 +105826,18 @@
    "tier": "experienced",
    "title": "Consultant, Data Engineering",
    "url": "https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/300054"
+  },
+  "dell-technologies:bbf0840f485d": {
+   "company": "Dell Technologies",
+   "first_seen": "2026-11-07",
+   "location": "Austin, TX, United States",
+   "posted_at": "2026-11-07",
+   "role": "ml-ai",
+   "source": "oraclecloud",
+   "status": "new",
+   "tier": "experienced",
+   "title": "AI PC Performance Engineer",
+   "url": "https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/302373"
   },
   "dell-technologies:bd43b4691fe3": {
    "company": "Dell Technologies",
@@ -269109,6 +269173,18 @@
    "title": "Platform Engineer",
    "url": "https://www.linkedin.com/jobs/view/4472353059"
   },
+  "tesla:28d8f811711f": {
+   "company": "Tesla",
+   "first_seen": "2026-11-07",
+   "location": "Palo Alto, CA",
+   "posted_at": "2026-11-07",
+   "role": "software",
+   "source": "simplify-github",
+   "status": "new",
+   "tier": "intern",
+   "title": "Software Engineer Intern - SI Reinforcement Learning",
+   "url": "https://www.tesla.com/careers/search/job/289241"
+  },
   "tesla:371ffc8f8212": {
    "company": "Tesla",
    "first_seen": "2026-09-04",
@@ -279180,6 +279256,19 @@
    "url": "https://www.linkedin.com/jobs/view/4473072927",
    "workplace": "Remote"
   },
+  "torentify:489b92f3b793": {
+   "company": "Torentify",
+   "first_seen": "2026-11-07",
+   "location": "Seal Beach, CA, USA",
+   "posted_at": "2026-11-07",
+   "role": "devops-sre",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "experienced",
+   "title": "DevOps Engineer",
+   "url": "https://www.linkedin.com/jobs/view/4488716821"
+  },
   "torentify:4beb34b15ace": {
    "company": "Torentify",
    "first_seen": "2026-10-15",
@@ -286372,6 +286461,19 @@
    "title": "Java Backend Engineer",
    "url": "https://www.linkedin.com/jobs/view/4429420353"
   },
+  "ust:944576f62c0b": {
+   "company": "UST",
+   "first_seen": "2026-11-07",
+   "location": "Atlanta, GA, USA",
+   "posted_at": "2026-11-07",
+   "role": "fullstack",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "experienced",
+   "title": "Junior Full Stack Developer (Data CoE)",
+   "url": "https://www.linkedin.com/jobs/view/4477733432"
+  },
   "ust:9970c2960579": {
    "company": "UST",
    "first_seen": "2026-10-04",
@@ -286410,6 +286512,19 @@
    "tier": "experienced",
    "title": "Machine Learning Engineer",
    "url": "https://www.linkedin.com/jobs/view/4452521867"
+  },
+  "ust:c052bcfb7f0a": {
+   "company": "UST",
+   "first_seen": "2026-11-07",
+   "location": "Frisco, TX, USA",
+   "posted_at": "2026-11-07",
+   "role": "fullstack",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "experienced",
+   "title": "Junior Full Stack Developer (Data CoE)",
+   "url": "https://www.linkedin.com/jobs/view/4477728646"
   },
   "ust:c1faca653428": {
    "company": "UST",
@@ -303114,7 +303229,7 @@
   },
   "Affirm": {
    "best": 246,
-   "last": 223,
+   "last": 222,
    "last_ok": "2026-11-07"
   },
   "Airbnb": {
@@ -303139,7 +303254,7 @@
   },
   "Anduril": {
    "best": 2605,
-   "last": 2603,
+   "last": 2600,
    "last_ok": "2026-11-07"
   },
   "Anthropic": {
@@ -303209,12 +303324,12 @@
   },
   "CVS Health": {
    "best": 200,
-   "last": 198,
+   "last": 200,
    "last_ok": "2026-11-07"
   },
   "Capital One": {
    "best": 171,
-   "last": 149,
+   "last": 147,
    "last_ok": "2026-11-07"
   },
   "Carta": {
@@ -303280,12 +303395,12 @@
   },
   "Decagon": {
    "best": 148,
-   "last": 132,
+   "last": 131,
    "last_ok": "2026-11-07"
   },
   "Dell Technologies": {
    "best": 500,
-   "last": 488,
+   "last": 489,
    "last_ok": "2026-11-07"
   },
   "Discord": {
@@ -303310,7 +303425,7 @@
   },
   "Elastic": {
    "best": 430,
-   "last": 423,
+   "last": 425,
    "last_ok": "2026-11-07"
   },
   "ElevenLabs": {
@@ -303325,7 +303440,7 @@
   },
   "Expedia Group": {
    "best": 134,
-   "last": 0,
+   "last": 114,
    "last_ok": "2026-11-07"
   },
   "Faire": {
@@ -303340,7 +303455,7 @@
   },
   "Figma": {
    "best": 165,
-   "last": 144,
+   "last": 145,
    "last_ok": "2026-11-07"
   },
   "Flexport": {
@@ -303430,7 +303545,7 @@
   },
   "LinkedIn (JobSpy)": {
    "best": 1281,
-   "last": 1029,
+   "last": 308,
    "last_ok": "2026-11-07"
   },
   "Lyft": {
@@ -303460,7 +303575,7 @@
   },
   "Mercury": {
    "best": 80,
-   "last": 79,
+   "last": 78,
    "last_ok": "2026-11-07"
   },
   "Microsoft": {
@@ -303480,7 +303595,7 @@
   },
   "Navy Federal": {
    "best": 189,
-   "last": 152,
+   "last": 151,
    "last_ok": "2026-11-07"
   },
   "Netflix": {
@@ -303515,7 +303630,7 @@
   },
   "OpenAI": {
    "best": 842,
-   "last": 820,
+   "last": 819,
    "last_ok": "2026-11-07"
   },
   "OpenEvidence": {
@@ -303585,7 +303700,7 @@
   },
   "Roblox": {
    "best": 273,
-   "last": 269,
+   "last": 270,
    "last_ok": "2026-11-07"
   },
   "Salesforce": {
@@ -303610,7 +303725,7 @@
   },
   "Simplify Aggregator": {
    "best": 2489,
-   "last": 2062,
+   "last": 2049,
    "last_ok": "2026-11-07"
   },
   "Snowflake": {
@@ -303712,7 +303827,7 @@
   },
   "Walmart Global Tech": {
    "best": 200,
-   "last": 63,
+   "last": 69,
    "last_ok": "2026-11-07"
   },
   "Waymo": {
@@ -303736,6 +303851,6 @@
    "last_ok": "2026-11-07"
   }
  },
- "updated": "2026-11-07T10:37:07Z",
+ "updated": "2026-11-07T16:39:25Z",
  "version": 1
 }
