@@ -7101,6 +7101,19 @@
    "title": "Frontend Developer - JavaScript",
    "url": "https://www.linkedin.com/jobs/view/4479593043"
   },
+  "agilegrid-solutions:be52a181823e": {
+   "company": "AgileGrid Solutions",
+   "first_seen": "2026-11-07",
+   "location": "USA",
+   "posted_at": "2026-11-07",
+   "role": "frontend",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "experienced",
+   "title": "Node JS Developer -React",
+   "url": "https://www.linkedin.com/jobs/view/4488724471"
+  },
   "agilegrid-solutions:cdb46fdd84bd": {
    "company": "AgileGrid Solutions",
    "first_seen": "2026-10-11",
@@ -105815,6 +105828,18 @@
    "url": "https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/296612",
    "workplace": "Remote"
   },
+  "dell-technologies:b0792df2f502": {
+   "company": "Dell Technologies",
+   "first_seen": "2026-11-07",
+   "location": "Austin, TX, United States",
+   "posted_at": "2026-11-07",
+   "role": "software",
+   "source": "oraclecloud",
+   "status": "new",
+   "tier": "experienced",
+   "title": "Software Engineer 2",
+   "url": "https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/302155"
+  },
   "dell-technologies:b96a3f7f8092": {
    "company": "Dell Technologies",
    "first_seen": "2026-10-09",
@@ -117607,6 +117632,19 @@
    "title": "Software Engineer I: Payload Engineer",
    "url": "https://www.linkedin.com/jobs/view/4472049289"
   },
+  "engradar:98194bd6a8ce": {
+   "company": "EngRadar",
+   "first_seen": "2026-11-07",
+   "location": "North Chicago, IL, USA",
+   "posted_at": "2026-11-07",
+   "role": "software",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "newgrad",
+   "title": "Associate Software Engineer I",
+   "url": "https://www.linkedin.com/jobs/view/4488719981"
+  },
   "engradar:c2a437527c02": {
    "company": "EngRadar",
    "first_seen": "2026-10-13",
@@ -120048,6 +120086,19 @@
    "tier": "experienced",
    "title": "Data Engineer",
    "url": "https://www.linkedin.com/jobs/view/4482901182"
+  },
+  "evlo-ai:3fc2687f0dfe": {
+   "company": "Evlo AI",
+   "first_seen": "2026-11-07",
+   "location": "Phoenix, AZ, USA",
+   "posted_at": "2026-11-07",
+   "role": "backend",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "experienced",
+   "title": "Backend Engineer",
+   "url": "https://www.linkedin.com/jobs/view/4487611722"
   },
   "evlo-ai:416d74c3bb04": {
    "company": "Evlo AI",
@@ -217832,6 +217883,21 @@
    "title": "Member of Technical Staff (GTM Engineer, Growth)",
    "url": "https://jobs.ashbyhq.com/perplexity/3b523d3a-23bd-4887-8e3c-239d14d66b06"
   },
+  "perplexity:27b526954abe": {
+   "comp": "$220K – $405K • Offers Equity",
+   "company": "Perplexity",
+   "department": "AI Research & Systems",
+   "employment_type": "Full-time",
+   "first_seen": "2026-11-07",
+   "location": "San Francisco",
+   "posted_at": "2026-11-07",
+   "role": "ml-ai",
+   "source": "ashby",
+   "status": "new",
+   "tier": "experienced",
+   "title": "Member of Technical Staff (Software Engineer, AI Policy and Strategic Initiatives)",
+   "url": "https://jobs.ashbyhq.com/Perplexity/1056951e-8a42-4330-b72c-90162b3cd1c9"
+  },
   "perplexity:311f62ac820e": {
    "comp": "$250K – $405K • Offers Equity",
    "company": "Perplexity",
@@ -263688,6 +263754,19 @@
    "title": "Data Engineer",
    "url": "https://www.linkedin.com/jobs/view/4471780517"
   },
+  "synechron:9691b1cb6f66": {
+   "company": "Synechron",
+   "first_seen": "2026-11-07",
+   "location": "Pittsburgh, PA, USA",
+   "posted_at": "2026-11-07",
+   "role": "ml-ai",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "experienced",
+   "title": "Sr./lead UI Angular Developer with Agentic AI",
+   "url": "https://www.linkedin.com/jobs/view/4479653536"
+  },
   "synechron:995a9d3e7206": {
    "company": "Synechron",
    "first_seen": "2026-10-19",
@@ -279129,6 +279208,19 @@
    "url": "https://www.linkedin.com/jobs/view/4473089048",
    "workplace": "Remote"
   },
+  "torentify:2c0ab2b7075a": {
+   "company": "Torentify",
+   "first_seen": "2026-11-07",
+   "location": "O'Fallon, MO, USA",
+   "posted_at": "2026-11-07",
+   "role": "frontend",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "experienced",
+   "title": "Angular Frontend Engineer",
+   "url": "https://www.linkedin.com/jobs/view/4488714940"
+  },
   "torentify:311cbac9cca6": {
    "company": "Torentify",
    "first_seen": "2026-09-27",
@@ -279143,6 +279235,19 @@
    "title": "Data Engineer II(Remote)",
    "url": "https://www.linkedin.com/jobs/view/4472442946",
    "workplace": "Remote"
+  },
+  "torentify:31ae948a0807": {
+   "company": "Torentify",
+   "first_seen": "2026-11-07",
+   "location": "Denver, CO, USA",
+   "posted_at": "2026-11-07",
+   "role": "frontend",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "experienced",
+   "title": "Frontend Engineer II",
+   "url": "https://www.linkedin.com/jobs/view/4488712972"
   },
   "torentify:36d3bdbed214": {
    "company": "Torentify",
@@ -280041,6 +280146,19 @@
    "title": "Data Scientist - Remote Position",
    "url": "https://www.linkedin.com/jobs/view/4476151167",
    "workplace": "Remote"
+  },
+  "torentify:de7bafc00959": {
+   "company": "Torentify",
+   "first_seen": "2026-11-07",
+   "location": "New York, NY, USA",
+   "posted_at": "2026-11-07",
+   "role": "backend",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "experienced",
+   "title": "Backend Engineer",
+   "url": "https://www.linkedin.com/jobs/view/4488720812"
   },
   "torentify:e0eae845a021": {
    "company": "Torentify",
@@ -298724,6 +298842,19 @@
    "title": "Frontend Software Engineer II",
    "url": "https://www.linkedin.com/jobs/view/4480951401"
   },
+  "wiraa:33f77706f2b0": {
+   "company": "Wiraa",
+   "first_seen": "2026-11-07",
+   "location": "USA",
+   "posted_at": "2026-11-07",
+   "role": "frontend",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "experienced",
+   "title": "Frontend Software Developer (React.js, HTML)",
+   "url": "https://www.linkedin.com/jobs/view/4487623078"
+  },
   "wiraa:359017d1492c": {
    "company": "Wiraa",
    "first_seen": "2026-09-27",
@@ -303249,7 +303380,7 @@
   },
   "American Express": {
    "best": 500,
-   "last": 356,
+   "last": 352,
    "last_ok": "2026-11-07"
   },
   "Anduril": {
@@ -303274,7 +303405,7 @@
   },
   "Applied Intuition": {
    "best": 330,
-   "last": 326,
+   "last": 322,
    "last_ok": "2026-11-07"
   },
   "Applied Materials": {
@@ -303385,7 +303516,7 @@
   },
   "Databricks": {
    "best": 928,
-   "last": 924,
+   "last": 922,
    "last_ok": "2026-11-07"
   },
   "Datadog": {
@@ -303400,7 +303531,7 @@
   },
   "Dell Technologies": {
    "best": 500,
-   "last": 489,
+   "last": 490,
    "last_ok": "2026-11-07"
   },
   "Discord": {
@@ -303495,7 +303626,7 @@
   },
   "Harvey": {
    "best": 386,
-   "last": 371,
+   "last": 370,
    "last_ok": "2026-11-07"
   },
   "Hewlett Packard Enterprise": {
@@ -303545,7 +303676,7 @@
   },
   "LinkedIn (JobSpy)": {
    "best": 1281,
-   "last": 308,
+   "last": 259,
    "last_ok": "2026-11-07"
   },
   "Lyft": {
@@ -303560,7 +303691,7 @@
   },
   "Mastercard": {
    "best": 185,
-   "last": 181,
+   "last": 180,
    "last_ok": "2026-11-07"
   },
   "Match Group": {
@@ -303705,12 +303836,12 @@
   },
   "Salesforce": {
    "best": 178,
-   "last": 168,
+   "last": 169,
    "last_ok": "2026-11-07"
   },
   "Samsara": {
    "best": 340,
-   "last": 315,
+   "last": 316,
    "last_ok": "2026-11-07"
   },
   "Scale AI": {
@@ -303725,12 +303856,12 @@
   },
   "Simplify Aggregator": {
    "best": 2489,
-   "last": 2049,
+   "last": 2044,
    "last_ok": "2026-11-07"
   },
   "Snowflake": {
    "best": 393,
-   "last": 371,
+   "last": 372,
    "last_ok": "2026-11-07"
   },
   "SoFi": {
@@ -303739,8 +303870,8 @@
    "last_ok": "2026-11-07"
   },
   "SpaceX": {
-   "best": 2898,
-   "last": 2898,
+   "best": 2899,
+   "last": 2899,
    "last_ok": "2026-11-07"
   },
   "Spotify": {
@@ -303827,7 +303958,7 @@
   },
   "Walmart Global Tech": {
    "best": 200,
-   "last": 69,
+   "last": 68,
    "last_ok": "2026-11-07"
   },
   "Waymo": {
@@ -303851,6 +303982,6 @@
    "last_ok": "2026-11-07"
   }
  },
- "updated": "2026-11-07T21:02:34Z",
+ "updated": "2026-11-07T22:10:51Z",
  "version": 1
 }
