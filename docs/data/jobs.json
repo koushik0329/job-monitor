@@ -200290,6 +200290,18 @@
    "title": "Frontend Web Software Engineer, NGC",
    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Frontend-Web-Software-Engineer--NGC_JR2025149"
   },
+  "nvidia:07933c3d8c4b": {
+   "company": "Nvidia",
+   "first_seen": "2026-11-07",
+   "location": "3 Locations",
+   "posted_at": "2026-11-07",
+   "role": "ml-ai",
+   "source": "workday",
+   "status": "new",
+   "tier": "experienced",
+   "title": "Machine Learning Engineer, Data Curation - Autonomous Vehicles",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Machine-Learning-Engineer--Data-Curation---Autonomous-Vehicles_JR2028908"
+  },
   "nvidia:07c3794aa329": {
    "company": "Nvidia",
    "first_seen": "2026-08-24",
@@ -303279,6 +303291,6 @@
    "last_ok": "2026-11-07"
   }
  },
- "updated": "2026-11-07T02:13:28Z",
+ "updated": "2026-11-07T03:04:13Z",
  "version": 1
 }
