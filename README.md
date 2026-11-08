@@ -75,6 +75,23 @@ is set.
 
 ---
 
+## HiringCafe (on-demand search)
+
+HiringCafe is available from the software dashboard header via **HiringCafe
+search**. This opens HiringCafe in a new tab so you can run a manual search and
+use its own filters for keywords, location, remote/hybrid/on-site, seniority,
+salary, and experience.
+
+This is intentionally **on-demand only**:
+- HiringCafe results are not imported into `docs/data/jobs.json`.
+- They do not change the scheduled GitHub Actions scans or the existing
+  company/ATS sources.
+- They do not generate Discord alerts. The existing Discord pipeline remains
+  limited to mobile-development job titles.
+- HiringCafe documents its ChatGPT search app as read-only and intended for
+  conversational searches; it does not support alerts or heavy automated use.
+  See [HiringCafe's official ChatGPT app documentation](https://hiringcafe.com/documentation/hiringcafe-chatgpt-app).
+
 ## 2. What every file does
 
 ```
