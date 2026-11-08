@@ -28541,6 +28541,19 @@
    "title": "Material Inventory Coordinator - Imaging - 8-Hour Day Shift",
    "url": "https://www.linkedin.com/jobs/view/4458047881"
   },
+  "celanese:8d24d82c47d0": {
+   "company": "Celanese",
+   "first_seen": "2026-11-08",
+   "location": "Irving, TX, USA",
+   "posted_at": "2026-11-07",
+   "role": "supply-planning",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "mid",
+   "title": "Raw Material Planner",
+   "url": "https://www.linkedin.com/jobs/view/4480575564"
+  },
   "celestica:0662eebd8050": {
    "company": "Celestica",
    "first_seen": "2026-10-04",
@@ -72174,6 +72187,19 @@
    "tier": "mid",
    "title": "Supply Planner II",
    "url": "https://www.linkedin.com/jobs/view/4487348977"
+  },
+  "martin-brower-uk-and-ireland:a618eb1674dd": {
+   "company": "Martin Brower UK and Ireland",
+   "first_seen": "2026-11-08",
+   "location": "Chicago, IL, USA",
+   "posted_at": "2026-11-06",
+   "role": "supply-planning",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "mid",
+   "title": "Supply Planner II",
+   "url": "https://www.linkedin.com/jobs/view/4487355408"
   },
   "martin-brower-uk-and-ireland:fffb2c06d89e": {
    "company": "Martin Brower UK and Ireland",
@@ -129927,7 +129953,7 @@
   },
   "Abbott": {
    "best": 535,
-   "last": 521,
+   "last": 520,
    "last_ok": "2026-11-08"
   },
   "Airbnb": {
@@ -129962,12 +129988,12 @@
   },
   "Boeing": {
    "best": 319,
-   "last": 300,
+   "last": 299,
    "last_ok": "2026-11-08"
   },
   "CVS Health": {
    "best": 356,
-   "last": 356,
+   "last": 355,
    "last_ok": "2026-11-08"
   },
   "Carvana": {
@@ -130047,7 +130073,7 @@
   },
   "LinkedIn (JobSpy)": {
    "best": 738,
-   "last": 180,
+   "last": 203,
    "last_ok": "2026-11-08"
   },
   "Liquid Death": {
@@ -130062,12 +130088,12 @@
   },
   "Lyft": {
    "best": 196,
-   "last": 167,
+   "last": 166,
    "last_ok": "2026-11-08"
   },
   "Medtronic": {
    "best": 451,
-   "last": 388,
+   "last": 386,
    "last_ok": "2026-11-08"
   },
   "Micron": {
@@ -130087,7 +130113,7 @@
   },
   "Nike": {
    "best": 182,
-   "last": 161,
+   "last": 160,
    "last_ok": "2026-11-08"
   },
   "Nuro": {
@@ -130097,7 +130123,7 @@
   },
   "Nvidia": {
    "best": 308,
-   "last": 305,
+   "last": 306,
    "last_ok": "2026-11-08"
   },
   "Olipop": {
@@ -130107,7 +130133,7 @@
   },
   "OpenAI": {
    "best": 840,
-   "last": 819,
+   "last": 818,
    "last_ok": "2026-11-08"
   },
   "Oura": {
@@ -130141,8 +130167,8 @@
    "last_ok": "2026-11-08"
   },
   "SpaceX": {
-   "best": 2899,
-   "last": 2899,
+   "best": 2900,
+   "last": 2900,
    "last_ok": "2026-11-08"
   },
   "Stripe": {
@@ -130157,7 +130183,7 @@
   },
   "Target": {
    "best": 445,
-   "last": 343,
+   "last": 344,
    "last_ok": "2026-11-08"
   },
   "Thrive Market": {
@@ -130172,7 +130198,7 @@
   },
   "Unilever": {
    "best": 204,
-   "last": 196,
+   "last": 195,
    "last_ok": "2026-11-08"
   },
   "Verkada": {
@@ -130182,12 +130208,12 @@
   },
   "Walmart Global Tech": {
    "best": 268,
-   "last": 222,
+   "last": 214,
    "last_ok": "2026-11-08"
   },
   "Waymo": {
    "best": 373,
-   "last": 371,
+   "last": 369,
    "last_ok": "2026-11-08"
   },
   "Zebra Technologies": {
@@ -130196,6 +130222,6 @@
    "last_ok": "2026-11-08"
   }
  },
- "updated": "2026-11-08T01:20:49Z",
+ "updated": "2026-11-08T08:56:11Z",
  "version": 1
 }
