@@ -39561,6 +39561,18 @@
    "title": "Full Stack Engineer, Education Labs",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5097186008"
   },
+  "anthropic:7b1f864f6131": {
+   "company": "Anthropic",
+   "first_seen": "2026-11-08",
+   "location": "San Francisco, CA | New York City, NY",
+   "posted_at": "2026-11-08",
+   "role": "ml-ai",
+   "source": "greenhouse",
+   "status": "new",
+   "tier": "experienced",
+   "title": "Research Engineer, Cybersecurity RL",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5459191008"
+  },
   "anthropic:819bfaefb112": {
    "company": "Anthropic",
    "first_seen": "2026-09-09",
@@ -304186,7 +304198,7 @@
   },
   "Apple": {
    "best": 164,
-   "last": 152,
+   "last": 150,
    "last_ok": "2026-11-08"
   },
   "Applied Intuition": {
@@ -304768,6 +304780,6 @@
    "last_ok": "2026-11-08"
   }
  },
- "updated": "2026-11-08T16:56:19Z",
+ "updated": "2026-11-08T21:20:05Z",
  "version": 1
 }
