@@ -98692,6 +98692,19 @@
    "title": "Software Engineer (Early Career)",
    "url": "https://www.linkedin.com/jobs/view/4478132678"
   },
+  "consultnet-technology-services-and-solutions:3a17f2b9fd3f": {
+   "company": "ConsultNet Technology Services and Solutions",
+   "first_seen": "2026-11-08",
+   "location": "Rockville, MD, USA",
+   "posted_at": "2026-11-05",
+   "role": "security",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "experienced",
+   "title": "Cybersecurity Engineer",
+   "url": "https://www.linkedin.com/jobs/view/4487775172"
+  },
   "consultnet-technology-services-and-solutions:54833c53d346": {
    "checked_at": "2026-10-02",
    "closed_at": "2026-10-02",
@@ -120530,6 +120543,19 @@
    "title": "Machine Learning Engineer",
    "url": "https://www.linkedin.com/jobs/view/4485425228"
   },
+  "evlo-ai:c8ea3fbf02ba": {
+   "company": "Evlo AI",
+   "first_seen": "2026-11-08",
+   "location": "Washington, DC, USA",
+   "posted_at": "2026-11-07",
+   "role": "ml-ai",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "experienced",
+   "title": "Machine Learning Engineer",
+   "url": "https://www.linkedin.com/jobs/view/4487622466"
+  },
   "evlo-ai:cb529b1281c3": {
    "checked_at": "2026-10-02",
    "company": "Evlo AI",
@@ -123687,6 +123713,19 @@
    "tier": "newgrad",
    "title": "Forward Deployed Software Engineer, New Grad - Commercial",
    "url": "https://www.linkedin.com/jobs/view/4480005521"
+  },
+  "fde-times:c18337812479": {
+   "company": "FDE Times",
+   "first_seen": "2026-11-08",
+   "location": "San Francisco County, CA, USA",
+   "posted_at": "2026-11-07",
+   "role": "ml-ai",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "experienced",
+   "title": "Machine Learning Engineer, Radar",
+   "url": "https://www.linkedin.com/jobs/view/4486634501"
   },
   "fde-times:cc9524d98284": {
    "company": "FDE Times",
@@ -185839,6 +185878,19 @@
    "title": "DevOps Engineer (6483)",
    "url": "https://www.linkedin.com/jobs/view/4402478833"
   },
+  "metrostar:1173b5bddd6b": {
+   "company": "MetroStar",
+   "first_seen": "2026-11-08",
+   "location": "Reston, VA, USA",
+   "posted_at": "2026-11-06",
+   "role": "security",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "experienced",
+   "title": "Information Systems Security Engineer (6905)",
+   "url": "https://www.linkedin.com/jobs/view/4486288222"
+  },
   "metrostar:1c6aa15090ba": {
    "company": "MetroStar",
    "first_seen": "2026-10-13",
@@ -189570,6 +189622,19 @@
    "tier": "newgrad",
    "title": "Associate Embedded Software Engineer - Summer 2027",
    "url": "https://www.linkedin.com/jobs/view/4471845924"
+  },
+  "mixpanel:82745dd4180e": {
+   "company": "Mixpanel",
+   "first_seen": "2026-11-08",
+   "location": "San Francisco, CA, USA",
+   "posted_at": "2026-11-07",
+   "role": "security",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "experienced",
+   "title": "Security Engineer",
+   "url": "https://www.linkedin.com/jobs/view/4488469879"
   },
   "mizuho:1d01946280c5": {
    "company": "Mizuho",
@@ -303346,22 +303411,22 @@
   "AMD": {
    "best": 400,
    "last": 400,
-   "last_ok": "2026-11-07"
+   "last_ok": "2026-11-08"
   },
   "Abridge": {
    "best": 50,
    "last": 26,
-   "last_ok": "2026-11-07"
+   "last_ok": "2026-11-08"
   },
   "Adobe": {
    "best": 190,
    "last": 155,
-   "last_ok": "2026-11-07"
+   "last_ok": "2026-11-08"
   },
   "Affirm": {
    "best": 246,
    "last": 222,
-   "last_ok": "2026-11-07"
+   "last_ok": "2026-11-08"
   },
   "Airbnb": {
    "best": 213,
@@ -303371,7 +303436,7 @@
   "Airtable": {
    "best": 16,
    "last": 5,
-   "last_ok": "2026-11-07"
+   "last_ok": "2026-11-08"
   },
   "Amazon": {
    "best": 100,
@@ -303380,13 +303445,13 @@
   },
   "American Express": {
    "best": 500,
-   "last": 352,
-   "last_ok": "2026-11-07"
+   "last": 351,
+   "last_ok": "2026-11-08"
   },
   "Anduril": {
    "best": 2605,
    "last": 2600,
-   "last_ok": "2026-11-07"
+   "last_ok": "2026-11-08"
   },
   "Anthropic": {
    "best": 684,
@@ -303396,7 +303461,7 @@
   "Anysphere": {
    "best": 137,
    "last": 121,
-   "last_ok": "2026-11-07"
+   "last_ok": "2026-11-08"
   },
   "Apple": {
    "best": 164,
@@ -303406,87 +303471,87 @@
   "Applied Intuition": {
    "best": 330,
    "last": 322,
-   "last_ok": "2026-11-07"
+   "last_ok": "2026-11-08"
   },
   "Applied Materials": {
    "best": 195,
    "last": 194,
-   "last_ok": "2026-11-07"
+   "last_ok": "2026-11-08"
   },
   "Asana": {
    "best": 126,
    "last": 108,
-   "last_ok": "2026-11-07"
+   "last_ok": "2026-11-08"
   },
   "Attentive": {
    "best": 39,
    "last": 27,
-   "last_ok": "2026-11-07"
+   "last_ok": "2026-11-08"
   },
   "Auto-Owners Insurance": {
    "best": 104,
    "last": 104,
-   "last_ok": "2026-11-07"
+   "last_ok": "2026-11-08"
   },
   "Berkshire Hathaway Energy": {
    "best": 137,
    "last": 136,
-   "last_ok": "2026-11-07"
+   "last_ok": "2026-11-08"
   },
   "Betterment": {
    "best": 32,
    "last": 26,
-   "last_ok": "2026-11-07"
+   "last_ok": "2026-11-08"
   },
   "Block": {
    "best": 231,
    "last": 200,
-   "last_ok": "2026-11-07"
+   "last_ok": "2026-11-08"
   },
   "Boeing": {
    "best": 196,
    "last": 193,
-   "last_ok": "2026-11-07"
+   "last_ok": "2026-11-08"
   },
   "Brex": {
    "best": 299,
    "last": 268,
-   "last_ok": "2026-11-07"
+   "last_ok": "2026-11-08"
   },
   "CVS Health": {
    "best": 200,
    "last": 200,
-   "last_ok": "2026-11-07"
+   "last_ok": "2026-11-08"
   },
   "Capital One": {
    "best": 171,
    "last": 147,
-   "last_ok": "2026-11-07"
+   "last_ok": "2026-11-08"
   },
   "Carta": {
    "best": 79,
    "last": 79,
-   "last_ok": "2026-11-07"
+   "last_ok": "2026-11-08"
   },
   "Cerebras": {
    "best": 125,
    "last": 121,
-   "last_ok": "2026-11-07"
+   "last_ok": "2026-11-08"
   },
   "Checkr": {
    "best": 51,
    "last": 39,
-   "last_ok": "2026-11-07"
+   "last_ok": "2026-11-08"
   },
   "Chime": {
    "best": 75,
    "last": 72,
-   "last_ok": "2026-11-07"
+   "last_ok": "2026-11-08"
   },
   "Cisco": {
    "best": 146,
    "last": 145,
-   "last_ok": "2026-11-07"
+   "last_ok": "2026-11-08"
   },
   "Citadel": {
    "best": 0,
@@ -303497,122 +303562,122 @@
   "Cloudflare": {
    "best": 470,
    "last": 464,
-   "last_ok": "2026-11-07"
+   "last_ok": "2026-11-08"
   },
   "Cognition": {
    "best": 108,
    "last": 108,
-   "last_ok": "2026-11-07"
+   "last_ok": "2026-11-08"
   },
   "Coinbase": {
    "best": 285,
    "last": 284,
-   "last_ok": "2026-11-07"
+   "last_ok": "2026-11-08"
   },
   "DTCC": {
    "best": 459,
    "last": 415,
-   "last_ok": "2026-11-07"
+   "last_ok": "2026-11-08"
   },
   "Databricks": {
    "best": 928,
    "last": 922,
-   "last_ok": "2026-11-07"
+   "last_ok": "2026-11-08"
   },
   "Datadog": {
    "best": 456,
-   "last": 400,
-   "last_ok": "2026-11-07"
+   "last": 401,
+   "last_ok": "2026-11-08"
   },
   "Decagon": {
    "best": 148,
    "last": 131,
-   "last_ok": "2026-11-07"
+   "last_ok": "2026-11-08"
   },
   "Dell Technologies": {
    "best": 500,
    "last": 490,
-   "last_ok": "2026-11-07"
+   "last_ok": "2026-11-08"
   },
   "Discord": {
    "best": 52,
    "last": 27,
-   "last_ok": "2026-11-07"
+   "last_ok": "2026-11-08"
   },
   "DoorDash": {
    "best": 475,
    "last": 439,
-   "last_ok": "2026-11-07"
+   "last_ok": "2026-11-08"
   },
   "Dropbox": {
    "best": 47,
    "last": 33,
-   "last_ok": "2026-11-07"
+   "last_ok": "2026-11-08"
   },
   "Duolingo": {
    "best": 92,
    "last": 59,
-   "last_ok": "2026-11-07"
+   "last_ok": "2026-11-08"
   },
   "Elastic": {
    "best": 430,
    "last": 425,
-   "last_ok": "2026-11-07"
+   "last_ok": "2026-11-08"
   },
   "ElevenLabs": {
    "best": 256,
    "last": 139,
-   "last_ok": "2026-11-07"
+   "last_ok": "2026-11-08"
   },
   "Emerson Electric": {
    "best": 500,
    "last": 500,
-   "last_ok": "2026-11-07"
+   "last_ok": "2026-11-08"
   },
   "Expedia Group": {
    "best": 134,
    "last": 114,
-   "last_ok": "2026-11-07"
+   "last_ok": "2026-11-08"
   },
   "Faire": {
    "best": 82,
    "last": 68,
-   "last_ok": "2026-11-07"
+   "last_ok": "2026-11-08"
   },
   "Fidelity National Information Services": {
    "best": 183,
    "last": 169,
-   "last_ok": "2026-11-07"
+   "last_ok": "2026-11-08"
   },
   "Figma": {
    "best": 165,
    "last": 145,
-   "last_ok": "2026-11-07"
+   "last_ok": "2026-11-08"
   },
   "Flexport": {
    "best": 212,
    "last": 190,
-   "last_ok": "2026-11-07"
+   "last_ok": "2026-11-08"
   },
   "GM Financial": {
    "best": 132,
    "last": 124,
-   "last_ok": "2026-11-07"
+   "last_ok": "2026-11-08"
   },
   "General Motors": {
    "best": 198,
    "last": 198,
-   "last_ok": "2026-11-07"
+   "last_ok": "2026-11-08"
   },
   "GitLab": {
    "best": 249,
    "last": 248,
-   "last_ok": "2026-11-07"
+   "last_ok": "2026-11-08"
   },
   "Glean": {
    "best": 137,
    "last": 125,
-   "last_ok": "2026-11-07"
+   "last_ok": "2026-11-08"
   },
   "Google": {
    "best": 100,
@@ -303622,67 +303687,67 @@
   "Gusto": {
    "best": 104,
    "last": 83,
-   "last_ok": "2026-11-07"
+   "last_ok": "2026-11-08"
   },
   "Harvey": {
    "best": 386,
    "last": 370,
-   "last_ok": "2026-11-07"
+   "last_ok": "2026-11-08"
   },
   "Hewlett Packard Enterprise": {
    "best": 200,
    "last": 191,
-   "last_ok": "2026-11-07"
+   "last_ok": "2026-11-08"
   },
   "Honeywell": {
    "best": 500,
    "last": 500,
-   "last_ok": "2026-11-07"
+   "last_ok": "2026-11-08"
   },
   "IMC Trading": {
    "best": 176,
    "last": 162,
-   "last_ok": "2026-11-07"
+   "last_ok": "2026-11-08"
   },
   "Instacart": {
    "best": 131,
    "last": 90,
-   "last_ok": "2026-11-07"
+   "last_ok": "2026-11-08"
   },
   "Intel": {
    "best": 173,
    "last": 157,
-   "last_ok": "2026-11-07"
+   "last_ok": "2026-11-08"
   },
   "JP Morgan Chase": {
    "best": 460,
-   "last": 421,
-   "last_ok": "2026-11-07"
+   "last": 423,
+   "last_ok": "2026-11-08"
   },
   "Komodo Health": {
    "best": 37,
    "last": 21,
-   "last_ok": "2026-11-07"
+   "last_ok": "2026-11-08"
   },
   "Lazard": {
    "best": 137,
    "last": 121,
-   "last_ok": "2026-11-07"
+   "last_ok": "2026-11-08"
   },
   "Linear": {
    "best": 34,
    "last": 32,
-   "last_ok": "2026-11-07"
+   "last_ok": "2026-11-08"
   },
   "LinkedIn (JobSpy)": {
    "best": 1281,
-   "last": 259,
-   "last_ok": "2026-11-07"
+   "last": 230,
+   "last_ok": "2026-11-08"
   },
   "Lyft": {
    "best": 195,
    "last": 167,
-   "last_ok": "2026-11-07"
+   "last_ok": "2026-11-08"
   },
   "Marqeta": {
    "best": 2,
@@ -303692,22 +303757,22 @@
   "Mastercard": {
    "best": 185,
    "last": 180,
-   "last_ok": "2026-11-07"
+   "last_ok": "2026-11-08"
   },
   "Match Group": {
    "best": 81,
    "last": 71,
-   "last_ok": "2026-11-07"
+   "last_ok": "2026-11-08"
   },
   "McKesson": {
    "best": 194,
    "last": 180,
-   "last_ok": "2026-11-07"
+   "last_ok": "2026-11-08"
   },
   "Mercury": {
    "best": 80,
    "last": 78,
-   "last_ok": "2026-11-07"
+   "last_ok": "2026-11-08"
   },
   "Microsoft": {
    "best": 150,
@@ -303717,17 +303782,17 @@
   "MongoDB": {
    "best": 415,
    "last": 375,
-   "last_ok": "2026-11-07"
+   "last_ok": "2026-11-08"
   },
   "NOV": {
    "best": 500,
    "last": 500,
-   "last_ok": "2026-11-07"
+   "last_ok": "2026-11-08"
   },
   "Navy Federal": {
    "best": 189,
    "last": 151,
-   "last_ok": "2026-11-07"
+   "last_ok": "2026-11-08"
   },
   "Netflix": {
    "best": 10,
@@ -303737,27 +303802,27 @@
   "Nokia": {
    "best": 500,
    "last": 500,
-   "last_ok": "2026-11-07"
+   "last_ok": "2026-11-08"
   },
   "Notion": {
    "best": 154,
    "last": 154,
-   "last_ok": "2026-11-07"
+   "last_ok": "2026-11-08"
   },
   "Nuro": {
    "best": 111,
    "last": 94,
-   "last_ok": "2026-11-07"
+   "last_ok": "2026-11-08"
   },
   "Nvidia": {
    "best": 197,
-   "last": 194,
+   "last": 193,
    "last_ok": "2026-11-08"
   },
   "Okta": {
    "best": 400,
    "last": 375,
-   "last_ok": "2026-11-07"
+   "last_ok": "2026-11-08"
   },
   "OpenAI": {
    "best": 842,
@@ -303767,117 +303832,117 @@
   "OpenEvidence": {
    "best": 11,
    "last": 8,
-   "last_ok": "2026-11-07"
+   "last_ok": "2026-11-08"
   },
   "Oracle": {
    "best": 500,
    "last": 500,
-   "last_ok": "2026-11-07"
+   "last_ok": "2026-11-08"
   },
   "PagerDuty": {
    "best": 61,
    "last": 47,
-   "last_ok": "2026-11-07"
+   "last_ok": "2026-11-08"
   },
   "Palantir": {
    "best": 324,
    "last": 305,
-   "last_ok": "2026-11-07"
+   "last_ok": "2026-11-08"
   },
   "Peloton": {
    "best": 61,
    "last": 45,
-   "last_ok": "2026-11-07"
+   "last_ok": "2026-11-08"
   },
   "Perplexity": {
    "best": 139,
    "last": 137,
-   "last_ok": "2026-11-07"
+   "last_ok": "2026-11-08"
   },
   "Pinterest": {
    "best": 225,
    "last": 168,
-   "last_ok": "2026-11-07"
+   "last_ok": "2026-11-08"
   },
   "Plaid": {
    "best": 144,
    "last": 141,
-   "last_ok": "2026-11-07"
+   "last_ok": "2026-11-08"
   },
   "RELX": {
    "best": 196,
    "last": 189,
-   "last_ok": "2026-11-07"
+   "last_ok": "2026-11-08"
   },
   "Ramp": {
    "best": 173,
-   "last": 171,
-   "last_ok": "2026-11-07"
+   "last": 169,
+   "last_ok": "2026-11-08"
   },
   "Reddit": {
    "best": 166,
    "last": 163,
-   "last_ok": "2026-11-07"
+   "last_ok": "2026-11-08"
   },
   "Replit": {
    "best": 79,
    "last": 28,
-   "last_ok": "2026-11-07"
+   "last_ok": "2026-11-08"
   },
   "Robinhood": {
    "best": 182,
    "last": 150,
-   "last_ok": "2026-11-07"
+   "last_ok": "2026-11-08"
   },
   "Roblox": {
    "best": 273,
    "last": 270,
-   "last_ok": "2026-11-07"
+   "last_ok": "2026-11-08"
   },
   "Salesforce": {
    "best": 178,
    "last": 169,
-   "last_ok": "2026-11-07"
+   "last_ok": "2026-11-08"
   },
   "Samsara": {
    "best": 340,
    "last": 316,
-   "last_ok": "2026-11-07"
+   "last_ok": "2026-11-08"
   },
   "Scale AI": {
    "best": 228,
    "last": 168,
-   "last_ok": "2026-11-07"
+   "last_ok": "2026-11-08"
   },
   "Sierra": {
    "best": 220,
    "last": 217,
-   "last_ok": "2026-11-07"
+   "last_ok": "2026-11-08"
   },
   "Simplify Aggregator": {
    "best": 2489,
-   "last": 2044,
-   "last_ok": "2026-11-07"
+   "last": 2003,
+   "last_ok": "2026-11-08"
   },
   "Snowflake": {
    "best": 393,
    "last": 372,
-   "last_ok": "2026-11-07"
+   "last_ok": "2026-11-08"
   },
   "SoFi": {
    "best": 64,
    "last": 46,
-   "last_ok": "2026-11-07"
+   "last_ok": "2026-11-08"
   },
   "SpaceX": {
    "best": 2899,
    "last": 2899,
-   "last_ok": "2026-11-07"
+   "last_ok": "2026-11-08"
   },
   "Spotify": {
    "best": 95,
    "last": 85,
-   "last_ok": "2026-11-07"
+   "last_ok": "2026-11-08"
   },
   "Stripe": {
    "best": 768,
@@ -303887,12 +303952,12 @@
   "Suno": {
    "best": 73,
    "last": 68,
-   "last_ok": "2026-11-07"
+   "last_ok": "2026-11-08"
   },
   "Target": {
    "best": 200,
    "last": 196,
-   "last_ok": "2026-11-07"
+   "last_ok": "2026-11-08"
   },
   "Tesla": {
    "best": 0,
@@ -303903,27 +303968,27 @@
   "The Toro Company": {
    "best": 139,
    "last": 135,
-   "last_ok": "2026-11-07"
+   "last_ok": "2026-11-08"
   },
   "The Walt Disney Company": {
    "best": 168,
    "last": 109,
-   "last_ok": "2026-11-07"
+   "last_ok": "2026-11-08"
   },
   "Trimble": {
    "best": 158,
    "last": 144,
-   "last_ok": "2026-11-07"
+   "last_ok": "2026-11-08"
   },
   "Twilio": {
    "best": 154,
    "last": 128,
-   "last_ok": "2026-11-07"
+   "last_ok": "2026-11-08"
   },
   "Two Sigma": {
    "best": 66,
    "last": 66,
-   "last_ok": "2026-11-07"
+   "last_ok": "2026-11-08"
   },
   "Uber": {
    "best": 0,
@@ -303934,37 +303999,37 @@
   "Upstart": {
    "best": 101,
    "last": 85,
-   "last_ok": "2026-11-07"
+   "last_ok": "2026-11-08"
   },
   "Vanta": {
    "best": 112,
    "last": 85,
-   "last_ok": "2026-11-07"
+   "last_ok": "2026-11-08"
   },
   "Verizon": {
    "best": 142,
    "last": 135,
-   "last_ok": "2026-11-07"
+   "last_ok": "2026-11-08"
   },
   "Verkada": {
    "best": 347,
    "last": 343,
-   "last_ok": "2026-11-07"
+   "last_ok": "2026-11-08"
   },
   "Visa": {
    "best": 183,
    "last": 178,
-   "last_ok": "2026-11-07"
+   "last_ok": "2026-11-08"
   },
   "Walmart Global Tech": {
    "best": 200,
-   "last": 68,
-   "last_ok": "2026-11-07"
+   "last": 53,
+   "last_ok": "2026-11-08"
   },
   "Waymo": {
    "best": 374,
-   "last": 370,
-   "last_ok": "2026-11-07"
+   "last": 371,
+   "last_ok": "2026-11-08"
   },
   "Webflow": {
    "best": 31,
@@ -303974,14 +304039,14 @@
   "Whoop": {
    "best": 173,
    "last": 124,
-   "last_ok": "2026-11-07"
+   "last_ok": "2026-11-08"
   },
   "xAI": {
    "best": 312,
    "last": 303,
-   "last_ok": "2026-11-07"
+   "last_ok": "2026-11-08"
   }
  },
- "updated": "2026-11-08T00:52:26Z",
+ "updated": "2026-11-08T01:40:50Z",
  "version": 1
 }
