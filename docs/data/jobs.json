@@ -25623,7 +25623,7 @@
   },
   "amazon:f9613dbe31d2": {
    "company": "Amazon",
-   "employer_checked": "2026-11-01",
+   "employer_checked": "2026-11-08",
    "first_seen": "2026-10-31",
    "location": "Arlington, VA, USA",
    "posted_at": "2026-10-30",
@@ -72943,6 +72943,8 @@
   },
   "caci-international-inc:ee2da9902d42": {
    "company": "CACI International Inc",
+   "employer_checked": "2026-11-08",
+   "employer_url": "https://caci.wd1.myworkdayjobs.com/en-US/external/job/Virginia-Beach-VA-US/Junior-C--Software-Engineer_334764",
    "first_seen": "2026-11-07",
    "location": "Virginia Beach, VA, USA",
    "posted_at": "2026-11-07",
@@ -170712,7 +170714,7 @@
   },
   "jpmorganchase:ad5b37dc5d93": {
    "company": "JPMorganChase",
-   "employer_checked": "2026-11-01",
+   "employer_checked": "2026-11-08",
    "first_seen": "2026-10-31",
    "location": "Chicago, IL, USA",
    "posted_at": "2026-10-31",
@@ -304215,6 +304217,6 @@
    "last_ok": "2026-11-08"
   }
  },
- "updated": "2026-11-08T09:20:54Z",
+ "updated": "2026-11-08T10:11:21Z",
  "version": 1
 }
