@@ -91793,6 +91793,18 @@
    "title": "Hardware Security Engineer - Hyperscaler Security Hybrid",
    "url": "https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/RTP-North-Carolina-US/Hardware-Security-Engineer---Hyperscaler-Security-Hybrid_2026304"
   },
+  "cisco:555e8109d4d5": {
+   "company": "Cisco",
+   "first_seen": "2026-11-08",
+   "location": "Milpitas, California, US",
+   "posted_at": "2026-11-08",
+   "role": "software",
+   "source": "workday",
+   "status": "new",
+   "tier": "experienced",
+   "title": "Software Engineering Technical Leader",
+   "url": "https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/Milpitas-California-US/Software-Engineering-Technical-Leader_2028826"
+  },
   "cisco:57ec312bde0c": {
    "company": "Cisco",
    "first_seen": "2026-10-14",
@@ -108181,6 +108193,19 @@
    "title": "DevOps Engineer, Project-Software Engineer II",
    "url": "https://www.linkedin.com/jobs/view/4470280124"
   },
+  "deloitte:9313d8bf3443": {
+   "company": "Deloitte",
+   "first_seen": "2026-11-08",
+   "location": "Lake Mary, FL, USA",
+   "posted_at": "2026-11-07",
+   "role": "data",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "experienced",
+   "title": "Snowflake Data Engineer",
+   "url": "https://www.linkedin.com/jobs/view/4488717488"
+  },
   "deloitte:9695eb078c70": {
    "company": "Deloitte",
    "first_seen": "2026-09-27",
@@ -109021,6 +109046,19 @@
    "tier": "experienced",
    "title": "Data Engineer II - Databricks",
    "url": "https://www.linkedin.com/jobs/view/4482402178"
+  },
+  "deloitte:da28a03633f9": {
+   "company": "Deloitte",
+   "first_seen": "2026-11-08",
+   "location": "Gilbert, AZ, USA",
+   "posted_at": "2026-11-07",
+   "role": "data",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "experienced",
+   "title": "Snowflake Data Engineer",
+   "url": "https://www.linkedin.com/jobs/view/4488715564"
   },
   "deloitte:db4dd69fec92": {
    "company": "Deloitte",
@@ -114294,6 +114332,19 @@
    "tier": "experienced",
    "title": "Security Engineer",
    "url": "https://www.linkedin.com/jobs/view/4484730824"
+  },
+  "ecs:85f7e8e4eecf": {
+   "company": "ECS",
+   "first_seen": "2026-11-08",
+   "location": "Arlington, VA, USA",
+   "posted_at": "2026-11-05",
+   "role": "data",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "experienced",
+   "title": "Data Engineer / Metadata Engineer",
+   "url": "https://www.linkedin.com/jobs/view/4487775450"
   },
   "ecs:95f5ede22400": {
    "company": "ECS",
@@ -120073,6 +120124,19 @@
    "tier": "experienced",
    "title": "Site Reliability Engineer",
    "url": "https://www.linkedin.com/jobs/view/4469484475"
+  },
+  "evlo-ai:35bc5aac8bd2": {
+   "company": "Evlo AI",
+   "first_seen": "2026-11-08",
+   "location": "Denver, CO, USA",
+   "posted_at": "2026-11-07",
+   "role": "data",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "experienced",
+   "title": "Data Engineer",
+   "url": "https://www.linkedin.com/jobs/view/4487611715"
   },
   "evlo-ai:388200b86dcc": {
    "company": "Evlo AI",
@@ -136196,6 +136260,19 @@
    "title": "Associate Software Engineer",
    "url": "https://www.linkedin.com/jobs/view/4471780408"
   },
+  "glocap-tech:7ebd961df72c": {
+   "company": "Glocap Tech",
+   "first_seen": "2026-11-08",
+   "location": "Chicago, IL, USA",
+   "posted_at": "2026-11-08",
+   "role": "software",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "experienced",
+   "title": "Software Engineer",
+   "url": "https://www.linkedin.com/jobs/view/4487647021"
+  },
   "glocomms:1a1f5984e667": {
    "company": "Glocomms",
    "first_seen": "2026-09-29",
@@ -146839,6 +146916,19 @@
    "tier": "experienced",
    "title": "UI/UX & Frontend Developer",
    "url": "https://www.linkedin.com/jobs/view/4470810077"
+  },
+  "haystack:3c081e48c841": {
+   "company": "Haystack",
+   "first_seen": "2026-11-08",
+   "location": "Tampa, FL, USA",
+   "posted_at": "2026-11-07",
+   "role": "data",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "experienced",
+   "title": "Data Engineer",
+   "url": "https://www.linkedin.com/jobs/view/4486658088"
   },
   "haystack:3dcb0a2cc971": {
    "company": "Haystack",
@@ -189701,6 +189791,19 @@
    "title": "AI / Machine Learning Model Development Engineer",
    "url": "https://www.linkedin.com/jobs/view/4487057709"
   },
+  "mobis-parts-america:5aaf2dfd4b4c": {
+   "company": "MOBIS Parts America",
+   "first_seen": "2026-11-08",
+   "location": "Fountain Valley, CA, USA",
+   "posted_at": "2026-11-06",
+   "role": "data",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "experienced",
+   "title": "Data Engineer III, Cloud",
+   "url": "https://www.linkedin.com/jobs/view/4488426518"
+  },
   "mod-op:908dda294141": {
    "company": "Mod Op",
    "first_seen": "2026-09-30",
@@ -231214,6 +231317,19 @@
    "tier": "experienced",
    "title": "Site Reliability Engineer, Observability",
    "url": "https://www.linkedin.com/jobs/view/4469682542"
+  },
+  "rippling:08c60ba02829": {
+   "company": "Rippling",
+   "first_seen": "2026-11-08",
+   "location": "New York, NY, USA",
+   "posted_at": "2026-11-05",
+   "role": "fullstack",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "intern",
+   "title": "Full Stack Software Engineer Intern - Summer 2027",
+   "url": "https://www.linkedin.com/jobs/view/4470474961"
   },
   "rippling:392e739f6c96": {
    "company": "Rippling",
@@ -279286,6 +279402,19 @@
    "title": "Angular Frontend Engineer",
    "url": "https://www.linkedin.com/jobs/view/4488714940"
   },
+  "torentify:2ef1820a69a2": {
+   "company": "Torentify",
+   "first_seen": "2026-11-08",
+   "location": "New York, NY, USA",
+   "posted_at": "2026-11-08",
+   "role": "frontend",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "experienced",
+   "title": "Frontend Developer",
+   "url": "https://www.linkedin.com/jobs/view/4488762446"
+  },
   "torentify:311cbac9cca6": {
    "company": "Torentify",
    "first_seen": "2026-09-27",
@@ -280014,6 +280143,19 @@
    "title": "Front-End Developer - Remote",
    "url": "https://www.linkedin.com/jobs/view/4470975951",
    "workplace": "Remote"
+  },
+  "torentify:bf32e6832e80": {
+   "company": "Torentify",
+   "first_seen": "2026-11-08",
+   "location": "New York, NY, USA",
+   "posted_at": "2026-11-08",
+   "role": "frontend",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "experienced",
+   "title": "Frontend Developer, Sr.",
+   "url": "https://www.linkedin.com/jobs/view/4488754717"
   },
   "torentify:bf73ba227a23": {
    "company": "Torentify",
@@ -282039,6 +282181,19 @@
    "tier": "experienced",
    "title": "Junior Software Engineer",
    "url": "https://www.linkedin.com/jobs/view/4484719479"
+  },
+  "trinzic:af2402da2d29": {
+   "company": "Trinzic",
+   "first_seen": "2026-11-08",
+   "location": "Beavercreek, OH, USA",
+   "posted_at": "2026-11-05",
+   "role": "data",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "experienced",
+   "title": "Data Engineer",
+   "url": "https://www.linkedin.com/jobs/view/4487574726"
   },
   "trinzic:b6d1d8522c33": {
    "company": "Trinzic",
@@ -286786,6 +286941,19 @@
    "tier": "experienced",
    "title": "Enterprise Systems Engineer (Hybrid)",
    "url": "https://www.linkedin.com/jobs/view/4434898007"
+  },
+  "ut-md-anderson:541185a393bd": {
+   "company": "UT MD Anderson",
+   "first_seen": "2026-11-08",
+   "location": "Greater Houston",
+   "posted_at": "2026-11-05",
+   "role": "software",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "experienced",
+   "title": "Data Integration Developer",
+   "url": "https://www.linkedin.com/jobs/view/4487726756"
   },
   "ut-md-anderson:5e08775e051d": {
    "company": "UT MD Anderson",
@@ -303445,7 +303613,7 @@
   },
   "American Express": {
    "best": 500,
-   "last": 351,
+   "last": 345,
    "last_ok": "2026-11-08"
   },
   "Anduril": {
@@ -303596,7 +303764,7 @@
   },
   "Dell Technologies": {
    "best": 500,
-   "last": 490,
+   "last": 489,
    "last_ok": "2026-11-08"
   },
   "Discord": {
@@ -303626,7 +303794,7 @@
   },
   "ElevenLabs": {
    "best": 256,
-   "last": 139,
+   "last": 137,
    "last_ok": "2026-11-08"
   },
   "Emerson Electric": {
@@ -303636,7 +303804,7 @@
   },
   "Expedia Group": {
    "best": 134,
-   "last": 114,
+   "last": 113,
    "last_ok": "2026-11-08"
   },
   "Faire": {
@@ -303646,7 +303814,7 @@
   },
   "Fidelity National Information Services": {
    "best": 183,
-   "last": 169,
+   "last": 170,
    "last_ok": "2026-11-08"
   },
   "Figma": {
@@ -303691,7 +303859,7 @@
   },
   "Harvey": {
    "best": 386,
-   "last": 370,
+   "last": 373,
    "last_ok": "2026-11-08"
   },
   "Hewlett Packard Enterprise": {
@@ -303741,12 +303909,12 @@
   },
   "LinkedIn (JobSpy)": {
    "best": 1281,
-   "last": 230,
+   "last": 260,
    "last_ok": "2026-11-08"
   },
   "Lyft": {
    "best": 195,
-   "last": 167,
+   "last": 166,
    "last_ok": "2026-11-08"
   },
   "Marqeta": {
@@ -303781,7 +303949,7 @@
   },
   "MongoDB": {
    "best": 415,
-   "last": 375,
+   "last": 374,
    "last_ok": "2026-11-08"
   },
   "NOV": {
@@ -303791,7 +303959,7 @@
   },
   "Navy Federal": {
    "best": 189,
-   "last": 151,
+   "last": 148,
    "last_ok": "2026-11-08"
   },
   "Netflix": {
@@ -303921,7 +304089,7 @@
   },
   "Simplify Aggregator": {
    "best": 2489,
-   "last": 2003,
+   "last": 1993,
    "last_ok": "2026-11-08"
   },
   "Snowflake": {
@@ -303935,8 +304103,8 @@
    "last_ok": "2026-11-08"
   },
   "SpaceX": {
-   "best": 2899,
-   "last": 2899,
+   "best": 2900,
+   "last": 2900,
    "last_ok": "2026-11-08"
   },
   "Spotify": {
@@ -304008,7 +304176,7 @@
   },
   "Verizon": {
    "best": 142,
-   "last": 135,
+   "last": 134,
    "last_ok": "2026-11-08"
   },
   "Verkada": {
@@ -304018,17 +304186,17 @@
   },
   "Visa": {
    "best": 183,
-   "last": 178,
+   "last": 179,
    "last_ok": "2026-11-08"
   },
   "Walmart Global Tech": {
    "best": 200,
-   "last": 53,
+   "last": 62,
    "last_ok": "2026-11-08"
   },
   "Waymo": {
    "best": 374,
-   "last": 371,
+   "last": 369,
    "last_ok": "2026-11-08"
   },
   "Webflow": {
@@ -304043,10 +304211,10 @@
   },
   "xAI": {
    "best": 312,
-   "last": 303,
+   "last": 304,
    "last_ok": "2026-11-08"
   }
  },
- "updated": "2026-11-08T07:49:49Z",
+ "updated": "2026-11-08T09:20:54Z",
  "version": 1
 }
