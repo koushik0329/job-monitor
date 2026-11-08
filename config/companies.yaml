@@ -505,7 +505,7 @@ other:
     fetcher: workday
     host: expedia.wd108.myworkdayjobs.com
     tenant: expedia
-    site: search
+    site: Search
     # verified: 20 in scope, H-1B 3,205
   - name: Whoop
     fetcher: ashby
