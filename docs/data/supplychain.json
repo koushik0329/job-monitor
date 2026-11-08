@@ -12873,6 +12873,7 @@
   },
   "applied-materials:fa5364bf89d7": {
    "company": "Applied Materials",
+   "employer_url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Summer-2027-Buyer-Intern--Advanced-Materials-Sourcing--Bachelor-s--Austin--TX-_R2631583-1",
    "first_seen": "2026-11-04",
    "location": "Austin,TX",
    "posted_at": "2026-11-04",
@@ -16998,6 +16999,19 @@
    "tier": "mid",
    "title": "Senior Demand Planner",
    "url": "https://www.linkedin.com/jobs/view/4464122021"
+  },
+  "baker-hughes:01d1728ee1c4": {
+   "company": "Baker Hughes",
+   "first_seen": "2026-11-08",
+   "location": "Pasadena, TX, USA",
+   "posted_at": "2026-11-06",
+   "role": "supply-planning",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "mid",
+   "title": "Master Scheduler",
+   "url": "https://www.linkedin.com/jobs/view/4488435846"
   },
   "baker-hughes:0f69a50e01bc": {
    "company": "Baker Hughes",
@@ -33032,6 +33046,19 @@
    "title": "Supply Chain Data Analyst - Dallas Fort Worth Metroplex (60696)",
    "url": "https://www.linkedin.com/jobs/view/4426148833"
   },
+  "core-mark-international:ea8ed403c118": {
+   "company": "Core-Mark International",
+   "first_seen": "2026-11-08",
+   "location": "Westlake, TX, USA",
+   "posted_at": "2026-11-07",
+   "role": "procurement",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "intern",
+   "title": "Purchasing Intern",
+   "url": "https://www.linkedin.com/jobs/view/4487374654"
+  },
   "core-systems:f766988ef247": {
    "checked_at": "2026-10-02",
    "company": "Core Systems",
@@ -39036,6 +39063,19 @@
    "title": "Senior Production Planner/Scheduler",
    "url": "https://www.linkedin.com/jobs/view/4451440152"
   },
+  "dreyer-s-grand-ice-cream:65abc4a9fcab": {
+   "company": "Dreyer's Grand Ice Cream",
+   "first_seen": "2026-11-08",
+   "location": "Bakersfield, CA, USA",
+   "posted_at": "2026-11-06",
+   "role": "supply-chain",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "mid",
+   "title": "Planner Production",
+   "url": "https://www.linkedin.com/jobs/view/4487369926"
+  },
   "driver-industrial-safety:96bd71c6ab30": {
    "company": "Driver Industrial Safety™",
    "first_seen": "2026-11-04",
@@ -40401,6 +40441,19 @@
    "tier": "intern",
    "title": "Supply Chain Intern - Engineering and Business Majors",
    "url": "https://www.linkedin.com/jobs/view/4463656107"
+  },
+  "ecolab:b179fa4662b7": {
+   "company": "Ecolab",
+   "first_seen": "2026-11-08",
+   "location": "Naperville, IL, USA",
+   "posted_at": "2026-11-08",
+   "role": "supply-chain",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "intern",
+   "title": "Supply Chain Intern - Engineering and Business Majors",
+   "url": "https://www.linkedin.com/jobs/view/4463641872"
   },
   "ecolab:ec4b6701e46b": {
    "company": "Ecolab",
@@ -46956,6 +47009,19 @@
    "title": "Scheduler",
    "url": "https://www.linkedin.com/jobs/view/4471235446"
   },
+  "gates-corporation:cc0c6408ee99": {
+   "company": "Gates Corporation",
+   "first_seen": "2026-11-08",
+   "location": "Denver, CO, USA",
+   "posted_at": "2026-11-06",
+   "role": "demand-planning",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "mid",
+   "title": "Senior Demand Planner - Mobility",
+   "url": "https://www.linkedin.com/jobs/view/4486274991"
+  },
   "gates-corporation:ddfd22abaa50": {
    "company": "Gates Corporation",
    "first_seen": "2026-11-03",
@@ -47212,6 +47278,19 @@
    "tier": "mid",
    "title": "Manufacturing Materials Planner",
    "url": "https://www.linkedin.com/jobs/view/4477437839"
+  },
+  "ge-healthcare:6b34569b9db5": {
+   "company": "GE HealthCare",
+   "first_seen": "2026-11-08",
+   "location": "Waukesha, WI, USA",
+   "posted_at": "2026-11-07",
+   "role": "supply-planning",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "mid",
+   "title": "Site Master Scheduler",
+   "url": "https://www.linkedin.com/jobs/view/4488742549"
   },
   "ge-healthcare:cbf5038bccc2": {
    "company": "GE HealthCare",
@@ -76847,6 +76926,19 @@
    "title": "Sr. Analyst, Strategic Planning (Supply)",
    "url": "https://www.linkedin.com/jobs/view/4488432286"
   },
+  "mobis-parts-america:c97a4321cde9": {
+   "company": "MOBIS Parts America",
+   "first_seen": "2026-11-08",
+   "location": "Fountain Valley, CA, USA",
+   "posted_at": "2026-11-06",
+   "role": "supply-chain",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "manager",
+   "title": "Lead Analyst, Strategic Planning (Supply)",
+   "url": "https://www.linkedin.com/jobs/view/4488430305"
+  },
   "mobotrex:207c6f1c2b32": {
    "company": "MoboTrex",
    "first_seen": "2026-10-06",
@@ -79492,6 +79584,19 @@
    "tier": "mid",
    "title": "Scheduler/Production Planning",
    "url": "https://www.linkedin.com/jobs/view/4450650023"
+  },
+  "nd-paper:be58743d2bd7": {
+   "company": "ND Paper",
+   "first_seen": "2026-11-08",
+   "location": "Langhorne, PA, USA",
+   "posted_at": "2026-11-07",
+   "role": "supply-planning",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "mid",
+   "title": "Production Planner",
+   "url": "https://www.linkedin.com/jobs/view/4479620885"
   },
   "ne-xt-technologies:e985c2b872c5": {
    "company": "NE-XT Technologies",
@@ -113049,6 +113154,19 @@
    "title": "Production Planner",
    "url": "https://www.linkedin.com/jobs/view/4478955201"
   },
+  "teledyne-technologies-incorporated:b3620359bc53": {
+   "company": "Teledyne Technologies Incorporated",
+   "first_seen": "2026-11-08",
+   "location": "Torrance, CA, USA",
+   "posted_at": "2026-11-08",
+   "role": "supply-planning",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "mid",
+   "title": "Production Planner",
+   "url": "https://www.linkedin.com/jobs/view/4487114037"
+  },
   "teledyne-technologies-incorporated:d854a73d9800": {
    "company": "Teledyne Technologies Incorporated",
    "first_seen": "2026-10-26",
@@ -130346,7 +130464,7 @@
   },
   "Abbott": {
    "best": 535,
-   "last": 520,
+   "last": 521,
    "last_ok": "2026-11-08"
   },
   "Airbnb": {
@@ -130361,12 +130479,12 @@
   },
   "Anduril": {
    "best": 2605,
-   "last": 2600,
+   "last": 2601,
    "last_ok": "2026-11-08"
   },
   "Applied Materials": {
    "best": 470,
-   "last": 461,
+   "last": 462,
    "last_ok": "2026-11-08"
   },
   "Astranis": {
@@ -130391,7 +130509,7 @@
   },
   "Carvana": {
    "best": 1843,
-   "last": 1677,
+   "last": 1672,
    "last_ok": "2026-11-08"
   },
   "Coinbase": {
@@ -130466,7 +130584,7 @@
   },
   "LinkedIn (JobSpy)": {
    "best": 738,
-   "last": 585,
+   "last": 460,
    "last_ok": "2026-11-08"
   },
   "Liquid Death": {
@@ -130551,17 +130669,17 @@
   },
   "Samsara": {
    "best": 340,
-   "last": 315,
+   "last": 314,
    "last_ok": "2026-11-08"
   },
   "Saronic": {
    "best": 272,
-   "last": 269,
+   "last": 268,
    "last_ok": "2026-11-08"
   },
   "SpaceX": {
-   "best": 2900,
-   "last": 2900,
+   "best": 2901,
+   "last": 2901,
    "last_ok": "2026-11-08"
   },
   "Stripe": {
@@ -130571,7 +130689,7 @@
   },
   "Stryker": {
    "best": 418,
-   "last": 418,
+   "last": 417,
    "last_ok": "2026-11-08"
   },
   "Target": {
@@ -130591,7 +130709,7 @@
   },
   "Unilever": {
    "best": 204,
-   "last": 194,
+   "last": 188,
    "last_ok": "2026-11-08"
   },
   "Verkada": {
@@ -130601,7 +130719,7 @@
   },
   "Walmart Global Tech": {
    "best": 268,
-   "last": 229,
+   "last": 226,
    "last_ok": "2026-11-08"
   },
   "Waymo": {
@@ -130615,6 +130733,6 @@
    "last_ok": "2026-11-08"
   }
  },
- "updated": "2026-11-08T16:47:01Z",
+ "updated": "2026-11-08T22:04:50Z",
  "version": 1
 }
