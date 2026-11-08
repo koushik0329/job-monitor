@@ -1234,7 +1234,7 @@ function boot() {
   $("fTier").innerHTML = '<option value="">All tiers</option>' +
     T.tiers.map(([key, label]) => `<option value="${esc(key)}">${esc(label)}</option>`).join("");
   $("nav").innerHTML = (T.siblings || [])
-    .map(s => `<a href="${esc(s.href)}">${esc(s.label)}</a>`).join("");
+    .map(s => `<a href="${esc(s.href)}"${s.href.startsWith("https://") ? ' target="_blank" rel="noopener noreferrer"' : ""}>${esc(s.label)}</a>`).join("");
   $("ghRepo").placeholder = T.repo || "job-monitor";
   try {
     if ($("fGroup") && localStorage.group_dupes === "0") $("fGroup").value = "0";
