@@ -6366,6 +6366,8 @@
   },
   "amentum:2ed2daa19199": {
    "company": "Amentum",
+   "employer_checked": "2026-11-09",
+   "employer_url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Fredericksburg/Senior-Logistics-Analyst_R0174879",
    "first_seen": "2026-11-08",
    "location": "Fredericksburg, VA, USA",
    "posted_at": "2026-11-05",
@@ -47347,6 +47349,8 @@
   },
   "ge-healthcare:6b34569b9db5": {
    "company": "GE HealthCare",
+   "employer_checked": "2026-11-09",
+   "employer_url": "https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Waukesha/Site-Master-Scheduler_R4048656-1",
    "first_seen": "2026-11-08",
    "location": "Waukesha, WI, USA",
    "posted_at": "2026-11-07",
@@ -47403,6 +47407,7 @@
   },
   "ge-vernova:1eff7eea4243": {
    "company": "GE Vernova",
+   "employer_checked": "2026-11-09",
    "first_seen": "2026-11-09",
    "location": "Findlay, PA, USA",
    "posted_at": "2026-11-07",
@@ -59840,6 +59845,8 @@
   },
   "intel:96327f2083a7": {
    "company": "Intel",
+   "employer_checked": "2026-11-09",
+   "employer_url": "https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-Oregon-Hillsboro/Engineering-Planning-Analyst--Contract-_JR0288586",
    "first_seen": "2026-11-08",
    "location": "Hillsboro, OR, USA",
    "posted_at": "2026-11-07",
@@ -82726,6 +82733,8 @@
   },
   "northrop-grumman:ed2499de1d6d": {
    "company": "Northrop Grumman",
+   "employer_checked": "2026-11-09",
+   "employer_url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Alabama-Madison/Material-Requirements-Planning-Analyst-1_R10259377",
    "first_seen": "2026-11-09",
    "location": "Madison, AL, USA",
    "posted_at": "2026-11-07",
@@ -91319,6 +91328,8 @@
   },
   "pratt-whitney:f47c6aeaf590": {
    "company": "Pratt & Whitney",
+   "employer_checked": "2026-11-09",
+   "employer_url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-CTC--400-Main-St--BLDG-CTC/SE-Forecasting---Data-Integration-Specialist--Onsite-_01886657",
    "first_seen": "2026-11-08",
    "location": "East Hartford, CT, USA",
    "posted_at": "2026-11-05",
@@ -115584,6 +115595,8 @@
   },
   "thermo-fisher-scientific:3c8a64b6c704": {
    "company": "Thermo Fisher Scientific",
+   "employer_checked": "2026-11-09",
+   "employer_url": "https://thermofisher.wd5.myworkdayjobs.com/en-US/thermofishercareers/job/Madison-Wisconsin-USA/Supply-Materials-Planner-II_R-01367284",
    "first_seen": "2026-11-08",
    "location": "Madison, WI, USA",
    "posted_at": "2026-11-08",
@@ -117652,7 +117665,7 @@
   },
   "true-anomaly:3986c6c1abf8": {
    "company": "True Anomaly",
-   "employer_checked": "2026-11-02",
+   "employer_checked": "2026-11-09",
    "first_seen": "2026-11-01",
    "location": "Long Beach, CA, USA",
    "posted_at": "2026-10-30",
@@ -130978,6 +130991,6 @@
    "last_ok": "2026-11-09"
   }
  },
- "updated": "2026-11-09T09:40:56Z",
+ "updated": "2026-11-09T11:21:28Z",
  "version": 1
 }
