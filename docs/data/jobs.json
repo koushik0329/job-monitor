@@ -12873,6 +12873,21 @@
    "url": "https://www.amazon.jobs/en/jobs/10537934/software-development-engineer-amazon-quick",
    "yoe": 5
   },
+  "amazon:1f385fa45c06": {
+   "company": "Amazon",
+   "department": "Software Development",
+   "employment_type": "Full-time",
+   "first_seen": "2026-11-09",
+   "location": "Redmond, Washington, USA",
+   "posted_at": "2026-11-09",
+   "role": "software",
+   "source": "amazon.jobs",
+   "status": "new",
+   "tier": "experienced",
+   "title": "Software Development Engineer II, Leo Commerce Financial Systems and Data (Bestia, Triton, Lucid)",
+   "url": "https://www.amazon.jobs/en/jobs/10599945/software-development-engineer-ii-leo-commerce-financial-systems-and-data-bestia-triton-lucid",
+   "yoe": 1
+  },
   "amazon:1f4ca2a9358b": {
    "company": "Amazon",
    "department": "Software Development",
@@ -14339,6 +14354,21 @@
    "title": "Software Development Engineer III",
    "url": "https://www.amazon.jobs/en/jobs/10562396/software-development-engineer-iii",
    "yoe": 5
+  },
+  "amazon:389290adb986": {
+   "company": "Amazon",
+   "department": "Software Development",
+   "employment_type": "Full-time",
+   "first_seen": "2026-11-09",
+   "location": "Redmond, Washington, USA",
+   "posted_at": "2026-11-09",
+   "role": "software",
+   "source": "amazon.jobs",
+   "status": "new",
+   "tier": "experienced",
+   "title": "Software Development Engineer II, Leo Commerce Financial Systems and Data (Bestia, Triton, Lucid)",
+   "url": "https://www.amazon.jobs/en/jobs/10599946/software-development-engineer-ii-leo-commerce-financial-systems-and-data-bestia-triton-lucid",
+   "yoe": 1
   },
   "amazon:39429afd04b9": {
    "company": "Amazon",
@@ -22274,6 +22304,21 @@
    "url": "https://www.amazon.jobs/en/jobs/10530555/software-dev-engineer-aws-elastic-container-service",
    "yoe": 1
   },
+  "amazon:c08fae156a3c": {
+   "company": "Amazon",
+   "department": "Software Development",
+   "employment_type": "Full-time",
+   "first_seen": "2026-11-09",
+   "location": "Seattle, Washington, USA",
+   "posted_at": "2026-11-09",
+   "role": "software",
+   "source": "amazon.jobs",
+   "status": "new",
+   "tier": "experienced",
+   "title": "Software Development Engineer II, Managed Rendering for App",
+   "url": "https://www.amazon.jobs/en/jobs/10600170/software-development-engineer-ii-managed-rendering-for-app",
+   "yoe": 2
+  },
   "amazon:c11fe94af9e8": {
    "company": "Amazon",
    "department": "Software Development",
@@ -24184,6 +24229,21 @@
    "tier": "experienced",
    "title": "Data Engineer II, DSP Analytics",
    "url": "https://www.linkedin.com/jobs/view/4485271613"
+  },
+  "amazon:e07740c5d3b5": {
+   "company": "Amazon",
+   "department": "Software Development",
+   "employment_type": "Full-time",
+   "first_seen": "2026-11-09",
+   "location": "Sunnyvale, California, USA",
+   "posted_at": "2026-11-09",
+   "role": "software",
+   "source": "amazon.jobs",
+   "status": "new",
+   "tier": "experienced",
+   "title": "Software Development Engineer - Amazon LEO, LEO Pop Control Plane",
+   "url": "https://www.amazon.jobs/en/jobs/10600252/software-development-engineer-amazon-leo-leo-pop-control-plane",
+   "yoe": 1
   },
   "amazon:e0b915b21356": {
    "company": "Amazon",
@@ -39785,6 +39845,18 @@
    "title": "Security Engineer, Detection & Response",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4982193008"
   },
+  "anthropic:9c5053812360": {
+   "company": "Anthropic",
+   "first_seen": "2026-11-09",
+   "location": "San Francisco, CA | New York City, NY",
+   "posted_at": "2026-11-09",
+   "role": "ml-ai",
+   "source": "greenhouse",
+   "status": "new",
+   "tier": "experienced",
+   "title": "Research Scientist, Discovery (Engineering & Applied Sciences)",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5468930008"
+  },
   "anthropic:9c54183d0bdb": {
    "company": "Anthropic",
    "first_seen": "2026-08-20",
@@ -43916,6 +43988,19 @@
    "tier": "experienced",
    "title": "System Software Engineer - Debug Technologies",
    "url": "https://jobs.apple.com/en-us/details/200688603/system-software-engineer-debug-technologies"
+  },
+  "apple:921257f2646c": {
+   "company": "Apple",
+   "department": "Software and Services",
+   "first_seen": "2026-11-09",
+   "location": "Austin",
+   "posted_at": "2026-11-09",
+   "role": "data",
+   "source": "jobs.apple.com",
+   "status": "new",
+   "tier": "experienced",
+   "title": "Site Reliability Engineer, Apple Data Platform",
+   "url": "https://jobs.apple.com/en-us/details/200690525/site-reliability-engineer-apple-data-platform"
   },
   "apple:9221899af708": {
    "company": "Apple",
@@ -137703,6 +137788,17 @@
    "title": "Software Engineer, Gemini Everywhere, DeepMind",
    "url": "https://www.google.com/about/careers/applications/jobs/results/113552153070445254-software-engineer-gemini-everywhere-deepmind"
   },
+  "google:0c589f25d1d3": {
+   "company": "Google",
+   "first_seen": "2026-11-09",
+   "location": "Madison, WI, USA",
+   "role": "software",
+   "source": "google careers",
+   "status": "new",
+   "tier": "experienced",
+   "title": "Software Engineer III, Core Data (multiple openings)",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/133148695930512070-software-engineer-iii-core-data-multiple-openings"
+  },
   "google:0c94c6c1daca": {
    "company": "Google",
    "employer_url": "https://www.google.com/about/careers/applications/jobs/results/86347302741910214-software-engineer-iii-site-reliability-engineering",
@@ -137959,6 +138055,17 @@
    "tier": "experienced",
    "title": "Software Engineer III, AI/ML GenAI, Google Ads",
    "url": "https://www.google.com/about/careers/applications/jobs/results/109502235938824902-software-engineer-iii-aiml-genai-google-ads"
+  },
+  "google:16dd45e43a3f": {
+   "company": "Google",
+   "first_seen": "2026-11-09",
+   "location": "San Francisco, CA, USA",
+   "role": "security",
+   "source": "google careers",
+   "status": "new",
+   "tier": "experienced",
+   "title": "Security Engineer",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/104492124375786182-security-engineer"
   },
   "google:19b2d7f1daa6": {
    "company": "Google",
@@ -187672,6 +187779,20 @@
    "url": "https://apply.careers.microsoft.com/careers/job/1970393557026683",
    "workplace": "On-site"
   },
+  "microsoft:3d0216c9d71c": {
+   "company": "Microsoft",
+   "department": "Software Engineering",
+   "first_seen": "2026-11-09",
+   "location": "Redmond, WA, US",
+   "posted_at": "2026-11-09",
+   "role": "software",
+   "source": "microsoft careers",
+   "status": "new",
+   "tier": "experienced",
+   "title": "Software Engineer 2 - Engineering Systems",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557055979",
+   "workplace": "On-site"
+  },
   "microsoft:3d2d9d335059": {
    "company": "Microsoft",
    "department": "Firmware Engineering",
@@ -188562,6 +188683,20 @@
    "tier": "experienced",
    "title": "Software Engineer II - CTJ - Poly",
    "url": "https://apply.careers.microsoft.com/careers/job/1970393557004676",
+   "workplace": "On-site"
+  },
+  "microsoft:be5b14f8f6d6": {
+   "company": "Microsoft",
+   "department": "Cloud Network Engineering",
+   "first_seen": "2026-11-09",
+   "location": "US",
+   "posted_at": "2026-11-09",
+   "role": "software",
+   "source": "microsoft careers",
+   "status": "new",
+   "tier": "experienced",
+   "title": "Cloud Network Engineer II",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557070070",
    "workplace": "On-site"
   },
   "microsoft:beb2737bbef4": {
@@ -304810,7 +304945,7 @@
   },
   "Airbnb": {
    "best": 213,
-   "last": 205,
+   "last": 203,
    "last_ok": "2026-11-09"
   },
   "Airtable": {
@@ -304845,7 +304980,7 @@
   },
   "Apple": {
    "best": 164,
-   "last": 150,
+   "last": 145,
    "last_ok": "2026-11-09"
   },
   "Applied Intuition": {
@@ -305156,7 +305291,7 @@
   },
   "Microsoft": {
    "best": 150,
-   "last": 150,
+   "last": 149,
    "last_ok": "2026-11-09"
   },
   "MongoDB": {
@@ -305196,7 +305331,7 @@
   },
   "Nvidia": {
    "best": 197,
-   "last": 193,
+   "last": 196,
    "last_ok": "2026-11-09"
   },
   "Okta": {
@@ -305206,7 +305341,7 @@
   },
   "OpenAI": {
    "best": 842,
-   "last": 813,
+   "last": 811,
    "last_ok": "2026-11-09"
   },
   "OpenEvidence": {
@@ -305325,8 +305460,8 @@
    "last_ok": "2026-11-09"
   },
   "Stripe": {
-   "best": 768,
-   "last": 767,
+   "best": 772,
+   "last": 772,
    "last_ok": "2026-11-09"
   },
   "Suno": {
@@ -305427,6 +305562,6 @@
    "last_ok": "2026-11-09"
   }
  },
- "updated": "2026-11-09T11:21:46Z",
+ "updated": "2026-11-09T19:58:21Z",
  "version": 1
 }
