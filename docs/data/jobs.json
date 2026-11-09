@@ -304415,7 +304415,7 @@
   "Airbnb": {
    "best": 213,
    "last": 205,
-   "last_ok": "2026-11-08"
+   "last_ok": "2026-11-09"
   },
   "Airtable": {
    "best": 16,
@@ -304425,7 +304425,7 @@
   "Amazon": {
    "best": 100,
    "last": 100,
-   "last_ok": "2026-11-08"
+   "last_ok": "2026-11-09"
   },
   "American Express": {
    "best": 500,
@@ -304440,7 +304440,7 @@
   "Anthropic": {
    "best": 684,
    "last": 675,
-   "last_ok": "2026-11-08"
+   "last_ok": "2026-11-09"
   },
   "Anysphere": {
    "best": 137,
@@ -304450,7 +304450,7 @@
   "Apple": {
    "best": 164,
    "last": 150,
-   "last_ok": "2026-11-08"
+   "last_ok": "2026-11-09"
   },
   "Applied Intuition": {
    "best": 330,
@@ -304666,7 +304666,7 @@
   "Google": {
    "best": 100,
    "last": 100,
-   "last_ok": "2026-11-08"
+   "last_ok": "2026-11-09"
   },
   "Gusto": {
    "best": 104,
@@ -304761,7 +304761,7 @@
   "Microsoft": {
    "best": 150,
    "last": 150,
-   "last_ok": "2026-11-08"
+   "last_ok": "2026-11-09"
   },
   "MongoDB": {
    "best": 415,
@@ -304781,7 +304781,7 @@
   "Netflix": {
    "best": 10,
    "last": 10,
-   "last_ok": "2026-11-08"
+   "last_ok": "2026-11-09"
   },
   "Nokia": {
    "best": 500,
@@ -304801,7 +304801,7 @@
   "Nvidia": {
    "best": 197,
    "last": 193,
-   "last_ok": "2026-11-08"
+   "last_ok": "2026-11-09"
   },
   "Okta": {
    "best": 400,
@@ -304811,7 +304811,7 @@
   "OpenAI": {
    "best": 842,
    "last": 816,
-   "last_ok": "2026-11-08"
+   "last_ok": "2026-11-09"
   },
   "OpenEvidence": {
    "best": 11,
@@ -304930,8 +304930,8 @@
   },
   "Stripe": {
    "best": 768,
-   "last": 766,
-   "last_ok": "2026-11-08"
+   "last": 767,
+   "last_ok": "2026-11-09"
   },
   "Suno": {
    "best": 73,
@@ -305031,6 +305031,6 @@
    "last_ok": "2026-11-08"
   }
  },
- "updated": "2026-11-08T22:28:38Z",
+ "updated": "2026-11-09T01:09:09Z",
  "version": 1
 }
