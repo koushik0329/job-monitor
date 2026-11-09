@@ -72504,6 +72504,19 @@
    "title": "Cyber Security Engineer, Jr.",
    "url": "https://www.linkedin.com/jobs/view/4477098522"
   },
+  "caci-international-inc:079a4a5caca4": {
+   "company": "CACI International Inc",
+   "first_seen": "2026-11-09",
+   "location": "Rochester, NY, USA",
+   "posted_at": "2026-11-06",
+   "role": "software",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "intern",
+   "title": "Software Engineering Co-op/Intern - Summer 2027",
+   "url": "https://www.linkedin.com/jobs/view/4483442357"
+  },
   "caci-international-inc:0be121d1eb5f": {
    "company": "CACI International Inc",
    "first_seen": "2026-09-24",
@@ -123164,6 +123177,19 @@
    "title": "Service Delivery Center-Full Stack Developer: Financial Services-Analyst-Raleigh,Dallas, San Antonio",
    "url": "https://www.linkedin.com/jobs/view/4439452273"
   },
+  "ey:dbf20e0cf8e1": {
+   "company": "EY",
+   "first_seen": "2026-11-09",
+   "location": "McLean, VA, USA",
+   "posted_at": "2026-11-06",
+   "role": "ml-ai",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "experienced",
+   "title": "Government and Infrastructure - AI & Data - GenAI Developer",
+   "url": "https://www.linkedin.com/jobs/view/4449209669"
+  },
   "ey:ddc787fd0e19": {
    "company": "EY",
    "first_seen": "2026-10-09",
@@ -123856,6 +123882,19 @@
    "tier": "experienced",
    "title": "Lead Software Engineer - Frontend",
    "url": "https://www.linkedin.com/jobs/view/4478307243"
+  },
+  "fashionphile:8cb1311c8485": {
+   "company": "FASHIONPHILE",
+   "first_seen": "2026-11-09",
+   "location": "Carlsbad, CA, USA",
+   "posted_at": "2026-11-06",
+   "role": "data",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "experienced",
+   "title": "Associate Data Scientist",
+   "url": "https://www.linkedin.com/jobs/view/4488452554"
   },
   "fasttek-global:0da60c1827fb": {
    "company": "FastTek Global",
@@ -130183,6 +130222,19 @@
    "tier": "experienced",
    "title": "AI/LLM Engineer",
    "url": "https://www.linkedin.com/jobs/view/4434035022"
+  },
+  "garage:8cf4aa4699c1": {
+   "company": "Garage",
+   "first_seen": "2026-11-09",
+   "location": "New York, NY, USA",
+   "posted_at": "2026-11-08",
+   "role": "software",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "experienced",
+   "title": "Software Engineer, Design",
+   "url": "https://www.linkedin.com/jobs/view/4487122195"
   },
   "garda-capital-partners:06f838d5d253": {
    "company": "Garda Capital Partners",
@@ -159151,6 +159203,20 @@
    "title": "Software QA Engineer",
    "url": "https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-California-Santa-Clara/Software-QA-Engineer_JR0288918"
   },
+  "intel:aa323d235933": {
+   "company": "Intel",
+   "employer_url": "https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-Arizona-Phoenix/Cloud-Software-Development-Engineer_JR0287848",
+   "first_seen": "2026-11-09",
+   "location": "Hillsboro, OR, USA",
+   "posted_at": "2026-11-06",
+   "role": "software",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "experienced",
+   "title": "Cloud Software Development Engineer",
+   "url": "https://www.linkedin.com/jobs/view/4486944589"
+  },
   "intel:aa7698ed0e03": {
    "company": "Intel",
    "employer_url": "https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Bachelor-s_JR0286834",
@@ -160473,6 +160539,19 @@
    "tier": "experienced",
    "title": "AI Engineer",
    "url": "https://www.linkedin.com/jobs/view/4472051831"
+  },
+  "iowa-state-university:b0206fac1da5": {
+   "company": "Iowa State University",
+   "first_seen": "2026-11-09",
+   "location": "Ames, IA, USA",
+   "posted_at": "2026-11-07",
+   "role": "software",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "experienced",
+   "title": "Software Developer I",
+   "url": "https://www.linkedin.com/jobs/view/4488471466"
   },
   "ipconfigure-inc:b19a5f9e864b": {
    "company": "IPConfigure Inc.",
@@ -173412,6 +173491,19 @@
    "title": "Software Engineer ( Embedded Software/Firmware Development | Embedded Image Processing )",
    "url": "https://www.linkedin.com/jobs/view/4476495210"
   },
+  "kla:0f1f7eb4974e": {
+   "company": "KLA",
+   "first_seen": "2026-11-09",
+   "location": "Milpitas, CA, USA",
+   "posted_at": "2026-11-06",
+   "role": "software",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "intern",
+   "title": "Software Intern",
+   "url": "https://www.linkedin.com/jobs/view/4486288568"
+  },
   "kla:0fcab20aaa78": {
    "checked_at": "2026-10-02",
    "company": "KLA",
@@ -174658,8 +174750,7 @@
    "company": "L3Harris Technologies",
    "first_seen": "2026-09-25",
    "location": "Eglin Air Force Base, FL",
-   "posted_approx": true,
-   "posted_at": "2026-09-25",
+   "posted_at": "2026-11-06",
    "role": "frontend",
    "soft_dedupe": true,
    "source": "jobspy-linkedin",
@@ -184905,6 +184996,19 @@
    "tier": "intern",
    "title": "Software Engineer Intern",
    "url": "https://www.linkedin.com/jobs/view/4486493250"
+  },
+  "meeboss:8208769bfd5a": {
+   "company": "MeeBoss",
+   "first_seen": "2026-11-09",
+   "location": "USA",
+   "posted_at": "2026-11-06",
+   "role": "software",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "intern",
+   "title": "Software Engineer Intern at ClassHour",
+   "url": "https://www.linkedin.com/jobs/view/4488178917"
   },
   "meeboss:865f212ed77a": {
    "company": "MeeBoss",
@@ -197270,6 +197374,19 @@
    "title": "Software Engineering Intern",
    "url": "https://www.linkedin.com/jobs/view/4483804983"
   },
+  "nominal:2bd1cacda592": {
+   "company": "Nominal",
+   "first_seen": "2026-11-09",
+   "location": "Seattle, WA, USA",
+   "posted_at": "2026-11-08",
+   "role": "frontend",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "experienced",
+   "title": "Lead Software Engineer, Frontend - Growth & Monetization",
+   "url": "https://www.linkedin.com/jobs/view/4487103967"
+  },
   "nominal:76c58470e036": {
    "company": "Nominal",
    "first_seen": "2026-10-30",
@@ -197308,6 +197425,19 @@
    "tier": "experienced",
    "title": "Frontend Software Engineer, Data",
    "url": "https://www.linkedin.com/jobs/view/4441838417"
+  },
+  "nominal:b543989a856f": {
+   "company": "Nominal",
+   "first_seen": "2026-11-09",
+   "location": "Austin, TX, USA",
+   "posted_at": "2026-11-08",
+   "role": "frontend",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "experienced",
+   "title": "Lead Software Engineer, Frontend - Growth & Monetization",
+   "url": "https://www.linkedin.com/jobs/view/4487109703"
   },
   "nominal:ba311bed9850": {
    "company": "Nominal",
@@ -245062,6 +245192,18 @@
    "title": "DevOps Engineer (5431)",
    "url": "https://www.linkedin.com/jobs/view/4444937975"
   },
+  "shield-ai:a39094d376b3": {
+   "company": "Shield AI",
+   "first_seen": "2026-11-09",
+   "location": "United States",
+   "posted_at": "2026-11-08",
+   "role": "software",
+   "source": "simplify-github",
+   "status": "new",
+   "tier": "newgrad",
+   "title": "Software Engineer 1 New Grad - Software - Autonomy Capabilities",
+   "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/955d48ad-9380-4621-91f4-51f3f093ac10/application?embed=true"
+  },
   "shield-ai:ab9d3893041f": {
    "company": "Shield AI",
    "first_seen": "2026-11-04",
@@ -252555,6 +252697,18 @@
    "title": "Software Engineer (Starlink Enterprise)",
    "url": "https://boards.greenhouse.io/spacex/jobs/8927257002?gh_jid=8927257002"
   },
+  "spacex:200dcbb2391a": {
+   "company": "SpaceX",
+   "first_seen": "2026-11-09",
+   "location": "Hawthorne, CA",
+   "posted_at": "2026-11-08",
+   "role": "fullstack",
+   "source": "greenhouse",
+   "status": "new",
+   "tier": "experienced",
+   "title": "Full Stack Software Engineer, Internal Platforms",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8934563002?gh_jid=8934563002"
+  },
   "spacex:203a356dd2cc": {
    "company": "SpaceX",
    "first_seen": "2026-08-20",
@@ -253311,6 +253465,18 @@
    "tier": "experienced",
    "title": "Full Stack Software Engineer, Platform",
    "url": "https://boards.greenhouse.io/spacex/jobs/8859566002?gh_jid=8859566002"
+  },
+  "spacex:421707e0a9c1": {
+   "company": "SpaceX",
+   "first_seen": "2026-11-09",
+   "location": "Starbase, TX",
+   "posted_at": "2026-11-08",
+   "role": "fullstack",
+   "source": "greenhouse",
+   "status": "new",
+   "tier": "experienced",
+   "title": "Full Stack Software Engineer, Internal Platforms",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8934566002?gh_jid=8934566002"
   },
   "spacex:44aa781de756": {
    "company": "SpaceX",
@@ -265617,6 +265783,19 @@
    "title": "Associate Engineer,  Software - Mobile App Development",
    "url": "https://www.linkedin.com/jobs/view/4480511592"
   },
+  "t-mobile:c51bb9aefcc3": {
+   "company": "T-Mobile",
+   "first_seen": "2026-11-09",
+   "location": "Bellevue, WA, USA",
+   "posted_at": "2026-11-06",
+   "role": "software",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "intern",
+   "title": "Summer 2027 Software Engineering Internship",
+   "url": "https://www.linkedin.com/jobs/view/4488456260"
+  },
   "t-mobile:d49b313f35cf": {
    "company": "T-Mobile",
    "first_seen": "2026-10-28",
@@ -267794,6 +267973,19 @@
    "tier": "experienced",
    "title": "Software Engineer - Agile",
    "url": "https://www.linkedin.com/jobs/view/4472728515"
+  },
+  "taskverse:2e0d6db3de96": {
+   "company": "TaskVerse",
+   "first_seen": "2026-11-09",
+   "location": "USA",
+   "posted_at": "2026-11-08",
+   "role": "software",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "experienced",
+   "title": "Nodejs Developer",
+   "url": "https://www.linkedin.com/jobs/view/4488796727"
   },
   "taskverse:35c4bc541a4d": {
    "company": "TaskVerse",
@@ -280176,6 +280368,20 @@
    "title": "Frontend Developer",
    "url": "https://www.linkedin.com/jobs/view/4488762446"
   },
+  "torentify:30d999a44834": {
+   "company": "Torentify",
+   "first_seen": "2026-11-09",
+   "location": "USA",
+   "posted_at": "2026-11-08",
+   "role": "frontend",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "experienced",
+   "title": "Front End Engineer - React /Next.js (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/4488773909",
+   "workplace": "Remote"
+  },
   "torentify:311cbac9cca6": {
    "company": "Torentify",
    "first_seen": "2026-09-27",
@@ -282384,6 +282590,19 @@
    "tier": "experienced",
    "title": "Junior Software Engineer",
    "url": "https://www.linkedin.com/jobs/view/4471536032"
+  },
+  "triangle-analytics:635a1475ed90": {
+   "company": "Triangle Analytics",
+   "first_seen": "2026-11-09",
+   "location": "New York City Metropolitan Area",
+   "posted_at": "2026-11-08",
+   "role": "ml-ai",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "experienced",
+   "title": "Machine Learning Engineer",
+   "url": "https://www.linkedin.com/jobs/view/4488799888"
   },
   "tricascade-tech:6e5bfd2149b6": {
    "company": "Tricascade Tech",
@@ -304395,22 +304614,22 @@
   "AMD": {
    "best": 400,
    "last": 400,
-   "last_ok": "2026-11-08"
+   "last_ok": "2026-11-09"
   },
   "Abridge": {
    "best": 50,
    "last": 26,
-   "last_ok": "2026-11-08"
+   "last_ok": "2026-11-09"
   },
   "Adobe": {
    "best": 190,
    "last": 155,
-   "last_ok": "2026-11-08"
+   "last_ok": "2026-11-09"
   },
   "Affirm": {
    "best": 246,
    "last": 222,
-   "last_ok": "2026-11-08"
+   "last_ok": "2026-11-09"
   },
   "Airbnb": {
    "best": 213,
@@ -304420,7 +304639,7 @@
   "Airtable": {
    "best": 16,
    "last": 5,
-   "last_ok": "2026-11-08"
+   "last_ok": "2026-11-09"
   },
   "Amazon": {
    "best": 100,
@@ -304429,13 +304648,13 @@
   },
   "American Express": {
    "best": 500,
-   "last": 342,
-   "last_ok": "2026-11-08"
+   "last": 340,
+   "last_ok": "2026-11-09"
   },
   "Anduril": {
    "best": 2605,
    "last": 2601,
-   "last_ok": "2026-11-08"
+   "last_ok": "2026-11-09"
   },
   "Anthropic": {
    "best": 684,
@@ -304445,97 +304664,97 @@
   "Anysphere": {
    "best": 137,
    "last": 121,
-   "last_ok": "2026-11-08"
+   "last_ok": "2026-11-09"
   },
   "Apple": {
    "best": 164,
-   "last": 150,
+   "last": 149,
    "last_ok": "2026-11-09"
   },
   "Applied Intuition": {
    "best": 330,
    "last": 322,
-   "last_ok": "2026-11-08"
+   "last_ok": "2026-11-09"
   },
   "Applied Materials": {
    "best": 195,
    "last": 194,
-   "last_ok": "2026-11-08"
+   "last_ok": "2026-11-09"
   },
   "Asana": {
    "best": 126,
    "last": 108,
-   "last_ok": "2026-11-08"
+   "last_ok": "2026-11-09"
   },
   "Attentive": {
    "best": 39,
    "last": 27,
-   "last_ok": "2026-11-08"
+   "last_ok": "2026-11-09"
   },
   "Auto-Owners Insurance": {
    "best": 104,
    "last": 104,
-   "last_ok": "2026-11-08"
+   "last_ok": "2026-11-09"
   },
   "Berkshire Hathaway Energy": {
    "best": 137,
    "last": 136,
-   "last_ok": "2026-11-08"
+   "last_ok": "2026-11-09"
   },
   "Betterment": {
    "best": 32,
    "last": 26,
-   "last_ok": "2026-11-08"
+   "last_ok": "2026-11-09"
   },
   "Block": {
    "best": 231,
    "last": 200,
-   "last_ok": "2026-11-08"
+   "last_ok": "2026-11-09"
   },
   "Boeing": {
    "best": 196,
    "last": 193,
-   "last_ok": "2026-11-08"
+   "last_ok": "2026-11-09"
   },
   "Brex": {
    "best": 299,
    "last": 268,
-   "last_ok": "2026-11-08"
+   "last_ok": "2026-11-09"
   },
   "CVS Health": {
    "best": 200,
    "last": 200,
-   "last_ok": "2026-11-08"
+   "last_ok": "2026-11-09"
   },
   "Capital One": {
    "best": 171,
    "last": 144,
-   "last_ok": "2026-11-08"
+   "last_ok": "2026-11-09"
   },
   "Carta": {
    "best": 79,
    "last": 79,
-   "last_ok": "2026-11-08"
+   "last_ok": "2026-11-09"
   },
   "Cerebras": {
    "best": 125,
    "last": 121,
-   "last_ok": "2026-11-08"
+   "last_ok": "2026-11-09"
   },
   "Checkr": {
    "best": 51,
    "last": 39,
-   "last_ok": "2026-11-08"
+   "last_ok": "2026-11-09"
   },
   "Chime": {
    "best": 75,
    "last": 72,
-   "last_ok": "2026-11-08"
+   "last_ok": "2026-11-09"
   },
   "Cisco": {
    "best": 146,
    "last": 145,
-   "last_ok": "2026-11-08"
+   "last_ok": "2026-11-09"
   },
   "Citadel": {
    "best": 0,
@@ -304546,122 +304765,122 @@
   "Cloudflare": {
    "best": 470,
    "last": 464,
-   "last_ok": "2026-11-08"
+   "last_ok": "2026-11-09"
   },
   "Cognition": {
    "best": 110,
    "last": 110,
-   "last_ok": "2026-11-08"
+   "last_ok": "2026-11-09"
   },
   "Coinbase": {
    "best": 285,
    "last": 283,
-   "last_ok": "2026-11-08"
+   "last_ok": "2026-11-09"
   },
   "DTCC": {
    "best": 459,
    "last": 414,
-   "last_ok": "2026-11-08"
+   "last_ok": "2026-11-09"
   },
   "Databricks": {
    "best": 928,
    "last": 922,
-   "last_ok": "2026-11-08"
+   "last_ok": "2026-11-09"
   },
   "Datadog": {
    "best": 456,
-   "last": 401,
-   "last_ok": "2026-11-08"
+   "last": 402,
+   "last_ok": "2026-11-09"
   },
   "Decagon": {
    "best": 148,
    "last": 131,
-   "last_ok": "2026-11-08"
+   "last_ok": "2026-11-09"
   },
   "Dell Technologies": {
    "best": 500,
-   "last": 487,
-   "last_ok": "2026-11-08"
+   "last": 477,
+   "last_ok": "2026-11-09"
   },
   "Discord": {
    "best": 52,
    "last": 27,
-   "last_ok": "2026-11-08"
+   "last_ok": "2026-11-09"
   },
   "DoorDash": {
    "best": 475,
    "last": 439,
-   "last_ok": "2026-11-08"
+   "last_ok": "2026-11-09"
   },
   "Dropbox": {
    "best": 47,
    "last": 33,
-   "last_ok": "2026-11-08"
+   "last_ok": "2026-11-09"
   },
   "Duolingo": {
    "best": 92,
    "last": 59,
-   "last_ok": "2026-11-08"
+   "last_ok": "2026-11-09"
   },
   "Elastic": {
    "best": 430,
    "last": 426,
-   "last_ok": "2026-11-08"
+   "last_ok": "2026-11-09"
   },
   "ElevenLabs": {
    "best": 256,
    "last": 137,
-   "last_ok": "2026-11-08"
+   "last_ok": "2026-11-09"
   },
   "Emerson Electric": {
    "best": 500,
    "last": 500,
-   "last_ok": "2026-11-08"
+   "last_ok": "2026-11-09"
   },
   "Expedia Group": {
    "best": 134,
    "last": 112,
-   "last_ok": "2026-11-08"
+   "last_ok": "2026-11-09"
   },
   "Faire": {
    "best": 82,
    "last": 68,
-   "last_ok": "2026-11-08"
+   "last_ok": "2026-11-09"
   },
   "Fidelity National Information Services": {
    "best": 183,
    "last": 170,
-   "last_ok": "2026-11-08"
+   "last_ok": "2026-11-09"
   },
   "Figma": {
    "best": 165,
    "last": 145,
-   "last_ok": "2026-11-08"
+   "last_ok": "2026-11-09"
   },
   "Flexport": {
    "best": 212,
    "last": 190,
-   "last_ok": "2026-11-08"
+   "last_ok": "2026-11-09"
   },
   "GM Financial": {
    "best": 132,
    "last": 124,
-   "last_ok": "2026-11-08"
+   "last_ok": "2026-11-09"
   },
   "General Motors": {
    "best": 198,
    "last": 198,
-   "last_ok": "2026-11-08"
+   "last_ok": "2026-11-09"
   },
   "GitLab": {
    "best": 249,
    "last": 248,
-   "last_ok": "2026-11-08"
+   "last_ok": "2026-11-09"
   },
   "Glean": {
    "best": 137,
    "last": 125,
-   "last_ok": "2026-11-08"
+   "last_ok": "2026-11-09"
   },
   "Google": {
    "best": 100,
@@ -304671,67 +304890,67 @@
   "Gusto": {
    "best": 104,
    "last": 83,
-   "last_ok": "2026-11-08"
+   "last_ok": "2026-11-09"
   },
   "Harvey": {
    "best": 386,
    "last": 373,
-   "last_ok": "2026-11-08"
+   "last_ok": "2026-11-09"
   },
   "Hewlett Packard Enterprise": {
    "best": 200,
    "last": 191,
-   "last_ok": "2026-11-08"
+   "last_ok": "2026-11-09"
   },
   "Honeywell": {
    "best": 500,
    "last": 500,
-   "last_ok": "2026-11-08"
+   "last_ok": "2026-11-09"
   },
   "IMC Trading": {
    "best": 176,
    "last": 162,
-   "last_ok": "2026-11-08"
+   "last_ok": "2026-11-09"
   },
   "Instacart": {
    "best": 131,
    "last": 90,
-   "last_ok": "2026-11-08"
+   "last_ok": "2026-11-09"
   },
   "Intel": {
    "best": 173,
    "last": 157,
-   "last_ok": "2026-11-08"
+   "last_ok": "2026-11-09"
   },
   "JP Morgan Chase": {
    "best": 460,
-   "last": 423,
-   "last_ok": "2026-11-08"
+   "last": 422,
+   "last_ok": "2026-11-09"
   },
   "Komodo Health": {
    "best": 37,
    "last": 21,
-   "last_ok": "2026-11-08"
+   "last_ok": "2026-11-09"
   },
   "Lazard": {
    "best": 137,
    "last": 121,
-   "last_ok": "2026-11-08"
+   "last_ok": "2026-11-09"
   },
   "Linear": {
    "best": 34,
    "last": 32,
-   "last_ok": "2026-11-08"
+   "last_ok": "2026-11-09"
   },
   "LinkedIn (JobSpy)": {
    "best": 1281,
-   "last": 803,
-   "last_ok": "2026-11-08"
+   "last": 674,
+   "last_ok": "2026-11-09"
   },
   "Lyft": {
    "best": 195,
    "last": 166,
-   "last_ok": "2026-11-08"
+   "last_ok": "2026-11-09"
   },
   "Marqeta": {
    "best": 2,
@@ -304741,22 +304960,22 @@
   "Mastercard": {
    "best": 185,
    "last": 180,
-   "last_ok": "2026-11-08"
+   "last_ok": "2026-11-09"
   },
   "Match Group": {
    "best": 81,
    "last": 71,
-   "last_ok": "2026-11-08"
+   "last_ok": "2026-11-09"
   },
   "McKesson": {
    "best": 194,
    "last": 180,
-   "last_ok": "2026-11-08"
+   "last_ok": "2026-11-09"
   },
   "Mercury": {
    "best": 80,
    "last": 78,
-   "last_ok": "2026-11-08"
+   "last_ok": "2026-11-09"
   },
   "Microsoft": {
    "best": 150,
@@ -304766,17 +304985,17 @@
   "MongoDB": {
    "best": 415,
    "last": 374,
-   "last_ok": "2026-11-08"
+   "last_ok": "2026-11-09"
   },
   "NOV": {
    "best": 500,
    "last": 500,
-   "last_ok": "2026-11-08"
+   "last_ok": "2026-11-09"
   },
   "Navy Federal": {
    "best": 189,
    "last": 148,
-   "last_ok": "2026-11-08"
+   "last_ok": "2026-11-09"
   },
   "Netflix": {
    "best": 10,
@@ -304786,17 +305005,17 @@
   "Nokia": {
    "best": 500,
    "last": 500,
-   "last_ok": "2026-11-08"
+   "last_ok": "2026-11-09"
   },
   "Notion": {
    "best": 154,
    "last": 154,
-   "last_ok": "2026-11-08"
+   "last_ok": "2026-11-09"
   },
   "Nuro": {
    "best": 111,
    "last": 94,
-   "last_ok": "2026-11-08"
+   "last_ok": "2026-11-09"
   },
   "Nvidia": {
    "best": 197,
@@ -304806,127 +305025,127 @@
   "Okta": {
    "best": 400,
    "last": 375,
-   "last_ok": "2026-11-08"
+   "last_ok": "2026-11-09"
   },
   "OpenAI": {
    "best": 842,
-   "last": 816,
+   "last": 817,
    "last_ok": "2026-11-09"
   },
   "OpenEvidence": {
    "best": 11,
    "last": 8,
-   "last_ok": "2026-11-08"
+   "last_ok": "2026-11-09"
   },
   "Oracle": {
    "best": 500,
    "last": 500,
-   "last_ok": "2026-11-08"
+   "last_ok": "2026-11-09"
   },
   "PagerDuty": {
    "best": 61,
    "last": 47,
-   "last_ok": "2026-11-08"
+   "last_ok": "2026-11-09"
   },
   "Palantir": {
    "best": 324,
    "last": 305,
-   "last_ok": "2026-11-08"
+   "last_ok": "2026-11-09"
   },
   "Peloton": {
    "best": 61,
    "last": 45,
-   "last_ok": "2026-11-08"
+   "last_ok": "2026-11-09"
   },
   "Perplexity": {
    "best": 139,
    "last": 137,
-   "last_ok": "2026-11-08"
+   "last_ok": "2026-11-09"
   },
   "Pinterest": {
    "best": 225,
    "last": 168,
-   "last_ok": "2026-11-08"
+   "last_ok": "2026-11-09"
   },
   "Plaid": {
    "best": 144,
    "last": 141,
-   "last_ok": "2026-11-08"
+   "last_ok": "2026-11-09"
   },
   "RELX": {
    "best": 196,
    "last": 189,
-   "last_ok": "2026-11-08"
+   "last_ok": "2026-11-09"
   },
   "Ramp": {
    "best": 173,
    "last": 169,
-   "last_ok": "2026-11-08"
+   "last_ok": "2026-11-09"
   },
   "Reddit": {
    "best": 166,
    "last": 163,
-   "last_ok": "2026-11-08"
+   "last_ok": "2026-11-09"
   },
   "Replit": {
    "best": 79,
    "last": 28,
-   "last_ok": "2026-11-08"
+   "last_ok": "2026-11-09"
   },
   "Robinhood": {
    "best": 182,
    "last": 150,
-   "last_ok": "2026-11-08"
+   "last_ok": "2026-11-09"
   },
   "Roblox": {
    "best": 273,
    "last": 270,
-   "last_ok": "2026-11-08"
+   "last_ok": "2026-11-09"
   },
   "Salesforce": {
    "best": 178,
    "last": 170,
-   "last_ok": "2026-11-08"
+   "last_ok": "2026-11-09"
   },
   "Samsara": {
    "best": 340,
-   "last": 314,
-   "last_ok": "2026-11-08"
+   "last": 315,
+   "last_ok": "2026-11-09"
   },
   "Scale AI": {
    "best": 228,
    "last": 168,
-   "last_ok": "2026-11-08"
+   "last_ok": "2026-11-09"
   },
   "Sierra": {
    "best": 220,
    "last": 217,
-   "last_ok": "2026-11-08"
+   "last_ok": "2026-11-09"
   },
   "Simplify Aggregator": {
    "best": 2489,
-   "last": 1966,
-   "last_ok": "2026-11-08"
+   "last": 1929,
+   "last_ok": "2026-11-09"
   },
   "Snowflake": {
    "best": 393,
    "last": 372,
-   "last_ok": "2026-11-08"
+   "last_ok": "2026-11-09"
   },
   "SoFi": {
    "best": 64,
    "last": 46,
-   "last_ok": "2026-11-08"
+   "last_ok": "2026-11-09"
   },
   "SpaceX": {
-   "best": 2901,
-   "last": 2901,
-   "last_ok": "2026-11-08"
+   "best": 2907,
+   "last": 2907,
+   "last_ok": "2026-11-09"
   },
   "Spotify": {
    "best": 95,
    "last": 85,
-   "last_ok": "2026-11-08"
+   "last_ok": "2026-11-09"
   },
   "Stripe": {
    "best": 768,
@@ -304936,12 +305155,12 @@
   "Suno": {
    "best": 73,
    "last": 68,
-   "last_ok": "2026-11-08"
+   "last_ok": "2026-11-09"
   },
   "Target": {
    "best": 200,
    "last": 196,
-   "last_ok": "2026-11-08"
+   "last_ok": "2026-11-09"
   },
   "Tesla": {
    "best": 0,
@@ -304952,27 +305171,27 @@
   "The Toro Company": {
    "best": 139,
    "last": 135,
-   "last_ok": "2026-11-08"
+   "last_ok": "2026-11-09"
   },
   "The Walt Disney Company": {
    "best": 168,
    "last": 109,
-   "last_ok": "2026-11-08"
+   "last_ok": "2026-11-09"
   },
   "Trimble": {
    "best": 158,
    "last": 144,
-   "last_ok": "2026-11-08"
+   "last_ok": "2026-11-09"
   },
   "Twilio": {
    "best": 154,
    "last": 128,
-   "last_ok": "2026-11-08"
+   "last_ok": "2026-11-09"
   },
   "Two Sigma": {
    "best": 66,
    "last": 66,
-   "last_ok": "2026-11-08"
+   "last_ok": "2026-11-09"
   },
   "Uber": {
    "best": 0,
@@ -304983,37 +305202,37 @@
   "Upstart": {
    "best": 101,
    "last": 85,
-   "last_ok": "2026-11-08"
+   "last_ok": "2026-11-09"
   },
   "Vanta": {
    "best": 112,
    "last": 85,
-   "last_ok": "2026-11-08"
+   "last_ok": "2026-11-09"
   },
   "Verizon": {
    "best": 142,
    "last": 135,
-   "last_ok": "2026-11-08"
+   "last_ok": "2026-11-09"
   },
   "Verkada": {
    "best": 347,
    "last": 343,
-   "last_ok": "2026-11-08"
+   "last_ok": "2026-11-09"
   },
   "Visa": {
    "best": 183,
-   "last": 179,
-   "last_ok": "2026-11-08"
+   "last": 180,
+   "last_ok": "2026-11-09"
   },
   "Walmart Global Tech": {
    "best": 200,
-   "last": 59,
-   "last_ok": "2026-11-08"
+   "last": 66,
+   "last_ok": "2026-11-09"
   },
   "Waymo": {
    "best": 374,
-   "last": 369,
-   "last_ok": "2026-11-08"
+   "last": 368,
+   "last_ok": "2026-11-09"
   },
   "Webflow": {
    "best": 31,
@@ -305023,14 +305242,14 @@
   "Whoop": {
    "best": 173,
    "last": 124,
-   "last_ok": "2026-11-08"
+   "last_ok": "2026-11-09"
   },
   "xAI": {
    "best": 312,
    "last": 304,
-   "last_ok": "2026-11-08"
+   "last_ok": "2026-11-09"
   }
  },
- "updated": "2026-11-09T01:09:09Z",
+ "updated": "2026-11-09T01:57:00Z",
  "version": 1
 }
