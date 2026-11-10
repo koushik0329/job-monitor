@@ -13095,7 +13095,7 @@
   },
   "amazon:1f62c8ee0ee1": {
    "company": "Amazon",
-   "employer_checked": "2026-11-03",
+   "employer_checked": "2026-11-10",
    "first_seen": "2026-11-02",
    "location": "Austin, TX, USA",
    "posted_at": "2026-11-02",
@@ -13566,6 +13566,7 @@
   },
   "amazon:2599f98f84fb": {
    "company": "Amazon",
+   "employer_checked": "2026-11-10",
    "first_seen": "2026-11-09",
    "location": "Boston, MA, USA",
    "posted_at": "2026-11-09",
@@ -15312,6 +15313,7 @@
   },
   "amazon:49c882c77be0": {
    "company": "Amazon",
+   "employer_checked": "2026-11-10",
    "first_seen": "2026-11-10",
    "location": "Arlington, VA, USA",
    "posted_at": "2026-11-10",
@@ -15789,6 +15791,7 @@
   },
   "amazon:50976b332f78": {
    "company": "Amazon",
+   "employer_checked": "2026-11-10",
    "first_seen": "2026-11-10",
    "location": "Boston, MA, USA",
    "posted_at": "2026-11-10",
@@ -16833,6 +16836,8 @@
   },
   "amazon:5ebe50960c97": {
    "company": "Amazon",
+   "employer_checked": "2026-11-10",
+   "employer_url": "https://www.amazon.jobs/en/jobs/10594584/front-end-engineer-workforce-solutions-talent-mobility",
    "first_seen": "2026-11-09",
    "location": "Seattle, WA, USA",
    "posted_at": "2026-11-09",
@@ -21126,7 +21131,7 @@
   },
   "amazon:a57f9033f87d": {
    "company": "Amazon",
-   "employer_checked": "2026-11-03",
+   "employer_checked": "2026-11-10",
    "first_seen": "2026-11-03",
    "location": "Seattle, WA, USA",
    "posted_at": "2026-11-03",
@@ -22430,6 +22435,8 @@
   },
   "amazon:bdc8c057a698": {
    "company": "Amazon",
+   "employer_checked": "2026-11-10",
+   "employer_url": "https://www.amazon.jobs/en/jobs/10598852/data-engineer-selling-partner-trust",
    "first_seen": "2026-11-09",
    "location": "Seattle, WA, USA",
    "posted_at": "2026-11-07",
@@ -28802,6 +28809,8 @@
   },
   "amentum:660adfb01ec7": {
    "company": "Amentum",
+   "employer_checked": "2026-11-10",
+   "employer_url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-MD-Baltimore/DevOps-Integration-Engineer_R0174943",
    "first_seen": "2026-11-10",
    "location": "Baltimore, MD, USA",
    "posted_at": "2026-11-09",
@@ -67792,7 +67801,7 @@
   },
   "booz-allen-hamilton:b6d48542d953": {
    "company": "Booz Allen Hamilton",
-   "employer_checked": "2026-11-03",
+   "employer_checked": "2026-11-10",
    "first_seen": "2026-11-03",
    "location": "Fort Knox, KY, USA",
    "posted_at": "2026-11-02",
@@ -73676,6 +73685,8 @@
   },
   "caci-international-inc:234df7fc1f90": {
    "company": "CACI International Inc",
+   "employer_checked": "2026-11-10",
+   "employer_url": "https://caci.wd1.myworkdayjobs.com/en-US/external/job/King-of-Prussia-PA-US/Software-Engineering-Co-op---Spring-2027_334665",
    "first_seen": "2026-11-09",
    "location": "King of Prussia, PA, USA",
    "posted_at": "2026-11-07",
@@ -90033,6 +90044,8 @@
   },
   "cesiumastro:2d03a1e1d9e3": {
    "company": "CesiumAstro",
+   "employer_checked": "2026-11-10",
+   "employer_url": "https://jobs.lever.co/CesiumAstro/e3abc815-107d-4206-8a83-dd02932e2361",
    "first_seen": "2026-11-09",
    "location": "Melbourne, FL, USA",
    "posted_at": "2026-11-09",
@@ -92963,7 +92976,7 @@
   },
   "cisco:3851deedcdb4": {
    "company": "Cisco",
-   "employer_checked": "2026-11-03",
+   "employer_checked": "2026-11-10",
    "first_seen": "2026-11-03",
    "location": "Seattle, WA, USA",
    "posted_at": "2026-11-02",
@@ -98709,6 +98722,8 @@
   },
   "collins-aerospace:398572a6e638": {
    "company": "Collins Aerospace",
+   "employer_checked": "2026-11-10",
+   "employer_url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--E2D-IN-1-_01888020",
    "first_seen": "2026-11-09",
    "location": "Sterling, VA, USA",
    "posted_at": "2026-11-09",
@@ -103720,6 +103735,8 @@
   },
   "csi:3c149e12d7ce": {
    "company": "CSI",
+   "employer_checked": "2026-11-10",
+   "employer_url": "https://csiweb.wd1.myworkdayjobs.com/en-US/CSI_Careers/job/Paducah-KY-Corporate/Software-Engineer-I---C--NET---Hybrid---Paducah--KY_R-100739",
    "first_seen": "2026-11-10",
    "location": "Paducah, KY, USA",
    "posted_at": "2026-11-09",
@@ -123681,7 +123698,7 @@
   },
   "expedia-group:69bff6e1cfac": {
    "company": "Expedia Group",
-   "employer_checked": "2026-11-03",
+   "employer_checked": "2026-11-10",
    "first_seen": "2026-11-02",
    "location": "Seattle, WA, USA",
    "posted_at": "2026-10-31",
@@ -146958,6 +146975,8 @@
   },
   "guidehouse:d95a2509529c": {
    "company": "Guidehouse",
+   "employer_checked": "2026-11-10",
+   "employer_url": "https://guidehouse.wd1.myworkdayjobs.com/en-US/external/job/US---GA-Atlanta/Data-Scientist--Consultant--Utilities-_46382",
    "first_seen": "2026-11-09",
    "location": "Atlanta, GA, USA",
    "posted_at": "2026-11-09",
@@ -150825,6 +150844,8 @@
   },
   "hermeus:ad98c3de2f4c": {
    "company": "Hermeus",
+   "employer_checked": "2026-11-10",
+   "employer_url": "https://jobs.lever.co/hermeus/d87ed913-affc-475e-b721-c5b5f11c3c7b",
    "first_seen": "2026-11-09",
    "location": "Atlanta, GA, USA",
    "posted_at": "2026-11-09",
@@ -154493,6 +154514,8 @@
   },
   "hp:b776332e0d2b": {
    "company": "HP",
+   "employer_checked": "2026-11-10",
+   "employer_url": "https://hp.wd5.myworkdayjobs.com/en-US/externalcareersite/job/Spring-Texas-United-States-of-America/Enterprise-Operations-Software-Internship_3167271-2",
    "first_seen": "2026-11-09",
    "location": "Spring, TX, USA",
    "posted_at": "2026-11-09",
@@ -176220,7 +176243,7 @@
   },
   "kla:d62735a68a9c": {
    "company": "KLA",
-   "employer_checked": "2026-11-03",
+   "employer_checked": "2026-11-10",
    "first_seen": "2026-11-03",
    "location": "Milpitas, CA, USA",
    "posted_at": "2026-11-02",
@@ -176920,6 +176943,7 @@
   },
   "kyndryl:2eba34567200": {
    "company": "Kyndryl",
+   "employer_checked": "2026-11-10",
    "first_seen": "2026-11-04",
    "location": "Phoenix, AZ, USA",
    "posted_at": "2026-11-04",
@@ -176933,6 +176957,8 @@
   },
   "kyndryl:f1d263ee14e3": {
    "company": "Kyndryl",
+   "employer_checked": "2026-11-10",
+   "employer_url": "https://kyndryl.wd5.myworkdayjobs.com/en-US/KyndrylProfessionalCareers/job/Dallas-USDALFRI-Frisco-AI-HUB/Early-Career-Consult-Program---Associate-AI-Engineer_R-66739-2",
    "first_seen": "2026-10-14",
    "location": "Dallas, TX, USA",
    "posted_at": "2026-10-14",
@@ -182738,7 +182764,7 @@
   },
   "lseg:0b7afa7c9d9c": {
    "company": "LSEG",
-   "employer_checked": "2026-11-03",
+   "employer_checked": "2026-11-10",
    "first_seen": "2026-11-03",
    "location": "St Louis, MO, USA",
    "posted_at": "2026-11-03",
@@ -182821,7 +182847,7 @@
   },
   "lseg:853540002e50": {
    "company": "LSEG",
-   "employer_checked": "2026-11-03",
+   "employer_checked": "2026-11-10",
    "first_seen": "2026-11-03",
    "location": "St Louis, MO, USA",
    "posted_at": "2026-11-03",
@@ -194779,7 +194805,7 @@
   },
   "motorola-solutions:bf6c9e368033": {
    "company": "Motorola Solutions",
-   "employer_checked": "2026-11-03",
+   "employer_checked": "2026-11-10",
    "first_seen": "2026-11-03",
    "location": "Virginia, USA",
    "posted_at": "2026-11-02",
@@ -216115,7 +216141,7 @@
   },
   "pace-llc:6521aceb6cd8": {
    "company": "PACE LLC",
-   "employer_checked": "2026-11-03",
+   "employer_checked": "2026-11-10",
    "first_seen": "2026-11-03",
    "location": "Richmond, VA, USA",
    "posted_at": "2026-11-02",
@@ -218970,7 +218996,7 @@
   },
   "paretohealth:24da201b2de9": {
    "company": "ParetoHealth",
-   "employer_checked": "2026-11-03",
+   "employer_checked": "2026-11-10",
    "first_seen": "2026-11-02",
    "location": "Greater Philadelphia",
    "posted_at": "2026-11-02",
@@ -219117,6 +219143,8 @@
   },
   "parsons-corporation:1b1645b29377": {
    "company": "Parsons Corporation",
+   "employer_checked": "2026-11-10",
+   "employer_url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---MD-Columbia/Summer-Embedded-Developer-Intern_R188299",
    "first_seen": "2026-11-09",
    "location": "Columbia, MD, USA",
    "posted_at": "2026-11-09",
@@ -222674,6 +222702,7 @@
   },
   "persona-ai:a3550acf790d": {
    "company": "Persona AI",
+   "employer_checked": "2026-11-10",
    "first_seen": "2026-11-10",
    "location": "Greater Houston",
    "posted_at": "2026-11-10",
@@ -231044,6 +231073,8 @@
   },
   "raytheon:50c1e9d4d8b2": {
    "company": "Raytheon",
+   "employer_checked": "2026-11-10",
+   "employer_url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CA-GOLETA-H01--6380-Hollister-Ave--BLDG-H01/Embedded-Software-Engineer-I--Onsite-_01888147",
    "first_seen": "2026-11-10",
    "location": "Goleta, CA, USA",
    "posted_at": "2026-11-09",
@@ -237309,6 +237340,8 @@
   },
   "rocket-lab:7b39f22ae46d": {
    "company": "Rocket Lab",
+   "employer_checked": "2026-11-10",
+   "employer_url": "https://job-boards.greenhouse.io/rocketlab/jobs/8057246003",
    "first_seen": "2026-11-10",
    "location": "Pasadena, CA, USA",
    "posted_at": "2026-11-09",
@@ -241731,6 +241764,8 @@
   },
   "s-c-electric-company:2e81e9a97245": {
    "company": "S&C Electric Company",
+   "employer_checked": "2026-11-10",
+   "employer_url": "https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107444",
    "first_seen": "2026-11-10",
    "location": "Chicago, IL, USA",
    "posted_at": "2026-11-09",
@@ -249820,7 +249855,7 @@
   },
   "sierra-nevada-corporation:4a632ff2b43a": {
    "company": "Sierra Nevada Corporation",
-   "employer_checked": "2026-11-03",
+   "employer_checked": "2026-11-10",
    "first_seen": "2026-11-03",
    "location": "Southern Pines, NC, USA",
    "posted_at": "2026-11-02",
@@ -269221,7 +269256,8 @@
   },
   "t-mobile:4f8b5658113c": {
    "company": "T-Mobile",
-   "employer_checked": "2026-11-03",
+   "employer_checked": "2026-11-10",
+   "employer_url": "https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Overland-Park-Kansas/Summer-2027-Assoc-AI-Engineer-Internship_REQ380492",
    "first_seen": "2026-11-02",
    "location": "Overland Park, KS, USA",
    "posted_at": "2026-10-31",
@@ -271301,7 +271337,7 @@
   },
   "target:345f995ed235": {
    "company": "Target",
-   "employer_checked": "2026-11-03",
+   "employer_checked": "2026-11-10",
    "first_seen": "2026-11-02",
    "location": "Brooklyn Park, MN, USA",
    "posted_at": "2026-10-30",
@@ -294718,7 +294754,7 @@
   },
   "vertiv:a48a6f53b346": {
    "company": "Vertiv",
-   "employer_checked": "2026-11-03",
+   "employer_checked": "2026-11-10",
    "first_seen": "2026-11-02",
    "location": "Westerville, OH, USA",
    "posted_at": "2026-10-31",
@@ -295984,6 +296020,7 @@
   },
   "visa:922abf7a43af": {
    "company": "Visa",
+   "employer_url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Austin-TX/Cybersecurity-Engineer_REF090029W-1",
    "first_seen": "2026-10-01",
    "location": "Austin, TX",
    "posted_at": "2026-10-01",
@@ -299501,7 +299538,7 @@
   },
   "walmart:15e1fe69c48c": {
    "company": "Walmart",
-   "employer_checked": "2026-11-03",
+   "employer_checked": "2026-11-10",
    "first_seen": "2026-11-02",
    "location": "Bentonville, AR, USA",
    "posted_at": "2026-10-31",
@@ -302724,6 +302761,7 @@
   },
   "wex:122ebb16a5f1": {
    "company": "WEX",
+   "employer_checked": "2026-11-10",
    "first_seen": "2026-11-10",
    "location": "Maine, USA",
    "posted_at": "2026-11-09",
@@ -307547,7 +307585,7 @@
   },
   "zebra-technologies:29db0ddd4c36": {
    "company": "Zebra Technologies",
-   "employer_checked": "2026-11-03",
+   "employer_checked": "2026-11-10",
    "first_seen": "2026-11-03",
    "location": "Holtsville, NY, USA",
    "posted_at": "2026-11-02",
@@ -307633,7 +307671,7 @@
   },
   "zebra-technologies:9f3a549ef5c0": {
    "company": "Zebra Technologies",
-   "employer_checked": "2026-11-03",
+   "employer_checked": "2026-11-10",
    "first_seen": "2026-11-03",
    "location": "Holtsville, NY, USA",
    "posted_at": "2026-11-02",
@@ -309399,6 +309437,6 @@
    "last_ok": "2026-11-10"
   }
  },
- "updated": "2026-11-10T04:22:28Z",
+ "updated": "2026-11-10T11:02:00Z",
  "version": 1
 }
