@@ -11116,6 +11116,21 @@
    "url": "https://www.amazon.jobs/en/jobs/10570562/software-development-engineer-platform-engineering-and-services-aft-labor-insights",
    "yoe": 1
   },
+  "amazon:00a2f747ec04": {
+   "company": "Amazon",
+   "department": "Software Development",
+   "employment_type": "Full-time",
+   "first_seen": "2026-11-10",
+   "location": "Seattle, Washington, USA",
+   "posted_at": "2026-11-09",
+   "role": "software",
+   "source": "amazon.jobs",
+   "status": "new",
+   "tier": "experienced",
+   "title": "Software Development Engineer, AIO Visualization and Reporting",
+   "url": "https://www.amazon.jobs/en/jobs/10600530/software-development-engineer-aio-visualization-and-reporting",
+   "yoe": 1
+  },
   "amazon:00c72cb7bf5c": {
    "company": "Amazon",
    "first_seen": "2026-09-30",
@@ -16601,6 +16616,21 @@
    "tier": "experienced",
    "title": "Software Development Engineer, AWS OpenSearch Service",
    "url": "https://www.amazon.jobs/en/jobs/10504029/software-development-engineer-aws-opensearch-service",
+   "yoe": 1
+  },
+  "amazon:5c802688340f": {
+   "company": "Amazon",
+   "department": "Software Development",
+   "employment_type": "Full-time",
+   "first_seen": "2026-11-10",
+   "location": "Seattle, Washington, USA",
+   "posted_at": "2026-11-09",
+   "role": "software",
+   "source": "amazon.jobs",
+   "status": "new",
+   "tier": "experienced",
+   "title": "Software Development Engineer",
+   "url": "https://www.amazon.jobs/en/jobs/10600537/software-development-engineer",
    "yoe": 1
   },
   "amazon:5cdedc925600": {
@@ -22216,6 +22246,21 @@
    "title": "Software Development Engineer – Embedded Systems 2026 (US)",
    "url": "https://www.linkedin.com/jobs/view/4455919609"
   },
+  "amazon:bcc47019e4da": {
+   "company": "Amazon",
+   "department": "Software Development",
+   "employment_type": "Full-time",
+   "first_seen": "2026-11-10",
+   "location": "Boulder, Colorado, USA",
+   "posted_at": "2026-11-09",
+   "role": "software",
+   "source": "amazon.jobs",
+   "status": "new",
+   "tier": "experienced",
+   "title": "Software Development Engineer, Amazon Marketing Cloud Assistant",
+   "url": "https://www.amazon.jobs/en/jobs/10600648/software-development-engineer-amazon-marketing-cloud-assistant",
+   "yoe": 1
+  },
   "amazon:bd29a528a800": {
    "company": "Amazon",
    "department": "Software Development",
@@ -22435,6 +22480,21 @@
    "title": "Software Development Engineer, Amazon Selection Monitoring",
    "url": "https://www.amazon.jobs/en/jobs/10515630/software-development-engineer-amazon-selection-monitoring",
    "yoe": 1
+  },
+  "amazon:bfa6cbe19703": {
+   "company": "Amazon",
+   "department": "Software Development",
+   "employment_type": "Full-time",
+   "first_seen": "2026-11-10",
+   "location": "Seattle, Washington, USA",
+   "posted_at": "2026-11-09",
+   "role": "software",
+   "source": "amazon.jobs",
+   "status": "new",
+   "tier": "experienced",
+   "title": "Software Engineer, Worldwide Amazon Stores Finance Technology, Controllership Engineering",
+   "url": "https://www.amazon.jobs/en/jobs/10600471/software-engineer-worldwide-amazon-stores-finance-technology-controllership-engineering",
+   "yoe": 2
   },
   "amazon:bfdb51bf022c": {
    "company": "Amazon",
@@ -23308,6 +23368,21 @@
    "url": "https://www.amazon.jobs/en/jobs/10510890/software-development-engineer-amazon-autos",
    "yoe": 2
   },
+  "amazon:ce4341d066b0": {
+   "company": "Amazon",
+   "department": "Software Development",
+   "employment_type": "Full-time",
+   "first_seen": "2026-11-10",
+   "location": "Seattle, Washington, USA",
+   "posted_at": "2026-11-09",
+   "role": "software",
+   "source": "amazon.jobs",
+   "status": "new",
+   "tier": "experienced",
+   "title": "Software Development Engineer, Amazon Customer Service ",
+   "url": "https://www.amazon.jobs/en/jobs/10600458/software-development-engineer-amazon-customer-service",
+   "yoe": 1
+  },
   "amazon:ce69003b380b": {
    "company": "Amazon",
    "department": "Software Development",
@@ -23572,6 +23647,21 @@
    "tier": "experienced",
    "title": "Device Software Engineer, Amazon Leo Government",
    "url": "https://www.amazon.jobs/en/jobs/10566727/device-software-engineer-amazon-leo-government",
+   "yoe": 2
+  },
+  "amazon:d0e2965eb73e": {
+   "company": "Amazon",
+   "department": "Software Development",
+   "employment_type": "Full-time",
+   "first_seen": "2026-11-10",
+   "location": "Herndon, Virginia, USA",
+   "posted_at": "2026-11-09",
+   "role": "software",
+   "source": "amazon.jobs",
+   "status": "new",
+   "tier": "experienced",
+   "title": "Software Dev Engineer-II, Route 53 Resolver",
+   "url": "https://www.amazon.jobs/en/jobs/10600654/software-dev-engineer-ii-route-53-resolver",
    "yoe": 2
   },
   "amazon:d0ed71d39c47": {
@@ -42238,6 +42328,19 @@
    "title": "Telephony Software Engineer, Wireless Technologies & Ecosystems",
    "url": "https://jobs.apple.com/en-us/details/200686844/telephony-software-engineer-wireless-technologies-ecosystems"
   },
+  "apple:1b1aae95c7fa": {
+   "company": "Apple",
+   "department": "Hardware",
+   "first_seen": "2026-11-10",
+   "location": "Cupertino",
+   "posted_at": "2026-11-10",
+   "role": "qa-test",
+   "source": "jobs.apple.com",
+   "status": "new",
+   "tier": "experienced",
+   "title": "SoC Test Engineer",
+   "url": "https://jobs.apple.com/en-us/details/200657328/soc-test-engineer"
+  },
   "apple:1b20509a5d13": {
    "company": "Apple",
    "department": "Software and Services",
@@ -42315,6 +42418,19 @@
    "tier": "experienced",
    "title": "CPU Verification ML Tool Engineer",
    "url": "https://jobs.apple.com/en-us/details/200687964/cpu-verification-ml-tool-engineer"
+  },
+  "apple:1e3b70a211cd": {
+   "company": "Apple",
+   "department": "Software and Services",
+   "first_seen": "2026-11-10",
+   "location": "Cupertino",
+   "posted_at": "2026-11-09",
+   "role": "software",
+   "source": "jobs.apple.com",
+   "status": "new",
+   "tier": "experienced",
+   "title": "Software Engineer, Contacts ",
+   "url": "https://jobs.apple.com/en-us/details/200693896/software-engineer-contacts"
   },
   "apple:2078d259666b": {
    "company": "Apple",
@@ -42874,6 +42990,19 @@
    "tier": "experienced",
    "title": "UI and iOS Platform Software Engineer, Safari",
    "url": "https://jobs.apple.com/en-us/details/200671616/ui-and-ios-platform-software-engineer-safari"
+  },
+  "apple:411c9988c50d": {
+   "company": "Apple",
+   "department": "Machine Learning and AI",
+   "first_seen": "2026-11-10",
+   "location": "Austin",
+   "posted_at": "2026-11-09",
+   "role": "ml-ai",
+   "source": "jobs.apple.com",
+   "status": "new",
+   "tier": "experienced",
+   "title": "Applied Scientist",
+   "url": "https://jobs.apple.com/en-us/details/200694181/applied-scientist"
   },
   "apple:415f1aae3790": {
    "company": "Apple",
@@ -44072,6 +44201,19 @@
    "title": "Wireless PHY Systems Engineer — Pre-Silicon Emulation",
    "url": "https://jobs.apple.com/en-us/details/200689125/wireless-phy-systems-engineer-pre-silicon-emulation"
   },
+  "apple:88370d14ad12": {
+   "company": "Apple",
+   "department": "Software and Services",
+   "first_seen": "2026-11-10",
+   "location": "San Diego",
+   "posted_at": "2026-11-09",
+   "role": "solutions",
+   "source": "jobs.apple.com",
+   "status": "new",
+   "tier": "experienced",
+   "title": "Software Engineer, Deployment Platform MultiCloud",
+   "url": "https://jobs.apple.com/en-us/details/200694167/software-engineer-deployment-platform-multicloud"
+  },
   "apple:88d51f1ec3ff": {
    "company": "Apple",
    "department": "Software and Services",
@@ -44318,6 +44460,19 @@
    "tier": "experienced",
    "title": "Computer Vision/Deep Learning Engineer",
    "url": "https://jobs.apple.com/en-us/details/200689830/computer-vision-deep-learning-engineer"
+  },
+  "apple:94bee2d1ebe2": {
+   "company": "Apple",
+   "department": "Software and Services",
+   "first_seen": "2026-11-10",
+   "location": "Cupertino",
+   "posted_at": "2026-11-10",
+   "role": "ml-ai",
+   "source": "jobs.apple.com",
+   "status": "new",
+   "tier": "experienced",
+   "title": "AI Software Engineer - Calendar Intelligence",
+   "url": "https://jobs.apple.com/en-us/details/200694215/ai-software-engineer-calendar-intelligence"
   },
   "apple:94e6f2f77123": {
    "company": "Apple",
@@ -44722,6 +44877,19 @@
    "title": "Software Engineer, IS&T Early Career Opportunities",
    "url": "https://jobs.apple.com/en-us/details/200688599/software-engineer-is-t-early-career-opportunities"
   },
+  "apple:ac7112ae3683": {
+   "company": "Apple",
+   "department": "Hardware",
+   "first_seen": "2026-11-10",
+   "location": "San Diego",
+   "posted_at": "2026-11-10",
+   "role": "software",
+   "source": "jobs.apple.com",
+   "status": "new",
+   "tier": "experienced",
+   "title": "Software Development Engineer - Cellular (Instrument Engineering)",
+   "url": "https://jobs.apple.com/en-us/details/200692246/software-development-engineer-cellular-instrument-engineering"
+  },
   "apple:ad2e1f9ac64f": {
    "company": "Apple",
    "department": "Hardware",
@@ -44955,6 +45123,19 @@
    "tier": "experienced",
    "title": "Software Engineer, Apple Services Engineering",
    "url": "https://jobs.apple.com/en-us/details/200689298/software-engineer-apple-services-engineering"
+  },
+  "apple:b863af88b67f": {
+   "company": "Apple",
+   "department": "Software and Services",
+   "first_seen": "2026-11-10",
+   "location": "Cupertino",
+   "posted_at": "2026-11-10",
+   "role": "ml-ai",
+   "source": "jobs.apple.com",
+   "status": "new",
+   "tier": "experienced",
+   "title": "Computer Vision Engineer",
+   "url": "https://jobs.apple.com/en-us/details/200694128/computer-vision-engineer"
   },
   "apple:b91dea7cf7dd": {
    "company": "Apple",
@@ -45775,6 +45956,19 @@
    "title": "Special Projects - Research Scientist/Engineer (Robotics)",
    "url": "https://jobs.apple.com/en-us/details/200663675/special-projects-research-scientist-engineer-robotics"
   },
+  "apple:f1930ee313d1": {
+   "company": "Apple",
+   "department": "Software and Services",
+   "first_seen": "2026-11-10",
+   "location": "San Diego",
+   "posted_at": "2026-11-09",
+   "role": "software",
+   "source": "jobs.apple.com",
+   "status": "new",
+   "tier": "experienced",
+   "title": "Location Software Engineer",
+   "url": "https://jobs.apple.com/en-us/details/200692268/location-software-engineer"
+  },
   "apple:f1aefce2b571": {
    "company": "Apple",
    "department": "Software and Services",
@@ -46047,6 +46241,19 @@
    "tier": "experienced",
    "title": "RFIC Test Engineer",
    "url": "https://jobs.apple.com/en-us/details/200693492/rfic-test-engineer"
+  },
+  "apple:fd9933eee1a9": {
+   "company": "Apple",
+   "department": "Hardware",
+   "first_seen": "2026-11-10",
+   "location": "San Diego",
+   "posted_at": "2026-11-10",
+   "role": "qa-test",
+   "source": "jobs.apple.com",
+   "status": "new",
+   "tier": "experienced",
+   "title": "SoC Test Engineer",
+   "url": "https://jobs.apple.com/en-us/details/200657329/soc-test-engineer"
   },
   "apple:ffae300bad75": {
    "company": "Apple",
@@ -189013,6 +189220,20 @@
    "title": "Site Reliability Engineer II - CTJ - Secret",
    "url": "https://www.linkedin.com/jobs/view/4475327015"
   },
+  "microsoft:21d96657c6c3": {
+   "company": "Microsoft",
+   "department": "Silicon Engineering",
+   "first_seen": "2026-11-10",
+   "location": "Hillsboro, OR, US; Mountain View, CA, US; Raleigh, NC, US",
+   "posted_at": "2026-11-09",
+   "role": "devops-sre",
+   "source": "microsoft careers",
+   "status": "new",
+   "tier": "experienced",
+   "title": "Software CAD DevOps Engineer",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557055948",
+   "workplace": "On-site"
+  },
   "microsoft:23648ebbcde1": {
    "company": "Microsoft",
    "department": "Software Engineering",
@@ -204467,6 +204688,18 @@
    "title": "NVIDIA 2027 Internships: Software Engineering",
    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495"
   },
+  "nvidia:76833cd316f0": {
+   "company": "Nvidia",
+   "first_seen": "2026-11-10",
+   "location": "2 Locations",
+   "posted_at": "2026-11-10",
+   "role": "software",
+   "source": "workday",
+   "status": "new",
+   "tier": "experienced",
+   "title": "Inference Performance Engineer, Agent Driven Inference Optimization",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Inference-Performance-Engineer--AI-Inference-Configuration-Optimization_JR2021689"
+  },
   "nvidia:77dd44aa6882": {
    "company": "Nvidia",
    "first_seen": "2026-09-02",
@@ -210126,6 +210359,23 @@
    "title": "Data Engineer",
    "url": "https://www.linkedin.com/jobs/view/4456062235"
   },
+  "openai:82204a840966": {
+   "comp": "$266K – $385K • Offers Equity",
+   "company": "OpenAI",
+   "department": "Applied AI",
+   "employment_type": "Full-time",
+   "first_seen": "2026-11-10",
+   "location": "San Francisco",
+   "posted_at": "2026-11-10",
+   "role": "mobile",
+   "source": "ashby",
+   "status": "new",
+   "tier": "experienced",
+   "title": "Android Engineer, Growth",
+   "url": "https://jobs.ashbyhq.com/openai/57bbaedc-30c1-4f1d-b194-e32a6adf874c",
+   "workplace": "Hybrid",
+   "yoe": 4
+  },
   "openai:825e825127ef": {
    "comp": "$293K – $325K • Offers Equity",
    "company": "OpenAI",
@@ -210873,6 +211123,23 @@
    "url": "https://jobs.ashbyhq.com/openai/7f76be3a-38d0-4ff4-b997-9f1672e78bc0",
    "workplace": "Hybrid",
    "yoe": 5
+  },
+  "openai:a4c9e93bc0e5": {
+   "comp": "$266K – $445K • Offers Equity",
+   "company": "OpenAI",
+   "department": "Applied AI",
+   "employment_type": "Full-time",
+   "first_seen": "2026-11-10",
+   "location": "San Francisco",
+   "posted_at": "2026-11-09",
+   "role": "fullstack",
+   "source": "ashby",
+   "status": "new",
+   "tier": "experienced",
+   "title": "Full-Stack Software Engineer, Child Safety Tools & Systems",
+   "url": "https://jobs.ashbyhq.com/openai/d7dfc19d-e508-4522-91fa-e31c3b612a47",
+   "workplace": "Hybrid",
+   "yoe": 7
   },
   "openai:a5defd99bda8": {
    "comp": "$230K – $385K • Offers Equity",
@@ -307047,8 +307314,8 @@
   },
   "Airbnb": {
    "best": 213,
-   "last": 203,
-   "last_ok": "2026-11-09"
+   "last": 205,
+   "last_ok": "2026-11-10"
   },
   "Airtable": {
    "best": 16,
@@ -307058,7 +307325,7 @@
   "Amazon": {
    "best": 100,
    "last": 100,
-   "last_ok": "2026-11-09"
+   "last_ok": "2026-11-10"
   },
   "American Express": {
    "best": 500,
@@ -307073,7 +307340,7 @@
   "Anthropic": {
    "best": 684,
    "last": 676,
-   "last_ok": "2026-11-09"
+   "last_ok": "2026-11-10"
   },
   "Anysphere": {
    "best": 137,
@@ -307082,8 +307349,8 @@
   },
   "Apple": {
    "best": 164,
-   "last": 146,
-   "last_ok": "2026-11-09"
+   "last": 137,
+   "last_ok": "2026-11-10"
   },
   "Applied Intuition": {
    "best": 330,
@@ -307299,7 +307566,7 @@
   "Google": {
    "best": 100,
    "last": 100,
-   "last_ok": "2026-11-09"
+   "last_ok": "2026-11-10"
   },
   "Gusto": {
    "best": 104,
@@ -307393,8 +307660,8 @@
   },
   "Microsoft": {
    "best": 150,
-   "last": 148,
-   "last_ok": "2026-11-09"
+   "last": 150,
+   "last_ok": "2026-11-10"
   },
   "MongoDB": {
    "best": 415,
@@ -307414,7 +307681,7 @@
   "Netflix": {
    "best": 10,
    "last": 10,
-   "last_ok": "2026-11-09"
+   "last_ok": "2026-11-10"
   },
   "Nokia": {
    "best": 500,
@@ -307433,8 +307700,8 @@
   },
   "Nvidia": {
    "best": 197,
-   "last": 0,
-   "last_ok": "2026-11-09"
+   "last": 194,
+   "last_ok": "2026-11-10"
   },
   "Okta": {
    "best": 400,
@@ -307443,8 +307710,8 @@
   },
   "OpenAI": {
    "best": 842,
-   "last": 811,
-   "last_ok": "2026-11-09"
+   "last": 825,
+   "last_ok": "2026-11-10"
   },
   "OpenEvidence": {
    "best": 11,
@@ -307563,8 +307830,8 @@
   },
   "Stripe": {
    "best": 772,
-   "last": 771,
-   "last_ok": "2026-11-09"
+   "last": 772,
+   "last_ok": "2026-11-10"
   },
   "Suno": {
    "best": 73,
@@ -307664,6 +307931,6 @@
    "last_ok": "2026-11-09"
   }
  },
- "updated": "2026-11-09T21:04:17Z",
+ "updated": "2026-11-10T03:45:12Z",
  "version": 1
 }
