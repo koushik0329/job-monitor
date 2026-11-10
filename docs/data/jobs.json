@@ -311602,7 +311602,7 @@
   },
   "Anthropic": {
    "best": 684,
-   "last": 676,
+   "last": 677,
    "last_ok": "2026-11-10"
   },
   "Anysphere": {
@@ -311612,7 +311612,7 @@
   },
   "Apple": {
    "best": 164,
-   "last": 154,
+   "last": 156,
    "last_ok": "2026-11-10"
   },
   "Applied Intuition": {
@@ -312194,6 +312194,6 @@
    "last_ok": "2026-11-10"
   }
  },
- "updated": "2026-11-10T21:05:16Z",
+ "updated": "2026-11-10T21:23:46Z",
  "version": 1
 }
