@@ -10129,6 +10129,18 @@
    "title": "Field Logistics Associate",
    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5277491007?gh_jid=5277491007"
   },
+  "anduril:9303e70ca2ce": {
+   "company": "Anduril",
+   "first_seen": "2026-11-11",
+   "location": "Costa Mesa, California, United States",
+   "posted_at": "2026-11-10",
+   "role": "program-mgmt",
+   "source": "greenhouse",
+   "status": "new",
+   "tier": "manager",
+   "title": "Supply Chain Operations Program Manager",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5291781007?gh_jid=5291781007"
+  },
   "anduril:93c1482bfb69": {
    "company": "Anduril",
    "first_seen": "2026-10-08",
@@ -14000,6 +14012,19 @@
    "title": "Manager - Supply Planning",
    "url": "https://www.linkedin.com/jobs/view/4474454582"
   },
+  "armor-iimak-north-america:bdb574852d8f": {
+   "company": "ARMOR-IIMAK North America",
+   "first_seen": "2026-11-11",
+   "location": "Hebron, KY, USA",
+   "posted_at": "2026-11-10",
+   "role": "supply-chain",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "mid",
+   "title": "Planner II",
+   "url": "https://www.linkedin.com/jobs/view/4488631216"
+  },
   "armor-iimak-north-america:d67fc672f6af": {
    "company": "ARMOR-IIMAK North America",
    "first_seen": "2026-10-20",
@@ -14709,6 +14734,19 @@
    "tier": "mid",
    "title": "Operational Planner",
    "url": "https://www.linkedin.com/jobs/view/4482137942"
+  },
+  "asml:b288768d0f3f": {
+   "company": "ASML",
+   "first_seen": "2026-11-11",
+   "location": "Phoenix, AZ, USA",
+   "posted_at": "2026-11-11",
+   "role": "analytics",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "intern",
+   "title": "Internship - Supply Chain Analytics",
+   "url": "https://www.linkedin.com/jobs/view/4487870353"
   },
   "asml:de5540650e6f": {
    "company": "ASML",
@@ -16047,6 +16085,19 @@
    "title": "Logistics Analyst - Control Tower",
    "url": "https://www.linkedin.com/jobs/view/4472248489"
   },
+  "aurora:f924e24bd920": {
+   "company": "Aurora",
+   "first_seen": "2026-11-11",
+   "location": "Pittsburgh, PA, USA",
+   "posted_at": "2026-11-10",
+   "role": "supply-planning",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "mid",
+   "title": "Manufacturing Production Planner",
+   "url": "https://www.linkedin.com/jobs/view/4489630037"
+  },
   "aurubis-richmond:4b77fff22369": {
    "checked_at": "2026-10-02",
    "company": "Aurubis Richmond",
@@ -16699,6 +16750,19 @@
    "tier": "intern",
    "title": "Production & Logistics Intern (Summer 2027)",
    "url": "https://www.linkedin.com/jobs/view/4480320378"
+  },
+  "axiom:c5cb06c454f6": {
+   "company": "Axiom",
+   "first_seen": "2026-11-11",
+   "location": "Richmond, VA, USA",
+   "posted_at": "2026-11-10",
+   "role": "supply-planning",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "mid",
+   "title": "Materials Planning Analyst",
+   "url": "https://www.linkedin.com/jobs/view/4488614110"
   },
   "axle-logistics:8295595a1831": {
    "company": "Axle Logistics",
@@ -19581,6 +19645,19 @@
    "title": "Production Planner",
    "url": "https://www.linkedin.com/jobs/view/4449578388"
   },
+  "biomerics:d5154e3013ca": {
+   "company": "Biomerics",
+   "first_seen": "2026-11-11",
+   "location": "Salt Lake City, UT, USA",
+   "posted_at": "2026-11-09",
+   "role": "procurement",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "mid",
+   "title": "Procurement Analyst",
+   "url": "https://www.linkedin.com/jobs/view/4487414791"
+  },
   "biospace:0c82d2524c93": {
    "company": "BioSpace",
    "first_seen": "2026-10-25",
@@ -21814,6 +21891,18 @@
    "title": "Associate Procurement Agent",
    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Seattle-WA/Associate-Procurement-Agent_JR2026525170-1"
   },
+  "boeing:55e90d5846f1": {
+   "company": "Boeing",
+   "first_seen": "2026-11-11",
+   "location": "USA - Mesa, AZ",
+   "posted_at": "2026-11-11",
+   "role": "supply-chain",
+   "source": "workday",
+   "status": "new",
+   "tier": "manager",
+   "title": "Apache Sustainment Integrated Support Planning and Management Specialist - Lead",
+   "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Mesa-AZ/Apache-Sustainment-Integrated-Support-Planning-and-Management-Specialist---Lead_JR2026527800-1"
+  },
   "boeing:56780201e8e1": {
    "company": "Boeing",
    "employer_url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Tukwila-WA/Procurement-Analyst--Process-Supply-Base-Mgmt-_JR2026527807-1",
@@ -22790,6 +22879,18 @@
    "tier": "manager",
    "title": "Supply Chain Management Analyst (Associate or Experienced)",
    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Supply-Chain-Management-Analyst--Associate-or-Experienced-_JR2026525872"
+  },
+  "boeing:ba37edd88bf8": {
+   "company": "Boeing",
+   "first_seen": "2026-11-11",
+   "location": "USA - Long Beach, CA",
+   "posted_at": "2026-11-11",
+   "role": "procurement",
+   "source": "workday",
+   "status": "new",
+   "tier": "mid",
+   "title": "Procurement Agent",
+   "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Long-Beach-CA/Procurement-Agent_JR2026525634-2"
   },
   "boeing:ba9d4f4bbe2c": {
    "company": "Boeing",
@@ -27752,6 +27853,7 @@
   },
   "carvana:6b1b9b91c896": {
    "company": "Carvana",
+   "employer_url": "https://www.carvana.com/careers/apply?gh_jid=8372843",
    "first_seen": "2026-11-10",
    "location": "Tempe, AZ",
    "posted_at": "2026-11-10",
@@ -33784,6 +33886,19 @@
    "title": "Supply Chain Data Analyst - Manufacturing",
    "url": "https://www.linkedin.com/jobs/view/4467646656"
   },
+  "corning-incorporated:05e82fa21346": {
+   "company": "Corning Incorporated",
+   "first_seen": "2026-11-11",
+   "location": "Tolleson, AZ, USA",
+   "posted_at": "2026-11-10",
+   "role": "demand-planning",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "mid",
+   "title": "Demand Planner",
+   "url": "https://www.linkedin.com/jobs/view/4487853380"
+  },
   "corning-incorporated:24ae579e1b59": {
    "company": "Corning Incorporated",
    "first_seen": "2026-10-10",
@@ -33822,6 +33937,19 @@
    "tier": "entry",
    "title": "Production Buyer/Planner & Scheduling Coordinator - Repair",
    "url": "https://www.linkedin.com/jobs/view/4481816422"
+  },
+  "corning-incorporated:434c2a1e678b": {
+   "company": "Corning Incorporated",
+   "first_seen": "2026-11-11",
+   "location": "Winston-Salem, NC, USA",
+   "posted_at": "2026-11-10",
+   "role": "supply-planning",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "entry",
+   "title": "Production Planner I",
+   "url": "https://www.linkedin.com/jobs/view/4487860033"
   },
   "corning-incorporated:4843350de76c": {
    "company": "Corning Incorporated",
@@ -35757,6 +35885,18 @@
    "title": "Inventory Planning Manager",
    "url": "https://www.linkedin.com/jobs/view/4477496511"
   },
+  "cvs-health:8823a42e3d4e": {
+   "company": "CVS Health",
+   "first_seen": "2026-11-11",
+   "location": "TX - Fort Worth",
+   "posted_at": "2026-11-11",
+   "role": "inventory",
+   "source": "workday",
+   "status": "new",
+   "tier": "mid",
+   "title": "Inventory Specialist",
+   "url": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Fort-Worth/Inventory-Specialist_R1099999"
+  },
   "cvs-health:89390c35d443": {
    "company": "CVS Health",
    "first_seen": "2026-09-16",
@@ -36709,6 +36849,19 @@
    "tier": "mid",
    "title": "Production Planner",
    "url": "https://www.linkedin.com/jobs/view/4487227090"
+  },
+  "dairy-farmers-of-america:d6fc665d9f82": {
+   "company": "Dairy Farmers of America",
+   "first_seen": "2026-11-11",
+   "location": "Riverside, CA, USA",
+   "posted_at": "2026-11-10",
+   "role": "inventory",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "mid",
+   "title": "Inventory Planner",
+   "url": "https://www.linkedin.com/jobs/view/4489653505"
   },
   "dairy-farmers-of-america:ed1864ed7c2d": {
    "checked_at": "2026-10-02",
@@ -38357,6 +38510,19 @@
    "tier": "mid",
    "title": "Sr. Planner Analyst",
    "url": "https://www.linkedin.com/jobs/view/4473071241"
+  },
+  "dexian:ade71580aeaf": {
+   "company": "Dexian",
+   "first_seen": "2026-11-11",
+   "location": "Vista, CA, USA",
+   "posted_at": "2026-11-10",
+   "role": "supply-planning",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "mid",
+   "title": "Supply Planner",
+   "url": "https://www.linkedin.com/jobs/view/4487489699"
   },
   "dexian:e9416e7bf30b": {
    "company": "Dexian",
@@ -41594,6 +41760,19 @@
    "title": "Production Planner",
    "url": "https://www.linkedin.com/jobs/view/4457529682"
   },
+  "electrolux-group:152af00f7445": {
+   "company": "Electrolux Group",
+   "first_seen": "2026-11-11",
+   "location": "Kinston, NC, USA",
+   "posted_at": "2026-11-10",
+   "role": "supply-planning",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "mid",
+   "title": "NA Centralized Materials Planner",
+   "url": "https://www.linkedin.com/jobs/view/4489654519"
+  },
   "electrolux-group:2b8c031b16d4": {
    "checked_at": "2026-10-02",
    "company": "Electrolux Group",
@@ -42709,6 +42888,19 @@
    "tier": "mid",
    "title": "Senior Specialist, Supply Chain",
    "url": "https://www.linkedin.com/jobs/view/4463629093"
+  },
+  "entegris:787f153d78b3": {
+   "company": "Entegris",
+   "first_seen": "2026-11-11",
+   "location": "Danbury, CT, USA",
+   "posted_at": "2026-11-10",
+   "role": "supply-planning",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "intern",
+   "title": "Production Planning Intern",
+   "url": "https://www.linkedin.com/jobs/view/4488614982"
   },
   "entegris:a65ca38951f3": {
    "company": "Entegris",
@@ -46791,6 +46983,19 @@
    "tier": "entry",
    "title": "eCommerce Planner 1",
    "url": "https://www.linkedin.com/jobs/view/4487058499"
+  },
+  "fossil-group-inc:ef0a134df3a8": {
+   "company": "Fossil Group, Inc.",
+   "first_seen": "2026-11-11",
+   "location": "Richardson, TX, USA",
+   "posted_at": "2026-11-10",
+   "role": "supply-planning",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "mid",
+   "title": "Global Supply Planner",
+   "url": "https://www.linkedin.com/jobs/view/4487837528"
   },
   "foster-farms:45fd704343c9": {
    "checked_at": "2026-10-02",
@@ -52267,6 +52472,19 @@
    "title": "Customer Supply Chain Intern",
    "url": "https://www.linkedin.com/jobs/view/4469934376"
   },
+  "gordon-food-service:a77d4cb76c03": {
+   "company": "Gordon Food Service",
+   "first_seen": "2026-11-11",
+   "location": "Wyoming, MI, USA",
+   "posted_at": "2026-11-11",
+   "role": "demand-planning",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "mid",
+   "title": "Senior Demand Planner",
+   "url": "https://www.linkedin.com/jobs/view/4489660886"
+  },
   "gorton-s:ddb1843a3a38": {
    "company": "Gorton's",
    "first_seen": "2026-10-02",
@@ -54313,6 +54531,19 @@
    "title": "Associate Commercial Planning & Analytics Manager",
    "url": "https://www.linkedin.com/jobs/view/4489476790"
   },
+  "hasbro:98b9b7987109": {
+   "company": "Hasbro",
+   "first_seen": "2026-11-11",
+   "location": "Boston, MA, USA",
+   "posted_at": "2026-11-10",
+   "role": "logistics",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "intern",
+   "title": "Spring 2027 Global Planning & Logistics Co-op (Jan - July 2027)",
+   "url": "https://www.linkedin.com/jobs/view/4481266846"
+  },
   "hatch:f20df50ed277": {
    "company": "Hatch",
    "first_seen": "2026-10-06",
@@ -55435,6 +55666,19 @@
    "title": "Inventory Control Analyst",
    "url": "https://www.linkedin.com/jobs/view/4477473768"
   },
+  "hewlett-packard-enterprise:9483634d5d36": {
+   "company": "Hewlett Packard Enterprise",
+   "first_seen": "2026-11-11",
+   "location": "Spring, TX, USA",
+   "posted_at": "2026-11-10",
+   "role": "procurement",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "intern",
+   "title": "Strategic Sourcing AI & Automation Intern",
+   "url": "https://www.linkedin.com/jobs/view/4489413556"
+  },
   "hexagon-autonomous-solutions:5abda02d9c9b": {
    "company": "Hexagon Autonomous Solutions",
    "first_seen": "2026-09-28",
@@ -55515,6 +55759,19 @@
    "tier": "mid",
    "title": "Demand Planner",
    "url": "https://www.linkedin.com/jobs/view/4459552965"
+  },
+  "hf-sinclair:6dc824efa1f2": {
+   "company": "HF Sinclair",
+   "first_seen": "2026-11-11",
+   "location": "Dallas, TX, USA",
+   "posted_at": "2026-11-09",
+   "role": "logistics",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "mid",
+   "title": "Logistics Category Analyst",
+   "url": "https://www.linkedin.com/jobs/view/4487975546"
   },
   "hh-global:70778690b059": {
    "company": "HH Global",
@@ -62940,6 +63197,19 @@
    "title": "Senior Supply Planner",
    "url": "https://www.linkedin.com/jobs/view/4473866734"
   },
+  "jlg-industries:d63e57e51d6f": {
+   "company": "JLG Industries",
+   "first_seen": "2026-11-11",
+   "location": "Hagerstown, MD, USA",
+   "posted_at": "2026-11-11",
+   "role": "supply-chain",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "intern",
+   "title": "MRO Supply Chain Intern - Summer 2027",
+   "url": "https://www.linkedin.com/jobs/view/4487855701"
+  },
   "jluxlabel:cafdf58ae7e2": {
    "company": "JLUXLABEL",
    "first_seen": "2026-10-03",
@@ -64819,6 +65089,19 @@
    "tier": "intern",
    "title": "Supply Chain Spring 2027 Co-op",
    "url": "https://www.linkedin.com/jobs/view/4465111827"
+  },
+  "kenworth-truck-co:0a7bc17a1971": {
+   "company": "Kenworth Truck Co.",
+   "first_seen": "2026-11-11",
+   "location": "Chillicothe, OH, USA",
+   "posted_at": "2026-11-10",
+   "role": "supply-planning",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "intern",
+   "title": "Material Planning/Material Handling/MSS Intern",
+   "url": "https://www.linkedin.com/jobs/view/4489493810"
   },
   "kenworth-truck-co:71956df7d3d9": {
    "company": "Kenworth Truck Co.",
@@ -68317,6 +68600,19 @@
    "title": "Production Scheduler & Inventory Replenishment Planner",
    "url": "https://www.linkedin.com/jobs/view/4481176699"
   },
+  "lasalle-intelligent-solutions:4bb61fcc7c47": {
+   "company": "LaSalle Intelligent Solutions",
+   "first_seen": "2026-11-11",
+   "location": "South Holland, IL, USA",
+   "posted_at": "2026-11-10",
+   "role": "demand-planning",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "mid",
+   "title": "Demand Planner",
+   "url": "https://www.linkedin.com/jobs/view/4487818882"
+  },
   "lasalle-network:d6a785168c76": {
    "company": "LaSalle Network",
    "first_seen": "2026-10-30",
@@ -69733,6 +70029,19 @@
    "tier": "mid",
    "title": "Supply Chain Analyst",
    "url": "https://www.linkedin.com/jobs/view/4472340158"
+  },
+  "lhh:659f6adb4063": {
+   "company": "LHH",
+   "first_seen": "2026-11-11",
+   "location": "Tinley Park, IL, USA",
+   "posted_at": "2026-11-10",
+   "role": "supply-chain",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "mid",
+   "title": "Master Planner",
+   "url": "https://www.linkedin.com/jobs/view/4488600855"
   },
   "lhh:8aaee38557a3": {
    "company": "LHH",
@@ -74164,6 +74473,19 @@
    "title": "Planner II",
    "url": "https://www.linkedin.com/jobs/view/4456934603"
   },
+  "mass-general-brigham-salem-hospital:0ed281d5ad23": {
+   "company": "Mass General Brigham - Salem Hospital",
+   "first_seen": "2026-11-11",
+   "location": "Salem, MA, USA",
+   "posted_at": "2026-11-10",
+   "role": "supply-chain",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "manager",
+   "title": "Materials management worker lead",
+   "url": "https://www.linkedin.com/jobs/view/4487826941"
+  },
   "mass-general-brigham:e727a2a4c307": {
    "company": "Mass General Brigham",
    "first_seen": "2026-09-26",
@@ -75708,6 +76030,32 @@
    "tier": "mid",
    "title": "Production Planner",
    "url": "https://www.linkedin.com/jobs/view/4489455024"
+  },
+  "mercedes-benz-u-s-international-inc:2c0e3b37d868": {
+   "company": "Mercedes-Benz U.S. International, Inc.",
+   "first_seen": "2026-11-11",
+   "location": "Vance, NC, USA",
+   "posted_at": "2026-11-10",
+   "role": "logistics",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "intern",
+   "title": "Internship in Ramp Up Logistics (International Student)",
+   "url": "https://www.linkedin.com/jobs/view/4488300558"
+  },
+  "mercedes-benz-u-s-international-inc:54fb3c57c5ca": {
+   "company": "Mercedes-Benz U.S. International, Inc.",
+   "first_seen": "2026-11-11",
+   "location": "Vance, NC, USA",
+   "posted_at": "2026-11-10",
+   "role": "supply-chain",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "intern",
+   "title": "Internship in Supply Chain Management - Project Management Specialist (International Student)",
+   "url": "https://www.linkedin.com/jobs/view/4487982923"
   },
   "mercedes-benz-vans-llc-charleston-sc:40afbac6cc9b": {
    "company": "Mercedes-Benz Vans, LLC (Charleston, SC)",
@@ -77699,6 +78047,19 @@
    "title": "Demand Planning Manager",
    "url": "https://www.linkedin.com/jobs/view/4479153270"
   },
+  "miebach:9e52bb88222c": {
+   "company": "Miebach",
+   "first_seen": "2026-11-11",
+   "location": "Fishers, IN, USA",
+   "posted_at": "2026-11-11",
+   "role": "supply-chain",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "intern",
+   "title": "Supply Chain Intern - Summer 2027",
+   "url": "https://www.linkedin.com/jobs/view/4489658671"
+  },
   "millennium-space-systems:0f4d23a59bac": {
    "company": "Millennium Space Systems",
    "first_seen": "2026-10-24",
@@ -78956,6 +79317,19 @@
    "tier": "mid",
    "title": "Vendor Managed Inventory Specialist",
    "url": "https://www.linkedin.com/jobs/view/4471776748"
+  },
+  "molex:92cfc0c7e4df": {
+   "company": "Molex",
+   "first_seen": "2026-11-11",
+   "location": "Lake City, PA, USA",
+   "posted_at": "2026-11-10",
+   "role": "supply-chain",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "intern",
+   "title": "Molex Supply Chain Internship 2027 - Aerospace and Defense Solutions (Lake City, PA)",
+   "url": "https://www.linkedin.com/jobs/view/4478624775"
   },
   "molex:94a1cc964ae2": {
    "company": "Molex",
@@ -88219,6 +88593,19 @@
    "title": "Procurement Specialist/Manager",
    "url": "https://www.linkedin.com/jobs/view/4473005493"
   },
+  "orion-group:6fab4ddc93fc": {
+   "company": "Orion Group",
+   "first_seen": "2026-11-11",
+   "location": "North Chicago, IL, USA",
+   "posted_at": "2026-11-10",
+   "role": "supply-chain",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "entry",
+   "title": "Supply Chain Brand Project Coordinator",
+   "url": "https://www.linkedin.com/jobs/view/4489647703"
+  },
   "orion-talent:e3536e53ffe0": {
    "company": "Orion Talent",
    "first_seen": "2026-09-29",
@@ -88500,6 +88887,18 @@
    "tier": "mid",
    "title": "Senior Data Engineer – Hardware & Supply Chain",
    "url": "https://job-boards.greenhouse.io/oura/jobs/4304960009"
+  },
+  "oura:a1507b0c8b33": {
+   "company": "Oura",
+   "first_seen": "2026-11-11",
+   "location": "Remote - United States",
+   "posted_at": "2026-11-10",
+   "role": "logistics",
+   "source": "greenhouse",
+   "status": "new",
+   "tier": "mid",
+   "title": "Logistics Specialist, Fulfillment",
+   "url": "https://job-boards.greenhouse.io/oura/jobs/4487597009"
   },
   "oura:a2568f40f5df": {
    "company": "Oura",
@@ -91402,6 +91801,19 @@
    "title": "Procurement Analyst",
    "url": "https://www.linkedin.com/jobs/view/4466345819"
   },
+  "pharmavite:6784a67d5d3a": {
+   "company": "Pharmavite",
+   "first_seen": "2026-11-11",
+   "location": "Santa Clarita, CA, USA",
+   "posted_at": "2026-11-11",
+   "role": "inventory",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "mid",
+   "title": "Sr. Inventory Analyst",
+   "url": "https://www.linkedin.com/jobs/view/4487852905"
+  },
   "phelps-pet-products:d761826c150a": {
    "company": "Phelps Pet Products",
    "first_seen": "2026-10-20",
@@ -92764,6 +93176,19 @@
    "title": "Raw Material Planner",
    "url": "https://www.linkedin.com/jobs/view/4475331322"
   },
+  "ppg:3bb94782a058": {
+   "company": "PPG",
+   "first_seen": "2026-11-11",
+   "location": "Mojave, CA, USA",
+   "posted_at": "2026-11-11",
+   "role": "supply-planning",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "mid",
+   "title": "Production Planner",
+   "url": "https://www.linkedin.com/jobs/view/4489682262"
+  },
   "ppg:4a1982e77b12": {
    "company": "PPG",
    "first_seen": "2026-10-03",
@@ -93910,6 +94335,19 @@
    "title": "Materials Manager",
    "url": "https://www.linkedin.com/jobs/view/4485613735"
   },
+  "progress-rail-a-caterpillar-company:af562e7d4818": {
+   "company": "Progress Rail, A Caterpillar Company",
+   "first_seen": "2026-11-11",
+   "location": "La Grange, IL, USA",
+   "posted_at": "2026-11-10",
+   "role": "supply-chain",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "intern",
+   "title": "Supply Chain Intern",
+   "url": "https://www.linkedin.com/jobs/view/4488384409"
+  },
   "progress-rail-a-caterpillar-company:c278fe521b51": {
    "company": "Progress Rail, A Caterpillar Company",
    "first_seen": "2026-09-30",
@@ -94189,6 +94627,19 @@
    "tier": "mid",
    "title": "Inventory Buyer/Planner",
    "url": "https://www.linkedin.com/jobs/view/4442645909"
+  },
+  "public-service-company-of-new-mexico-pnm:bf04bc4e38de": {
+   "company": "Public Service Company of New Mexico (PNM)",
+   "first_seen": "2026-11-11",
+   "location": "Albuquerque, NM, USA",
+   "posted_at": "2026-11-09",
+   "role": "supply-chain",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "mid",
+   "title": "Sr Supply Chain Analyst",
+   "url": "https://www.linkedin.com/jobs/view/4487414707"
   },
   "puget-sound-energy:31550338ca45": {
    "company": "Puget Sound Energy",
@@ -96111,6 +96562,19 @@
    "title": "MRP Controller I (Spares)",
    "url": "https://www.linkedin.com/jobs/view/4484082717"
   },
+  "recaro-aircraft-seating:8692d340eb97": {
+   "company": "RECARO Aircraft Seating",
+   "first_seen": "2026-11-11",
+   "location": "Fort Worth, TX, USA",
+   "posted_at": "2026-11-10",
+   "role": "supply-planning",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "mid",
+   "title": "MRP Controller II",
+   "url": "https://www.linkedin.com/jobs/view/4488643120"
+  },
   "recaro-aircraft-seating:f45f2757a1b1": {
    "company": "RECARO Aircraft Seating",
    "first_seen": "2026-10-02",
@@ -97412,6 +97876,19 @@
    "tier": "mid",
    "title": "Materials Planner",
    "url": "https://www.linkedin.com/jobs/view/4470003060"
+  },
+  "reynolds-consumer-products:69c488c2b03c": {
+   "company": "Reynolds Consumer Products",
+   "first_seen": "2026-11-11",
+   "location": "Huntersville, NC, USA",
+   "posted_at": "2026-11-10",
+   "role": "supply-planning",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "mid",
+   "title": "Production Scheduler",
+   "url": "https://www.linkedin.com/jobs/view/4488647314"
   },
   "reynolds-consumer-products:d0215aea1873": {
    "company": "Reynolds Consumer Products",
@@ -100624,6 +101101,19 @@
    "title": "Production Planner/Scheduler",
    "url": "https://www.linkedin.com/jobs/view/4484115779"
   },
+  "sanmina:f5e1ad10fd3a": {
+   "company": "Sanmina",
+   "first_seen": "2026-11-11",
+   "location": "Houston, TX, USA",
+   "posted_at": "2026-11-10",
+   "role": "supply-planning",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "entry",
+   "title": "Production Planning Coordinator",
+   "url": "https://www.linkedin.com/jobs/view/4487838103"
+  },
   "santee-cooper:a7be3d0f9aa8": {
    "company": "Santee Cooper",
    "first_seen": "2026-10-06",
@@ -101246,6 +101736,19 @@
    "tier": "mid",
    "title": "Supply Chain Analyst",
    "url": "https://www.linkedin.com/jobs/view/4473429952"
+  },
+  "satair:dbe4228468fb": {
+   "company": "Satair",
+   "first_seen": "2026-11-11",
+   "location": "Herndon, VA, USA",
+   "posted_at": "2026-11-11",
+   "role": "supply-chain",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "mid",
+   "title": "Supply Chain Specialist",
+   "url": "https://www.linkedin.com/jobs/view/4487876101"
   },
   "satcon-inc:becc709416ab": {
    "company": "SATCON Inc",
@@ -102605,6 +103108,19 @@
    "tier": "mid",
    "title": "Ship Modernization Logistics Analyst",
    "url": "https://www.linkedin.com/jobs/view/4487089650"
+  },
+  "serco:cec05f977421": {
+   "company": "Serco",
+   "first_seen": "2026-11-11",
+   "location": "Orlando, FL, USA",
+   "posted_at": "2026-11-10",
+   "role": "logistics",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "mid",
+   "title": "Logistics Analyst- Orlando, FL",
+   "url": "https://www.linkedin.com/jobs/view/4489626934"
   },
   "serena-lily:41c532aa5738": {
    "company": "Serena & Lily",
@@ -105294,6 +105810,19 @@
    "title": "Senior Supply Chain Coordinator",
    "url": "https://www.linkedin.com/jobs/view/4475877079"
   },
+  "solar-turbines:0f31fe1a80af": {
+   "company": "Solar Turbines",
+   "first_seen": "2026-11-11",
+   "location": "Mabank, TX, USA",
+   "posted_at": "2026-11-10",
+   "role": "supply-planning",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "mid",
+   "title": "Overhaul Production Planner",
+   "url": "https://www.linkedin.com/jobs/view/4487838569"
+  },
   "solar-turbines:21a85f0abdde": {
    "company": "Solar Turbines",
    "first_seen": "2026-09-30",
@@ -106261,6 +106790,18 @@
    "tier": "mid",
    "title": "Fulfillment Buyer (Starship)",
    "url": "https://boards.greenhouse.io/spacex/jobs/8698652002?gh_jid=8698652002"
+  },
+  "spacex:2459087d0676": {
+   "company": "SpaceX",
+   "first_seen": "2026-11-11",
+   "location": "Starbase, TX",
+   "posted_at": "2026-11-10",
+   "role": "supply-planning",
+   "source": "greenhouse",
+   "status": "new",
+   "tier": "manager",
+   "title": "Supervisor, Production Scheduling (Starship)",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8936899002?gh_jid=8936899002"
   },
   "spacex:2645400cd2c8": {
    "company": "SpaceX",
@@ -109391,6 +109932,19 @@
    "title": "Planner / Inventory Management",
    "url": "https://www.linkedin.com/jobs/view/4441293854"
   },
+  "standardaero:54d9256de746": {
+   "company": "StandardAero",
+   "first_seen": "2026-11-11",
+   "location": "Dallas, TX, USA",
+   "posted_at": "2026-11-10",
+   "role": "supply-planning",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "mid",
+   "title": "Production Planner (Component Repair)",
+   "url": "https://www.linkedin.com/jobs/view/4488630107"
+  },
   "standardaero:6f1955b8ee4a": {
    "company": "StandardAero",
    "first_seen": "2026-10-30",
@@ -110177,6 +110731,32 @@
    "title": "MBA Supply Chain Intern",
    "url": "https://www.linkedin.com/jobs/view/4481431200"
   },
+  "stratas-foods:f5a949919de9": {
+   "company": "Stratas Foods",
+   "first_seen": "2026-11-11",
+   "location": "Nashville, TN, USA",
+   "posted_at": "2026-11-10",
+   "role": "supply-planning",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "manager",
+   "title": "Master Scheduler - (Raw Material Management and Inventory Experience Needed)",
+   "url": "https://www.linkedin.com/jobs/view/4488624390"
+  },
+  "stratasys:5f2a15373c35": {
+   "company": "Stratasys",
+   "first_seen": "2026-11-11",
+   "location": "Plymouth, MN, USA",
+   "posted_at": "2026-11-09",
+   "role": "logistics",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "mid",
+   "title": "Transportation and Logistics Analyst",
+   "url": "https://www.linkedin.com/jobs/view/4484138766"
+  },
   "strategic-management-solutions-llc-smsi:ec3d8d62eb6d": {
    "company": "Strategic Management Solutions, LLC (SMSI)",
    "first_seen": "2026-09-30",
@@ -110215,6 +110795,19 @@
    "tier": "intern",
    "title": "Supply Chain Intern",
    "url": "https://www.linkedin.com/jobs/view/4483983572"
+  },
+  "stratosnex:2460e18d8ed5": {
+   "company": "StratosNex",
+   "first_seen": "2026-11-11",
+   "location": "Ladysmith, WI, USA",
+   "posted_at": "2026-11-10",
+   "role": "supply-chain",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "intern",
+   "title": "Integrated Supply Chain & Manufacturing Internship",
+   "url": "https://www.linkedin.com/jobs/view/4487808332"
   },
   "stratosnex:4b57f6d1e797": {
    "company": "StratosNex",
@@ -111095,6 +111688,19 @@
    "title": "Sr. Replenishment Planner",
    "url": "https://www.linkedin.com/jobs/view/4478081546"
   },
+  "suntory-global-spirits:7df7b7cf678e": {
+   "company": "Suntory Global Spirits",
+   "first_seen": "2026-11-11",
+   "location": "Chicago, IL, USA",
+   "posted_at": "2026-11-11",
+   "role": "supply-planning",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "mid",
+   "title": "Supply Planning Analyst",
+   "url": "https://www.linkedin.com/jobs/view/4489672400"
+  },
   "superior-communications:85ef61705814": {
    "company": "Superior Communications",
    "first_seen": "2026-10-14",
@@ -111796,6 +112402,19 @@
    "tier": "mid",
    "title": "Sr Supply Chain Planner | Allocation Planning",
    "url": "https://www.linkedin.com/jobs/view/4474592361"
+  },
+  "t-mobile:83a4e6514433": {
+   "company": "T-Mobile",
+   "first_seen": "2026-11-11",
+   "location": "Bellevue, WA, USA",
+   "posted_at": "2026-11-10",
+   "role": "procurement",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "intern",
+   "title": "Summer 2027 Procurement Operations – Vendor Management Internship",
+   "url": "https://www.linkedin.com/jobs/view/4489617330"
   },
   "t-mobile:ba3396e15e60": {
    "company": "T-Mobile",
@@ -114515,6 +115134,18 @@
    "title": "General Merchandise, Closing, Fulfillment (T2390)",
    "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/15560-Pilot-Knob-Rd-Apple-ValleyMN-55124-7286/General-Merchandise--Closing--Fulfillment--T2390-_R0000414613"
   },
+  "target:dcfd3dc61d1c": {
+   "company": "Target",
+   "first_seen": "2026-11-11",
+   "location": "30340 Haun Rd, Menifee, CA 92584-6806",
+   "posted_at": "2026-11-11",
+   "role": "logistics",
+   "source": "workday",
+   "status": "new",
+   "tier": "manager",
+   "title": "Fulfillment Operations Team Leader",
+   "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/30340-Haun-Rd-Menifee-CA-92584-6806/Fulfillment-Operations-Team-Leader_R0000480512"
+  },
   "target:dd9157948f7b": {
    "company": "Target",
    "first_seen": "2026-09-30",
@@ -115649,6 +116280,19 @@
    "title": "Strategic Supply Chain Analyst Robotics",
    "url": "https://www.linkedin.com/jobs/view/4489612618"
   },
+  "tennant-company:988a252c376a": {
+   "company": "Tennant Company",
+   "first_seen": "2026-11-11",
+   "location": "Eden Prairie, MN, USA",
+   "posted_at": "2026-11-10",
+   "role": "supply-chain",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "mid",
+   "title": "Supply Chain Analyst Robotics NPD",
+   "url": "https://www.linkedin.com/jobs/view/4489646887"
+  },
   "tennant-company:fce20091b5f3": {
    "company": "Tennant Company",
    "first_seen": "2026-10-06",
@@ -116228,6 +116872,19 @@
    "tier": "manager",
    "title": "Demand Planning Manager",
    "url": "https://www.linkedin.com/jobs/view/4455888346"
+  },
+  "the-azek-company:74c988e04a2a": {
+   "company": "The AZEK Company",
+   "first_seen": "2026-11-11",
+   "location": "Chicago, IL, USA",
+   "posted_at": "2026-11-11",
+   "role": "supply-chain",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "intern",
+   "title": "Intern - Supply Chain AI Implementation",
+   "url": "https://www.linkedin.com/jobs/view/4482190074"
   },
   "the-barcode-group:65002a6d2205": {
    "company": "The Barcode Group",
@@ -119013,6 +119670,19 @@
    "title": "Supply Chain Business Analytics – Senior Analyst",
    "url": "https://www.linkedin.com/jobs/view/4472870034"
   },
+  "toyota-north-america:7f8900bd949d": {
+   "company": "Toyota North America",
+   "first_seen": "2026-11-11",
+   "location": "Costa Mesa, CA, USA",
+   "posted_at": "2026-11-10",
+   "role": "supply-chain",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "mid",
+   "title": "Planning Analyst",
+   "url": "https://www.linkedin.com/jobs/view/4488630663"
+  },
   "toyota-north-america:af47809ded84": {
    "company": "Toyota North America",
    "first_seen": "2026-10-01",
@@ -121038,6 +121708,19 @@
    "title": "Production Scheduler",
    "url": "https://www.linkedin.com/jobs/view/4484370818"
   },
+  "uhs:bd7b4ae81418": {
+   "company": "UHS",
+   "first_seen": "2026-11-11",
+   "location": "King of Prussia, PA, USA",
+   "posted_at": "2026-11-11",
+   "role": "supply-chain",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "intern",
+   "title": "Supply Chain Intern*",
+   "url": "https://www.linkedin.com/jobs/view/4487876186"
+  },
   "uline:02692f56c171": {
    "company": "Uline",
    "employer_checked": "2026-11-05",
@@ -121292,6 +121975,19 @@
    "tier": "mid",
    "title": "Planner IV",
    "url": "https://www.linkedin.com/jobs/view/4473183258"
+  },
+  "ultra-clean-technology:44ad2ad2d0e2": {
+   "company": "Ultra Clean Technology",
+   "first_seen": "2026-11-11",
+   "location": "Manor, TX, USA",
+   "posted_at": "2026-11-10",
+   "role": "supply-chain",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "mid",
+   "title": "Planner II",
+   "url": "https://www.linkedin.com/jobs/view/4487828000"
   },
   "ultra-clean-technology:769897446b06": {
    "company": "Ultra Clean Technology",
@@ -127585,6 +128281,21 @@
    "title": "Supply Chain Academy Coordinator",
    "url": "https://careers.walmart.com/us/en/job/CP-6068-11085"
   },
+  "walmart-global-tech:829c8d79aaae": {
+   "comp": "$80,000 - $120,000 Annual",
+   "company": "Walmart Global Tech",
+   "department": "Stores/Clubs",
+   "employment_type": "Full time",
+   "first_seen": "2026-11-11",
+   "location": "Belvidere, IL",
+   "posted_at": "2026-11-10",
+   "role": "supply-chain",
+   "source": "walmart careers",
+   "status": "new",
+   "tier": "manager",
+   "title": "(USA) Area Manager - Maintenance, Supply Chain",
+   "url": "https://careers.walmart.com/us/en/job/R-2706085"
+  },
   "walmart-global-tech:87703a1f440f": {
    "comp": "$84,000 - $126,000 Annual",
    "company": "Walmart Global Tech",
@@ -129394,6 +130105,19 @@
    "title": "Assistant Planner",
    "url": "https://www.linkedin.com/jobs/view/4453509560"
   },
+  "waters-corporation:af50e793eaf6": {
+   "company": "Waters Corporation",
+   "first_seen": "2026-11-11",
+   "location": "Milford, MA, USA",
+   "posted_at": "2026-11-10",
+   "role": "supply-planning",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "mid",
+   "title": "Senior Production Planner",
+   "url": "https://www.linkedin.com/jobs/view/4489498696"
+  },
   "waters-corporation:e077bc3a3fba": {
    "company": "Waters Corporation",
    "first_seen": "2026-11-03",
@@ -130191,6 +130915,19 @@
    "tier": "mid",
    "title": "Analyst - Supply Chain Analytics",
    "url": "https://www.linkedin.com/jobs/view/4473973562"
+  },
+  "wesco:203f12d1295b": {
+   "company": "Wesco",
+   "first_seen": "2026-11-11",
+   "location": "Austin, TX, USA",
+   "posted_at": "2026-11-11",
+   "role": "inventory",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "mid",
+   "title": "Analyst - Inventory",
+   "url": "https://www.linkedin.com/jobs/view/4489657547"
   },
   "wesco:280f99ea10e4": {
    "company": "Wesco",
@@ -132257,6 +132994,19 @@
    "title": "Supply Planner",
    "url": "https://www.linkedin.com/jobs/view/4487570653"
   },
+  "yinlun-tdi-llc:b8eafd3fc232": {
+   "company": "Yinlun TDI, LLC",
+   "first_seen": "2026-11-11",
+   "location": "Morton, IL, USA",
+   "posted_at": "2026-11-10",
+   "role": "procurement",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "mid",
+   "title": "Buyer",
+   "url": "https://www.linkedin.com/jobs/view/4489487816"
+  },
   "yokohama-atg:f313c3e4b149": {
    "company": "Yokohama-ATG",
    "first_seen": "2026-09-24",
@@ -133270,279 +134020,279 @@
   "AMD": {
    "best": 600,
    "last": 600,
-   "last_ok": "2026-11-10"
+   "last_ok": "2026-11-11"
   },
   "Abbott": {
    "best": 535,
-   "last": 503,
-   "last_ok": "2026-11-10"
+   "last": 506,
+   "last_ok": "2026-11-11"
   },
   "Airbnb": {
    "best": 213,
-   "last": 203,
-   "last_ok": "2026-11-10"
+   "last": 202,
+   "last_ok": "2026-11-11"
   },
   "Amazon": {
    "best": 74,
    "last": 73,
-   "last_ok": "2026-11-10"
+   "last_ok": "2026-11-11"
   },
   "Anduril": {
    "best": 2605,
-   "last": 2573,
-   "last_ok": "2026-11-10"
+   "last": 2582,
+   "last_ok": "2026-11-11"
   },
   "Applied Materials": {
    "best": 470,
-   "last": 465,
-   "last_ok": "2026-11-10"
+   "last": 463,
+   "last_ok": "2026-11-11"
   },
   "Astranis": {
    "best": 189,
-   "last": 187,
-   "last_ok": "2026-11-10"
+   "last": 183,
+   "last_ok": "2026-11-11"
   },
   "Becton Dickinson": {
    "best": 341,
    "last": 298,
-   "last_ok": "2026-11-10"
+   "last_ok": "2026-11-11"
   },
   "Boeing": {
    "best": 319,
-   "last": 301,
-   "last_ok": "2026-11-10"
+   "last": 303,
+   "last_ok": "2026-11-11"
   },
   "CVS Health": {
    "best": 356,
-   "last": 336,
-   "last_ok": "2026-11-10"
+   "last": 341,
+   "last_ok": "2026-11-11"
   },
   "Carvana": {
    "best": 1843,
-   "last": 1666,
-   "last_ok": "2026-11-10"
+   "last": 1672,
+   "last_ok": "2026-11-11"
   },
   "Coinbase": {
-   "best": 285,
-   "last": 285,
-   "last_ok": "2026-11-10"
+   "best": 286,
+   "last": 286,
+   "last_ok": "2026-11-11"
   },
   "Databricks": {
    "best": 927,
-   "last": 916,
-   "last_ok": "2026-11-10"
+   "last": 920,
+   "last_ok": "2026-11-11"
   },
   "DoorDash": {
    "best": 468,
-   "last": 443,
-   "last_ok": "2026-11-10"
+   "last": 442,
+   "last_ok": "2026-11-11"
   },
   "Duolingo": {
    "best": 89,
    "last": 61,
-   "last_ok": "2026-11-10"
+   "last_ok": "2026-11-11"
   },
   "Faire": {
    "best": 82,
    "last": 69,
-   "last_ok": "2026-11-10"
+   "last_ok": "2026-11-11"
   },
   "Flexport": {
    "best": 211,
-   "last": 188,
-   "last_ok": "2026-11-10"
+   "last": 192,
+   "last_ok": "2026-11-11"
   },
   "Formlabs": {
    "best": 250,
    "last": 250,
-   "last_ok": "2026-11-10"
+   "last_ok": "2026-11-11"
   },
   "General Mills": {
    "best": 251,
    "last": 242,
-   "last_ok": "2026-11-10"
+   "last_ok": "2026-11-11"
   },
   "Glossier": {
    "best": 29,
    "last": 22,
-   "last_ok": "2026-11-10"
+   "last_ok": "2026-11-11"
   },
   "Google": {
    "best": 205,
    "last": 185,
-   "last_ok": "2026-11-10"
+   "last_ok": "2026-11-11"
   },
   "Gusto": {
    "best": 104,
-   "last": 80,
-   "last_ok": "2026-11-10"
+   "last": 81,
+   "last_ok": "2026-11-11"
   },
   "Illumina": {
    "best": 127,
-   "last": 120,
-   "last_ok": "2026-11-10"
+   "last": 119,
+   "last_ok": "2026-11-11"
   },
   "Instacart": {
    "best": 131,
-   "last": 91,
-   "last_ok": "2026-11-10"
+   "last": 88,
+   "last_ok": "2026-11-11"
   },
   "Land O'Lakes": {
    "best": 138,
    "last": 127,
-   "last_ok": "2026-11-10"
+   "last_ok": "2026-11-11"
   },
   "LinkedIn (JobSpy)": {
    "best": 738,
-   "last": 311,
-   "last_ok": "2026-11-10"
+   "last": 489,
+   "last_ok": "2026-11-11"
   },
   "Liquid Death": {
    "best": 3,
    "last": 1,
-   "last_ok": "2026-11-10"
+   "last_ok": "2026-11-11"
   },
   "Lucid Motors": {
    "best": 465,
-   "last": 465,
-   "last_ok": "2026-11-10"
+   "last": 461,
+   "last_ok": "2026-11-11"
   },
   "Lyft": {
    "best": 196,
    "last": 155,
-   "last_ok": "2026-11-10"
+   "last_ok": "2026-11-11"
   },
   "Medtronic": {
    "best": 451,
-   "last": 377,
-   "last_ok": "2026-11-10"
+   "last": 378,
+   "last_ok": "2026-11-11"
   },
   "Micron": {
    "best": 322,
    "last": 316,
-   "last_ok": "2026-11-10"
+   "last_ok": "2026-11-11"
   },
   "Misfits Market": {
    "best": 96,
    "last": 66,
-   "last_ok": "2026-11-10"
+   "last_ok": "2026-11-11"
   },
   "Mondelez": {
    "best": 463,
-   "last": 454,
-   "last_ok": "2026-11-10"
+   "last": 452,
+   "last_ok": "2026-11-11"
   },
   "Nike": {
    "best": 182,
    "last": 161,
-   "last_ok": "2026-11-10"
+   "last_ok": "2026-11-11"
   },
   "Nuro": {
    "best": 111,
    "last": 96,
-   "last_ok": "2026-11-10"
+   "last_ok": "2026-11-11"
   },
   "Nvidia": {
    "best": 310,
-   "last": 310,
-   "last_ok": "2026-11-10"
+   "last": 292,
+   "last_ok": "2026-11-11"
   },
   "Olipop": {
    "best": 14,
    "last": 8,
-   "last_ok": "2026-11-10"
+   "last_ok": "2026-11-11"
   },
   "OpenAI": {
    "best": 840,
-   "last": 831,
-   "last_ok": "2026-11-10"
+   "last": 828,
+   "last_ok": "2026-11-11"
   },
   "Oura": {
    "best": 111,
-   "last": 92,
-   "last_ok": "2026-11-10"
+   "last": 95,
+   "last_ok": "2026-11-11"
   },
   "Peloton": {
    "best": 61,
    "last": 44,
-   "last_ok": "2026-11-10"
+   "last_ok": "2026-11-11"
   },
   "PepsiCo": {
    "best": 319,
-   "last": 214,
-   "last_ok": "2026-11-10"
+   "last": 213,
+   "last_ok": "2026-11-11"
   },
   "Pinterest": {
    "best": 188,
    "last": 164,
-   "last_ok": "2026-11-10"
+   "last_ok": "2026-11-11"
   },
   "Samsara": {
    "best": 340,
-   "last": 314,
-   "last_ok": "2026-11-10"
+   "last": 315,
+   "last_ok": "2026-11-11"
   },
   "Saronic": {
    "best": 272,
-   "last": 269,
-   "last_ok": "2026-11-10"
+   "last": 271,
+   "last_ok": "2026-11-11"
   },
   "SpaceX": {
    "best": 2911,
-   "last": 2911,
-   "last_ok": "2026-11-10"
+   "last": 2906,
+   "last_ok": "2026-11-11"
   },
   "Stripe": {
-   "best": 775,
-   "last": 775,
-   "last_ok": "2026-11-10"
+   "best": 778,
+   "last": 778,
+   "last_ok": "2026-11-11"
   },
   "Stryker": {
    "best": 421,
-   "last": 416,
-   "last_ok": "2026-11-10"
+   "last": 412,
+   "last_ok": "2026-11-11"
   },
   "Target": {
    "best": 445,
-   "last": 344,
-   "last_ok": "2026-11-10"
+   "last": 345,
+   "last_ok": "2026-11-11"
   },
   "Thrive Market": {
    "best": 20,
-   "last": 17,
-   "last_ok": "2026-11-10"
+   "last": 18,
+   "last_ok": "2026-11-11"
   },
   "Tyson Foods": {
    "best": 138,
-   "last": 136,
-   "last_ok": "2026-11-10"
+   "last": 135,
+   "last_ok": "2026-11-11"
   },
   "Unilever": {
    "best": 204,
-   "last": 183,
-   "last_ok": "2026-11-10"
+   "last": 184,
+   "last_ok": "2026-11-11"
   },
   "Verkada": {
    "best": 347,
-   "last": 346,
-   "last_ok": "2026-11-10"
+   "last": 343,
+   "last_ok": "2026-11-11"
   },
   "Walmart Global Tech": {
    "best": 268,
-   "last": 240,
-   "last_ok": "2026-11-10"
+   "last": 212,
+   "last_ok": "2026-11-11"
   },
   "Waymo": {
-   "best": 379,
-   "last": 379,
-   "last_ok": "2026-11-10"
+   "best": 380,
+   "last": 380,
+   "last_ok": "2026-11-11"
   },
   "Zebra Technologies": {
    "best": 125,
-   "last": 120,
-   "last_ok": "2026-11-10"
+   "last": 121,
+   "last_ok": "2026-11-11"
   }
  },
- "updated": "2026-11-10T21:52:09Z",
+ "updated": "2026-11-11T01:58:43Z",
  "version": 1
 }
