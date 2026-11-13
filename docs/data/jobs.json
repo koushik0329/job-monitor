@@ -10577,7 +10577,8 @@
   },
   "amazon-web-services-aws:66dab5ae8101": {
    "company": "Amazon Web Services (AWS)",
-   "employer_checked": "2026-11-06",
+   "employer_checked": "2026-11-13",
+   "employer_url": "https://www.amazon.jobs/en/jobs/10591836/front-end-engineer-ii-afx",
    "first_seen": "2026-10-29",
    "location": "Seattle, WA, USA",
    "posted_at": "2026-10-29",
@@ -10758,7 +10759,7 @@
   },
   "amazon-web-services-aws:7fabf167e7ef": {
    "company": "Amazon Web Services (AWS)",
-   "employer_checked": "2026-11-06",
+   "employer_checked": "2026-11-13",
    "first_seen": "2026-10-29",
    "location": "Boston, MA, USA",
    "posted_at": "2026-10-29",
@@ -25255,6 +25256,7 @@
   },
   "amazon:da78b9dde196": {
    "company": "Amazon",
+   "employer_checked": "2026-11-13",
    "first_seen": "2026-11-12",
    "location": "Redmond, WA, USA",
    "posted_at": "2026-11-12",
@@ -54100,6 +54102,8 @@
   },
   "asml:775beb587006": {
    "company": "ASML",
+   "employer_checked": "2026-11-13",
+   "employer_url": "https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/San-Jose-CA-USA/Internship---Frontend-Developer_J-00354852",
    "first_seen": "2026-10-28",
    "location": "San Jose, CA, USA",
    "posted_at": "2026-10-28",
@@ -58180,7 +58184,8 @@
   },
   "bank-of-america:4869a5184b1a": {
    "company": "Bank of America",
-   "employer_checked": "2026-11-06",
+   "employer_checked": "2026-11-13",
+   "employer_url": "https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/Jersey-City/Infrastructure-Database-Engineer_26033786",
    "first_seen": "2026-11-05",
    "location": "Jersey City, NJ, USA",
    "posted_at": "2026-11-05",
@@ -69533,6 +69538,7 @@
   },
   "booz-allen-hamilton:39ec0b8b2d92": {
    "company": "Booz Allen Hamilton",
+   "employer_checked": "2026-11-13",
    "first_seen": "2026-11-12",
    "location": "Utah, USA",
    "posted_at": "2026-11-12",
@@ -69806,7 +69812,7 @@
   },
   "booz-allen-hamilton:511e9d87a20c": {
    "company": "Booz Allen Hamilton",
-   "employer_checked": "2026-11-06",
+   "employer_checked": "2026-11-13",
    "first_seen": "2026-11-05",
    "location": "Pensacola, FL, USA",
    "posted_at": "2026-11-05",
@@ -69973,7 +69979,7 @@
   },
   "booz-allen-hamilton:6424a5046cc1": {
    "company": "Booz Allen Hamilton",
-   "employer_checked": "2026-11-06",
+   "employer_checked": "2026-11-13",
    "first_seen": "2026-10-30",
    "location": "El Segundo, CA, USA",
    "posted_at": "2026-10-29",
@@ -71068,7 +71074,7 @@
   },
   "booz-allen-hamilton:b700d07f5dc4": {
    "company": "Booz Allen Hamilton",
-   "employer_checked": "2026-11-06",
+   "employer_checked": "2026-11-13",
    "first_seen": "2026-11-05",
    "location": "Honolulu, HI, USA",
    "posted_at": "2026-11-05",
@@ -71384,6 +71390,7 @@
   },
   "booz-allen-hamilton:d53c289ed0bd": {
    "company": "Booz Allen Hamilton",
+   "employer_checked": "2026-11-13",
    "first_seen": "2026-11-12",
    "location": "McLean, VA, USA",
    "posted_at": "2026-11-12",
@@ -71397,7 +71404,7 @@
   },
   "booz-allen-hamilton:d5a2e3c1e940": {
    "company": "Booz Allen Hamilton",
-   "employer_checked": "2026-11-06",
+   "employer_checked": "2026-11-13",
    "first_seen": "2026-10-30",
    "location": "Atlanta, GA, USA",
    "posted_at": "2026-10-29",
@@ -71532,7 +71539,7 @@
   },
   "booz-allen-hamilton:e66b78e21115": {
    "company": "Booz Allen Hamilton",
-   "employer_checked": "2026-11-06",
+   "employer_checked": "2026-11-13",
    "first_seen": "2026-10-30",
    "location": "Honolulu, HI, USA",
    "posted_at": "2026-10-29",
@@ -71546,6 +71553,7 @@
   },
   "booz-allen-hamilton:e75b0f6b99f0": {
    "company": "Booz Allen Hamilton",
+   "employer_checked": "2026-11-13",
    "first_seen": "2026-11-12",
    "location": "El Segundo, CA, USA",
    "posted_at": "2026-11-12",
@@ -94910,6 +94918,8 @@
   },
   "chatham-financial:74fac6263b96": {
    "company": "Chatham Financial",
+   "employer_checked": "2026-11-13",
+   "employer_url": "https://chathamfinancial.wd501.myworkdayjobs.com/en-US/ChathamFinancial/job/Denver/XMLNAME-2027-Software-Engineering-Intern_R-100349",
    "first_seen": "2026-10-28",
    "location": "Denver, CO, USA",
    "posted_at": "2026-10-28",
@@ -94923,6 +94933,8 @@
   },
   "chatham-financial:d9f5ce6abf82": {
    "company": "Chatham Financial",
+   "employer_checked": "2026-11-13",
+   "employer_url": "https://chathamfinancial.wd501.myworkdayjobs.com/en-US/ChathamFinancial/job/Kennett-Square/XMLNAME-2027-Software-Engineering-Intern_R-100348",
    "first_seen": "2026-10-28",
    "location": "Kennett Square, PA, USA",
    "posted_at": "2026-10-28",
@@ -99199,7 +99211,7 @@
   },
   "citi:26fe75fb40c3": {
    "company": "Citi",
-   "employer_checked": "2026-11-06",
+   "employer_checked": "2026-11-13",
    "first_seen": "2026-11-05",
    "location": "Tampa, FL, USA",
    "posted_at": "2026-11-05",
@@ -102871,6 +102883,8 @@
   },
   "collins-aerospace:517d9cc42b95": {
    "company": "Collins Aerospace",
+   "employer_checked": "2026-11-13",
+   "employer_url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA3--1001-Boston-Post-Rd--BLDG-3/Software-Engineer-I---Air-Traffic-Solutions--Onsite-_01864077",
    "first_seen": "2026-11-13",
    "location": "Marlborough, MA, USA",
    "posted_at": "2026-11-13",
@@ -103077,7 +103091,7 @@
   },
   "collins-aerospace:b3473af6c9b3": {
    "company": "Collins Aerospace",
-   "employer_checked": "2026-11-06",
+   "employer_checked": "2026-11-13",
    "first_seen": "2026-10-14",
    "location": "Huntsville, AL, USA",
    "posted_at": "2026-10-13",
@@ -103200,7 +103214,7 @@
   },
   "collins-aerospace:d8e9ca18f5b1": {
    "company": "Collins Aerospace",
-   "employer_checked": "2026-11-06",
+   "employer_checked": "2026-11-13",
    "first_seen": "2026-10-14",
    "location": "Marlborough, MA, USA",
    "posted_at": "2026-10-14",
@@ -103284,7 +103298,7 @@
   },
   "collins-aerospace:e5c2a60094cd": {
    "company": "Collins Aerospace",
-   "employer_checked": "2026-11-06",
+   "employer_checked": "2026-11-13",
    "first_seen": "2026-10-30",
    "location": "San Jose, CA, USA",
    "posted_at": "2026-10-29",
@@ -104915,7 +104929,7 @@
   },
   "corewell-health:e0c6fdd6486b": {
    "company": "Corewell Health",
-   "employer_checked": "2026-11-06",
+   "employer_checked": "2026-11-13",
    "first_seen": "2026-10-14",
    "location": "Grand Rapids, MI, USA",
    "posted_at": "2026-10-14",
@@ -105238,7 +105252,7 @@
   },
   "costar-group:bb66767cb509": {
    "company": "CoStar Group",
-   "employer_checked": "2026-11-06",
+   "employer_checked": "2026-11-13",
    "first_seen": "2026-10-14",
    "location": "Richmond, VA, USA",
    "posted_at": "2026-10-13",
@@ -122981,7 +122995,7 @@
   },
   "emerson:5374eb1f6dbb": {
    "company": "Emerson",
-   "employer_checked": "2026-11-06",
+   "employer_checked": "2026-11-13",
    "first_seen": "2026-10-14",
    "location": "Round Rock, TX, USA",
    "posted_at": "2026-10-14",
@@ -131173,7 +131187,7 @@
   },
   "fidelity-investments:b6c46deada23": {
    "company": "Fidelity Investments",
-   "employer_checked": "2026-11-06",
+   "employer_checked": "2026-11-13",
    "first_seen": "2026-10-14",
    "location": "Roanoke, TX, USA",
    "posted_at": "2026-10-13",
@@ -138006,7 +138020,7 @@
   },
   "ge-healthcare:020d6d294f5c": {
    "company": "GE HealthCare",
-   "employer_checked": "2026-11-06",
+   "employer_checked": "2026-11-13",
    "first_seen": "2026-10-14",
    "location": "Waukesha, WI, USA",
    "posted_at": "2026-10-14",
@@ -138071,7 +138085,7 @@
   },
   "ge-healthcare:d7962fbbaa52": {
    "company": "GE HealthCare",
-   "employer_checked": "2026-11-06",
+   "employer_checked": "2026-11-13",
    "first_seen": "2026-10-14",
    "location": "Beachwood, OH, USA",
    "posted_at": "2026-10-14",
@@ -139034,6 +139048,7 @@
   },
   "general-dynamics-information-technology:436f334e3ca4": {
    "company": "General Dynamics Information Technology",
+   "employer_checked": "2026-11-13",
    "first_seen": "2026-11-12",
    "location": "Washington, DC, USA",
    "posted_at": "2026-11-12",
@@ -139392,7 +139407,7 @@
   },
   "general-dynamics-information-technology:debb22abb2e0": {
    "company": "General Dynamics Information Technology",
-   "employer_checked": "2026-11-06",
+   "employer_checked": "2026-11-13",
    "first_seen": "2026-10-14",
    "location": "McLean, VA, USA",
    "posted_at": "2026-10-13",
@@ -140146,7 +140161,7 @@
   },
   "general-matter:27abcbb99f12": {
    "company": "General Matter",
-   "employer_checked": "2026-11-06",
+   "employer_checked": "2026-11-13",
    "first_seen": "2026-10-30",
    "location": "Los Angeles Metropolitan Area",
    "posted_at": "2026-10-29",
@@ -152136,6 +152151,7 @@
   },
   "greystone:de0bd1922c3f": {
    "company": "Greystone",
+   "employer_checked": "2026-11-13",
    "first_seen": "2026-10-20",
    "location": "Warrenton, VA, USA",
    "posted_at": "2026-10-20",
@@ -152186,7 +152202,7 @@
   },
   "grow-therapy:e6f109ca76e7": {
    "company": "Grow Therapy",
-   "employer_checked": "2026-11-06",
+   "employer_checked": "2026-11-13",
    "first_seen": "2026-10-14",
    "location": "New York, NY, USA",
    "posted_at": "2026-10-14",
@@ -152549,6 +152565,8 @@
   },
   "guidehouse:87696a81d639": {
    "company": "Guidehouse",
+   "employer_checked": "2026-11-13",
+   "employer_url": "https://guidehouse.wd1.myworkdayjobs.com/en-US/external/job/US---VA-McLean/Jr-Data-Scientist_44767",
    "first_seen": "2026-11-12",
    "location": "Patuxent River, MD, USA",
    "posted_at": "2026-11-12",
@@ -152604,6 +152622,8 @@
   },
   "guidehouse:bbc39ab0d7a4": {
    "company": "Guidehouse",
+   "employer_checked": "2026-11-13",
+   "employer_url": "https://guidehouse.wd1.myworkdayjobs.com/en-US/external/job/US---VA-McLean/Jr-Data-Scientist_44767",
    "first_seen": "2026-11-12",
    "location": "McLean, VA, USA",
    "posted_at": "2026-11-12",
@@ -159380,7 +159400,7 @@
   },
   "honeywell-aerospace:3db8177a1800": {
    "company": "Honeywell Aerospace",
-   "employer_checked": "2026-11-06",
+   "employer_checked": "2026-11-13",
    "first_seen": "2026-11-05",
    "location": "Minneapolis, MN, USA",
    "posted_at": "2026-11-05",
@@ -160362,7 +160382,7 @@
   },
   "hp:445e6e4592ff": {
    "company": "HP",
-   "employer_checked": "2026-11-06",
+   "employer_checked": "2026-11-13",
    "first_seen": "2026-11-05",
    "location": "San Francisco, CA, USA",
    "posted_at": "2026-11-04",
@@ -160420,7 +160440,7 @@
   },
   "hp:925003cb1efa": {
    "company": "HP",
-   "employer_checked": "2026-11-06",
+   "employer_checked": "2026-11-13",
    "first_seen": "2026-10-14",
    "location": "Vancouver, WA, USA",
    "posted_at": "2026-10-14",
@@ -160434,7 +160454,7 @@
   },
   "hp:94e8b463cddf": {
    "company": "HP",
-   "employer_checked": "2026-11-06",
+   "employer_checked": "2026-11-13",
    "first_seen": "2026-11-06",
    "location": "Spring, TX, USA",
    "posted_at": "2026-11-06",
@@ -180357,7 +180377,7 @@
   },
   "jpmorganchase:c5935eca055e": {
    "company": "JPMorganChase",
-   "employer_checked": "2026-11-06",
+   "employer_checked": "2026-11-13",
    "first_seen": "2026-10-14",
    "location": "Jersey City, NJ, USA",
    "posted_at": "2026-10-13",
@@ -180754,7 +180774,7 @@
   },
   "jpmorganchase:fc0e6fa96be8": {
    "company": "JPMorganChase",
-   "employer_checked": "2026-11-06",
+   "employer_checked": "2026-11-13",
    "first_seen": "2026-11-05",
    "location": "Tampa, FL, USA",
    "posted_at": "2026-11-03",
@@ -189590,7 +189610,7 @@
   },
   "lseg:44b72b3266cc": {
    "company": "LSEG",
-   "employer_checked": "2026-11-06",
+   "employer_checked": "2026-11-13",
    "first_seen": "2026-10-14",
    "location": "New York, NY, USA",
    "posted_at": "2026-10-14",
@@ -189857,7 +189877,7 @@
   },
   "lucid-motors:8650bbde1ef7": {
    "company": "Lucid Motors",
-   "employer_checked": "2026-11-06",
+   "employer_checked": "2026-11-13",
    "first_seen": "2026-10-14",
    "location": "Newark, CA, USA",
    "posted_at": "2026-10-12",
@@ -192235,7 +192255,7 @@
   },
   "mastercard:978f971c90c2": {
    "company": "Mastercard",
-   "employer_checked": "2026-11-06",
+   "employer_checked": "2026-11-13",
    "first_seen": "2026-11-05",
    "location": "O'Fallon, MO, USA",
    "posted_at": "2026-11-05",
@@ -192311,6 +192331,8 @@
   },
   "mastercard:cac83b1f2a7c": {
    "company": "Mastercard",
+   "employer_checked": "2026-11-13",
+   "employer_url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/OFallon-Missouri/Lead-Site-Reliability-Engineer--Big-Data-_R-294454",
    "first_seen": "2026-11-13",
    "location": "O'Fallon, MO, USA",
    "posted_at": "2026-11-13",
@@ -202128,7 +202150,7 @@
   },
   "motorola-solutions:236710d43d6d": {
    "company": "Motorola Solutions",
-   "employer_checked": "2026-11-06",
+   "employer_checked": "2026-11-13",
    "first_seen": "2026-10-14",
    "location": "Illinois, USA",
    "posted_at": "2026-10-13",
@@ -202799,6 +202821,8 @@
   },
   "muon-space:55c9246d2cf5": {
    "company": "Muon Space",
+   "employer_checked": "2026-11-13",
+   "employer_url": "https://job-boards.greenhouse.io/muonspace/jobs/5293973007",
    "first_seen": "2026-11-13",
    "location": "San Jose, CA, USA",
    "posted_at": "2026-11-13",
@@ -206559,7 +206583,7 @@
   },
   "newrez:6d37fd858166": {
    "company": "Newrez",
-   "employer_checked": "2026-11-06",
+   "employer_checked": "2026-11-13",
    "first_seen": "2026-10-14",
    "location": "Coppell, TX, USA",
    "posted_at": "2026-10-13",
@@ -208758,7 +208782,7 @@
   },
   "northrop-grumman:217f4a066808": {
    "company": "Northrop Grumman",
-   "employer_checked": "2026-11-06",
+   "employer_checked": "2026-11-13",
    "first_seen": "2026-10-14",
    "location": "Dulles, VA, USA",
    "posted_at": "2026-10-14",
@@ -208811,7 +208835,7 @@
   },
   "northrop-grumman:267f31d90e73": {
    "company": "Northrop Grumman",
-   "employer_checked": "2026-11-06",
+   "employer_checked": "2026-11-13",
    "first_seen": "2026-11-06",
    "location": "Colorado Springs, CO, USA",
    "posted_at": "2026-11-06",
@@ -209139,7 +209163,7 @@
   },
   "northrop-grumman:50773d8d2791": {
    "company": "Northrop Grumman",
-   "employer_checked": "2026-11-06",
+   "employer_checked": "2026-11-13",
    "first_seen": "2026-10-14",
    "location": "Redondo Beach, CA, USA",
    "posted_at": "2026-10-14",
@@ -209462,7 +209486,7 @@
   },
   "northrop-grumman:810bcc7e386e": {
    "company": "Northrop Grumman",
-   "employer_checked": "2026-11-06",
+   "employer_checked": "2026-11-13",
    "first_seen": "2026-10-30",
    "location": "Azusa, CA, USA",
    "posted_at": "2026-10-29",
@@ -209778,7 +209802,7 @@
   },
   "northrop-grumman:b75039242c04": {
    "company": "Northrop Grumman",
-   "employer_checked": "2026-11-06",
+   "employer_checked": "2026-11-13",
    "first_seen": "2026-10-30",
    "location": "Azusa, CA, USA",
    "posted_at": "2026-10-29",
@@ -209872,7 +209896,7 @@
   },
   "northrop-grumman:ce4903367656": {
    "company": "Northrop Grumman",
-   "employer_checked": "2026-11-06",
+   "employer_checked": "2026-11-13",
    "first_seen": "2026-11-05",
    "location": "Redondo Beach, CA, USA",
    "posted_at": "2026-11-05",
@@ -227891,6 +227915,8 @@
   },
   "patreon:d35603248aa0": {
    "company": "Patreon",
+   "employer_checked": "2026-11-13",
+   "employer_url": "https://jobs.ashbyhq.com/patreon/9ab71088-7bd6-4742-9232-4c0345db6081",
    "first_seen": "2026-11-12",
    "location": "San Francisco, CA, USA",
    "posted_at": "2026-11-12",
@@ -239968,7 +239994,7 @@
   },
   "raytheon:e2c4df0f99e3": {
    "company": "Raytheon",
-   "employer_checked": "2026-11-06",
+   "employer_checked": "2026-11-13",
    "first_seen": "2026-11-05",
    "location": "Tewksbury, MA, USA",
    "posted_at": "2026-11-05",
@@ -243622,7 +243648,7 @@
   },
   "rf-smart:d5b5534dfbeb": {
    "company": "RF-SMART",
-   "employer_checked": "2026-11-06",
+   "employer_checked": "2026-11-13",
    "first_seen": "2026-10-14",
    "location": "Jacksonville, FL, USA",
    "posted_at": "2026-10-14",
@@ -243716,7 +243742,7 @@
   },
   "rhombus:9a33af7a8ac3": {
    "company": "Rhombus",
-   "employer_checked": "2026-11-06",
+   "employer_checked": "2026-11-13",
    "first_seen": "2026-10-14",
    "location": "Sacramento, CA, USA",
    "posted_at": "2026-10-13",
@@ -246009,7 +246035,7 @@
   },
   "rocket-lab:cf28c7b13748": {
    "company": "Rocket Lab",
-   "employer_checked": "2026-11-06",
+   "employer_checked": "2026-11-13",
    "first_seen": "2026-10-14",
    "location": "Tucson, AZ, USA",
    "posted_at": "2026-10-13",
@@ -257359,7 +257385,7 @@
   },
   "servicenow:2f1225a3ed08": {
    "company": "ServiceNow",
-   "employer_checked": "2026-11-06",
+   "employer_checked": "2026-11-13",
    "first_seen": "2026-10-14",
    "location": "Santa Clara, CA, USA",
    "posted_at": "2026-10-14",
@@ -257455,7 +257481,7 @@
   },
   "servicenow:ec9627c17204": {
    "company": "ServiceNow",
-   "employer_checked": "2026-11-06",
+   "employer_checked": "2026-11-13",
    "first_seen": "2026-10-14",
    "location": "Santa Clara, CA, USA",
    "posted_at": "2026-10-14",
@@ -260453,7 +260479,7 @@
   },
   "signet-jewelers:7072e71977aa": {
    "company": "Signet Jewelers",
-   "employer_checked": "2026-11-06",
+   "employer_checked": "2026-11-13",
    "first_seen": "2026-10-14",
    "location": "Greater Cleveland",
    "posted_at": "2026-10-14",
@@ -261368,7 +261394,7 @@
   },
   "skydio:96b3abd56758": {
    "company": "Skydio",
-   "employer_checked": "2026-11-06",
+   "employer_checked": "2026-11-13",
    "first_seen": "2026-10-14",
    "location": "San Mateo, CA, USA",
    "posted_at": "2026-10-13",
@@ -264749,7 +264775,7 @@
   },
   "southwest-airlines:e9f0c4e2125c": {
    "company": "Southwest Airlines",
-   "employer_checked": "2026-11-06",
+   "employer_checked": "2026-11-13",
    "first_seen": "2026-10-14",
    "location": "Dallas, TX, USA",
    "posted_at": "2026-10-13",
@@ -273715,7 +273741,7 @@
   },
   "state-street:c82e8855c68b": {
    "company": "State Street",
-   "employer_checked": "2026-11-06",
+   "employer_checked": "2026-11-13",
    "first_seen": "2026-11-06",
    "location": "Burlington, MA, USA",
    "posted_at": "2026-11-06",
@@ -281261,7 +281287,7 @@
   },
   "target:3073d0447f23": {
    "company": "Target",
-   "employer_checked": "2026-11-06",
+   "employer_checked": "2026-11-13",
    "first_seen": "2026-10-14",
    "location": "Brooklyn Park, MN, USA",
    "posted_at": "2026-10-13",
@@ -301572,7 +301598,7 @@
   },
   "upstart:8b246f6fe601": {
    "company": "Upstart",
-   "employer_checked": "2026-11-06",
+   "employer_checked": "2026-11-13",
    "first_seen": "2026-10-14",
    "location": "USA",
    "posted_at": "2026-10-14",
@@ -305266,6 +305292,8 @@
   },
   "vertiv:46e3f2fc7bd1": {
    "company": "Vertiv",
+   "employer_checked": "2026-11-13",
+   "employer_url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20284817",
    "first_seen": "2026-11-12",
    "location": "Huntsville, AL, USA",
    "posted_at": "2026-11-11",
@@ -307170,6 +307198,7 @@
   },
   "vital-lyfe:49aca68ceae8": {
    "company": "Vital Lyfe",
+   "employer_checked": "2026-11-13",
    "first_seen": "2026-11-12",
    "location": "Los Angeles Metropolitan Area",
    "posted_at": "2026-11-12",
@@ -316142,6 +316171,7 @@
   },
   "workday:7070ec4fae5b": {
    "company": "Workday",
+   "employer_checked": "2026-11-13",
    "first_seen": "2026-11-12",
    "location": "Boulder, CO, USA",
    "posted_at": "2026-11-11",
@@ -316207,7 +316237,7 @@
   },
   "workday:cbc98424822f": {
    "company": "Workday",
-   "employer_checked": "2026-11-06",
+   "employer_checked": "2026-11-13",
    "first_seen": "2026-10-30",
    "location": "Pleasanton, CA, USA",
    "posted_at": "2026-10-29",
@@ -320376,6 +320406,6 @@
    "last_ok": "2026-11-13"
   }
  },
- "updated": "2026-11-13T08:36:34Z",
+ "updated": "2026-11-13T10:52:45Z",
  "version": 1
 }
