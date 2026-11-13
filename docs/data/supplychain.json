@@ -5486,7 +5486,7 @@
   },
   "amazon:91c4a5d5dafe": {
    "company": "Amazon",
-   "employer_checked": "2026-11-06",
+   "employer_checked": "2026-11-13",
    "first_seen": "2026-10-30",
    "location": "Nashville, TN, USA",
    "posted_at": "2026-10-29",
@@ -8508,6 +8508,8 @@
   },
   "anduril-industries:ffe408ac5d7d": {
    "company": "Anduril Industries",
+   "employer_checked": "2026-11-13",
+   "employer_url": "https://boards.greenhouse.io/andurilindustries/jobs/5267147007?gh_jid=5267147007",
    "first_seen": "2026-11-12",
    "location": "Costa Mesa, CA, USA",
    "posted_at": "2026-11-12",
@@ -14956,6 +14958,7 @@
   },
   "asml:03fc718c7f72": {
    "company": "ASML",
+   "employer_checked": "2026-11-13",
    "first_seen": "2026-10-21",
    "location": "Wilton Center, CT, USA",
    "posted_at": "2026-10-21",
@@ -14997,6 +15000,7 @@
   },
   "asml:7352a4391427": {
    "company": "ASML",
+   "employer_checked": "2026-11-13",
    "first_seen": "2026-10-26",
    "location": "Wilton Center, CT, USA",
    "posted_at": "2026-10-23",
@@ -15036,6 +15040,8 @@
   },
   "asml:a6a2e3471e98": {
    "company": "ASML",
+   "employer_checked": "2026-11-13",
+   "employer_url": "https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/Malta-NY-USA/Operational-Planner_J-00354645",
    "first_seen": "2026-10-21",
    "location": "Malta, NY, USA",
    "posted_at": "2026-10-21",
@@ -15049,6 +15055,7 @@
   },
   "asml:b288768d0f3f": {
    "company": "ASML",
+   "employer_checked": "2026-11-13",
    "first_seen": "2026-11-11",
    "location": "Phoenix, AZ, USA",
    "posted_at": "2026-11-11",
@@ -15062,6 +15069,7 @@
   },
   "asml:de5540650e6f": {
    "company": "ASML",
+   "employer_checked": "2026-11-13",
    "first_seen": "2026-10-15",
    "location": "San Diego, CA, USA",
    "posted_at": "2026-10-15",
@@ -20580,6 +20588,7 @@
   },
   "blue-origin:4036e5636885": {
    "company": "Blue Origin",
+   "employer_checked": "2026-11-13",
    "first_seen": "2026-11-13",
    "location": "Merritt Island, FL, USA",
    "posted_at": "2026-11-13",
@@ -20762,6 +20771,8 @@
   },
   "blue-origin:ddba2f841a84": {
    "company": "Blue Origin",
+   "employer_checked": "2026-11-13",
+   "employer_url": "https://blueorigin.wd5.myworkdayjobs.com/en-US/blueorigin/job/Huntsville-AL/Planner-Scheduler-I_R75612",
    "first_seen": "2026-11-13",
    "location": "Huntsville, AL, USA",
    "posted_at": "2026-11-12",
@@ -23076,7 +23087,7 @@
   },
   "boeing:a2d549428fef": {
    "company": "Boeing",
-   "employer_checked": "2026-11-06",
+   "employer_checked": "2026-11-13",
    "first_seen": "2026-10-30",
    "location": "Dallas, TX, USA",
    "posted_at": "2026-10-29",
@@ -39492,7 +39503,7 @@
   },
   "dick-s-sporting-goods:2df6b4439c1b": {
    "company": "DICK'S Sporting Goods",
-   "employer_checked": "2026-11-06",
+   "employer_checked": "2026-11-13",
    "first_seen": "2026-10-30",
    "location": "Coraopolis, PA, USA",
    "posted_at": "2026-10-29",
@@ -39506,6 +39517,7 @@
   },
   "dick-s-sporting-goods:40e560867d9c": {
    "company": "DICK'S Sporting Goods",
+   "employer_checked": "2026-11-13",
    "first_seen": "2026-11-13",
    "location": "Coraopolis, PA, USA",
    "posted_at": "2026-11-13",
@@ -43803,6 +43815,8 @@
   },
   "entegris:787f153d78b3": {
    "company": "Entegris",
+   "employer_checked": "2026-11-13",
+   "employer_url": "https://entegris.wd1.myworkdayjobs.com/en-US/entegriscareers/job/Danbury-CT/Production-Planning-Intern_REQ-15837",
    "first_seen": "2026-11-11",
    "location": "Danbury, CT, USA",
    "posted_at": "2026-11-10",
@@ -43816,6 +43830,7 @@
   },
   "entegris:a65ca38951f3": {
    "company": "Entegris",
+   "employer_checked": "2026-11-13",
    "first_seen": "2026-11-04",
    "location": "Massachusetts, USA",
    "posted_at": "2026-11-03",
@@ -43829,6 +43844,8 @@
   },
   "entegris:b19d1a2a48e6": {
    "company": "Entegris",
+   "employer_checked": "2026-11-13",
+   "employer_url": "https://entegris.wd1.myworkdayjobs.com/en-US/entegriscareers/job/Bloomington-MN/Supply-Planning-Intern---Summer-2027_REQ-15885-1",
    "first_seen": "2026-11-12",
    "location": "Bloomington, MN, USA",
    "posted_at": "2026-11-12",
@@ -43842,6 +43859,7 @@
   },
   "entegris:dc33999133d4": {
    "company": "Entegris",
+   "employer_checked": "2026-11-13",
    "first_seen": "2026-11-04",
    "location": "Decatur, TX, USA",
    "posted_at": "2026-11-03",
@@ -43868,6 +43886,8 @@
   },
   "entegris:e6c97f91d960": {
    "company": "Entegris",
+   "employer_checked": "2026-11-13",
+   "employer_url": "https://entegris.wd1.myworkdayjobs.com/en-US/entegriscareers/job/Round-Rock-TX/Senior-Supply-Network-Planner--Round-Rock--TX-_REQ-15699",
    "first_seen": "2026-11-06",
    "location": "Round Rock, TX, USA",
    "posted_at": "2026-11-06",
@@ -43895,6 +43915,7 @@
   },
   "entegris:f4210575e04e": {
    "company": "Entegris",
+   "employer_checked": "2026-11-13",
    "first_seen": "2026-11-04",
    "location": "Fairfield County, CT, USA",
    "posted_at": "2026-11-03",
@@ -49621,7 +49642,7 @@
   },
   "ge-vernova:b1168bccaa19": {
    "company": "GE Vernova",
-   "employer_checked": "2026-11-06",
+   "employer_checked": "2026-11-13",
    "first_seen": "2026-10-29",
    "location": "Findlay, PA, USA",
    "posted_at": "2026-10-29",
@@ -50114,7 +50135,7 @@
   },
   "general-dynamics-information-technology:a3ee2d20c385": {
    "company": "General Dynamics Information Technology",
-   "employer_checked": "2026-11-06",
+   "employer_checked": "2026-11-13",
    "first_seen": "2026-11-05",
    "location": "Sterling, VA, USA",
    "posted_at": "2026-11-05",
@@ -58138,7 +58159,7 @@
   },
   "honeywell-aerospace:06ccdae293a5": {
    "company": "Honeywell Aerospace",
-   "employer_checked": "2026-11-06",
+   "employer_checked": "2026-11-13",
    "first_seen": "2026-10-30",
    "location": "Phoenix, AZ, USA",
    "posted_at": "2026-10-30",
@@ -58166,7 +58187,7 @@
   },
   "honeywell-aerospace:19f301281fff": {
    "company": "Honeywell Aerospace",
-   "employer_checked": "2026-11-06",
+   "employer_checked": "2026-11-13",
    "first_seen": "2026-11-05",
    "location": "Torrance, CA, USA",
    "posted_at": "2026-11-05",
@@ -58505,7 +58526,7 @@
   },
   "honeywell-technologies:bc7636181ef3": {
    "company": "Honeywell Technologies",
-   "employer_checked": "2026-11-06",
+   "employer_checked": "2026-11-13",
    "first_seen": "2026-10-29",
    "location": "Rosemont, IL, USA",
    "posted_at": "2026-10-29",
@@ -60179,6 +60200,8 @@
   },
   "hyve-solutions:df63a89456be": {
    "company": "Hyve Solutions",
+   "employer_checked": "2026-11-13",
+   "employer_url": "https://synnex.wd5.myworkdayjobs.com/en-US/hyvecareers/job/Reno-NV/Planner_R57842",
    "first_seen": "2026-11-13",
    "location": "Reno, NV, USA",
    "posted_at": "2026-11-12",
@@ -64109,6 +64132,7 @@
   },
   "jabil:69c41260e41e": {
    "company": "Jabil",
+   "employer_checked": "2026-11-13",
    "first_seen": "2026-11-12",
    "location": "Seminole, FL, USA",
    "posted_at": "2026-11-12",
@@ -82143,7 +82167,7 @@
   },
   "moog-inc:bbbfbe9bfc33": {
    "company": "Moog Inc.",
-   "employer_checked": "2026-11-06",
+   "employer_checked": "2026-11-13",
    "first_seen": "2026-10-29",
    "location": "Phoenix, AZ, USA",
    "posted_at": "2026-10-29",
@@ -85603,6 +85627,8 @@
   },
   "nordstrom:5a96962a6a75": {
    "company": "Nordstrom",
+   "employer_checked": "2026-11-13",
+   "employer_url": "https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Seattle-WA/Fulfillment-Planner-2---Supply-Chain_R-898114",
    "first_seen": "2026-11-13",
    "location": "Seattle, WA, USA",
    "posted_at": "2026-11-13",
@@ -86028,7 +86054,7 @@
   },
   "northrop-grumman:3b2031541262": {
    "company": "Northrop Grumman",
-   "employer_checked": "2026-11-06",
+   "employer_checked": "2026-11-13",
    "first_seen": "2026-11-06",
    "location": "Los Angeles, CA, USA",
    "posted_at": "2026-11-06",
@@ -86328,7 +86354,7 @@
   },
   "northrop-grumman:be8b7a507aac": {
    "company": "Northrop Grumman",
-   "employer_checked": "2026-11-06",
+   "employer_checked": "2026-11-13",
    "first_seen": "2026-10-29",
    "location": "USA",
    "posted_at": "2026-10-29",
@@ -98458,6 +98484,8 @@
   },
   "raytheon:e80513d65a03": {
    "company": "Raytheon",
+   "employer_checked": "2026-11-13",
+   "employer_url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-MA-ANDOVER-AN1--350-Lowell-St--AN1-ESSEX-BLDG/Sr-Inventory-Analyst_01887934",
    "first_seen": "2026-11-13",
    "location": "Andover, MA, USA",
    "posted_at": "2026-11-13",
@@ -106885,7 +106913,7 @@
   },
   "signet-jewelers:79a67b83943d": {
    "company": "Signet Jewelers",
-   "employer_checked": "2026-11-06",
+   "employer_checked": "2026-11-13",
    "first_seen": "2026-10-30",
    "location": "Greater Cleveland",
    "posted_at": "2026-10-30",
@@ -108825,6 +108853,8 @@
   },
   "southwest-airlines:225e99dac05f": {
    "company": "Southwest Airlines",
+   "employer_checked": "2026-11-13",
+   "employer_url": "https://swa.wd1.myworkdayjobs.com/en-US/external/job/TX-Dallas/Assoc-Material-Planner---DMX_R-2026-74524",
    "first_seen": "2026-11-13",
    "location": "Dallas, TX, USA",
    "posted_at": "2026-11-13",
@@ -123994,6 +124024,7 @@
   },
   "tyson-foods:96c27b1f2c1d": {
    "company": "Tyson Foods",
+   "employer_checked": "2026-11-13",
    "first_seen": "2026-11-13",
    "location": "Springdale, AR, USA",
    "posted_at": "2026-11-12",
@@ -124607,6 +124638,7 @@
   },
   "uline:d7f622e61eb0": {
    "company": "Uline",
+   "employer_checked": "2026-11-13",
    "first_seen": "2026-11-13",
    "location": "Milwaukee, WI, USA",
    "posted_at": "2026-11-12",
@@ -124620,6 +124652,7 @@
   },
   "uline:e7fb7961c9d3": {
    "company": "Uline",
+   "employer_checked": "2026-11-13",
    "first_seen": "2026-11-13",
    "location": "Kenosha, WI, USA",
    "posted_at": "2026-11-12",
@@ -137259,6 +137292,6 @@
    "last_ok": "2026-11-13"
   }
  },
- "updated": "2026-11-13T09:33:33Z",
+ "updated": "2026-11-13T10:51:54Z",
  "version": 1
 }
