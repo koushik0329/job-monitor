@@ -5367,6 +5367,19 @@
    "url": "https://www.amazon.jobs/en/jobs/10581621/software-development-engineer-fulfillment-planning-and-execution",
    "yoe": 1
   },
+  "amazon:5e7e99aa42a7": {
+   "company": "Amazon",
+   "first_seen": "2026-11-14",
+   "location": "Bellevue, WA, USA",
+   "posted_at": "2026-11-14",
+   "role": "supply-planning",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "mid",
+   "title": "Enterprise Material Planner, Amazon Leo",
+   "url": "https://www.linkedin.com/jobs/view/4491021525"
+  },
   "amazon:63558eeeca74": {
    "company": "Amazon",
    "employer_checked": "2026-10-30",
@@ -26357,6 +26370,19 @@
    "title": "Supply Chain Analyst",
    "url": "https://www.linkedin.com/jobs/view/4484858718"
   },
+  "bw-converting:fb3a471e5042": {
+   "company": "BW Converting",
+   "first_seen": "2026-11-14",
+   "location": "Green Bay, WI, USA",
+   "posted_at": "2026-11-14",
+   "role": "supply-chain",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "intern",
+   "title": "Supply Chain Intern",
+   "url": "https://www.linkedin.com/jobs/view/4491002983"
+  },
   "bw-papersystems:48bf9a654dae": {
    "company": "BW Papersystems",
    "first_seen": "2026-10-06",
@@ -39661,6 +39687,19 @@
    "title": "Production Planning Supervisor",
    "url": "https://www.linkedin.com/jobs/view/4471664983"
   },
+  "diageo:204cad82c524": {
+   "company": "Diageo",
+   "first_seen": "2026-11-14",
+   "location": "New York, USA",
+   "posted_at": "2026-11-14",
+   "role": "supply-chain",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "mid",
+   "title": "Long Term Strategic Planning Analyst",
+   "url": "https://www.linkedin.com/jobs/view/4491022159"
+  },
   "diageo:27c01712f9f9": {
    "company": "Diageo",
    "first_seen": "2026-11-10",
@@ -39673,6 +39712,19 @@
    "tier": "mid",
    "title": "Materials Scheduler & Analyst – Bulk Liquids & Ingredients",
    "url": "https://www.linkedin.com/jobs/view/4489173606"
+  },
+  "diageo:50fed2c2c2cb": {
+   "company": "Diageo",
+   "first_seen": "2026-11-14",
+   "location": "Stamford, CT, USA",
+   "posted_at": "2026-11-14",
+   "role": "supply-chain",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "mid",
+   "title": "Long Term Strategic Planning Analyst",
+   "url": "https://www.linkedin.com/jobs/view/4491015360"
   },
   "dialight:d6d130e97d91": {
    "company": "Dialight",
@@ -56631,6 +56683,19 @@
    "title": "Associate Supply Chain Analyst",
    "url": "https://www.linkedin.com/jobs/view/4472618605"
   },
+  "heatcraft-refrigeration-products:6b3aaaf52a86": {
+   "company": "Heatcraft Refrigeration Products",
+   "first_seen": "2026-11-14",
+   "location": "Stone Mountain, GA, USA",
+   "posted_at": "2026-11-13",
+   "role": "demand-planning",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "mid",
+   "title": "Forecast Analyst II",
+   "url": "https://www.linkedin.com/jobs/view/4491005853"
+  },
   "heico:3c834759a815": {
    "company": "HEICO",
    "first_seen": "2026-09-27",
@@ -57495,6 +57560,19 @@
    "tier": "mid",
    "title": "PROD PLNG AND SCHEDULER 4",
    "url": "https://www.linkedin.com/jobs/view/4475470127"
+  },
+  "hii:416eab7fd8db": {
+   "company": "HII",
+   "first_seen": "2026-11-14",
+   "location": "Goose Creek, SC, USA",
+   "posted_at": "2026-11-12",
+   "role": "supply-planning",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "mid",
+   "title": "PROD PLNG AND SCHEDULER 3",
+   "url": "https://www.linkedin.com/jobs/view/4489267713"
   },
   "hii:45794c946e61": {
    "company": "HII",
@@ -68115,6 +68193,19 @@
    "title": "Material Planner 1",
    "url": "https://www.linkedin.com/jobs/view/4473967267"
   },
+  "knowles-corporation:a525b19cc02e": {
+   "company": "Knowles Corporation",
+   "first_seen": "2026-11-14",
+   "location": "Santa Clarita, CA, USA",
+   "posted_at": "2026-11-14",
+   "role": "supply-planning",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "mid",
+   "title": "Sr. Material Planner",
+   "url": "https://www.linkedin.com/jobs/view/4489300341"
+  },
   "knowles-precision-devices:90c301a2dcde": {
    "company": "Knowles Precision Devices",
    "first_seen": "2026-11-13",
@@ -75259,6 +75350,19 @@
    "title": "Service Parts Planner",
    "url": "https://www.linkedin.com/jobs/view/4471643213"
   },
+  "magna-international:3aa503b9cee5": {
+   "company": "Magna International",
+   "first_seen": "2026-11-14",
+   "location": "Moore, SC, USA",
+   "posted_at": "2026-11-11",
+   "role": "supply-planning",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "mid",
+   "title": "Material Planner",
+   "url": "https://www.linkedin.com/jobs/view/4489987752"
+  },
   "magna-international:4bce3b4b0fdf": {
    "company": "Magna International",
    "first_seen": "2026-10-07",
@@ -76114,6 +76218,19 @@
    "tier": "mid",
    "title": "Sr. Analyst, National Fulfillment",
    "url": "https://www.linkedin.com/jobs/view/4477877039"
+  },
+  "marketlab:1555e1d94f0c": {
+   "company": "Marketlab",
+   "first_seen": "2026-11-14",
+   "location": "Caledonia, MI, USA",
+   "posted_at": "2026-11-13",
+   "role": "inventory",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "mid",
+   "title": "Supply/Inventory Planner",
+   "url": "https://www.linkedin.com/jobs/view/4491030139"
   },
   "marketlab:59ca651abdd0": {
    "company": "Marketlab",
@@ -89322,6 +89439,19 @@
    "title": "Demand Planner",
    "url": "https://www.linkedin.com/jobs/view/4467455254"
   },
+  "olipop-pbc:ad19b0b1a0ab": {
+   "company": "OLIPOP PBC",
+   "first_seen": "2026-11-14",
+   "location": "USA",
+   "posted_at": "2026-11-14",
+   "role": "demand-planning",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "mid",
+   "title": "Demand Planner",
+   "url": "https://www.linkedin.com/jobs/view/4491011534"
+  },
   "olipop:57f13cacd08c": {
    "company": "Olipop",
    "first_seen": "2026-09-24",
@@ -90343,6 +90473,19 @@
    "tier": "mid",
    "title": "SITE SUPPLY CHAIN MATERIAL PLANNER",
    "url": "https://www.linkedin.com/jobs/view/4473155668"
+  },
+  "optalent-usa-recruitment:6d35739d750d": {
+   "company": "OpTalent | USA | Recruitment",
+   "first_seen": "2026-11-14",
+   "location": "Plano, TX, USA",
+   "posted_at": "2026-11-14",
+   "role": "supply-chain",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "entry",
+   "title": "Junior Supply Chain Analyst",
+   "url": "https://www.linkedin.com/jobs/view/4490790645"
   },
   "optical-cable-corporation:fbc674f3311e": {
    "company": "Optical Cable Corporation",
@@ -91645,6 +91788,19 @@
    "tier": "intern",
    "title": "Supply Chain Intern",
    "url": "https://www.linkedin.com/jobs/view/4469608273"
+  },
+  "paccar-engine-company:f9c2c1050e96": {
+   "company": "PACCAR Engine Company",
+   "first_seen": "2026-11-14",
+   "location": "Columbus, MS, USA",
+   "posted_at": "2026-11-14",
+   "role": "supply-planning",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "mid",
+   "title": "Production Planner (SG24)",
+   "url": "https://www.linkedin.com/jobs/view/4491029887"
   },
   "paccar-parts:0652b6f110db": {
    "company": "PACCAR Parts",
@@ -95373,6 +95529,19 @@
    "title": "Production Scheduler",
    "url": "https://www.linkedin.com/jobs/view/4459852119"
   },
+  "pocket-yc-w26:ef9d7da2a639": {
+   "company": "Pocket (YC W26)",
+   "first_seen": "2026-11-14",
+   "location": "San Francisco, CA, USA",
+   "posted_at": "2026-11-14",
+   "role": "supply-chain",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "mid",
+   "title": "Supply Chain Analyst",
+   "url": "https://www.linkedin.com/jobs/view/4489845844"
+  },
   "pods:0444e80678f5": {
    "company": "PODS",
    "first_seen": "2026-11-09",
@@ -98459,6 +98628,19 @@
    "tier": "manager",
    "title": "Manager, Planning Operations",
    "url": "https://www.linkedin.com/jobs/view/4462524530"
+  },
+  "ram-aerospace:c139edef2813": {
+   "company": "RAM Aerospace",
+   "first_seen": "2026-11-14",
+   "location": "St George, UT, USA",
+   "posted_at": "2026-11-14",
+   "role": "supply-planning",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "mid",
+   "title": "Value Stream Scheduler",
+   "url": "https://www.linkedin.com/jobs/view/4491043334"
   },
   "ram-mounts:b40505b4c198": {
    "company": "RAM Mounts",
@@ -105422,6 +105604,19 @@
    "title": "Supply Chain Intern",
    "url": "https://www.linkedin.com/jobs/view/4487329139"
   },
+  "schneider:19beac3d176f": {
+   "company": "Schneider",
+   "first_seen": "2026-11-14",
+   "location": "Green Bay, WI, USA",
+   "posted_at": "2026-11-14",
+   "role": "supply-chain",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "intern",
+   "title": "Supply Chain Intern - Summer 2027",
+   "url": "https://www.linkedin.com/jobs/view/4489839691"
+  },
   "schnellecke-logistics-usa:f71a95ccfef1": {
    "company": "Schnellecke Logistics USA",
    "first_seen": "2026-09-28",
@@ -107675,6 +107870,19 @@
    "tier": "mid",
    "title": "Supply Chain Analyst , COOPER LIGHTING SOLUTIONS",
    "url": "https://www.linkedin.com/jobs/view/4485628765"
+  },
+  "signify:e2323ba0cbeb": {
+   "company": "Signify",
+   "first_seen": "2026-11-14",
+   "location": "Littlestown, PA, USA",
+   "posted_at": "2026-11-13",
+   "role": "supply-chain",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "mid",
+   "title": "Component Planner",
+   "url": "https://www.linkedin.com/jobs/view/4491021148"
   },
   "sika:25fc6a512553": {
    "company": "Sika",
@@ -112791,6 +112999,19 @@
    "tier": "mid",
    "title": "Senior Replenishment & Allocations Analyst",
    "url": "https://www.linkedin.com/jobs/view/4482187642"
+  },
+  "sprouts-healthy-communities-foundation:c7f71fdd219e": {
+   "company": "Sprouts Healthy Communities Foundation",
+   "first_seen": "2026-11-14",
+   "location": "Greater Phoenix Area",
+   "posted_at": "2026-11-14",
+   "role": "demand-planning",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "mid",
+   "title": "Demand Planner",
+   "url": "https://www.linkedin.com/jobs/view/4491025354"
   },
   "sprouts-healthy-communities-foundation:d63c5acf7eb5": {
    "company": "Sprouts Healthy Communities Foundation",
@@ -137918,7 +138139,7 @@
   "AMD": {
    "best": 600,
    "last": 600,
-   "last_ok": "2026-11-13"
+   "last_ok": "2026-11-14"
   },
   "Abbott": {
    "best": 535,
@@ -137927,168 +138148,168 @@
   },
   "Airbnb": {
    "best": 218,
-   "last": 215,
-   "last_ok": "2026-11-13"
+   "last": 214,
+   "last_ok": "2026-11-14"
   },
   "Amazon": {
    "best": 74,
    "last": 72,
-   "last_ok": "2026-11-13"
+   "last_ok": "2026-11-14"
   },
   "Anduril": {
    "best": 2605,
-   "last": 2591,
-   "last_ok": "2026-11-13"
+   "last": 2597,
+   "last_ok": "2026-11-14"
   },
   "Applied Materials": {
    "best": 470,
-   "last": 457,
+   "last": 0,
    "last_ok": "2026-11-13"
   },
   "Astranis": {
    "best": 189,
    "last": 180,
-   "last_ok": "2026-11-13"
+   "last_ok": "2026-11-14"
   },
   "Becton Dickinson": {
    "best": 341,
-   "last": 283,
+   "last": 0,
    "last_ok": "2026-11-13"
   },
   "Boeing": {
    "best": 330,
-   "last": 330,
+   "last": 0,
    "last_ok": "2026-11-13"
   },
   "CVS Health": {
    "best": 356,
-   "last": 347,
+   "last": 0,
    "last_ok": "2026-11-13"
   },
   "Carvana": {
    "best": 1843,
-   "last": 1663,
-   "last_ok": "2026-11-13"
+   "last": 1660,
+   "last_ok": "2026-11-14"
   },
   "Coinbase": {
    "best": 286,
    "last": 265,
-   "last_ok": "2026-11-13"
+   "last_ok": "2026-11-14"
   },
   "Databricks": {
    "best": 927,
-   "last": 893,
-   "last_ok": "2026-11-13"
+   "last": 896,
+   "last_ok": "2026-11-14"
   },
   "DoorDash": {
    "best": 468,
    "last": 427,
-   "last_ok": "2026-11-13"
+   "last_ok": "2026-11-14"
   },
   "Duolingo": {
    "best": 89,
    "last": 59,
-   "last_ok": "2026-11-13"
+   "last_ok": "2026-11-14"
   },
   "Faire": {
    "best": 82,
    "last": 71,
-   "last_ok": "2026-11-13"
+   "last_ok": "2026-11-14"
   },
   "Flexport": {
    "best": 211,
-   "last": 203,
-   "last_ok": "2026-11-13"
+   "last": 204,
+   "last_ok": "2026-11-14"
   },
   "Formlabs": {
    "best": 259,
    "last": 259,
-   "last_ok": "2026-11-13"
+   "last_ok": "2026-11-14"
   },
   "General Mills": {
    "best": 251,
-   "last": 238,
+   "last": 0,
    "last_ok": "2026-11-13"
   },
   "Glossier": {
    "best": 29,
    "last": 21,
-   "last_ok": "2026-11-13"
+   "last_ok": "2026-11-14"
   },
   "Google": {
    "best": 205,
    "last": 174,
-   "last_ok": "2026-11-13"
+   "last_ok": "2026-11-14"
   },
   "Gusto": {
    "best": 104,
    "last": 75,
-   "last_ok": "2026-11-13"
+   "last_ok": "2026-11-14"
   },
   "Illumina": {
    "best": 127,
-   "last": 118,
+   "last": 0,
    "last_ok": "2026-11-13"
   },
   "Instacart": {
    "best": 131,
    "last": 85,
-   "last_ok": "2026-11-13"
+   "last_ok": "2026-11-14"
   },
   "Land O'Lakes": {
    "best": 138,
-   "last": 124,
+   "last": 0,
    "last_ok": "2026-11-13"
   },
   "LinkedIn (JobSpy)": {
    "best": 738,
-   "last": 622,
-   "last_ok": "2026-11-13"
+   "last": 616,
+   "last_ok": "2026-11-14"
   },
   "Liquid Death": {
    "best": 3,
    "last": 1,
-   "last_ok": "2026-11-13"
+   "last_ok": "2026-11-14"
   },
   "Lucid Motors": {
    "best": 480,
-   "last": 478,
-   "last_ok": "2026-11-13"
+   "last": 477,
+   "last_ok": "2026-11-14"
   },
   "Lyft": {
    "best": 196,
-   "last": 150,
-   "last_ok": "2026-11-13"
+   "last": 148,
+   "last_ok": "2026-11-14"
   },
   "Medtronic": {
    "best": 451,
-   "last": 390,
+   "last": 0,
    "last_ok": "2026-11-13"
   },
   "Micron": {
    "best": 323,
-   "last": 319,
+   "last": 0,
    "last_ok": "2026-11-13"
   },
   "Misfits Market": {
    "best": 96,
    "last": 67,
-   "last_ok": "2026-11-13"
+   "last_ok": "2026-11-14"
   },
   "Mondelez": {
    "best": 463,
    "last": 457,
-   "last_ok": "2026-11-13"
+   "last_ok": "2026-11-14"
   },
   "Nike": {
    "best": 182,
-   "last": 155,
+   "last": 0,
    "last_ok": "2026-11-13"
   },
   "Nuro": {
    "best": 111,
-   "last": 99,
-   "last_ok": "2026-11-13"
+   "last": 100,
+   "last_ok": "2026-11-14"
   },
   "Nvidia": {
    "best": 310,
@@ -138098,56 +138319,56 @@
   "Olipop": {
    "best": 14,
    "last": 10,
-   "last_ok": "2026-11-13"
+   "last_ok": "2026-11-14"
   },
   "OpenAI": {
    "best": 840,
-   "last": 837,
-   "last_ok": "2026-11-13"
+   "last": 838,
+   "last_ok": "2026-11-14"
   },
   "Oura": {
    "best": 111,
    "last": 93,
-   "last_ok": "2026-11-13"
+   "last_ok": "2026-11-14"
   },
   "Peloton": {
    "best": 61,
-   "last": 41,
-   "last_ok": "2026-11-13"
+   "last": 40,
+   "last_ok": "2026-11-14"
   },
   "PepsiCo": {
    "best": 319,
-   "last": 209,
-   "last_ok": "2026-11-13"
+   "last": 206,
+   "last_ok": "2026-11-14"
   },
   "Pinterest": {
    "best": 188,
-   "last": 164,
-   "last_ok": "2026-11-13"
+   "last": 163,
+   "last_ok": "2026-11-14"
   },
   "Samsara": {
    "best": 340,
    "last": 313,
-   "last_ok": "2026-11-13"
+   "last_ok": "2026-11-14"
   },
   "Saronic": {
    "best": 274,
    "last": 274,
-   "last_ok": "2026-11-13"
+   "last_ok": "2026-11-14"
   },
   "SpaceX": {
    "best": 2911,
-   "last": 2778,
-   "last_ok": "2026-11-13"
+   "last": 2758,
+   "last_ok": "2026-11-14"
   },
   "Stripe": {
    "best": 787,
    "last": 786,
-   "last_ok": "2026-11-13"
+   "last_ok": "2026-11-14"
   },
   "Stryker": {
    "best": 421,
-   "last": 403,
+   "last": 0,
    "last_ok": "2026-11-13"
   },
   "Target": {
@@ -138158,7 +138379,7 @@
   "Thrive Market": {
    "best": 20,
    "last": 20,
-   "last_ok": "2026-11-13"
+   "last_ok": "2026-11-14"
   },
   "Tyson Foods": {
    "best": 142,
@@ -138167,30 +138388,30 @@
   },
   "Unilever": {
    "best": 204,
-   "last": 187,
-   "last_ok": "2026-11-13"
+   "last": 186,
+   "last_ok": "2026-11-14"
   },
   "Verkada": {
    "best": 347,
-   "last": 346,
-   "last_ok": "2026-11-13"
+   "last": 347,
+   "last_ok": "2026-11-14"
   },
   "Walmart Global Tech": {
    "best": 268,
-   "last": 226,
-   "last_ok": "2026-11-13"
+   "last": 215,
+   "last_ok": "2026-11-14"
   },
   "Waymo": {
    "best": 382,
-   "last": 376,
-   "last_ok": "2026-11-13"
+   "last": 373,
+   "last_ok": "2026-11-14"
   },
   "Zebra Technologies": {
    "best": 125,
    "last": 119,
-   "last_ok": "2026-11-13"
+   "last_ok": "2026-11-14"
   }
  },
- "updated": "2026-11-13T23:38:27Z",
+ "updated": "2026-11-14T06:09:34Z",
  "version": 1
 }
