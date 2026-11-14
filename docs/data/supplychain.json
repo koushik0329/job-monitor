@@ -824,6 +824,18 @@
    "title": "Planning & Fulfillment Specialist",
    "url": "https://www.linkedin.com/jobs/view/4473974436"
   },
+  "abbott:02d886bc9e7e": {
+   "company": "Abbott",
+   "first_seen": "2026-11-14",
+   "location": "United States - Indiana - Avon",
+   "posted_at": "2026-11-13",
+   "role": "inventory",
+   "source": "workday",
+   "status": "new",
+   "tier": "entry",
+   "title": "Inventory Control Coordinator, Distribution Center",
+   "url": "https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/United-States---Indiana---Avon/Inventory-Control-Coordinator--Distribution-Center_31167534-1"
+  },
   "abbott:07e2817e833e": {
    "company": "Abbott",
    "first_seen": "2026-09-23",
@@ -12467,6 +12479,18 @@
    "tier": "mid",
    "title": "Buyer IV",
    "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Buyer-IV_R2629153-1"
+  },
+  "applied-materials:5ef6e8c096f1": {
+   "company": "Applied Materials",
+   "first_seen": "2026-11-14",
+   "location": "Santa Clara,CA",
+   "posted_at": "2026-11-13",
+   "role": "supply-chain",
+   "source": "workday",
+   "status": "new",
+   "tier": "manager",
+   "title": "Product Configuration Manager- Supply chain",
+   "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Product-Configuration-Manager--Supply-chain_R2633712"
   },
   "applied-materials:5f60f10d631e": {
    "company": "Applied Materials",
@@ -66116,6 +66140,19 @@
    "title": "Inventory Planner",
    "url": "https://www.linkedin.com/jobs/view/4408059672"
   },
+  "joseph-joseph-ltd:0562f2224382": {
+   "company": "Joseph Joseph Ltd",
+   "first_seen": "2026-11-14",
+   "location": "New York, USA",
+   "posted_at": "2026-11-14",
+   "role": "supply-chain",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "mid",
+   "title": "Supply Chain Analyst - US",
+   "url": "https://www.linkedin.com/jobs/view/4489336673"
+  },
   "jost-international:8bf45c9acd8e": {
    "company": "JOST International",
    "first_seen": "2026-09-25",
@@ -72849,6 +72886,19 @@
    "title": "Supply Chain Analyst",
    "url": "https://www.linkedin.com/jobs/view/4474333336"
   },
+  "little-caesars-pizza:847d20fc7f04": {
+   "company": "Little Caesars Pizza",
+   "first_seen": "2026-11-14",
+   "location": "Detroit, MI, USA",
+   "posted_at": "2026-11-14",
+   "role": "supply-chain",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "intern",
+   "title": "Supply Chain Intern",
+   "url": "https://www.linkedin.com/jobs/view/4491080871"
+  },
   "living-spaces-furniture:153f8ef359bc": {
    "company": "Living Spaces Furniture",
    "first_seen": "2026-10-23",
@@ -73384,6 +73434,19 @@
    "tier": "mid",
    "title": "Manufacturing Planner Sr - E3",
    "url": "https://www.linkedin.com/jobs/view/4471725562"
+  },
+  "lockheed-martin:b2282021a655": {
+   "company": "Lockheed Martin",
+   "first_seen": "2026-11-14",
+   "location": "Fort Liberty, NC, USA",
+   "posted_at": "2026-11-14",
+   "role": "logistics",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "manager",
+   "title": "Logistics Management Analyst Sr - E3",
+   "url": "https://www.linkedin.com/jobs/view/4489334869"
   },
   "lockheed-martin:bb4b6e7c1ebf": {
    "checked_at": "2026-10-02",
@@ -83664,6 +83727,19 @@
    "tier": "intern",
    "title": "Supply Chain Intern",
    "url": "https://www.linkedin.com/jobs/view/4483036894"
+  },
+  "nabidex:52073e303247": {
+   "company": "Nabidex",
+   "first_seen": "2026-11-14",
+   "location": "Dallas, TX, USA",
+   "posted_at": "2026-11-14",
+   "role": "program-mgmt",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "intern",
+   "title": "Supply Chain Transformations Intern",
+   "url": "https://www.linkedin.com/jobs/view/4489329937"
   },
   "nabidex:ab8c42c86048": {
    "company": "Nabidex",
@@ -114250,6 +114326,19 @@
    "title": "Contracts & Supply Chain Summer 2027 Internship",
    "url": "https://www.linkedin.com/jobs/view/4481793177"
   },
+  "stratagem-one:3067699d3f3f": {
+   "company": "Stratagem One",
+   "first_seen": "2026-11-14",
+   "location": "El Segundo, CA, USA",
+   "posted_at": "2026-11-14",
+   "role": "supply-chain",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "intern",
+   "title": "Supply Chain Intern (MBA)",
+   "url": "https://www.linkedin.com/jobs/view/4489348418"
+  },
   "stratagem-one:bf1795d081b7": {
    "company": "Stratagem One",
    "first_seen": "2026-10-19",
@@ -114405,6 +114494,19 @@
    "tier": "intern",
    "title": "Supply Chain Planning Intern",
    "url": "https://www.linkedin.com/jobs/view/4482525237"
+  },
+  "stratosnex:c2aa85fc3c3f": {
+   "company": "StratosNex",
+   "first_seen": "2026-11-14",
+   "location": "El Segundo, CA, USA",
+   "posted_at": "2026-11-14",
+   "role": "supply-chain",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "intern",
+   "title": "Supply Chain Internship",
+   "url": "https://www.linkedin.com/jobs/view/4489346217"
   },
   "stratus:68ffeeb30c1a": {
    "company": "Stratus",
@@ -138291,8 +138393,8 @@
   },
   "Abbott": {
    "best": 535,
-   "last": 0,
-   "last_ok": "2026-11-13"
+   "last": 496,
+   "last_ok": "2026-11-14"
   },
   "Airbnb": {
    "best": 218,
@@ -138311,8 +138413,8 @@
   },
   "Applied Materials": {
    "best": 470,
-   "last": 0,
-   "last_ok": "2026-11-13"
+   "last": 455,
+   "last_ok": "2026-11-14"
   },
   "Astranis": {
    "best": 189,
@@ -138321,18 +138423,18 @@
   },
   "Becton Dickinson": {
    "best": 341,
-   "last": 0,
-   "last_ok": "2026-11-13"
+   "last": 283,
+   "last_ok": "2026-11-14"
   },
   "Boeing": {
    "best": 330,
-   "last": 0,
-   "last_ok": "2026-11-13"
+   "last": 326,
+   "last_ok": "2026-11-14"
   },
   "CVS Health": {
    "best": 356,
-   "last": 0,
-   "last_ok": "2026-11-13"
+   "last": 345,
+   "last_ok": "2026-11-14"
   },
   "Carvana": {
    "best": 1843,
@@ -138376,8 +138478,8 @@
   },
   "General Mills": {
    "best": 251,
-   "last": 0,
-   "last_ok": "2026-11-13"
+   "last": 238,
+   "last_ok": "2026-11-14"
   },
   "Glossier": {
    "best": 29,
@@ -138386,7 +138488,7 @@
   },
   "Google": {
    "best": 205,
-   "last": 174,
+   "last": 177,
    "last_ok": "2026-11-14"
   },
   "Gusto": {
@@ -138396,8 +138498,8 @@
   },
   "Illumina": {
    "best": 127,
-   "last": 0,
-   "last_ok": "2026-11-13"
+   "last": 118,
+   "last_ok": "2026-11-14"
   },
   "Instacart": {
    "best": 131,
@@ -138406,12 +138508,12 @@
   },
   "Land O'Lakes": {
    "best": 138,
-   "last": 0,
-   "last_ok": "2026-11-13"
+   "last": 124,
+   "last_ok": "2026-11-14"
   },
   "LinkedIn (JobSpy)": {
    "best": 738,
-   "last": 621,
+   "last": 607,
    "last_ok": "2026-11-14"
   },
   "Liquid Death": {
@@ -138431,13 +138533,13 @@
   },
   "Medtronic": {
    "best": 451,
-   "last": 0,
-   "last_ok": "2026-11-13"
+   "last": 383,
+   "last_ok": "2026-11-14"
   },
   "Micron": {
    "best": 323,
-   "last": 0,
-   "last_ok": "2026-11-13"
+   "last": 318,
+   "last_ok": "2026-11-14"
   },
   "Misfits Market": {
    "best": 96,
@@ -138451,8 +138553,8 @@
   },
   "Nike": {
    "best": 182,
-   "last": 0,
-   "last_ok": "2026-11-13"
+   "last": 155,
+   "last_ok": "2026-11-14"
   },
   "Nuro": {
    "best": 111,
@@ -138461,8 +138563,8 @@
   },
   "Nvidia": {
    "best": 310,
-   "last": 0,
-   "last_ok": "2026-11-13"
+   "last": 291,
+   "last_ok": "2026-11-14"
   },
   "Olipop": {
    "best": 14,
@@ -138471,7 +138573,7 @@
   },
   "OpenAI": {
    "best": 840,
-   "last": 838,
+   "last": 839,
    "last_ok": "2026-11-14"
   },
   "Oura": {
@@ -138496,7 +138598,7 @@
   },
   "Samsara": {
    "best": 340,
-   "last": 314,
+   "last": 317,
    "last_ok": "2026-11-14"
   },
   "Saronic": {
@@ -138516,8 +138618,8 @@
   },
   "Stryker": {
    "best": 421,
-   "last": 0,
-   "last_ok": "2026-11-13"
+   "last": 404,
+   "last_ok": "2026-11-14"
   },
   "Target": {
    "best": 445,
@@ -138530,23 +138632,23 @@
    "last_ok": "2026-11-14"
   },
   "Tyson Foods": {
-   "best": 142,
-   "last": 0,
-   "last_ok": "2026-11-13"
+   "best": 144,
+   "last": 144,
+   "last_ok": "2026-11-14"
   },
   "Unilever": {
    "best": 204,
-   "last": 186,
+   "last": 187,
    "last_ok": "2026-11-14"
   },
   "Verkada": {
    "best": 347,
-   "last": 347,
+   "last": 346,
    "last_ok": "2026-11-14"
   },
   "Walmart Global Tech": {
    "best": 268,
-   "last": 223,
+   "last": 217,
    "last_ok": "2026-11-14"
   },
   "Waymo": {
@@ -138560,6 +138662,6 @@
    "last_ok": "2026-11-14"
   }
  },
- "updated": "2026-11-14T13:35:25Z",
+ "updated": "2026-11-14T19:11:21Z",
  "version": 1
 }
