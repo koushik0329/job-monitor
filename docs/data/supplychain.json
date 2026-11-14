@@ -30495,6 +30495,19 @@
    "title": "Replenishment Manager",
    "url": "https://www.linkedin.com/jobs/view/4475161882"
   },
+  "central-garden-pet:f2fbcd06f679": {
+   "company": "Central Garden & Pet",
+   "first_seen": "2026-11-14",
+   "location": "Bingham Farms, MI, USA",
+   "posted_at": "2026-11-14",
+   "role": "demand-planning",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "manager",
+   "title": "Manager, Forecast Analytics & Planning",
+   "url": "https://www.linkedin.com/jobs/view/4491055381"
+  },
   "central-marketing:a1b93581f79f": {
    "checked_at": "2026-10-02",
    "closed_at": "2026-10-02",
@@ -55253,6 +55266,19 @@
    "title": "Pharmacy Purchasing Specialist",
    "url": "https://www.linkedin.com/jobs/view/4471522610"
   },
+  "guardiar:8d3598b4dc5d": {
+   "company": "Guardiar",
+   "first_seen": "2026-11-14",
+   "location": "Ennis, TX, USA",
+   "posted_at": "2026-11-14",
+   "role": "supply-planning",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "mid",
+   "title": "Production Planner",
+   "url": "https://www.linkedin.com/jobs/view/4489312770"
+  },
   "guerbet:64ab187e8e0a": {
    "company": "Guerbet",
    "first_seen": "2026-10-23",
@@ -57856,6 +57882,19 @@
    "tier": "entry",
    "title": "Planner I",
    "url": "https://www.linkedin.com/jobs/view/4465233570"
+  },
+  "hillphoenix:bf15ae6fa0fb": {
+   "company": "Hillphoenix",
+   "first_seen": "2026-11-14",
+   "location": "Conyers, GA, USA",
+   "posted_at": "2026-11-14",
+   "role": "supply-planning",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "mid",
+   "title": "Production Planner",
+   "url": "https://www.linkedin.com/jobs/view/4489332340"
   },
   "hillphoenix:d80e1fb64b37": {
    "company": "Hillphoenix",
@@ -67473,6 +67512,19 @@
    "tier": "mid",
    "title": "Demand Planner II",
    "url": "https://www.linkedin.com/jobs/view/4480723156"
+  },
+  "kimball-international:47075e5b8a13": {
+   "company": "Kimball International",
+   "first_seen": "2026-11-14",
+   "location": "Jasper, IN, USA",
+   "posted_at": "2026-11-14",
+   "role": "supply-chain",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "entry",
+   "title": "Supply Chain Analyst I - Kimball International, Jasper, IN",
+   "url": "https://www.linkedin.com/jobs/view/4491072513"
   },
   "kimberly-clark:1e6acf2bc2ce": {
    "checked_at": "2026-10-02",
@@ -79806,6 +79858,7 @@
   },
   "micron:34521e62a883": {
    "company": "Micron",
+   "employer_url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Staff-Sales-Business-Planning-Analyst_JR117324",
    "first_seen": "2026-11-13",
    "location": "Boise, ID - Main Site",
    "posted_at": "2026-11-13",
@@ -86476,6 +86529,19 @@
    "title": "Associate Supplier Quality Analyst (Plymouth MN or Mesa AZ)",
    "url": "https://www.linkedin.com/jobs/view/4485943532"
   },
+  "northrop-grumman:04b2d1f9b1c7": {
+   "company": "Northrop Grumman",
+   "first_seen": "2026-11-14",
+   "location": "Englewood, CO, USA",
+   "posted_at": "2026-11-14",
+   "role": "supply-planning",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "mid",
+   "title": "Production Planner and Scheduler 3/4",
+   "url": "https://www.linkedin.com/jobs/view/4491058887"
+  },
   "northrop-grumman:06aeca0205e7": {
    "company": "Northrop Grumman",
    "employer_checked": "2026-11-11",
@@ -86574,6 +86640,19 @@
    "tier": "mid",
    "title": "Supply Chain Planning Specialist",
    "url": "https://www.linkedin.com/jobs/view/4472155826"
+  },
+  "northrop-grumman:18eb89564cdc": {
+   "company": "Northrop Grumman",
+   "first_seen": "2026-11-14",
+   "location": "Corinne, UT, USA",
+   "posted_at": "2026-11-14",
+   "role": "supply-chain",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "mid",
+   "title": "Supply Chain Planning Specialist - Level 3 or Level 4",
+   "url": "https://www.linkedin.com/jobs/view/4491074251"
   },
   "northrop-grumman:1b423ba312b3": {
    "company": "Northrop Grumman",
@@ -87056,6 +87135,19 @@
    "tier": "entry",
    "title": "Associate Supply Chain Planning Specialist",
    "url": "https://www.linkedin.com/jobs/view/4471830934"
+  },
+  "northrop-grumman:d50d09adf500": {
+   "company": "Northrop Grumman",
+   "first_seen": "2026-11-14",
+   "location": "Magna, UT, USA",
+   "posted_at": "2026-11-14",
+   "role": "supply-chain",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "mid",
+   "title": "Supply Chain Planning Specialist - Level 3 or Level 4",
+   "url": "https://www.linkedin.com/jobs/view/4491067545"
   },
   "northrop-grumman:d668d1294587": {
    "company": "Northrop Grumman",
@@ -92414,6 +92506,19 @@
    "title": "Material Planning Manager",
    "url": "https://www.linkedin.com/jobs/view/4486496978"
   },
+  "parker-hannifin:28df5f99efcb": {
+   "company": "Parker Hannifin",
+   "first_seen": "2026-11-14",
+   "location": "Elyria, OH, USA",
+   "posted_at": "2026-11-14",
+   "role": "supply-chain",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "mid",
+   "title": "Planner Sr - experienced (Aerospace)",
+   "url": "https://www.linkedin.com/jobs/view/4491063326"
+  },
   "parker-hannifin:2a117d4b428e": {
    "company": "Parker Hannifin",
    "first_seen": "2026-11-12",
@@ -94539,6 +94644,19 @@
    "tier": "mid",
    "title": "Procurement Analyst",
    "url": "https://www.linkedin.com/jobs/view/4466345819"
+  },
+  "pgw-auto-glass:3ac7bf98518e": {
+   "company": "PGW Auto Glass",
+   "first_seen": "2026-11-14",
+   "location": "Cranberry, PA, USA",
+   "posted_at": "2026-11-14",
+   "role": "demand-planning",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "mid",
+   "title": "Demand Planner",
+   "url": "https://www.linkedin.com/jobs/view/4489330004"
   },
   "pharmavite:6784a67d5d3a": {
    "company": "Pharmavite",
@@ -100434,6 +100552,19 @@
    "tier": "mid",
    "title": "Supply Chain Analyst",
    "url": "https://www.linkedin.com/jobs/view/4485280649"
+  },
+  "retrax-retractable-truck-bed-covers:475aac97f5f6": {
+   "company": "Retrax Retractable Truck Bed Covers",
+   "first_seen": "2026-11-14",
+   "location": "Grand Forks, ND, USA",
+   "posted_at": "2026-11-14",
+   "role": "supply-chain",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "mid",
+   "title": "Supply Chain Analyst - DTV",
+   "url": "https://www.linkedin.com/jobs/view/4489875844"
   },
   "retrof-te:3e5c26b61914": {
    "company": "Retrofête",
@@ -120139,6 +120270,19 @@
    "title": "Material Planner",
    "url": "https://www.linkedin.com/jobs/view/4461412567"
   },
+  "terumo-blood-and-cell-technologies:113c425dd2a5": {
+   "company": "Terumo Blood and Cell Technologies",
+   "first_seen": "2026-11-14",
+   "location": "Lakewood, CO, USA",
+   "posted_at": "2026-11-14",
+   "role": "supply-chain",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "intern",
+   "title": "Intern Post Undergraduate - Supply Chain Intern",
+   "url": "https://www.linkedin.com/jobs/view/4491023194"
+  },
   "tesla:31c2f8e624dd": {
    "company": "Tesla",
    "first_seen": "2026-11-05",
@@ -138162,7 +138306,7 @@
   },
   "Anduril": {
    "best": 2605,
-   "last": 2597,
+   "last": 2599,
    "last_ok": "2026-11-14"
   },
   "Applied Materials": {
@@ -138267,7 +138411,7 @@
   },
   "LinkedIn (JobSpy)": {
    "best": 738,
-   "last": 616,
+   "last": 621,
    "last_ok": "2026-11-14"
   },
   "Liquid Death": {
@@ -138352,7 +138496,7 @@
   },
   "Samsara": {
    "best": 340,
-   "last": 313,
+   "last": 314,
    "last_ok": "2026-11-14"
   },
   "Saronic": {
@@ -138402,7 +138546,7 @@
   },
   "Walmart Global Tech": {
    "best": 268,
-   "last": 215,
+   "last": 223,
    "last_ok": "2026-11-14"
   },
   "Waymo": {
@@ -138416,6 +138560,6 @@
    "last_ok": "2026-11-14"
   }
  },
- "updated": "2026-11-14T10:11:31Z",
+ "updated": "2026-11-14T13:35:25Z",
  "version": 1
 }
