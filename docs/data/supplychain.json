@@ -15871,6 +15871,19 @@
    "title": "Network Planning Sales Engineer Intern (Winter 2027)",
    "url": "https://job-boards.greenhouse.io/astranis/jobs/4704276006"
   },
+  "astraventa-global:e9bd024c487a": {
+   "company": "Astraventa Global",
+   "first_seen": "2026-11-14",
+   "location": "Milwaukee, WI, USA",
+   "posted_at": "2026-11-13",
+   "role": "supply-chain",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "intern",
+   "title": "Integrated Supply Chain & Manufacturing Intern",
+   "url": "https://www.linkedin.com/jobs/view/4488956787"
+  },
   "astrazeneca:014e02c32d8d": {
    "company": "AstraZeneca",
    "first_seen": "2026-10-28",
@@ -57237,6 +57250,19 @@
    "title": "Procurement Intern, Spring- Summer 2027 (7 month duration)",
    "url": "https://www.linkedin.com/jobs/view/4480155162"
   },
+  "henkel:f818b8658608": {
+   "company": "Henkel",
+   "first_seen": "2026-11-14",
+   "location": "Culver City, CA, USA",
+   "posted_at": "2026-11-14",
+   "role": "demand-planning",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "mid",
+   "title": "Sr Demand Planner",
+   "url": "https://www.linkedin.com/jobs/view/4491204468"
+  },
   "hepco-inc:c5ec8cbe67e3": {
    "company": "HEPCO, Inc.",
    "first_seen": "2026-10-06",
@@ -73383,6 +73409,19 @@
    "title": "Supply Chain Intern",
    "url": "https://www.linkedin.com/jobs/view/4484681783"
   },
+  "lockheed-martin:ade0e288139b": {
+   "company": "Lockheed Martin",
+   "first_seen": "2026-11-14",
+   "location": "Greater Orlando",
+   "posted_at": "2026-11-13",
+   "role": "supply-chain",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "mid",
+   "title": "Manufacturing Planner Asc - E1",
+   "url": "https://www.linkedin.com/jobs/view/4488967694"
+  },
   "lockheed-martin:aedd33230e85": {
    "company": "Lockheed Martin",
    "first_seen": "2026-10-28",
@@ -83821,6 +83860,19 @@
    "tier": "mid",
    "title": "Analyst, Inventory Deployment and Channel Strategy",
    "url": "https://www.linkedin.com/jobs/view/4479566560"
+  },
+  "napa-auto-parts:6147b2b73e3a": {
+   "company": "NAPA Auto Parts",
+   "first_seen": "2026-11-14",
+   "location": "Atlanta, GA, USA",
+   "posted_at": "2026-11-14",
+   "role": "procurement",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "intern",
+   "title": "Procurement/Sourcing Analytics Intern - Summer 2027",
+   "url": "https://www.linkedin.com/jobs/view/4483166723"
   },
   "napa-auto-parts:8083a6509734": {
    "company": "NAPA Auto Parts",
@@ -99915,6 +99967,19 @@
    "title": "Materials Manager II",
    "url": "https://www.linkedin.com/jobs/view/4461189595"
   },
+  "regal-rexnord:2282fd0ebb4e": {
+   "company": "Regal Rexnord",
+   "first_seen": "2026-11-14",
+   "location": "East Aurora, NY, USA",
+   "posted_at": "2026-11-13",
+   "role": "supply-planning",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "mid",
+   "title": "Materials Planner",
+   "url": "https://www.linkedin.com/jobs/view/4488991300"
+  },
   "regal-rexnord:40bb2b886551": {
    "checked_at": "2026-10-02",
    "company": "Regal Rexnord",
@@ -107050,6 +107115,19 @@
    "tier": "entry",
    "title": "Senior Production Planner, Development Programs (R5277)",
    "url": "https://www.linkedin.com/jobs/view/4465835368"
+  },
+  "shield:58505efdf405": {
+   "company": "Shield",
+   "first_seen": "2026-11-14",
+   "location": "Seattle, WA, USA",
+   "posted_at": "2026-11-14",
+   "role": "supply-planning",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "entry",
+   "title": "Senior Production Planner, Development Programs (R5277)",
+   "url": "https://www.linkedin.com/jobs/view/4491092908"
   },
   "shield:875e062f7ba3": {
    "company": "Shield",
@@ -119874,6 +119952,19 @@
    "tier": "mid",
    "title": "Global Supply Demand Planner",
    "url": "https://www.linkedin.com/jobs/view/4470635620"
+  },
+  "tektronix:f119a505d187": {
+   "company": "Tektronix",
+   "first_seen": "2026-11-14",
+   "location": "Beaverton, OR, USA",
+   "posted_at": "2026-11-12",
+   "role": "supply-planning",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "mid",
+   "title": "Production Planner",
+   "url": "https://www.linkedin.com/jobs/view/4490503039"
   },
   "tekwissen:6d1b2054f3ec": {
    "checked_at": "2026-10-02",
@@ -138393,7 +138484,7 @@
   },
   "Abbott": {
    "best": 535,
-   "last": 496,
+   "last": 499,
    "last_ok": "2026-11-14"
   },
   "Airbnb": {
@@ -138408,7 +138499,7 @@
   },
   "Anduril": {
    "best": 2605,
-   "last": 2599,
+   "last": 2598,
    "last_ok": "2026-11-14"
   },
   "Applied Materials": {
@@ -138433,7 +138524,7 @@
   },
   "CVS Health": {
    "best": 356,
-   "last": 345,
+   "last": 346,
    "last_ok": "2026-11-14"
   },
   "Carvana": {
@@ -138488,7 +138579,7 @@
   },
   "Google": {
    "best": 205,
-   "last": 177,
+   "last": 174,
    "last_ok": "2026-11-14"
   },
   "Gusto": {
@@ -138513,7 +138604,7 @@
   },
   "LinkedIn (JobSpy)": {
    "best": 738,
-   "last": 607,
+   "last": 601,
    "last_ok": "2026-11-14"
   },
   "Liquid Death": {
@@ -138533,7 +138624,7 @@
   },
   "Medtronic": {
    "best": 451,
-   "last": 383,
+   "last": 384,
    "last_ok": "2026-11-14"
   },
   "Micron": {
@@ -138548,7 +138639,7 @@
   },
   "Mondelez": {
    "best": 463,
-   "last": 457,
+   "last": 456,
    "last_ok": "2026-11-14"
   },
   "Nike": {
@@ -138563,7 +138654,7 @@
   },
   "Nvidia": {
    "best": 310,
-   "last": 291,
+   "last": 292,
    "last_ok": "2026-11-14"
   },
   "Olipop": {
@@ -138598,7 +138689,7 @@
   },
   "Samsara": {
    "best": 340,
-   "last": 317,
+   "last": 319,
    "last_ok": "2026-11-14"
   },
   "Saronic": {
@@ -138608,7 +138699,7 @@
   },
   "SpaceX": {
    "best": 2911,
-   "last": 2758,
+   "last": 2756,
    "last_ok": "2026-11-14"
   },
   "Stripe": {
@@ -138648,7 +138739,7 @@
   },
   "Walmart Global Tech": {
    "best": 268,
-   "last": 217,
+   "last": 228,
    "last_ok": "2026-11-14"
   },
   "Waymo": {
@@ -138662,6 +138753,6 @@
    "last_ok": "2026-11-14"
   }
  },
- "updated": "2026-11-14T19:11:21Z",
+ "updated": "2026-11-14T23:59:06Z",
  "version": 1
 }
