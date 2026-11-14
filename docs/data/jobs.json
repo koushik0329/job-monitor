@@ -10147,7 +10147,7 @@
   },
   "amazon-web-services-aws:0283f1c074c9": {
    "company": "Amazon Web Services (AWS)",
-   "employer_checked": "2026-11-07",
+   "employer_checked": "2026-11-14",
    "first_seen": "2026-10-31",
    "location": "Seattle, WA, USA",
    "posted_at": "2026-10-29",
@@ -10850,7 +10850,7 @@
   },
   "amazon-web-services-aws:84e1501c888b": {
    "company": "Amazon Web Services (AWS)",
-   "employer_checked": "2026-11-07",
+   "employer_checked": "2026-11-14",
    "first_seen": "2026-10-30",
    "location": "New York, USA",
    "posted_at": "2026-10-30",
@@ -11338,6 +11338,8 @@
   },
   "amazon-web-services-aws:ef764b2ca67a": {
    "company": "Amazon Web Services (AWS)",
+   "employer_checked": "2026-11-14",
+   "employer_url": "https://www.amazon.jobs/en/jobs/10601883/front-end-engineer-ii-aws-agentic-workspaces-workspaces-admin-and-builder-cx",
    "first_seen": "2026-11-13",
    "location": "Seattle, WA, USA",
    "posted_at": "2026-11-13",
@@ -23953,7 +23955,7 @@
   },
   "amazon:c1d5f093ff76": {
    "company": "Amazon",
-   "employer_checked": "2026-11-07",
+   "employer_checked": "2026-11-14",
    "first_seen": "2026-10-30",
    "location": "Irvine, CA, USA",
    "posted_at": "2026-10-30",
@@ -77888,7 +77890,7 @@
   },
   "c3-ai:18196ae7eca9": {
    "company": "C3 AI",
-   "employer_checked": "2026-11-07",
+   "employer_checked": "2026-11-14",
    "first_seen": "2026-10-20",
    "location": "Tysons Corner, VA, USA",
    "posted_at": "2026-10-19",
@@ -79476,6 +79478,7 @@
   },
   "cambridge-mobile-telematics:0e2aeefc53a9": {
    "company": "Cambridge Mobile Telematics",
+   "employer_checked": "2026-11-14",
    "first_seen": "2026-10-29",
    "location": "Massachusetts, USA",
    "posted_at": "2026-10-28",
@@ -160866,6 +160869,7 @@
   },
   "honeywell-aerospace:356f20b1ae91": {
    "company": "Honeywell Aerospace",
+   "employer_checked": "2026-11-14",
    "first_seen": "2026-11-14",
    "location": "Phoenix, AZ, USA",
    "posted_at": "2026-11-14",
@@ -181290,7 +181294,7 @@
   },
   "jpmorganchase:338641acf394": {
    "company": "JPMorganChase",
-   "employer_checked": "2026-11-07",
+   "employer_checked": "2026-11-14",
    "first_seen": "2026-11-06",
    "location": "Tampa, FL, USA",
    "posted_at": "2026-11-04",
@@ -181743,6 +181747,8 @@
   },
   "jpmorganchase:8d44f64eb542": {
    "company": "JPMorganChase",
+   "employer_checked": "2026-11-14",
+   "employer_url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803303",
    "first_seen": "2026-11-14",
    "location": "Palo Alto, CA, USA",
    "posted_at": "2026-11-14",
@@ -256955,7 +256961,7 @@
   },
   "samsara:8e09fef0cc43": {
    "company": "Samsara",
-   "employer_checked": "2026-11-07",
+   "employer_checked": "2026-11-14",
    "first_seen": "2026-11-06",
    "location": "Oakland, CA, USA",
    "posted_at": "2026-11-06",
@@ -301123,7 +301129,7 @@
   },
   "tsc:dd4faf1069c4": {
    "company": "TSC",
-   "employer_checked": "2026-11-07",
+   "employer_checked": "2026-11-14",
    "first_seen": "2026-10-30",
    "location": "Silver Spring, MD, USA",
    "posted_at": "2026-10-30",
@@ -310624,6 +310630,8 @@
   },
   "voyager-technologies:b66bc28d1f34": {
    "company": "Voyager Technologies",
+   "employer_checked": "2026-11-14",
+   "employer_url": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4506412009",
    "first_seen": "2026-11-13",
    "location": "El Segundo, CA, USA",
    "posted_at": "2026-11-13",
@@ -323389,6 +323397,6 @@
    "last_ok": "2026-11-14"
   }
  },
- "updated": "2026-11-14T07:00:43Z",
+ "updated": "2026-11-14T10:12:27Z",
  "version": 1
 }
