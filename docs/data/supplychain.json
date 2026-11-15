@@ -57214,6 +57214,19 @@
    "title": "Procurement Intern Spring-Summer 2027 (7 month duration)",
    "url": "https://www.linkedin.com/jobs/view/4479208674"
   },
+  "henkel:a8a69e06a902": {
+   "company": "Henkel",
+   "first_seen": "2026-11-15",
+   "location": "Stamford, CT, USA",
+   "posted_at": "2026-11-13",
+   "role": "procurement",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "intern",
+   "title": "Procurement Intern: Summer - Fall 2027 (6 month duration)",
+   "url": "https://www.linkedin.com/jobs/view/4490772981"
+  },
   "henkel:d46bc8066270": {
    "checked_at": "2026-10-02",
    "company": "Henkel",
@@ -63502,6 +63515,19 @@
    "tier": "mid",
    "title": "Production Scheduler",
    "url": "https://www.linkedin.com/jobs/view/4473518291"
+  },
+  "international-rescue-committee:aa1a00961cef": {
+   "company": "International Rescue Committee",
+   "first_seen": "2026-11-15",
+   "location": "Atlanta, GA, USA",
+   "posted_at": "2026-11-12",
+   "role": "supply-chain",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "intern",
+   "title": "Spring 2027 Supply Chain Intern - UNPAID",
+   "url": "https://www.linkedin.com/jobs/view/4490532273"
   },
   "international:4263545d3220": {
    "company": "International",
@@ -74329,6 +74355,19 @@
    "title": "Production Scheduler/Engineer",
    "url": "https://www.linkedin.com/jobs/view/4464673255"
   },
+  "ls-solutions:22cd9a60d148": {
+   "company": "LS Solutions",
+   "first_seen": "2026-11-15",
+   "location": "Campbellsport, WI, USA",
+   "posted_at": "2026-11-14",
+   "role": "procurement",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "intern",
+   "title": "Commodity Buyer Intern",
+   "url": "https://www.linkedin.com/jobs/view/4491087632"
+  },
   "lsg-sky-chefs:55acfb4bc47b": {
    "company": "LSG Sky Chefs",
    "first_seen": "2026-09-25",
@@ -78952,6 +78991,19 @@
    "tier": "mid",
    "title": "Supply Planner, Reality Labs",
    "url": "https://www.linkedin.com/jobs/view/4418326241"
+  },
+  "meta:a838c02b538a": {
+   "company": "Meta",
+   "first_seen": "2026-11-15",
+   "location": "Menlo Park, CA, USA",
+   "posted_at": "2026-11-15",
+   "role": "procurement",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "intern",
+   "title": "Strategic Sourcing Manager, Intern",
+   "url": "https://www.linkedin.com/jobs/view/4489378836"
   },
   "meta:b5b7f66cde85": {
    "company": "Meta",
@@ -92051,6 +92103,19 @@
    "tier": "intern",
    "title": "Supply Chain Intern",
    "url": "https://www.linkedin.com/jobs/view/4469608273"
+  },
+  "paccar-engine-company:5d0de075a0a3": {
+   "company": "PACCAR Engine Company",
+   "first_seen": "2026-11-15",
+   "location": "Columbus, MS, USA",
+   "posted_at": "2026-11-14",
+   "role": "supply-planning",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "mid",
+   "title": "Materials Planner SG 23",
+   "url": "https://www.linkedin.com/jobs/view/4491048021"
   },
   "paccar-engine-company:f9c2c1050e96": {
    "company": "PACCAR Engine Company",
@@ -130122,6 +130187,19 @@
    "title": "Master Scheduling Supervisor",
    "url": "https://www.linkedin.com/jobs/view/4471606927"
   },
+  "voltedge-pro-systems:0ce7a47d4933": {
+   "company": "VoltEdge Pro Systems",
+   "first_seen": "2026-11-15",
+   "location": "Dallas, TX, USA",
+   "posted_at": "2026-11-15",
+   "role": "program-mgmt",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "intern",
+   "title": "Supply Chain Transformation Internship",
+   "url": "https://www.linkedin.com/jobs/view/4489381864"
+  },
   "voltedge-pro-systems:2483ea12200c": {
    "company": "VoltEdge Pro Systems",
    "first_seen": "2026-10-18",
@@ -138587,7 +138665,7 @@
   },
   "Amazon": {
    "best": 74,
-   "last": 72,
+   "last": 71,
    "last_ok": "2026-11-15"
   },
   "Anduril": {
@@ -138597,7 +138675,7 @@
   },
   "Applied Materials": {
    "best": 470,
-   "last": 455,
+   "last": 454,
    "last_ok": "2026-11-15"
   },
   "Astranis": {
@@ -138612,7 +138690,7 @@
   },
   "Boeing": {
    "best": 330,
-   "last": 326,
+   "last": 325,
    "last_ok": "2026-11-15"
   },
   "CVS Health": {
@@ -138697,7 +138775,7 @@
   },
   "LinkedIn (JobSpy)": {
    "best": 738,
-   "last": 601,
+   "last": 590,
    "last_ok": "2026-11-15"
   },
   "Liquid Death": {
@@ -138707,7 +138785,7 @@
   },
   "Lucid Motors": {
    "best": 480,
-   "last": 477,
+   "last": 480,
    "last_ok": "2026-11-15"
   },
   "Lyft": {
@@ -138732,7 +138810,7 @@
   },
   "Mondelez": {
    "best": 463,
-   "last": 456,
+   "last": 457,
    "last_ok": "2026-11-15"
   },
   "Nike": {
@@ -138757,7 +138835,7 @@
   },
   "OpenAI": {
    "best": 840,
-   "last": 839,
+   "last": 840,
    "last_ok": "2026-11-15"
   },
   "Oura": {
@@ -138802,7 +138880,7 @@
   },
   "Stryker": {
    "best": 421,
-   "last": 404,
+   "last": 405,
    "last_ok": "2026-11-15"
   },
   "Target": {
@@ -138817,7 +138895,7 @@
   },
   "Tyson Foods": {
    "best": 145,
-   "last": 145,
+   "last": 144,
    "last_ok": "2026-11-15"
   },
   "Unilever": {
@@ -138832,7 +138910,7 @@
   },
   "Walmart Global Tech": {
    "best": 268,
-   "last": 244,
+   "last": 242,
    "last_ok": "2026-11-15"
   },
   "Waymo": {
@@ -138846,6 +138924,6 @@
    "last_ok": "2026-11-15"
   }
  },
- "updated": "2026-11-15T10:42:36Z",
+ "updated": "2026-11-15T14:03:19Z",
  "version": 1
 }
