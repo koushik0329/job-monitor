@@ -460,6 +460,19 @@
    "title": "Purchasing Intern Meeting House",
    "url": "https://www.linkedin.com/jobs/view/4471484938"
   },
+  "a-o-smith-corporation:e10d81e87be2": {
+   "company": "A. O. Smith Corporation",
+   "first_seen": "2026-11-16",
+   "location": "Ashland City, TN, USA",
+   "posted_at": "2026-11-14",
+   "role": "supply-planning",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "mid",
+   "title": "Materials Planner",
+   "url": "https://www.linkedin.com/jobs/view/4489879263"
+  },
   "a-ropostale:4ec576b839e4": {
    "checked_at": "2026-10-02",
    "company": "Aéropostale",
@@ -45744,6 +45757,19 @@
    "title": "Supply Chain & Strategic Operations Associate",
    "url": "https://www.linkedin.com/jobs/view/4403473403"
   },
+  "fanatics:3da310786577": {
+   "company": "Fanatics",
+   "first_seen": "2026-11-16",
+   "location": "Sunnyvale, TX, USA",
+   "posted_at": "2026-11-15",
+   "role": "analytics",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "intern",
+   "title": "Summer 2027 Internship - Manufacturing Planning & Analytics Intern",
+   "url": "https://www.linkedin.com/jobs/view/4491256487"
+  },
   "fanatics:b71ce75ceedf": {
    "company": "Fanatics",
    "first_seen": "2026-09-26",
@@ -51876,6 +51902,32 @@
    "tier": "mid",
    "title": "Production Planner",
    "url": "https://www.linkedin.com/jobs/view/4473507359"
+  },
+  "globe-life-liberty-national-division-the-jackson-agencies:9d10a7371633": {
+   "company": "Globe Life Liberty National Division- The Jackson Agencies",
+   "first_seen": "2026-11-16",
+   "location": "McKinney, TX, USA",
+   "posted_at": "2026-11-14",
+   "role": "procurement",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "intern",
+   "title": "Procurement Intern - 2027 Summer Internship",
+   "url": "https://www.linkedin.com/jobs/view/4489883722"
+  },
+  "globe-life:9b68b6cdcfdf": {
+   "company": "Globe Life",
+   "first_seen": "2026-11-16",
+   "location": "McKinney, TX, USA",
+   "posted_at": "2026-11-14",
+   "role": "procurement",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "intern",
+   "title": "Procurement Intern - 2027 Summer Internship",
+   "url": "https://www.linkedin.com/jobs/view/4491098121"
   },
   "globus-medical:16710045dd6e": {
    "checked_at": "2026-10-02",
@@ -58106,6 +58158,19 @@
    "tier": "manager",
    "title": "Parts & Planning Manager",
    "url": "https://www.linkedin.com/jobs/view/4471084733"
+  },
+  "hireready-partners:727d7c156990": {
+   "company": "HireReady Partners",
+   "first_seen": "2026-11-16",
+   "location": "Enoch, UT, USA",
+   "posted_at": "2026-11-14",
+   "role": "supply-planning",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "mid",
+   "title": "Master Scheduler",
+   "url": "https://www.linkedin.com/jobs/view/4489868512"
   },
   "hiresource-solutions:79be7ce3cdf1": {
    "company": "HireSource Solutions",
@@ -138781,279 +138846,279 @@
   "AMD": {
    "best": 600,
    "last": 600,
-   "last_ok": "2026-11-15"
+   "last_ok": "2026-11-16"
   },
   "Abbott": {
    "best": 535,
    "last": 496,
-   "last_ok": "2026-11-15"
+   "last_ok": "2026-11-16"
   },
   "Airbnb": {
    "best": 218,
    "last": 213,
-   "last_ok": "2026-11-15"
+   "last_ok": "2026-11-16"
   },
   "Amazon": {
    "best": 74,
    "last": 71,
-   "last_ok": "2026-11-15"
+   "last_ok": "2026-11-16"
   },
   "Anduril": {
    "best": 2605,
-   "last": 2597,
-   "last_ok": "2026-11-15"
+   "last": 2595,
+   "last_ok": "2026-11-16"
   },
   "Applied Materials": {
    "best": 470,
-   "last": 454,
-   "last_ok": "2026-11-15"
+   "last": 456,
+   "last_ok": "2026-11-16"
   },
   "Astranis": {
    "best": 189,
    "last": 180,
-   "last_ok": "2026-11-15"
+   "last_ok": "2026-11-16"
   },
   "Becton Dickinson": {
    "best": 341,
-   "last": 283,
-   "last_ok": "2026-11-15"
+   "last": 284,
+   "last_ok": "2026-11-16"
   },
   "Boeing": {
    "best": 330,
-   "last": 326,
-   "last_ok": "2026-11-15"
+   "last": 325,
+   "last_ok": "2026-11-16"
   },
   "CVS Health": {
    "best": 356,
    "last": 347,
-   "last_ok": "2026-11-15"
+   "last_ok": "2026-11-16"
   },
   "Carvana": {
    "best": 1843,
-   "last": 1660,
-   "last_ok": "2026-11-15"
+   "last": 1655,
+   "last_ok": "2026-11-16"
   },
   "Coinbase": {
    "best": 286,
    "last": 265,
-   "last_ok": "2026-11-15"
+   "last_ok": "2026-11-16"
   },
   "Databricks": {
    "best": 927,
    "last": 895,
-   "last_ok": "2026-11-15"
+   "last_ok": "2026-11-16"
   },
   "DoorDash": {
    "best": 468,
    "last": 428,
-   "last_ok": "2026-11-15"
+   "last_ok": "2026-11-16"
   },
   "Duolingo": {
    "best": 89,
    "last": 59,
-   "last_ok": "2026-11-15"
+   "last_ok": "2026-11-16"
   },
   "Faire": {
    "best": 82,
    "last": 71,
-   "last_ok": "2026-11-15"
+   "last_ok": "2026-11-16"
   },
   "Flexport": {
    "best": 211,
    "last": 204,
-   "last_ok": "2026-11-15"
+   "last_ok": "2026-11-16"
   },
   "Formlabs": {
    "best": 259,
    "last": 259,
-   "last_ok": "2026-11-15"
+   "last_ok": "2026-11-16"
   },
   "General Mills": {
    "best": 251,
    "last": 238,
-   "last_ok": "2026-11-15"
+   "last_ok": "2026-11-16"
   },
   "Glossier": {
    "best": 29,
    "last": 21,
-   "last_ok": "2026-11-15"
+   "last_ok": "2026-11-16"
   },
   "Google": {
    "best": 205,
    "last": 174,
-   "last_ok": "2026-11-15"
+   "last_ok": "2026-11-16"
   },
   "Gusto": {
    "best": 104,
    "last": 75,
-   "last_ok": "2026-11-15"
+   "last_ok": "2026-11-16"
   },
   "Illumina": {
    "best": 127,
    "last": 118,
-   "last_ok": "2026-11-15"
+   "last_ok": "2026-11-16"
   },
   "Instacart": {
    "best": 131,
    "last": 85,
-   "last_ok": "2026-11-15"
+   "last_ok": "2026-11-16"
   },
   "Land O'Lakes": {
    "best": 138,
    "last": 124,
-   "last_ok": "2026-11-15"
+   "last_ok": "2026-11-16"
   },
   "LinkedIn (JobSpy)": {
    "best": 738,
-   "last": 580,
-   "last_ok": "2026-11-15"
+   "last": 567,
+   "last_ok": "2026-11-16"
   },
   "Liquid Death": {
    "best": 3,
    "last": 1,
-   "last_ok": "2026-11-15"
+   "last_ok": "2026-11-16"
   },
   "Lucid Motors": {
    "best": 480,
    "last": 480,
-   "last_ok": "2026-11-15"
+   "last_ok": "2026-11-16"
   },
   "Lyft": {
    "best": 196,
    "last": 148,
-   "last_ok": "2026-11-15"
+   "last_ok": "2026-11-16"
   },
   "Medtronic": {
    "best": 451,
    "last": 381,
-   "last_ok": "2026-11-15"
+   "last_ok": "2026-11-16"
   },
   "Micron": {
    "best": 323,
    "last": 318,
-   "last_ok": "2026-11-15"
+   "last_ok": "2026-11-16"
   },
   "Misfits Market": {
    "best": 96,
    "last": 67,
-   "last_ok": "2026-11-15"
+   "last_ok": "2026-11-16"
   },
   "Mondelez": {
    "best": 463,
-   "last": 457,
-   "last_ok": "2026-11-15"
+   "last": 455,
+   "last_ok": "2026-11-16"
   },
   "Nike": {
    "best": 182,
    "last": 155,
-   "last_ok": "2026-11-15"
+   "last_ok": "2026-11-16"
   },
   "Nuro": {
    "best": 111,
    "last": 100,
-   "last_ok": "2026-11-15"
+   "last_ok": "2026-11-16"
   },
   "Nvidia": {
    "best": 310,
-   "last": 290,
-   "last_ok": "2026-11-15"
+   "last": 289,
+   "last_ok": "2026-11-16"
   },
   "Olipop": {
    "best": 14,
    "last": 10,
-   "last_ok": "2026-11-15"
+   "last_ok": "2026-11-16"
   },
   "OpenAI": {
    "best": 840,
-   "last": 837,
-   "last_ok": "2026-11-15"
+   "last": 838,
+   "last_ok": "2026-11-16"
   },
   "Oura": {
    "best": 111,
    "last": 93,
-   "last_ok": "2026-11-15"
+   "last_ok": "2026-11-16"
   },
   "Peloton": {
    "best": 61,
    "last": 40,
-   "last_ok": "2026-11-15"
+   "last_ok": "2026-11-16"
   },
   "PepsiCo": {
    "best": 319,
    "last": 206,
-   "last_ok": "2026-11-15"
+   "last_ok": "2026-11-16"
   },
   "Pinterest": {
    "best": 188,
    "last": 163,
-   "last_ok": "2026-11-15"
+   "last_ok": "2026-11-16"
   },
   "Samsara": {
    "best": 340,
-   "last": 318,
-   "last_ok": "2026-11-15"
+   "last": 317,
+   "last_ok": "2026-11-16"
   },
   "Saronic": {
    "best": 274,
    "last": 274,
-   "last_ok": "2026-11-15"
+   "last_ok": "2026-11-16"
   },
   "SpaceX": {
    "best": 2911,
-   "last": 2758,
-   "last_ok": "2026-11-15"
+   "last": 2756,
+   "last_ok": "2026-11-16"
   },
   "Stripe": {
    "best": 787,
    "last": 785,
-   "last_ok": "2026-11-15"
+   "last_ok": "2026-11-16"
   },
   "Stryker": {
    "best": 421,
    "last": 405,
-   "last_ok": "2026-11-15"
+   "last_ok": "2026-11-16"
   },
   "Target": {
    "best": 445,
-   "last": 333,
-   "last_ok": "2026-11-15"
+   "last": 334,
+   "last_ok": "2026-11-16"
   },
   "Thrive Market": {
    "best": 20,
    "last": 20,
-   "last_ok": "2026-11-15"
+   "last_ok": "2026-11-16"
   },
   "Tyson Foods": {
    "best": 145,
    "last": 144,
-   "last_ok": "2026-11-15"
+   "last_ok": "2026-11-16"
   },
   "Unilever": {
    "best": 204,
-   "last": 176,
-   "last_ok": "2026-11-15"
+   "last": 166,
+   "last_ok": "2026-11-16"
   },
   "Verkada": {
    "best": 347,
    "last": 346,
-   "last_ok": "2026-11-15"
+   "last_ok": "2026-11-16"
   },
   "Walmart Global Tech": {
    "best": 268,
    "last": 239,
-   "last_ok": "2026-11-15"
+   "last_ok": "2026-11-16"
   },
   "Waymo": {
    "best": 382,
    "last": 373,
-   "last_ok": "2026-11-15"
+   "last_ok": "2026-11-16"
   },
   "Zebra Technologies": {
    "best": 125,
-   "last": 119,
-   "last_ok": "2026-11-15"
+   "last": 111,
+   "last_ok": "2026-11-16"
   }
  },
- "updated": "2026-11-15T19:51:14Z",
+ "updated": "2026-11-16T00:04:53Z",
  "version": 1
 }
