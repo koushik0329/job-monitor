@@ -1780,6 +1780,7 @@
   },
   "abbott:bb5ccd716b72": {
    "company": "Abbott",
+   "employer_checked": "2026-11-17",
    "first_seen": "2026-11-17",
    "location": "Columbus, OH, USA",
    "posted_at": "2026-11-17",
@@ -5443,7 +5444,7 @@
   },
   "amazon:529c7a90838d": {
    "company": "Amazon",
-   "employer_checked": "2026-11-10",
+   "employer_checked": "2026-11-17",
    "first_seen": "2026-11-02",
    "location": "Austin, TX, USA",
    "posted_at": "2026-10-31",
@@ -5807,7 +5808,7 @@
   },
   "amazon:b6c77a6d43c9": {
    "company": "Amazon",
-   "employer_checked": "2026-11-10",
+   "employer_checked": "2026-11-17",
    "first_seen": "2026-11-02",
    "location": "Nashville, TN, USA",
    "posted_at": "2026-10-31",
@@ -8580,6 +8581,8 @@
   },
   "anduril-industries:b1e5fb35b2f8": {
    "company": "Anduril Industries",
+   "employer_checked": "2026-11-17",
+   "employer_url": "https://boards.greenhouse.io/andurilindustries/jobs/4637455007?gh_jid=4637455007",
    "first_seen": "2026-11-17",
    "location": "Costa Mesa, CA, USA",
    "posted_at": "2026-11-16",
@@ -51565,7 +51568,7 @@
   },
   "general-matter:b69a17e3c720": {
    "company": "General Matter",
-   "employer_checked": "2026-11-10",
+   "employer_checked": "2026-11-17",
    "first_seen": "2026-11-10",
    "location": "Los Angeles Metropolitan Area",
    "posted_at": "2026-11-09",
@@ -78511,6 +78514,8 @@
   },
   "mayo-clinic:9397cc6737ab": {
    "company": "Mayo Clinic",
+   "employer_checked": "2026-11-17",
+   "employer_url": "https://fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/395809",
    "first_seen": "2026-11-17",
    "location": "La Crosse, WI, USA",
    "posted_at": "2026-11-16",
@@ -92314,7 +92319,7 @@
   },
   "oracle:0f60858be8d9": {
    "company": "Oracle",
-   "employer_checked": "2026-11-10",
+   "employer_checked": "2026-11-17",
    "first_seen": "2026-11-02",
    "location": "Nashville, TN, USA",
    "posted_at": "2026-10-31",
@@ -127791,6 +127796,7 @@
   },
   "uline:0500df6977d5": {
    "company": "Uline",
+   "employer_checked": "2026-11-17",
    "first_seen": "2026-11-15",
    "location": "Waukegan, IL, USA",
    "posted_at": "2026-11-13",
@@ -140844,6 +140850,6 @@
    "last_ok": "2026-11-17"
   }
  },
- "updated": "2026-11-17T10:38:32Z",
+ "updated": "2026-11-17T11:43:33Z",
  "version": 1
 }
