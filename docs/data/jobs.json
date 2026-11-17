@@ -13814,7 +13814,7 @@
   },
   "amazon:1f62c8ee0ee1": {
    "company": "Amazon",
-   "employer_checked": "2026-11-10",
+   "employer_checked": "2026-11-17",
    "first_seen": "2026-11-02",
    "location": "Austin, TX, USA",
    "posted_at": "2026-11-02",
@@ -14330,7 +14330,7 @@
   },
   "amazon:2599f98f84fb": {
    "company": "Amazon",
-   "employer_checked": "2026-11-10",
+   "employer_checked": "2026-11-17",
    "first_seen": "2026-11-09",
    "location": "Boston, MA, USA",
    "posted_at": "2026-11-09",
@@ -16225,7 +16225,7 @@
   },
   "amazon:49c882c77be0": {
    "company": "Amazon",
-   "employer_checked": "2026-11-10",
+   "employer_checked": "2026-11-17",
    "first_seen": "2026-11-10",
    "location": "Arlington, VA, USA",
    "posted_at": "2026-11-10",
@@ -16748,7 +16748,7 @@
   },
   "amazon:50976b332f78": {
    "company": "Amazon",
-   "employer_checked": "2026-11-10",
+   "employer_checked": "2026-11-17",
    "first_seen": "2026-11-10",
    "location": "Boston, MA, USA",
    "posted_at": "2026-11-10",
@@ -22590,7 +22590,7 @@
   },
   "amazon:a57f9033f87d": {
    "company": "Amazon",
-   "employer_checked": "2026-11-10",
+   "employer_checked": "2026-11-17",
    "first_seen": "2026-11-03",
    "location": "Seattle, WA, USA",
    "posted_at": "2026-11-03",
@@ -30907,6 +30907,8 @@
   },
   "amentum:2cff4b592ced": {
    "company": "Amentum",
+   "employer_checked": "2026-11-17",
+   "employer_url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Richmond/Fabric-Data-Engineer---Data-Security---DevOps-Focus_R0173798",
    "first_seen": "2026-11-16",
    "location": "Richmond, VA, USA",
    "posted_at": "2026-11-13",
@@ -99064,7 +99066,7 @@
   },
   "cisco:3851deedcdb4": {
    "company": "Cisco",
-   "employer_checked": "2026-11-10",
+   "employer_checked": "2026-11-17",
    "first_seen": "2026-11-03",
    "location": "Seattle, WA, USA",
    "posted_at": "2026-11-02",
@@ -105099,6 +105101,8 @@
   },
   "collins-aerospace:295618f793ff": {
    "company": "Collins Aerospace",
+   "employer_checked": "2026-11-17",
+   "employer_url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-E04--2006-E-El-Segundo-Blvd--BLDG-E04/XMLNAME-2027-Summer-Intern---Software-Engineering---Onsite_01885225",
    "first_seen": "2026-11-17",
    "location": "El Segundo, CA, USA",
    "posted_at": "2026-11-16",
@@ -131596,7 +131600,7 @@
   },
   "expedia-group:69bff6e1cfac": {
    "company": "Expedia Group",
-   "employer_checked": "2026-11-10",
+   "employer_checked": "2026-11-17",
    "first_seen": "2026-11-02",
    "location": "Seattle, WA, USA",
    "posted_at": "2026-10-31",
@@ -134291,6 +134295,7 @@
   },
   "fidelity-investments:b8856a1fdc08": {
    "company": "Fidelity Investments",
+   "employer_checked": "2026-11-17",
    "first_seen": "2026-11-16",
    "location": "Merrimack, NH, USA",
    "posted_at": "2026-11-13",
@@ -188003,7 +188008,7 @@
   },
   "kyndryl:2eba34567200": {
    "company": "Kyndryl",
-   "employer_checked": "2026-11-10",
+   "employer_checked": "2026-11-17",
    "first_seen": "2026-11-04",
    "location": "Phoenix, AZ, USA",
    "posted_at": "2026-11-04",
@@ -192272,6 +192277,8 @@
   },
   "linkedin:7bd8e275058b": {
    "company": "LinkedIn",
+   "employer_checked": "2026-11-17",
+   "employer_url": "https://jobs.smartrecruiters.com/LinkedIn3/744000161930950",
    "first_seen": "2026-11-17",
    "location": "Mountain View, CA, USA",
    "posted_at": "2026-11-16",
@@ -196007,6 +196014,7 @@
   },
   "mantech:0a6c744d6fa3": {
    "company": "MANTECH",
+   "employer_url": "https://mantech.avature.net/en_US/careers/JobDetail/67115",
    "first_seen": "2026-09-29",
    "location": "Montgomery, AL",
    "posted_at": "2026-09-28",
@@ -196046,6 +196054,7 @@
   },
   "mantech:1811f2a37371": {
    "company": "MANTECH",
+   "employer_url": "https://mantech.avature.net/en_US/careers/JobDetail/67115",
    "first_seen": "2026-10-10",
    "location": "Miami, FL, USA",
    "posted_at": "2026-10-10",
@@ -196099,6 +196108,7 @@
   },
   "mantech:63d6caeb3f1b": {
    "company": "MANTECH",
+   "employer_url": "https://mantech.avature.net/en_US/careers/JobDetail/67115",
    "first_seen": "2026-10-07",
    "location": "Saint Inigoes, MD",
    "posted_at": "2026-10-07",
@@ -207463,7 +207473,7 @@
   },
   "motorola-solutions:bf6c9e368033": {
    "company": "Motorola Solutions",
-   "employer_checked": "2026-11-10",
+   "employer_checked": "2026-11-17",
    "first_seen": "2026-11-03",
    "location": "Virginia, USA",
    "posted_at": "2026-11-02",
@@ -229985,7 +229995,7 @@
   },
   "pace-llc:6521aceb6cd8": {
    "company": "PACE LLC",
-   "employer_checked": "2026-11-10",
+   "employer_checked": "2026-11-17",
    "first_seen": "2026-11-03",
    "location": "Richmond, VA, USA",
    "posted_at": "2026-11-02",
@@ -232890,7 +232900,7 @@
   },
   "paretohealth:24da201b2de9": {
    "company": "ParetoHealth",
-   "employer_checked": "2026-11-10",
+   "employer_checked": "2026-11-17",
    "first_seen": "2026-11-02",
    "location": "Greater Philadelphia",
    "posted_at": "2026-11-02",
@@ -236809,7 +236819,7 @@
   },
   "persona-ai:a3550acf790d": {
    "company": "Persona AI",
-   "employer_checked": "2026-11-10",
+   "employer_checked": "2026-11-17",
    "first_seen": "2026-11-10",
    "location": "Greater Houston",
    "posted_at": "2026-11-10",
@@ -245897,6 +245907,7 @@
   },
   "raytheon:af241bca6526": {
    "company": "Raytheon",
+   "employer_checked": "2026-11-17",
    "first_seen": "2026-11-15",
    "location": "Marlborough, MA, USA",
    "posted_at": "2026-11-13",
@@ -282776,6 +282787,7 @@
   },
   "stripe:b606e8e7d9ce": {
    "company": "Stripe",
+   "employer_checked": "2026-11-17",
    "first_seen": "2026-11-16",
    "location": "New York, NY, USA",
    "posted_at": "2026-11-16",
@@ -288358,7 +288370,7 @@
   },
   "target:345f995ed235": {
    "company": "Target",
-   "employer_checked": "2026-11-10",
+   "employer_checked": "2026-11-17",
    "first_seen": "2026-11-02",
    "location": "Brooklyn Park, MN, USA",
    "posted_at": "2026-10-30",
@@ -312981,7 +312993,7 @@
   },
   "vertiv:a48a6f53b346": {
    "company": "Vertiv",
-   "employer_checked": "2026-11-10",
+   "employer_checked": "2026-11-17",
    "first_seen": "2026-11-02",
    "location": "Westerville, OH, USA",
    "posted_at": "2026-10-31",
@@ -317953,7 +317965,8 @@
   },
   "walmart:15e1fe69c48c": {
    "company": "Walmart",
-   "employer_checked": "2026-11-10",
+   "employer_checked": "2026-11-17",
+   "employer_url": "https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/Bentonville-AR/XMLNAME--USA--Software-Engineer-III_R-2488987",
    "first_seen": "2026-11-02",
    "location": "Bentonville, AR, USA",
    "posted_at": "2026-10-31",
@@ -321189,7 +321202,7 @@
   },
   "wex:122ebb16a5f1": {
    "company": "WEX",
-   "employer_checked": "2026-11-10",
+   "employer_checked": "2026-11-17",
    "first_seen": "2026-11-10",
    "location": "Maine, USA",
    "posted_at": "2026-11-09",
@@ -326245,7 +326258,7 @@
   },
   "zebra-technologies:29db0ddd4c36": {
    "company": "Zebra Technologies",
-   "employer_checked": "2026-11-10",
+   "employer_checked": "2026-11-17",
    "first_seen": "2026-11-03",
    "location": "Holtsville, NY, USA",
    "posted_at": "2026-11-02",
@@ -326331,7 +326344,7 @@
   },
   "zebra-technologies:9f3a549ef5c0": {
    "company": "Zebra Technologies",
-   "employer_checked": "2026-11-10",
+   "employer_checked": "2026-11-17",
    "first_seen": "2026-11-03",
    "location": "Holtsville, NY, USA",
    "posted_at": "2026-11-02",
@@ -328148,6 +328161,6 @@
    "last_ok": "2026-11-17"
   }
  },
- "updated": "2026-11-17T05:13:46Z",
+ "updated": "2026-11-17T11:46:00Z",
  "version": 1
 }
