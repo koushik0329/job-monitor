@@ -30389,6 +30389,19 @@
    "title": "Buyer/Planner",
    "url": "https://www.linkedin.com/jobs/view/4473946307"
   },
+  "caterpillar-inc:0970b8df6bda": {
+   "company": "Caterpillar Inc.",
+   "first_seen": "2026-11-18",
+   "location": "Franklin, IN, USA",
+   "posted_at": "2026-11-18",
+   "role": "analytics",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "mid",
+   "title": "Supply Chain Analytics Analyst",
+   "url": "https://www.linkedin.com/jobs/view/4492011387"
+  },
   "caterpillar-inc:0e2f513489b7": {
    "company": "Caterpillar Inc.",
    "first_seen": "2026-09-25",
@@ -53525,6 +53538,17 @@
    "title": "Global Commodity Manager, Hard Disk Drives, Tape Storage",
    "url": "https://www.google.com/about/careers/applications/jobs/results/122236693712380614-global-commodity-manager-hard-disk-drives-tape-storage"
   },
+  "google:080bb99d4261": {
+   "company": "Google",
+   "first_seen": "2026-11-18",
+   "location": "Midlothian, TX, USA; Fairburn, GA, USA; +4 more; +3 more",
+   "role": "logistics",
+   "source": "google careers",
+   "status": "new",
+   "tier": "manager",
+   "title": "Logistics Operations Manager, Deployments",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/76414295369228998-logistics-operations-manager-deployments"
+  },
   "google:0885edd2ed3b": {
    "company": "Google",
    "first_seen": "2026-09-08",
@@ -53579,6 +53603,17 @@
    "tier": "manager",
    "title": "Program Manager III, NPI, Cloud Supply Chain",
    "url": "https://www.google.com/about/careers/applications/jobs/results/115464577453302470-program-manager-iii-npi-cloud-supply-chain"
+  },
+  "google:0d23f020961b": {
+   "company": "Google",
+   "first_seen": "2026-11-18",
+   "location": "Sunnyvale, CA, USA",
+   "role": "procurement",
+   "source": "google careers",
+   "status": "new",
+   "tier": "mid",
+   "title": "Senior Technology Sourcing and Procurement Specialist III",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/91083429751202502-senior-technology-sourcing-and-procurement-specialist-iii"
   },
   "google:0d2c5834a537": {
    "company": "Google",
@@ -53998,6 +54033,17 @@
    "title": "Senior Staff Business Systems Analyst, Supply Chain Business Systems",
    "url": "https://www.google.com/about/careers/applications/jobs/results/78127071686992582-senior-staff-business-systems-analyst-supply-chain-business-systems"
   },
+  "google:3c84d9f30fb7": {
+   "company": "Google",
+   "first_seen": "2026-11-18",
+   "location": "West Memphis, AR, USA",
+   "role": "logistics",
+   "source": "google careers",
+   "status": "new",
+   "tier": "manager",
+   "title": "Logistics Operations Manager",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/135229096484315846-logistics-operations-manager"
+  },
   "google:3dc3b494bb92": {
    "company": "Google",
    "first_seen": "2026-11-12",
@@ -54295,6 +54341,17 @@
    "title": "Product Planning and Strategy Lead, Pixel Foldables and A-Series",
    "url": "https://www.google.com/about/careers/applications/jobs/results/125042843075912390-product-planning-and-strategy-lead-pixel-foldables-and-aseries"
   },
+  "google:638115f6e4b3": {
+   "company": "Google",
+   "first_seen": "2026-11-18",
+   "location": "Chicago, IL, USA; Sunnyvale, CA, USA",
+   "role": "procurement",
+   "source": "google careers",
+   "status": "new",
+   "tier": "manager",
+   "title": "Category Manager, Technical Professional Services, Google Procurement",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/96672247355187910-category-manager-technical-professional-services-google-procurement"
+  },
   "google:63ef13e4dca3": {
    "company": "Google",
    "first_seen": "2026-09-16",
@@ -54360,6 +54417,17 @@
    "tier": "mid",
    "title": "Staff Supplier Development Engineer",
    "url": "https://www.google.com/about/careers/applications/jobs/results/109414363323867846-staff-supplier-development-engineer"
+  },
+  "google:6e41e239763d": {
+   "company": "Google",
+   "first_seen": "2026-11-18",
+   "location": "Sunnyvale, CA, USA",
+   "role": "supply-chain",
+   "source": "google careers",
+   "status": "new",
+   "tier": "manager",
+   "title": "Integrated Planning Execution Lead, Integrated Infrastructure Planning",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/121951668945199814-integrated-planning-execution-lead-integrated-infrastructure-planning"
   },
   "google:6e6ef4fcee9b": {
    "company": "Google",
@@ -54514,6 +54582,17 @@
    "tier": "manager",
    "title": "Data Center Logistics Operations Manager, Google Cloud",
    "url": "https://www.google.com/about/careers/applications/jobs/results/111954810709648070-data-center-logistics-operations-manager-google-cloud"
+  },
+  "google:78e4e7f2462e": {
+   "company": "Google",
+   "first_seen": "2026-11-18",
+   "location": "Kirkland, WA, USA; Mountain View, CA, USA; +3 more; +2 more",
+   "role": "supply-chain",
+   "source": "google careers",
+   "status": "new",
+   "tier": "mid",
+   "title": "Data Center Supply Portfolio Planning, Strategic Operations and Communications",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/132616588137243334-data-center-supply-portfolio-planning-strategic-operations-and-communications"
   },
   "google:7947f8fe07ba": {
    "company": "Google",
@@ -54701,6 +54780,17 @@
    "tier": "manager",
    "title": "Program Manager II, Automation Equipment Category Management, Cloud Supply Chain",
    "url": "https://www.google.com/about/careers/applications/jobs/results/103309323936899782-program-manager-ii-automation-equipment-category-management-cloud-supply-chain"
+  },
+  "google:962180d7eadb": {
+   "company": "Google",
+   "first_seen": "2026-11-18",
+   "location": "Mountain View, CA, USA",
+   "role": "program-mgmt",
+   "source": "google careers",
+   "status": "new",
+   "tier": "manager",
+   "title": "Technical Program Manager II, Compute Resource Planning, Google Research",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/141754972873073350-technical-program-manager-ii-compute-resource-planning-google-research"
   },
   "google:97814eb491c8": {
    "company": "Google",
@@ -60580,6 +60670,19 @@
    "tier": "mid",
    "title": "Senior Production Planner",
    "url": "https://www.linkedin.com/jobs/view/4468309775"
+  },
+  "honeywell-aerospace:dc238b3e06be": {
+   "company": "Honeywell Aerospace",
+   "first_seen": "2026-11-18",
+   "location": "Rocky Mount, NC, USA",
+   "posted_at": "2026-11-18",
+   "role": "supply-planning",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "entry",
+   "title": "Production Planner I",
+   "url": "https://www.linkedin.com/jobs/view/4490825871"
   },
   "honeywell-aerospace:efb92b134394": {
    "company": "Honeywell Aerospace",
@@ -86675,6 +86778,19 @@
    "tier": "manager",
    "title": "Demand Planning Lead, Nefab Packaging - Americas",
    "url": "https://www.linkedin.com/jobs/view/4471840486"
+  },
+  "neogen-corporation:2030b4d309aa": {
+   "company": "Neogen Corporation",
+   "first_seen": "2026-11-18",
+   "location": "Lexington, KY, USA",
+   "posted_at": "2026-11-17",
+   "role": "supply-planning",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "mid",
+   "title": "Production Planner",
+   "url": "https://www.linkedin.com/jobs/view/4491444110"
   },
   "neogen-corporation:a3b88b524656": {
    "company": "Neogen Corporation",
@@ -142168,23 +142284,23 @@
   },
   "Airbnb": {
    "best": 218,
-   "last": 200,
+   "last": 199,
    "last_ok": "2026-11-18"
   },
   "Amazon": {
    "best": 74,
-   "last": 68,
+   "last": 67,
    "last_ok": "2026-11-18"
   },
   "Anduril": {
    "best": 2614,
-   "last": 2612,
+   "last": 2613,
    "last_ok": "2026-11-18"
   },
   "Applied Materials": {
    "best": 470,
-   "last": 0,
-   "last_ok": "2026-11-16"
+   "last": 100,
+   "last_ok": "2026-11-18"
   },
   "Astranis": {
    "best": 189,
@@ -142198,8 +142314,8 @@
   },
   "Boeing": {
    "best": 330,
-   "last": 0,
-   "last_ok": "2026-11-16"
+   "last": 2,
+   "last_ok": "2026-11-18"
   },
   "CVS Health": {
    "best": 356,
@@ -142213,12 +142329,12 @@
   },
   "Coinbase": {
    "best": 286,
-   "last": 257,
+   "last": 255,
    "last_ok": "2026-11-18"
   },
   "Databricks": {
    "best": 927,
-   "last": 901,
+   "last": 897,
    "last_ok": "2026-11-18"
   },
   "DoorDash": {
@@ -142258,12 +142374,12 @@
   },
   "Google": {
    "best": 205,
-   "last": 170,
+   "last": 172,
    "last_ok": "2026-11-18"
   },
   "Gusto": {
    "best": 104,
-   "last": 79,
+   "last": 78,
    "last_ok": "2026-11-18"
   },
   "Illumina": {
@@ -142278,12 +142394,12 @@
   },
   "Land O'Lakes": {
    "best": 138,
-   "last": 0,
-   "last_ok": "2026-11-16"
+   "last": 3,
+   "last_ok": "2026-11-18"
   },
   "LinkedIn (JobSpy)": {
    "best": 738,
-   "last": 385,
+   "last": 99,
    "last_ok": "2026-11-18"
   },
   "Liquid Death": {
@@ -142293,7 +142409,7 @@
   },
   "Lucid Motors": {
    "best": 491,
-   "last": 482,
+   "last": 485,
    "last_ok": "2026-11-18"
   },
   "Lyft": {
@@ -142348,7 +142464,7 @@
   },
   "Oura": {
    "best": 111,
-   "last": 95,
+   "last": 96,
    "last_ok": "2026-11-18"
   },
   "Peloton": {
@@ -142358,32 +142474,32 @@
   },
   "PepsiCo": {
    "best": 319,
-   "last": 200,
+   "last": 198,
    "last_ok": "2026-11-18"
   },
   "Pinterest": {
    "best": 188,
-   "last": 174,
+   "last": 175,
    "last_ok": "2026-11-18"
   },
   "Samsara": {
    "best": 340,
-   "last": 312,
+   "last": 313,
    "last_ok": "2026-11-18"
   },
   "Saronic": {
    "best": 279,
-   "last": 279,
+   "last": 276,
    "last_ok": "2026-11-18"
   },
   "SpaceX": {
    "best": 2911,
-   "last": 2793,
+   "last": 2791,
    "last_ok": "2026-11-18"
   },
   "Stripe": {
    "best": 793,
-   "last": 789,
+   "last": 788,
    "last_ok": "2026-11-18"
   },
   "Stryker": {
@@ -142408,30 +142524,30 @@
   },
   "Unilever": {
    "best": 204,
-   "last": 82,
+   "last": 0,
    "last_ok": "2026-11-18"
   },
   "Verkada": {
    "best": 347,
-   "last": 346,
+   "last": 345,
    "last_ok": "2026-11-18"
   },
   "Walmart Global Tech": {
    "best": 268,
-   "last": 190,
+   "last": 241,
    "last_ok": "2026-11-18"
   },
   "Waymo": {
    "best": 382,
-   "last": 375,
+   "last": 374,
    "last_ok": "2026-11-18"
   },
   "Zebra Technologies": {
    "best": 125,
-   "last": 5,
+   "last": 113,
    "last_ok": "2026-11-18"
   }
  },
- "updated": "2026-11-18T11:33:59Z",
+ "updated": "2026-11-18T12:59:45Z",
  "version": 1
 }
