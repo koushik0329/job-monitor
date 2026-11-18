@@ -5410,6 +5410,7 @@
   },
   "amazon:24c5c3d61f7e": {
    "company": "Amazon",
+   "employer_checked": "2026-11-18",
    "first_seen": "2026-11-17",
    "location": "Bellevue, WA, USA",
    "posted_at": "2026-11-17",
@@ -6091,7 +6092,7 @@
   },
   "amazon:ff0f471313ef": {
    "company": "Amazon",
-   "employer_checked": "2026-11-11",
+   "employer_checked": "2026-11-18",
    "first_seen": "2026-11-10",
    "location": "Seattle, WA, USA",
    "posted_at": "2026-11-10",
@@ -31393,7 +31394,7 @@
   },
   "cesiumastro:05a370bbd623": {
    "company": "CesiumAstro",
-   "employer_checked": "2026-11-11",
+   "employer_checked": "2026-11-18",
    "first_seen": "2026-10-23",
    "location": "Denver Metropolitan Area",
    "posted_at": "2026-10-23",
@@ -37101,7 +37102,7 @@
   },
   "cummins-inc:994f0578449c": {
    "company": "Cummins Inc.",
-   "employer_checked": "2026-11-11",
+   "employer_checked": "2026-11-18",
    "first_seen": "2026-10-21",
    "location": "Columbus, IN, USA",
    "posted_at": "2026-10-21",
@@ -40046,7 +40047,7 @@
   },
   "dell-technologies:a6138bcf7d7e": {
    "company": "Dell Technologies",
-   "employer_checked": "2026-11-11",
+   "employer_checked": "2026-11-18",
    "first_seen": "2026-10-25",
    "location": "Austin, TX, USA",
    "posted_at": "2026-10-25",
@@ -44473,7 +44474,7 @@
   },
   "emerson:53abf67225c4": {
    "company": "Emerson",
-   "employer_checked": "2026-11-11",
+   "employer_checked": "2026-11-18",
    "first_seen": "2026-10-27",
    "location": "Austin, TX, USA",
    "posted_at": "2026-10-26",
@@ -50944,6 +50945,8 @@
   },
   "ge-aerospace:163b19a72c81": {
    "company": "GE Aerospace",
+   "employer_checked": "2026-11-18",
+   "employer_url": "https://geaerospace.wd5.myworkdayjobs.com/en-US/ge_externalsite/job/Remote/CFM56-Spares-Fulfillment-Leader_R5043282-1",
    "first_seen": "2026-11-18",
    "location": "Boston, MA, USA",
    "posted_at": "2026-11-17",
@@ -52146,7 +52149,7 @@
   },
   "general-matter:8d7a0a7accd5": {
    "company": "General Matter",
-   "employer_checked": "2026-11-11",
+   "employer_checked": "2026-11-18",
    "first_seen": "2026-11-04",
    "location": "Los Angeles Metropolitan Area",
    "posted_at": "2026-11-04",
@@ -60005,7 +60008,7 @@
   },
   "hmh:4907883f545d": {
    "company": "HMH",
-   "employer_checked": "2026-11-11",
+   "employer_checked": "2026-11-18",
    "first_seen": "2026-10-21",
    "location": "Houston, TX, USA",
    "posted_at": "2026-10-21",
@@ -68306,6 +68309,8 @@
   },
   "k2-space-corporation:f725e7d4fece": {
    "company": "K2 Space Corporation",
+   "employer_checked": "2026-11-18",
+   "employer_url": "https://job-boards.greenhouse.io/k2spacecorporation/jobs/5436468008",
    "first_seen": "2026-11-17",
    "location": "Los Angeles, CA, USA",
    "posted_at": "2026-11-17",
@@ -75702,6 +75707,8 @@
   },
   "loft-orbital:7465f2194a8f": {
    "company": "Loft Orbital",
+   "employer_checked": "2026-11-18",
+   "employer_url": "https://jobs.lever.co/loftorbital/20d324ad-2594-4363-ba85-8ced8a1ac190",
    "first_seen": "2026-11-17",
    "location": "Golden, CO, USA",
    "posted_at": "2026-11-17",
@@ -78212,6 +78219,8 @@
   },
   "marathon-petroleum-corporation:1b98d7e83e48": {
    "company": "Marathon Petroleum Corporation",
+   "employer_checked": "2026-11-18",
+   "employer_url": "https://mpc.wd1.myworkdayjobs.com/en-US/MPCCareers/job/San-Antonio-Texas/Supply-Chain-Category-Analyst_00025368",
    "first_seen": "2026-11-18",
    "location": "San Antonio, TX, USA",
    "posted_at": "2026-11-17",
@@ -78393,6 +78402,8 @@
   },
   "marathon-petroleum-corporation:dbf7a61a5d9b": {
    "company": "Marathon Petroleum Corporation",
+   "employer_checked": "2026-11-18",
+   "employer_url": "https://mpc.wd1.myworkdayjobs.com/en-US/MPCCareers/job/San-Antonio-Texas/Supply-Chain-Category-Analyst_00025368",
    "first_seen": "2026-11-18",
    "location": "Findlay, OH, USA",
    "posted_at": "2026-11-17",
@@ -95701,7 +95712,7 @@
   },
   "parsons-corporation:3c19665820d2": {
    "company": "Parsons Corporation",
-   "employer_checked": "2026-11-11",
+   "employer_checked": "2026-11-18",
    "first_seen": "2026-10-21",
    "location": "Arlington, VA, USA",
    "posted_at": "2026-10-21",
@@ -137731,7 +137742,7 @@
   },
   "walmart:4c2f9facabd1": {
    "company": "Walmart",
-   "employer_checked": "2026-11-11",
+   "employer_checked": "2026-11-18",
    "first_seen": "2026-10-27",
    "location": "Bentonville, AR, USA",
    "posted_at": "2026-10-26",
@@ -139512,7 +139523,7 @@
   },
   "whoop:48f2706f7bef": {
    "company": "WHOOP",
-   "employer_checked": "2026-11-11",
+   "employer_checked": "2026-11-18",
    "first_seen": "2026-10-19",
    "location": "Boston, MA, USA",
    "posted_at": "2026-10-19",
@@ -142421,6 +142432,6 @@
    "last_ok": "2026-11-18"
   }
  },
- "updated": "2026-11-18T03:42:57Z",
+ "updated": "2026-11-18T11:33:59Z",
  "version": 1
 }
