@@ -5386,6 +5386,21 @@
    "title": "Senior S&OP Planner, AWS S&OP Team",
    "url": "https://www.linkedin.com/jobs/view/4463340628"
   },
+  "amazon:05501891d688": {
+   "company": "Amazon",
+   "department": "Software Development",
+   "employment_type": "Full-time",
+   "first_seen": "2026-11-19",
+   "location": "Seattle, Washington, USA",
+   "posted_at": "2026-11-19",
+   "role": "demand-planning",
+   "source": "amazon.jobs",
+   "status": "new",
+   "tier": "mid",
+   "title": "Senior Software Development Engineer (Tech L), DSO (Demand Science Optimization)",
+   "url": "https://www.amazon.jobs/en/jobs/10609407/senior-software-development-engineer-tech-l-dso-demand-science-optimization",
+   "yoe": 7
+  },
   "amazon:1d79c8d7e1b0": {
    "company": "Amazon",
    "department": "Software Development",
@@ -5571,6 +5586,21 @@
    "tier": "mid",
    "title": "Inventory Planner, WFM Culinary Bakery and Prepared Foods",
    "url": "https://www.linkedin.com/jobs/view/4459072405"
+  },
+  "amazon:4d09412c15ef": {
+   "company": "Amazon",
+   "department": "Software Development",
+   "employment_type": "Full-time",
+   "first_seen": "2026-11-19",
+   "location": "Seattle, Washington, USA",
+   "posted_at": "2026-11-19",
+   "role": "supply-chain",
+   "source": "amazon.jobs",
+   "status": "new",
+   "tier": "manager",
+   "title": "Manager, Software Development, Supply Chain Intelligence Team, Amazon Private Brands",
+   "url": "https://www.amazon.jobs/en/jobs/10608263/manager-software-development-supply-chain-intelligence-team-amazon-private-brands",
+   "yoe": 3
   },
   "amazon:529c7a90838d": {
    "company": "Amazon",
@@ -11556,6 +11586,18 @@
    "title": "Logistics Analyst",
    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5230788007?gh_jid=5230788007"
   },
+  "anduril:d2177fc27187": {
+   "company": "Anduril",
+   "first_seen": "2026-11-19",
+   "location": "Waltham, Massachusetts, United States",
+   "posted_at": "2026-11-19",
+   "role": "procurement",
+   "source": "greenhouse",
+   "status": "new",
+   "tier": "mid",
+   "title": "Senior Buyer",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5301814007?gh_jid=5301814007"
+  },
   "anduril:d2de2b5eeb7e": {
    "company": "Anduril",
    "first_seen": "2026-11-13",
@@ -11591,6 +11633,18 @@
    "tier": "mid",
    "title": "Strategic Supply Chain, Industrial Base Operations",
    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5225835007?gh_jid=5225835007"
+  },
+  "anduril:d5274777df47": {
+   "company": "Anduril",
+   "first_seen": "2026-11-19",
+   "location": "Atlanta, Georgia, United States",
+   "posted_at": "2026-11-19",
+   "role": "procurement",
+   "source": "greenhouse",
+   "status": "new",
+   "tier": "mid",
+   "title": "Buyer - Altius 600",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5302018007?gh_jid=5302018007"
   },
   "anduril:d53580d5c3a2": {
    "company": "Anduril",
@@ -29872,6 +29926,18 @@
    "title": "Logistics Associate",
    "url": "https://www.carvana.com/careers/apply?gh_jid=8088892"
   },
+  "carvana:a58cfa5897a8": {
+   "company": "Carvana",
+   "first_seen": "2026-11-19",
+   "location": "University Park, IL",
+   "posted_at": "2026-11-19",
+   "role": "logistics",
+   "source": "greenhouse",
+   "status": "new",
+   "tier": "manager",
+   "title": "Logistics Manager",
+   "url": "https://www.carvana.com/careers/apply?gh_jid=8402778"
+  },
   "carvana:a62d95d9d7b2": {
    "company": "Carvana",
    "first_seen": "2026-09-10",
@@ -42166,6 +42232,18 @@
    "title": "Associate Manager, Dasher & Logistics ",
    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8224694"
   },
+  "doordash:b072e1153b30": {
+   "company": "DoorDash",
+   "first_seen": "2026-11-19",
+   "location": "New York City, NY; San Francisco, CA; Los Angeles, CA; Chicago, IL; Seattle, WA",
+   "posted_at": "2026-11-19",
+   "role": "logistics",
+   "source": "greenhouse",
+   "status": "new",
+   "tier": "manager",
+   "title": "Senior Manager, Dasher & Logistics Strategy & Operations",
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8402171"
+  },
   "doordash:b53011dda278": {
    "company": "DoorDash",
    "first_seen": "2026-10-12",
@@ -46283,6 +46361,19 @@
    "tier": "mid",
    "title": "Production Scheduler",
    "url": "https://www.linkedin.com/jobs/view/4470878781"
+  },
+  "essity:bc8d8f93a1f1": {
+   "company": "Essity",
+   "first_seen": "2026-11-19",
+   "location": "Philadelphia, PA, USA",
+   "posted_at": "2026-11-19",
+   "role": "logistics",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "mid",
+   "title": "E-commerce Logistics Operations Analyst",
+   "url": "https://www.linkedin.com/jobs/view/4491642263"
   },
   "essity:c57a8feeed1e": {
    "company": "Essity",
@@ -51162,6 +51253,19 @@
    "tier": "intern",
    "title": "Procurement Intern",
    "url": "https://www.linkedin.com/jobs/view/4476047424"
+  },
+  "galderma:0228ee69746c": {
+   "company": "Galderma",
+   "first_seen": "2026-11-19",
+   "location": "Miami-Dade County, FL, USA",
+   "posted_at": "2026-11-19",
+   "role": "demand-planning",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "mid",
+   "title": "Senior Demand Planner, Consumer",
+   "url": "https://www.linkedin.com/jobs/view/4492439956"
   },
   "galderma:64a03ad9c9b1": {
    "company": "Galderma",
@@ -59150,6 +59254,19 @@
    "title": "Sr. Business Systems Analyst - Supply Chain Planning",
    "url": "https://www.linkedin.com/jobs/view/4434389104"
   },
+  "helen-of-troy:20cda50223eb": {
+   "company": "Helen of Troy",
+   "first_seen": "2026-11-19",
+   "location": "Marlborough, MA, USA",
+   "posted_at": "2026-11-19",
+   "role": "supply-planning",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "mid",
+   "title": "Supply Planner",
+   "url": "https://www.linkedin.com/jobs/view/4492508465"
+  },
   "helen-of-troy:34f8571dff0c": {
    "company": "Helen of Troy",
    "first_seen": "2026-09-26",
@@ -61251,6 +61368,19 @@
    "tier": "entry",
    "title": "Production Planner I",
    "url": "https://www.linkedin.com/jobs/view/4490825871"
+  },
+  "honeywell-aerospace:df3293bf28a6": {
+   "company": "Honeywell Aerospace",
+   "first_seen": "2026-11-19",
+   "location": "South Bend, IN, USA",
+   "posted_at": "2026-11-19",
+   "role": "supply-planning",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "entry",
+   "title": "Production Planner I",
+   "url": "https://www.linkedin.com/jobs/view/4492711645"
   },
   "honeywell-aerospace:efb92b134394": {
    "company": "Honeywell Aerospace",
@@ -70082,6 +70212,19 @@
    "tier": "mid",
    "title": "Senior Supply Chain Analyst",
    "url": "https://www.linkedin.com/jobs/view/4488010620"
+  },
+  "kgs-technology-group-inc:0507fb52df2b": {
+   "company": "KGS Technology Group, Inc",
+   "first_seen": "2026-11-19",
+   "location": "Massachusetts, USA",
+   "posted_at": "2026-11-19",
+   "role": "supply-chain",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "mid",
+   "title": "Supply Chain Analyst",
+   "url": "https://www.linkedin.com/jobs/view/4492500614"
   },
   "kgs-technology-group-inc:8c643ac48219": {
    "company": "KGS Technology Group, Inc",
@@ -86813,6 +86956,19 @@
    "title": "Senior Supply Chain Analyst",
    "url": "https://www.linkedin.com/jobs/view/4475700233"
   },
+  "murray-resources-best-staffing-agency:f03a1ff9c0d0": {
+   "company": "Murray Resources - Best Staffing Agency",
+   "first_seen": "2026-11-19",
+   "location": "The Woodlands, TX, USA",
+   "posted_at": "2026-11-19",
+   "role": "analytics",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "mid",
+   "title": "Sr Data Analyst, Supply Chain",
+   "url": "https://www.linkedin.com/jobs/view/4492151953"
+  },
   "murrelektronik-north-america:e927195ba2d2": {
    "company": "Murrelektronik North America",
    "first_seen": "2026-10-08",
@@ -89778,6 +89934,19 @@
    "tier": "mid",
    "title": "Supply Chain Planner",
    "url": "https://www.linkedin.com/jobs/view/4481290504"
+  },
+  "norsk-hydro:deb9ef849285": {
+   "company": "Norsk Hydro",
+   "first_seen": "2026-11-19",
+   "location": "Phoenix, AZ, USA",
+   "posted_at": "2026-11-19",
+   "role": "supply-planning",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "mid",
+   "title": "Production Planner",
+   "url": "https://www.linkedin.com/jobs/view/4492474976"
   },
   "nortek-data-center-cooling:12bb01ca0c12": {
    "company": "Nortek Data Center Cooling",
@@ -99212,6 +99381,19 @@
    "title": "Production Scheduler",
    "url": "https://www.linkedin.com/jobs/view/4459852119"
   },
+  "pocket-yc-w26:deca017d5635": {
+   "company": "Pocket (YC W26)",
+   "first_seen": "2026-11-19",
+   "location": "San Francisco, CA, USA",
+   "posted_at": "2026-11-19",
+   "role": "supply-chain",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "mid",
+   "title": "Founding Supply Chain",
+   "url": "https://www.linkedin.com/jobs/view/4492271623"
+  },
   "pocket-yc-w26:ef9d7da2a639": {
    "company": "Pocket (YC W26)",
    "first_seen": "2026-11-14",
@@ -101802,6 +101984,19 @@
    "tier": "mid",
    "title": "Operations Planning Specialist",
    "url": "https://www.linkedin.com/jobs/view/4469737526"
+  },
+  "qcells-north-america:884ccc9c508e": {
+   "company": "Qcells North America",
+   "first_seen": "2026-11-19",
+   "location": "San Francisco, CA, USA",
+   "posted_at": "2026-11-19",
+   "role": "demand-planning",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "mid",
+   "title": "Demand Planner (Korean Bilingual)",
+   "url": "https://www.linkedin.com/jobs/view/4492159289"
   },
   "qcells-north-america:fa1400ac27bf": {
    "company": "Qcells North America",
@@ -114895,6 +115090,18 @@
    "title": "Global Logistics Lead (Dangerous Goods)",
    "url": "https://boards.greenhouse.io/spacex/jobs/8698647002?gh_jid=8698647002"
   },
+  "spacex:524a2732b687": {
+   "company": "SpaceX",
+   "first_seen": "2026-11-19",
+   "location": "Redmond, WA",
+   "posted_at": "2026-11-19",
+   "role": "supply-chain",
+   "source": "greenhouse",
+   "status": "new",
+   "tier": "mid",
+   "title": "Operations Engineer, Supply Chain (Starlink)",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8940404002?gh_jid=8940404002"
+  },
   "spacex:5417ebfa6c9a": {
    "company": "SpaceX",
    "first_seen": "2026-09-08",
@@ -115296,6 +115503,18 @@
    "tier": "mid",
    "title": "Sr. Supply Chain Planner (Starship)",
    "url": "https://www.linkedin.com/jobs/view/4475859681"
+  },
+  "spacex:7bb96a74eadd": {
+   "company": "SpaceX",
+   "first_seen": "2026-11-19",
+   "location": "Bastrop, TX",
+   "posted_at": "2026-11-19",
+   "role": "supply-chain",
+   "source": "greenhouse",
+   "status": "new",
+   "tier": "mid",
+   "title": "Operations Engineer, Supply Chain (Starlink)",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8940419002?gh_jid=8940419002"
   },
   "spacex:7db2bbf1549f": {
    "company": "SpaceX",
@@ -136204,6 +136423,21 @@
    "title": "(USA) Manager II, Quality Engineer - Supply Chain",
    "url": "https://careers.walmart.com/us/en/job/R-2614860"
   },
+  "walmart-global-tech:3b53ad812589": {
+   "comp": "$90,000 - $180,000 Annual",
+   "company": "Walmart Global Tech",
+   "department": "Supply Chain and Transportation",
+   "employment_type": "Full time",
+   "first_seen": "2026-11-19",
+   "location": "Bentonville, AR",
+   "posted_at": "2026-11-19",
+   "role": "supply-chain",
+   "source": "walmart careers",
+   "status": "new",
+   "tier": "manager",
+   "title": "Senior Manager, Supply Chain Management - Grocery Network Health & Recovery",
+   "url": "https://careers.walmart.com/us/en/job/R-2664542"
+  },
   "walmart-global-tech:3c987f7f809c": {
    "comp": "$70,000 - $130,000 Annual",
    "company": "Walmart Global Tech",
@@ -136279,6 +136513,22 @@
    "title": "Manager II, Process Engineer - Supply Chain",
    "url": "https://careers.walmart.com/us/en/job/R-2605772",
    "yoe": 4
+  },
+  "walmart-global-tech:3f02f8fee7fe": {
+   "comp": "$143,000 - $286,000 Annual",
+   "company": "Walmart Global Tech",
+   "department": "Corporate",
+   "employment_type": "Full time",
+   "first_seen": "2026-11-19",
+   "location": "Sunnyvale, CA",
+   "posted_at": "2026-11-19",
+   "role": "merch-planning",
+   "source": "walmart careers",
+   "status": "new",
+   "tier": "manager",
+   "title": "Staff Product Manager (Supply Chain and Merchandising) | Sunnyvale",
+   "url": "https://careers.walmart.com/us/en/job/R-2715873",
+   "yoe": 8
   },
   "walmart-global-tech:3f107c270d09": {
    "comp": "$128,000 - $192,000 Annual",
@@ -137230,6 +137480,21 @@
    "tier": "manager",
    "title": "Manager II, Quality Engineer - Supply Chain",
    "url": "https://careers.walmart.com/us/en/job/R-2709126"
+  },
+  "walmart-global-tech:79aa49fbf7e0": {
+   "comp": "$90,000 - $180,000 Annual",
+   "company": "Walmart Global Tech",
+   "department": "Supply Chain and Transportation",
+   "employment_type": "Full time",
+   "first_seen": "2026-11-19",
+   "location": "Bentonville, AR",
+   "posted_at": "2026-11-19",
+   "role": "supply-chain",
+   "source": "walmart careers",
+   "status": "new",
+   "tier": "manager",
+   "title": "Senior Manager, Supply Chain Management - Learning Platforms & Data Governance",
+   "url": "https://careers.walmart.com/us/en/job/R-2712899"
   },
   "walmart-global-tech:7a67bbe81acc": {
    "comp": "$80,000 - $120,000 Annual",
@@ -143267,6 +143532,19 @@
    "title": "Procurement Operations Analyst",
    "url": "https://www.linkedin.com/jobs/view/4454360040"
   },
+  "zt-systems:14cf2b91222c": {
+   "company": "ZT Systems",
+   "first_seen": "2026-11-19",
+   "location": "Secaucus, NJ, USA",
+   "posted_at": "2026-11-19",
+   "role": "demand-planning",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "mid",
+   "title": "Senior Staff Supply Demand Analyst",
+   "url": "https://www.linkedin.com/jobs/view/4492195123"
+  },
   "zt-systems:410ca2cfed3a": {
    "company": "ZT Systems",
    "first_seen": "2026-10-02",
@@ -143493,17 +143771,17 @@
   },
   "Abbott": {
    "best": 535,
-   "last": 100,
+   "last": 0,
    "last_ok": "2026-11-19"
   },
   "Airbnb": {
    "best": 218,
-   "last": 197,
+   "last": 201,
    "last_ok": "2026-11-19"
   },
   "Amazon": {
    "best": 74,
-   "last": 68,
+   "last": 71,
    "last_ok": "2026-11-19"
   },
   "Anduril": {
@@ -143513,12 +143791,12 @@
   },
   "Applied Materials": {
    "best": 470,
-   "last": 111,
+   "last": 0,
    "last_ok": "2026-11-19"
   },
   "Astranis": {
    "best": 189,
-   "last": 181,
+   "last": 175,
    "last_ok": "2026-11-19"
   },
   "Becton Dickinson": {
@@ -143533,12 +143811,12 @@
   },
   "CVS Health": {
    "best": 356,
-   "last": 0,
-   "last_ok": "2026-11-17"
+   "last": 19,
+   "last_ok": "2026-11-19"
   },
   "Carvana": {
    "best": 1843,
-   "last": 1665,
+   "last": 1618,
    "last_ok": "2026-11-19"
   },
   "Coinbase": {
@@ -143548,32 +143826,32 @@
   },
   "Databricks": {
    "best": 927,
-   "last": 905,
+   "last": 900,
    "last_ok": "2026-11-19"
   },
   "DoorDash": {
    "best": 468,
-   "last": 418,
+   "last": 414,
    "last_ok": "2026-11-19"
   },
   "Duolingo": {
    "best": 89,
-   "last": 54,
+   "last": 55,
    "last_ok": "2026-11-19"
   },
   "Faire": {
    "best": 82,
-   "last": 71,
+   "last": 73,
    "last_ok": "2026-11-19"
   },
   "Flexport": {
    "best": 211,
-   "last": 207,
+   "last": 208,
    "last_ok": "2026-11-19"
   },
   "Formlabs": {
-   "best": 276,
-   "last": 276,
+   "best": 277,
+   "last": 277,
    "last_ok": "2026-11-19"
   },
   "General Mills": {
@@ -143583,7 +143861,7 @@
   },
   "Glossier": {
    "best": 29,
-   "last": 18,
+   "last": 17,
    "last_ok": "2026-11-19"
   },
   "Google": {
@@ -143593,7 +143871,7 @@
   },
   "Gusto": {
    "best": 104,
-   "last": 82,
+   "last": 83,
    "last_ok": "2026-11-19"
   },
   "Illumina": {
@@ -143613,7 +143891,7 @@
   },
   "LinkedIn (JobSpy)": {
    "best": 738,
-   "last": 184,
+   "last": 173,
    "last_ok": "2026-11-19"
   },
   "Liquid Death": {
@@ -143623,12 +143901,12 @@
   },
   "Lucid Motors": {
    "best": 491,
-   "last": 473,
+   "last": 474,
    "last_ok": "2026-11-19"
   },
   "Lyft": {
    "best": 196,
-   "last": 147,
+   "last": 144,
    "last_ok": "2026-11-19"
   },
   "Medtronic": {
@@ -143638,22 +143916,22 @@
   },
   "Micron": {
    "best": 323,
-   "last": 11,
+   "last": 0,
    "last_ok": "2026-11-19"
   },
   "Misfits Market": {
    "best": 96,
-   "last": 67,
+   "last": 62,
    "last_ok": "2026-11-19"
   },
   "Mondelez": {
    "best": 463,
-   "last": 458,
+   "last": 457,
    "last_ok": "2026-11-19"
   },
   "Nike": {
    "best": 182,
-   "last": 14,
+   "last": 40,
    "last_ok": "2026-11-19"
   },
   "Nuro": {
@@ -143663,7 +143941,7 @@
   },
   "Nvidia": {
    "best": 310,
-   "last": 20,
+   "last": 0,
    "last_ok": "2026-11-19"
   },
   "Olipop": {
@@ -143672,8 +143950,8 @@
    "last_ok": "2026-11-19"
   },
   "OpenAI": {
-   "best": 840,
-   "last": 833,
+   "best": 843,
+   "last": 843,
    "last_ok": "2026-11-19"
   },
   "Oura": {
@@ -143683,37 +143961,37 @@
   },
   "Peloton": {
    "best": 61,
-   "last": 37,
+   "last": 36,
    "last_ok": "2026-11-19"
   },
   "PepsiCo": {
    "best": 319,
-   "last": 209,
+   "last": 204,
    "last_ok": "2026-11-19"
   },
   "Pinterest": {
    "best": 188,
-   "last": 172,
+   "last": 174,
    "last_ok": "2026-11-19"
   },
   "Samsara": {
    "best": 340,
-   "last": 311,
+   "last": 305,
    "last_ok": "2026-11-19"
   },
   "Saronic": {
-   "best": 285,
-   "last": 285,
+   "best": 287,
+   "last": 287,
    "last_ok": "2026-11-19"
   },
   "SpaceX": {
    "best": 2911,
-   "last": 2803,
+   "last": 2764,
    "last_ok": "2026-11-19"
   },
   "Stripe": {
    "best": 793,
-   "last": 780,
+   "last": 771,
    "last_ok": "2026-11-19"
   },
   "Stryker": {
@@ -143723,7 +144001,7 @@
   },
   "Target": {
    "best": 445,
-   "last": 27,
+   "last": 0,
    "last_ok": "2026-11-19"
   },
   "Thrive Market": {
@@ -143743,25 +144021,25 @@
   },
   "Verkada": {
    "best": 348,
-   "last": 348,
+   "last": 347,
    "last_ok": "2026-11-19"
   },
   "Walmart Global Tech": {
    "best": 268,
-   "last": 231,
+   "last": 212,
    "last_ok": "2026-11-19"
   },
   "Waymo": {
    "best": 382,
-   "last": 374,
+   "last": 370,
    "last_ok": "2026-11-19"
   },
   "Zebra Technologies": {
    "best": 125,
-   "last": 6,
+   "last": 0,
    "last_ok": "2026-11-19"
   }
  },
- "updated": "2026-11-19T12:52:09Z",
+ "updated": "2026-11-19T22:10:23Z",
  "version": 1
 }
