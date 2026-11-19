@@ -10629,7 +10629,7 @@
   },
   "amazon-web-services-aws:221233c6c869": {
    "company": "Amazon Web Services (AWS)",
-   "employer_checked": "2026-11-12",
+   "employer_checked": "2026-11-19",
    "first_seen": "2026-11-05",
    "location": "Herndon, VA, USA",
    "posted_at": "2026-11-05",
@@ -22405,6 +22405,7 @@
   },
   "amazon:9a4202e12b96": {
    "company": "Amazon",
+   "employer_checked": "2026-11-19",
    "first_seen": "2026-11-18",
    "location": "North Reading, MA, USA",
    "posted_at": "2026-11-18",
@@ -27377,6 +27378,8 @@
   },
   "amazon:e316a733faa0": {
    "company": "Amazon",
+   "employer_checked": "2026-11-19",
+   "employer_url": "https://www.amazon.jobs/en/jobs/10607764/software-development-engineer-robotics-2027",
    "first_seen": "2026-11-18",
    "location": "Austin, TX, USA",
    "posted_at": "2026-11-18",
@@ -61593,6 +61596,8 @@
   },
   "bank-of-america:7a3d3a5a97b1": {
    "company": "Bank of America",
+   "employer_checked": "2026-11-19",
+   "employer_url": "https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/Charlotte/Infrastructure-Developer_26042491",
    "first_seen": "2026-11-17",
    "location": "Charlotte, NC, USA",
    "posted_at": "2026-11-16",
@@ -61635,6 +61640,8 @@
   },
   "bank-of-america:c27065775cbf": {
    "company": "Bank of America",
+   "employer_checked": "2026-11-19",
+   "employer_url": "https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/Charlotte/Infrastructure-Developer_26042491",
    "first_seen": "2026-11-17",
    "location": "Plano, TX, USA",
    "posted_at": "2026-11-16",
@@ -96248,6 +96255,8 @@
   },
   "carnegie-mellon-university:0ffeca1933e2": {
    "company": "Carnegie Mellon University",
+   "employer_checked": "2026-11-19",
+   "employer_url": "https://cmu.wd115.myworkdayjobs.com/en-US/SEI/job/Pittsburgh-PA/Machine-Learning-Engineer_2025249-1",
    "first_seen": "2026-10-27",
    "location": "Pittsburgh, PA, USA",
    "posted_at": "2026-10-27",
@@ -96273,6 +96282,8 @@
   },
   "carnegie-mellon-university:bf20626176c9": {
    "company": "Carnegie Mellon University",
+   "employer_checked": "2026-11-19",
+   "employer_url": "https://cmu.wd115.myworkdayjobs.com/en-US/SEI/job/Pittsburgh-PA/Full-Stack-Software-Development-Intern_2025287-2",
    "first_seen": "2026-10-31",
    "location": "Pittsburgh, PA, USA",
    "posted_at": "2026-10-30",
@@ -103591,7 +103602,7 @@
   },
   "citi:7e17f7da8b90": {
    "company": "Citi",
-   "employer_checked": "2026-11-12",
+   "employer_checked": "2026-11-19",
    "first_seen": "2026-10-28",
    "location": "Jersey City, NJ, USA",
    "posted_at": "2026-10-28",
@@ -123549,7 +123560,7 @@
   },
   "draper:01ec28964204": {
    "company": "Draper",
-   "employer_checked": "2026-11-12",
+   "employer_checked": "2026-11-19",
    "first_seen": "2026-11-04",
    "location": "Greater Boston",
    "posted_at": "2026-11-04",
@@ -136945,7 +136956,7 @@
   },
   "fidelity-investments:f0f40096fb1c": {
    "company": "Fidelity Investments",
-   "employer_checked": "2026-11-12",
+   "employer_checked": "2026-11-19",
    "first_seen": "2026-11-04",
    "location": "Boston, MA, USA",
    "posted_at": "2026-11-04",
@@ -141112,7 +141123,7 @@
   },
   "freedom-technology-solutions-group-llc:cc15a4693a1d": {
    "company": "Freedom Technology Solutions Group, LLC",
-   "employer_checked": "2026-11-12",
+   "employer_checked": "2026-11-19",
    "first_seen": "2026-10-28",
    "location": "Springfield, VA, USA",
    "posted_at": "2026-10-28",
@@ -156280,7 +156291,7 @@
   },
   "google:c0ce1d6939b7": {
    "company": "Google",
-   "employer_checked": "2026-11-12",
+   "employer_checked": "2026-11-19",
    "first_seen": "2026-11-04",
    "location": "Sunnyvale, CA, USA",
    "posted_at": "2026-11-04",
@@ -159111,7 +159122,7 @@
   },
   "guidehouse:2450a2ec0d63": {
    "company": "Guidehouse",
-   "employer_checked": "2026-11-11",
+   "employer_checked": "2026-11-19",
    "first_seen": "2026-10-23",
    "location": "Chicago, IL, USA",
    "posted_at": "2026-10-23",
@@ -166363,7 +166374,7 @@
   },
   "honeywell-aerospace:1799348cd8ea": {
    "company": "Honeywell Aerospace",
-   "employer_checked": "2026-11-12",
+   "employer_checked": "2026-11-19",
    "first_seen": "2026-10-29",
    "location": "Phoenix, AZ, USA",
    "posted_at": "2026-10-29",
@@ -167430,7 +167441,7 @@
   },
   "hp:7ac6289f6514": {
    "company": "HP",
-   "employer_checked": "2026-11-12",
+   "employer_checked": "2026-11-19",
    "first_seen": "2026-10-27",
    "location": "Spring, TX, USA",
    "posted_at": "2026-10-26",
@@ -167472,7 +167483,7 @@
   },
   "hp:a43c02b507aa": {
    "company": "HP",
-   "employer_checked": "2026-11-11",
+   "employer_checked": "2026-11-19",
    "first_seen": "2026-11-04",
    "location": "San Francisco, CA, USA",
    "posted_at": "2026-11-04",
@@ -188087,7 +188098,7 @@
   },
   "jpmorganchase:676b74774a8a": {
    "company": "JPMorganChase",
-   "employer_checked": "2026-11-12",
+   "employer_checked": "2026-11-19",
    "first_seen": "2026-10-20",
    "location": "Houston, TX, USA",
    "posted_at": "2026-10-20",
@@ -205654,7 +205665,7 @@
   },
   "microchip-technology-inc:ab9601d584d0": {
    "company": "Microchip Technology Inc.",
-   "employer_checked": "2026-11-12",
+   "employer_checked": "2026-11-19",
    "first_seen": "2026-11-05",
    "location": "San Jose, CA, USA",
    "posted_at": "2026-11-05",
@@ -240401,6 +240412,8 @@
   },
   "perpay-inc:0758b417a10e": {
    "company": "Perpay Inc.",
+   "employer_checked": "2026-11-19",
+   "employer_url": "https://job-boards.greenhouse.io/perpay/jobs/4076988007",
    "first_seen": "2026-11-19",
    "location": "Philadelphia, PA, USA",
    "posted_at": "2026-11-19",
@@ -259327,7 +259340,7 @@
   },
   "rtx:54e32c10bc05": {
    "company": "RTX",
-   "employer_checked": "2026-11-11",
+   "employer_checked": "2026-11-19",
    "first_seen": "2026-11-10",
    "location": "Concord, NH, USA",
    "posted_at": "2026-11-10",
@@ -271253,7 +271266,7 @@
   },
   "sierra-space:0777bd4c3d0f": {
    "company": "Sierra Space",
-   "employer_checked": "2026-11-11",
+   "employer_checked": "2026-11-19",
    "first_seen": "2026-10-22",
    "location": "Louisville, CO, USA",
    "posted_at": "2026-10-21",
@@ -290705,6 +290718,7 @@
   },
   "symbotic:6ee645a4ee1f": {
    "company": "Symbotic",
+   "employer_checked": "2026-11-19",
    "first_seen": "2026-11-17",
    "location": "Wilmington, MA, USA",
    "posted_at": "2026-11-16",
@@ -301272,7 +301286,7 @@
   },
   "thermo-fisher-scientific:63f08534f6df": {
    "company": "Thermo Fisher Scientific",
-   "employer_checked": "2026-11-11",
+   "employer_checked": "2026-11-19",
    "first_seen": "2026-10-23",
    "location": "Pittsburgh, PA, USA",
    "posted_at": "2026-10-23",
@@ -301560,7 +301574,7 @@
   },
   "thrive-market:075408af4a0d": {
    "company": "Thrive Market",
-   "employer_checked": "2026-11-12",
+   "employer_checked": "2026-11-19",
    "first_seen": "2026-10-20",
    "location": "Los Angeles, CA, USA",
    "posted_at": "2026-10-20",
@@ -313327,6 +313341,8 @@
   },
   "u-s-bank:a44041f4c152": {
    "company": "U.S. Bank",
+   "employer_checked": "2026-11-19",
+   "employer_url": "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Atlanta-GA/Associate-Software-Engineer--Back-end-Distributed-systems-_2026-0034153",
    "first_seen": "2026-11-17",
    "location": "Atlanta, GA, USA",
    "posted_at": "2026-11-17",
@@ -313773,6 +313789,7 @@
   },
   "uline:68745730d3cc": {
    "company": "Uline",
+   "employer_checked": "2026-11-19",
    "first_seen": "2026-11-15",
    "location": "Milwaukee, WI, USA",
    "posted_at": "2026-11-13",
@@ -334557,6 +334574,6 @@
    "last_ok": "2026-11-19"
   }
  },
- "updated": "2026-11-19T10:37:58Z",
+ "updated": "2026-11-19T11:36:50Z",
  "version": 1
 }
