@@ -4337,7 +4337,7 @@
   },
   "alarm-com:7782b52cdb56": {
    "company": "Alarm.com",
-   "employer_checked": "2026-11-12",
+   "employer_checked": "2026-11-19",
    "first_seen": "2026-11-04",
    "location": "Tysons Corner, VA, USA",
    "posted_at": "2026-11-04",
@@ -28052,6 +28052,8 @@
   },
   "capital-one:134e894e64c5": {
    "company": "Capital One",
+   "employer_checked": "2026-11-19",
+   "employer_url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Sr-Associate-Analyst--Capital-Markets---Risk--Stress-Test-Forecasting-_R1005918-1",
    "first_seen": "2026-11-17",
    "location": "Richmond, VA, USA",
    "posted_at": "2026-11-17",
@@ -32826,7 +32828,7 @@
   },
   "cisco:76b00e4a9680": {
    "company": "Cisco",
-   "employer_checked": "2026-11-11",
+   "employer_checked": "2026-11-19",
    "first_seen": "2026-10-20",
    "location": "Triangle, NC, USA",
    "posted_at": "2026-10-20",
@@ -37332,6 +37334,8 @@
   },
   "cummins-inc:31186dcf0294": {
    "company": "Cummins Inc.",
+   "employer_checked": "2026-11-19",
+   "employer_url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2440941",
    "first_seen": "2026-11-19",
    "location": "Galesburg, MI, USA",
    "posted_at": "2026-11-18",
@@ -61023,7 +61027,7 @@
   },
   "honeywell-aerospace:4b5c7631e2b0": {
    "company": "Honeywell Aerospace",
-   "employer_checked": "2026-11-12",
+   "employer_checked": "2026-11-19",
    "first_seen": "2026-11-04",
    "location": "Minneapolis, MN, USA",
    "posted_at": "2026-11-04",
@@ -61165,6 +61169,7 @@
   },
   "honeywell-aerospace:dc238b3e06be": {
    "company": "Honeywell Aerospace",
+   "employer_checked": "2026-11-19",
    "first_seen": "2026-11-18",
    "location": "Rocky Mount, NC, USA",
    "posted_at": "2026-11-18",
@@ -87283,7 +87288,7 @@
   },
   "nbcuniversal:bf3cd76fc677": {
    "company": "NBCUniversal",
-   "employer_checked": "2026-11-12",
+   "employer_checked": "2026-11-19",
    "first_seen": "2026-11-09",
    "location": "Stamford, CT, USA",
    "posted_at": "2026-11-09",
@@ -94136,7 +94141,7 @@
   },
   "oracle:2cc58679e023": {
    "company": "Oracle",
-   "employer_checked": "2026-11-12",
+   "employer_checked": "2026-11-19",
    "first_seen": "2026-11-12",
    "location": "Seattle, WA, USA",
    "posted_at": "2026-11-12",
@@ -119802,7 +119807,7 @@
   },
   "symbotic:da4a44fd7308": {
    "company": "Symbotic",
-   "employer_checked": "2026-11-12",
+   "employer_checked": "2026-11-19",
    "first_seen": "2026-11-09",
    "location": "Wilmington, MA, USA",
    "posted_at": "2026-11-09",
@@ -120260,7 +120265,7 @@
   },
   "t-mobile:dd0dfba07e80": {
    "company": "T-Mobile",
-   "employer_checked": "2026-11-11",
+   "employer_checked": "2026-11-19",
    "first_seen": "2026-10-21",
    "location": "Bellevue, WA, USA",
    "posted_at": "2026-10-21",
@@ -134806,6 +134811,7 @@
   },
   "voyager-technologies:25921bf5f4e0": {
    "company": "Voyager Technologies",
+   "employer_checked": "2026-11-19",
    "first_seen": "2026-11-19",
    "location": "Pittsburgh, PA, USA",
    "posted_at": "2026-11-17",
@@ -134819,6 +134825,8 @@
   },
   "voyager-technologies:73ca501ebe70": {
    "company": "Voyager Technologies",
+   "employer_checked": "2026-11-19",
+   "employer_url": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4480863009",
    "first_seen": "2026-11-19",
    "location": "Pittsburgh, PA, USA",
    "posted_at": "2026-11-17",
@@ -143670,6 +143678,6 @@
    "last_ok": "2026-11-18"
   }
  },
- "updated": "2026-11-19T03:16:29Z",
+ "updated": "2026-11-19T11:32:23Z",
  "version": 1
 }
