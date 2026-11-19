@@ -1153,6 +1153,18 @@
    "title": "Senior Application Analyst - SAP IBP",
    "url": "https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/United-States---Wisconsin---Madison/Senior-Application-Analyst---SAP-IBP_35000189-2"
   },
+  "abbott:4452f623260d": {
+   "company": "Abbott",
+   "first_seen": "2026-11-19",
+   "location": "United States - Illinois - Abbott Park",
+   "posted_at": "2026-11-17",
+   "role": "supply-planning",
+   "source": "workday",
+   "status": "new",
+   "tier": "entry",
+   "title": "Associate 2 Material Planning",
+   "url": "https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/United-States---Illinois---Abbott-Park/Associate-2-Material-Planning_31167468-1"
+  },
   "abbott:46bdabed0ebb": {
    "company": "Abbott",
    "first_seen": "2026-09-18",
@@ -12932,6 +12944,18 @@
    "title": "Master Scheduler IV",
    "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Master-Scheduler-IV_R2628070"
   },
+  "applied-materials:56f94c7f9bd5": {
+   "company": "Applied Materials",
+   "first_seen": "2026-11-19",
+   "location": "Austin,TX",
+   "posted_at": "2026-11-18",
+   "role": "supply-chain",
+   "source": "workday",
+   "status": "new",
+   "tier": "manager",
+   "title": "Manager III, Planner - (M3)",
+   "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Manager-III--Planner----M3-_R2632979"
+  },
   "applied-materials:57d4314481f9": {
    "company": "Applied Materials",
    "first_seen": "2026-10-13",
@@ -13491,6 +13515,18 @@
    "title": "Purchasing Manager III (M3)",
    "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/BeniciaCA/Purchasing-Manager-III--M3-_R2624923"
   },
+  "applied-materials:af608a051d84": {
+   "company": "Applied Materials",
+   "first_seen": "2026-11-19",
+   "location": "Austin,TX",
+   "posted_at": "2026-11-18",
+   "role": "supply-chain",
+   "source": "workday",
+   "status": "new",
+   "tier": "mid",
+   "title": "Product Configuration Engineer - Supply chain",
+   "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Product-Configuration-Engineer---Supply-chain_R2633176"
+  },
   "applied-materials:b1369f9ec11d": {
    "company": "Applied Materials",
    "employer_url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/BeniciaCA/Materials-Planner-II_R2628335",
@@ -13821,6 +13857,18 @@
    "title": "Senior Manager, Supply Chain Data Science & AI Operationalization",
    "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Senior-Manager--Supply-Chain-Data-Science---AI-Operationalization_R2626411-1"
   },
+  "applied-materials:e56dbc4ef773": {
+   "company": "Applied Materials",
+   "first_seen": "2026-11-19",
+   "location": "Austin,TX",
+   "posted_at": "2026-11-18",
+   "role": "supply-chain",
+   "source": "workday",
+   "status": "new",
+   "tier": "manager",
+   "title": "1802125 Manager IV, Materials Management",
+   "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/XMLNAME-1802125-Manager-IV--Materials-Management_R2633686-1"
+  },
   "applied-materials:e6b8dfa8f9e3": {
    "company": "Applied Materials",
    "first_seen": "2026-09-30",
@@ -14001,6 +14049,18 @@
    "tier": "intern",
    "title": "Summer 2027 Buyer Intern- Advanced Materials Sourcing- Bachelor's (Austin, TX)",
    "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Summer-2027-Buyer-Intern--Advanced-Materials-Sourcing--Bachelor-s--Austin--TX-_R2631583-1"
+  },
+  "applied-materials:fb2a4ceb80d3": {
+   "company": "Applied Materials",
+   "first_seen": "2026-11-19",
+   "location": "Austin,TX",
+   "posted_at": "2026-11-16",
+   "role": "procurement",
+   "source": "workday",
+   "status": "new",
+   "tier": "mid",
+   "title": "Buyer IV- (B4)",
+   "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Buyer-IV---B4-_R2633072"
   },
   "applied-materials:fd869034b611": {
    "company": "Applied Materials",
@@ -55971,6 +56031,17 @@
    "tier": "manager",
    "title": "Technical Program Manager, Supply Strategy and Portfolio Planning",
    "url": "https://www.google.com/about/careers/applications/jobs/results/82283905318560454-technical-program-manager-supply-strategy-and-portfolio-planning"
+  },
+  "google:ed3c5595852d": {
+   "company": "Google",
+   "first_seen": "2026-11-19",
+   "location": "Atlanta, GA, USA; Chicago, IL, USA; +3 more; +2 more",
+   "role": "logistics",
+   "source": "google careers",
+   "status": "new",
+   "tier": "manager",
+   "title": "Senior Program Manager, Logistics Network Design",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/97807390031651526-senior-program-manager-logistics-network-design"
   },
   "google:eda22b976cba": {
    "company": "Google",
@@ -105420,6 +105491,19 @@
    "title": "Material Planner, Service Parts",
    "url": "https://www.linkedin.com/jobs/view/4466853496"
   },
+  "rivian:8732f7e09ede": {
+   "company": "Rivian",
+   "first_seen": "2026-11-19",
+   "location": "Normal, IL, USA",
+   "posted_at": "2026-11-19",
+   "role": "supply-planning",
+   "soft_dedupe": true,
+   "source": "jobspy-linkedin",
+   "status": "new",
+   "tier": "mid",
+   "title": "Material Planning Analyst (Third Shift)",
+   "url": "https://www.linkedin.com/jobs/view/4483841539"
+  },
   "rivian:aa9f2fe63497": {
    "checked_at": "2026-10-02",
    "company": "Rivian",
@@ -143409,8 +143493,8 @@
   },
   "Abbott": {
    "best": 535,
-   "last": 0,
-   "last_ok": "2026-11-16"
+   "last": 100,
+   "last_ok": "2026-11-19"
   },
   "Airbnb": {
    "best": 218,
@@ -143424,13 +143508,13 @@
   },
   "Anduril": {
    "best": 2627,
-   "last": 2621,
+   "last": 2619,
    "last_ok": "2026-11-19"
   },
   "Applied Materials": {
    "best": 470,
-   "last": 0,
-   "last_ok": "2026-11-18"
+   "last": 111,
+   "last_ok": "2026-11-19"
   },
   "Astranis": {
    "best": 189,
@@ -143454,7 +143538,7 @@
   },
   "Carvana": {
    "best": 1843,
-   "last": 1661,
+   "last": 1665,
    "last_ok": "2026-11-19"
   },
   "Coinbase": {
@@ -143464,17 +143548,17 @@
   },
   "Databricks": {
    "best": 927,
-   "last": 901,
+   "last": 905,
    "last_ok": "2026-11-19"
   },
   "DoorDash": {
    "best": 468,
-   "last": 417,
+   "last": 418,
    "last_ok": "2026-11-19"
   },
   "Duolingo": {
    "best": 89,
-   "last": 55,
+   "last": 54,
    "last_ok": "2026-11-19"
   },
   "Faire": {
@@ -143504,7 +143588,7 @@
   },
   "Google": {
    "best": 205,
-   "last": 176,
+   "last": 177,
    "last_ok": "2026-11-19"
   },
   "Gusto": {
@@ -143529,7 +143613,7 @@
   },
   "LinkedIn (JobSpy)": {
    "best": 738,
-   "last": 466,
+   "last": 184,
    "last_ok": "2026-11-19"
   },
   "Liquid Death": {
@@ -143539,12 +143623,12 @@
   },
   "Lucid Motors": {
    "best": 491,
-   "last": 477,
+   "last": 473,
    "last_ok": "2026-11-19"
   },
   "Lyft": {
    "best": 196,
-   "last": 149,
+   "last": 147,
    "last_ok": "2026-11-19"
   },
   "Medtronic": {
@@ -143554,8 +143638,8 @@
   },
   "Micron": {
    "best": 323,
-   "last": 0,
-   "last_ok": "2026-11-18"
+   "last": 11,
+   "last_ok": "2026-11-19"
   },
   "Misfits Market": {
    "best": 96,
@@ -143564,13 +143648,13 @@
   },
   "Mondelez": {
    "best": 463,
-   "last": 455,
+   "last": 458,
    "last_ok": "2026-11-19"
   },
   "Nike": {
    "best": 182,
-   "last": 0,
-   "last_ok": "2026-11-18"
+   "last": 14,
+   "last_ok": "2026-11-19"
   },
   "Nuro": {
    "best": 111,
@@ -143579,8 +143663,8 @@
   },
   "Nvidia": {
    "best": 310,
-   "last": 0,
-   "last_ok": "2026-11-16"
+   "last": 20,
+   "last_ok": "2026-11-19"
   },
   "Olipop": {
    "best": 14,
@@ -143589,7 +143673,7 @@
   },
   "OpenAI": {
    "best": 840,
-   "last": 834,
+   "last": 833,
    "last_ok": "2026-11-19"
   },
   "Oura": {
@@ -143604,7 +143688,7 @@
   },
   "PepsiCo": {
    "best": 319,
-   "last": 211,
+   "last": 209,
    "last_ok": "2026-11-19"
   },
   "Pinterest": {
@@ -143614,7 +143698,7 @@
   },
   "Samsara": {
    "best": 340,
-   "last": 310,
+   "last": 311,
    "last_ok": "2026-11-19"
   },
   "Saronic": {
@@ -143624,12 +143708,12 @@
   },
   "SpaceX": {
    "best": 2911,
-   "last": 2801,
+   "last": 2803,
    "last_ok": "2026-11-19"
   },
   "Stripe": {
    "best": 793,
-   "last": 785,
+   "last": 780,
    "last_ok": "2026-11-19"
   },
   "Stryker": {
@@ -143639,8 +143723,8 @@
   },
   "Target": {
    "best": 445,
-   "last": 0,
-   "last_ok": "2026-11-16"
+   "last": 27,
+   "last_ok": "2026-11-19"
   },
   "Thrive Market": {
    "best": 20,
@@ -143658,13 +143742,13 @@
    "last_ok": "2026-11-18"
   },
   "Verkada": {
-   "best": 347,
-   "last": 346,
+   "best": 348,
+   "last": 348,
    "last_ok": "2026-11-19"
   },
   "Walmart Global Tech": {
    "best": 268,
-   "last": 211,
+   "last": 231,
    "last_ok": "2026-11-19"
   },
   "Waymo": {
@@ -143674,10 +143758,10 @@
   },
   "Zebra Technologies": {
    "best": 125,
-   "last": 0,
-   "last_ok": "2026-11-18"
+   "last": 6,
+   "last_ok": "2026-11-19"
   }
  },
- "updated": "2026-11-19T11:32:23Z",
+ "updated": "2026-11-19T12:52:09Z",
  "version": 1
 }
