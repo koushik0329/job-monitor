@@ -11260,7 +11260,7 @@
   },
   "amazon-web-services-aws:7fabf167e7ef": {
    "company": "Amazon Web Services (AWS)",
-   "employer_checked": "2026-11-13",
+   "employer_checked": "2026-11-20",
    "first_seen": "2026-10-29",
    "location": "Boston, MA, USA",
    "posted_at": "2026-10-29",
@@ -27063,7 +27063,7 @@
   },
   "amazon:da78b9dde196": {
    "company": "Amazon",
-   "employer_checked": "2026-11-13",
+   "employer_checked": "2026-11-20",
    "first_seen": "2026-11-12",
    "location": "Redmond, WA, USA",
    "posted_at": "2026-11-12",
@@ -110907,7 +110907,7 @@
   },
   "cox-automotive-inc:21e5d12fc38a": {
    "company": "Cox Automotive Inc.",
-   "employer_checked": "2026-11-09",
+   "employer_checked": "2026-11-20",
    "first_seen": "2026-11-08",
    "location": "Atlanta, GA, USA",
    "posted_at": "2026-11-07",
@@ -110921,7 +110921,7 @@
   },
   "cox-automotive-inc:87b39797f0cc": {
    "company": "Cox Automotive Inc.",
-   "employer_checked": "2026-11-12",
+   "employer_checked": "2026-11-20",
    "first_seen": "2026-11-12",
    "location": "Atlanta, GA, USA",
    "posted_at": "2026-11-12",
@@ -147084,7 +147084,7 @@
   },
   "general-matter:27abcbb99f12": {
    "company": "General Matter",
-   "employer_checked": "2026-11-13",
+   "employer_checked": "2026-11-20",
    "first_seen": "2026-10-30",
    "location": "Los Angeles Metropolitan Area",
    "posted_at": "2026-10-29",
@@ -167221,7 +167221,7 @@
   },
   "honeywell-aerospace:3db8177a1800": {
    "company": "Honeywell Aerospace",
-   "employer_checked": "2026-11-13",
+   "employer_checked": "2026-11-20",
    "first_seen": "2026-11-05",
    "location": "Minneapolis, MN, USA",
    "posted_at": "2026-11-05",
@@ -189067,6 +189067,7 @@
   },
   "jpmorganchase:4e1bdc462c5f": {
    "company": "JPMorganChase",
+   "employer_checked": "2026-11-20",
    "first_seen": "2026-11-19",
    "location": "Plano, TX, USA",
    "posted_at": "2026-11-19",
@@ -190193,7 +190194,7 @@
   },
   "jpmorganchase:fc0e6fa96be8": {
    "company": "JPMorganChase",
-   "employer_checked": "2026-11-13",
+   "employer_checked": "2026-11-20",
    "first_seen": "2026-11-05",
    "location": "Tampa, FL, USA",
    "posted_at": "2026-11-03",
@@ -199535,7 +199536,7 @@
   },
   "lseg:0b7afa7c9d9c": {
    "company": "LSEG",
-   "employer_checked": "2026-11-10",
+   "employer_checked": "2026-11-20",
    "first_seen": "2026-11-03",
    "location": "St Louis, MO, USA",
    "posted_at": "2026-11-03",
@@ -200660,6 +200661,7 @@
   },
   "m-t-bank:2d33b0019a32": {
    "company": "M&T Bank",
+   "employer_checked": "2026-11-20",
    "first_seen": "2026-11-19",
    "location": "Wilmington, DE, USA",
    "posted_at": "2026-11-19",
@@ -322564,7 +322566,7 @@
   },
   "vital-lyfe:49aca68ceae8": {
    "company": "Vital Lyfe",
-   "employer_checked": "2026-11-13",
+   "employer_checked": "2026-11-20",
    "first_seen": "2026-11-12",
    "location": "Los Angeles Metropolitan Area",
    "posted_at": "2026-11-12",
@@ -336159,6 +336161,6 @@
    "last_ok": "2026-11-20"
   }
  },
- "updated": "2026-11-20T04:12:28Z",
+ "updated": "2026-11-20T11:29:03Z",
  "version": 1
 }
