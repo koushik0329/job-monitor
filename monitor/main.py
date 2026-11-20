@@ -44,9 +44,9 @@ def run_fetcher(company):
     fn = FETCHERS.get(company.get("fetcher", ""))
     if fn is None:
         print(f"  ! {name}: unknown fetcher '{company.get('fetcher')}' - skipped")
-        return []
+        return [], False, False
     terms = company.get("searches") or [company.get("search")]
-    jobs, seen, failures = [], set(), 0
+    jobs, seen, failures, successes = [], set(), 0, 0
     for i, term in enumerate(terms):
         pass_cfg = dict(company)
         if term:
@@ -59,7 +59,9 @@ def run_fetcher(company):
         if i:
             pass_cfg["skip_recent"] = True
         try:
-            for job in fn(pass_cfg):
+            fetched = fn(pass_cfg)
+            successes += 1
+            for job in fetched:
                 key = job.get("external_id") or job.get("url", "")
                 if key and key in seen:
                     continue
@@ -69,12 +71,12 @@ def run_fetcher(company):
             failures += 1
             label = f"{name} [{term}]" if term else name
             print(f"  ! {label}: FAILED - {e}")
-    if failures == len(terms):
-        return []
+    if successes == 0:
+        return [], False, False
     mark = "✓" if jobs else "∅"   # ∅ = reachable but returned nothing
     print(f"  {mark} {name}: {len(jobs)} raw postings"
           + (f" over {len(terms)} searches" if len(terms) > 1 else ""))
-    return jobs
+    return jobs, True, failures == 0
 
 
 def main():
@@ -103,11 +105,21 @@ def main():
 
     print(f"Scanning {len(companies)} sources "
           f"(profile={profile.key}, tier={args.tier})...")
-    raw, counts = [], []
+    raw, counts, failed_sources = [], {}, []
     with cf.ThreadPoolExecutor(max_workers=8) as ex:
-        for jobs in ex.map(run_fetcher, companies):
-            counts.append(len(jobs))
+        for company, result in zip(companies, ex.map(run_fetcher, companies)):
+            jobs, fetched_any, health_ok = result
             raw.extend(jobs)
+            name = company.get("name", company.get("fetcher", "?"))
+            if health_ok:
+                counts[name] = len(jobs)
+            else:
+                failed_sources.append(name)
+                if not fetched_any:
+                    print(f"  ! {name}: no successful search pass; source health unchanged")
+    if failed_sources:
+        print(f"WARNING: {len(failed_sources)} source(s) failed; preserving their "
+              "previous health records: " + ", ".join(failed_sources))
 
     in_scope = []
     for j in raw:

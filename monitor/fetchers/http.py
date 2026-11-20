@@ -1,6 +1,8 @@
 """Shared HTTP session, retry logic, and field-normalization helpers."""
+import email.utils
 import html
 import re
+import threading
 import time
 from datetime import datetime, timedelta, timezone
 
@@ -29,20 +31,41 @@ def get_text(s, url, retries=2, **kw):
     return _req(s, "GET", url, retries, parse=lambda r: r.text, **kw)
 
 
+def _retry_delay(response, attempt):
+    """Respect Retry-After (seconds or HTTP date), otherwise use capped backoff."""
+    value = response.headers.get("Retry-After") if response is not None else None
+    if value:
+        try:
+            return min(120.0, max(0.0, float(value)))
+        except ValueError:
+            try:
+                when = email.utils.parsedate_to_datetime(value)
+                return min(120.0, max(0.0, when.timestamp() - time.time()))
+            except (TypeError, ValueError, OverflowError):
+                pass
+    return min(60.0, 2.0 ** (attempt + 1))
+
+
 def _req(s, method, url, retries, parse=lambda r: r.json(), **kw):
     kw.setdefault("timeout", 30)
     last = None
+    retryable = (429, 500, 502, 503, 504)
     for attempt in range(retries + 1):
+        response = None
         try:
-            r = s.request(method, url, **kw)
-            if r.status_code in (429, 500, 502, 503) and attempt < retries:
-                time.sleep(2 * (attempt + 1))
-                continue
-            r.raise_for_status()
-            return parse(r)
-        except Exception as e:  # noqa: BLE001
-            last = e
-            time.sleep(1 + attempt)
+            response = s.request(method, url, **kw)
+            if response.status_code in retryable:
+                response.raise_for_status()
+            response.raise_for_status()
+            return parse(response)
+        except requests.RequestException as exc:
+            last = exc
+            status = getattr(getattr(exc, "response", None), "status_code", None)
+            is_retryable = status in retryable or isinstance(
+                exc, (requests.Timeout, requests.ConnectionError))
+            if not is_retryable or attempt >= retries:
+                raise
+            time.sleep(_retry_delay(getattr(exc, "response", None), attempt))
     raise last
 
 

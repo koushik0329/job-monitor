@@ -8,6 +8,8 @@ department, snippet}. Any enrichment field the ATS does not expose is "".
 Filtering happens later in filters.py.
 """
 import re
+import threading
+import time
 
 from .. import filters
 from .http import session, get_json, get_text, post_json, iso_date, rel_date, clean_text
@@ -257,14 +259,33 @@ def workday_country(external_path: str) -> str:
     return ""
 
 
+# Workday applies tenant-wide rate limits. Share a small request gate across
+# worker threads so a full scan does not burst every tenant simultaneously.
+_WD_GATE = threading.Semaphore(2)
+_WD_PACE_LOCK = threading.Lock()
+_WD_NEXT_REQUEST = 0.0
+
+
+def _workday_post(s, url, body):
+    global _WD_NEXT_REQUEST
+    with _WD_GATE:
+        with _WD_PACE_LOCK:
+            now = time.monotonic()
+            wait = max(0.0, _WD_NEXT_REQUEST - now)
+            _WD_NEXT_REQUEST = max(now, _WD_NEXT_REQUEST) + 0.75
+        if wait:
+            time.sleep(wait)
+        return post_json(s, url, json=body,
+                         headers={"Content-Type": "application/json"})
+
+
 def _workday_pass(s, url, c, search):
     """One paged sweep of a Workday board for a given search term."""
     out, offset, limit = [], 0, 20
     while offset < int(c.get("max_results", 100)):
         body = {"appliedFacets": c.get("facets", {}), "limit": limit,
                 "offset": offset, "searchText": search}
-        data = post_json(s, url, json=body,
-                         headers={"Content-Type": "application/json"})
+        data = _workday_post(s, url, body)
         posts = data.get("jobPostings", [])
         if not posts:
             break
