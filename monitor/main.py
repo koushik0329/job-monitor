@@ -44,7 +44,7 @@ def run_fetcher(company):
     fn = FETCHERS.get(company.get("fetcher", ""))
     if fn is None:
         print(f"  ! {name}: unknown fetcher '{company.get('fetcher')}' - skipped")
-        return [], False
+        return [], False, False
     terms = company.get("searches") or [company.get("search")]
     jobs, seen, failures, successes = [], set(), 0, 0
     for i, term in enumerate(terms):
@@ -72,11 +72,11 @@ def run_fetcher(company):
             label = f"{name} [{term}]" if term else name
             print(f"  ! {label}: FAILED - {e}")
     if successes == 0:
-        return [], False
+        return [], False, False
     mark = "✓" if jobs else "∅"   # ∅ = reachable but returned nothing
     print(f"  {mark} {name}: {len(jobs)} raw postings"
           + (f" over {len(terms)} searches" if len(terms) > 1 else ""))
-    return jobs, True
+    return jobs, True, failures == 0
 
 
 def main():
@@ -108,13 +108,15 @@ def main():
     raw, counts, failed_sources = [], {}, []
     with cf.ThreadPoolExecutor(max_workers=8) as ex:
         for company, result in zip(companies, ex.map(run_fetcher, companies)):
-            jobs, succeeded = result
+            jobs, fetched_any, health_ok = result
+            raw.extend(jobs)
             name = company.get("name", company.get("fetcher", "?"))
-            if succeeded:
+            if health_ok:
                 counts[name] = len(jobs)
-                raw.extend(jobs)
             else:
                 failed_sources.append(name)
+                if not fetched_any:
+                    print(f"  ! {name}: no successful search pass; source health unchanged")
     if failed_sources:
         print(f"WARNING: {len(failed_sources)} source(s) failed; preserving their "
               "previous health records: " + ", ".join(failed_sources))
