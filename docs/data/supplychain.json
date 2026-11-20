@@ -5791,7 +5791,7 @@
   },
   "amazon:91c4a5d5dafe": {
    "company": "Amazon",
-   "employer_checked": "2026-11-13",
+   "employer_checked": "2026-11-20",
    "first_seen": "2026-10-30",
    "location": "Nashville, TN, USA",
    "posted_at": "2026-10-29",
@@ -15810,7 +15810,7 @@
   },
   "asml:b288768d0f3f": {
    "company": "ASML",
-   "employer_checked": "2026-11-13",
+   "employer_checked": "2026-11-20",
    "first_seen": "2026-11-11",
    "location": "Phoenix, AZ, USA",
    "posted_at": "2026-11-11",
@@ -21718,6 +21718,7 @@
   },
   "blue-origin:c50611a414c9": {
    "company": "Blue Origin",
+   "employer_checked": "2026-11-20",
    "first_seen": "2026-11-17",
    "location": "Greater Seattle Area",
    "posted_at": "2026-11-17",
@@ -34416,6 +34417,8 @@
   },
   "collins-aerospace:4f241e56704f": {
    "company": "Collins Aerospace",
+   "employer_checked": "2026-11-20",
+   "employer_url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-TX-HALTOM-CITY-4630--4630-N-Beach-St--BEACH/Master-Scheduler--Onsite-_01889316",
    "first_seen": "2026-11-17",
    "location": "Haltom City, TX, USA",
    "posted_at": "2026-11-16",
@@ -51849,7 +51852,7 @@
   },
   "ge-vernova:1eff7eea4243": {
    "company": "GE Vernova",
-   "employer_checked": "2026-11-09",
+   "employer_checked": "2026-11-20",
    "first_seen": "2026-11-09",
    "location": "Findlay, PA, USA",
    "posted_at": "2026-11-07",
@@ -51863,6 +51866,8 @@
   },
   "ge-vernova:4a01b66af0ea": {
    "company": "GE Vernova",
+   "employer_checked": "2026-11-20",
+   "employer_url": "https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Greenville/GE-Vernova-Materials-Management-Internship---Summer-2027_R5058568-2",
    "first_seen": "2026-11-17",
    "location": "Greenville, SC, USA",
    "posted_at": "2026-11-14",
@@ -51962,6 +51967,7 @@
   },
   "ge-vernova:b15450ad6c53": {
    "company": "GE Vernova",
+   "employer_checked": "2026-11-20",
    "first_seen": "2026-11-17",
    "location": "Wilmington, NC, USA",
    "posted_at": "2026-11-16",
@@ -52467,7 +52473,7 @@
   },
   "general-dynamics-information-technology:a3ee2d20c385": {
    "company": "General Dynamics Information Technology",
-   "employer_checked": "2026-11-13",
+   "employer_checked": "2026-11-20",
    "first_seen": "2026-11-05",
    "location": "Sterling, VA, USA",
    "posted_at": "2026-11-05",
@@ -61116,7 +61122,7 @@
   },
   "honeywell-aerospace:06ccdae293a5": {
    "company": "Honeywell Aerospace",
-   "employer_checked": "2026-11-13",
+   "employer_checked": "2026-11-20",
    "first_seen": "2026-10-30",
    "location": "Phoenix, AZ, USA",
    "posted_at": "2026-10-30",
@@ -61144,7 +61150,7 @@
   },
   "honeywell-aerospace:19f301281fff": {
    "company": "Honeywell Aerospace",
-   "employer_checked": "2026-11-13",
+   "employer_checked": "2026-11-20",
    "first_seen": "2026-11-05",
    "location": "Torrance, CA, USA",
    "posted_at": "2026-11-05",
@@ -61371,6 +61377,7 @@
   },
   "honeywell-aerospace:df3293bf28a6": {
    "company": "Honeywell Aerospace",
+   "employer_checked": "2026-11-20",
    "first_seen": "2026-11-19",
    "location": "South Bend, IN, USA",
    "posted_at": "2026-11-19",
@@ -61510,7 +61517,7 @@
   },
   "honeywell-technologies:bc7636181ef3": {
    "company": "Honeywell Technologies",
-   "employer_checked": "2026-11-13",
+   "employer_checked": "2026-11-20",
    "first_seen": "2026-10-29",
    "location": "Rosemont, IL, USA",
    "posted_at": "2026-10-29",
@@ -67259,7 +67266,7 @@
   },
   "jabil:3cb1ee78ab14": {
    "company": "Jabil",
-   "employer_checked": "2026-11-11",
+   "employer_checked": "2026-11-20",
    "first_seen": "2026-10-27",
    "location": "St. Petersburg, FL, USA",
    "posted_at": "2026-10-27",
@@ -67363,7 +67370,7 @@
   },
   "jabil:69c41260e41e": {
    "company": "Jabil",
-   "employer_checked": "2026-11-13",
+   "employer_checked": "2026-11-20",
    "first_seen": "2026-11-12",
    "location": "Seminole, FL, USA",
    "posted_at": "2026-11-12",
@@ -96761,7 +96768,7 @@
   },
   "parsons-corporation:43940e2943b9": {
    "company": "Parsons Corporation",
-   "employer_checked": "2026-11-11",
+   "employer_checked": "2026-11-20",
    "first_seen": "2026-10-21",
    "location": "Washington, DC, USA",
    "posted_at": "2026-10-21",
@@ -112150,7 +112157,7 @@
   },
   "signet-jewelers:79a67b83943d": {
    "company": "Signet Jewelers",
-   "employer_checked": "2026-11-13",
+   "employer_checked": "2026-11-20",
    "first_seen": "2026-10-30",
    "location": "Greater Cleveland",
    "posted_at": "2026-10-30",
@@ -144040,6 +144047,6 @@
    "last_ok": "2026-11-19"
   }
  },
- "updated": "2026-11-19T22:10:23Z",
+ "updated": "2026-11-20T11:27:28Z",
  "version": 1
 }
